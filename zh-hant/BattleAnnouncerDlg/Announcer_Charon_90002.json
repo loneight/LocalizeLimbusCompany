@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": "announcer_ggomi_90002_1",
-      "dlg": "嗯……这种程度的人员还远远力有未逮。但丁。",
+      "dlg": "嗯……以這樣的兵力，應該是不夠的吧。但丁。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_2",
-      "dlg": "又增加了两名。嗯，努力一下吧。但丁。",
+      "dlg": "又來了兩個人嗎？嗯，請努力吧。但丁。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_3",
-      "dlg": "你最好让所有人都上，但丁。就算你没指挥过这么多人也……哈啊。",
+      "dlg": "你恐怕得把所有能動員的都叫來了，但丁。即使你從未指揮過這麼大的場面……哈啊。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_4",
-      "dlg": "真是万幸啊。卡戎不会去追击撤退的罪人。",
+      "dlg": "這不是很好嗎。卡戎不會追擊那些撤退的罪人。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_5",
-      "dlg": "哈啊。嘛，光是没有当场被她变成肉块就已经不错了。",
+      "dlg": "哈啊。好吧，至少你沒有當場變成肉塊，這就值得慶幸了。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_6",
-      "dlg": "啊。嘛……最好抓紧点什么东西以免飞走。",
+      "dlg": "啊。嗯……請抓緊了，別被甩出去。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_7",
-      "dlg": "真是一团糟啊……怎么样？被可米，干掉的感想。",
+      "dlg": "真是亂七八糟啊……怎麼樣？被可米打敗的感覺如何？",
       "imgStr": "charon_announcer",
       "isHide": true
     }
