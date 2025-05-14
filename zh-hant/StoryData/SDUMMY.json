@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": 0,
-      "place": "卡尔夫镇 广场",
+      "place": "卡爾夫鎮 廣場",
       "model": "이상",
-      "content": "此为伪文件。"
+      "content": "此為偽文件。"
     },
     {
       "id": 1,
       "model": "파우스트",
-      "content": "为什么会出现伪文件？"
+      "content": "為什麼會出現偽文件？"
     },
     {
       "id": 2,
       "model": "돈키호테",
-      "content": "因为此处没有故事文件！"
+      "content": "因為此處沒有故事文件！"
     }
   ]
 }
