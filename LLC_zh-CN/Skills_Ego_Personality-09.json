@@ -287,12 +287,12 @@
           "level": 3,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "目标每带有2级流血 强度，使本技能的硬币威力+1(最多+9)\n[StartBattle] 本回合使本技能主要目标的流血 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "目标每带有2级流血 强度，使本技能的硬币威力+1(最多+<style=\"highlight\">9</style>)\n[StartBattle] 本回合使本技能主要目标的流血 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于(其流血 强度×1.2)点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的流血 强度×1.5)点色欲伤害\n- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的流血 强度×1.8)点色欲伤害\n(本技能至多计入99级流血 强度)",
+                  "desc": "[OnSucceedAttack] 对目标造成相当于<style=\"highlight\">(其流血 强度×1.2)</style>点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的流血 强度×<style=\"highlight\">1.5</style>)点色欲伤害\n<style=\"highlight\">- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的流血 强度×1.8)点色欲伤害</style>\n(本技能至多计入99级流血 强度)",
                   "summary": "[OnSucceedAttack] 根据目标的流血 强度，相应对其造成色欲伤害"
                 },
                 {
@@ -307,12 +307,12 @@
           "level": 4,
           "name": "血欲",
           "abName": "红舞鞋",
-          "desc": "目标每带有2级流血 强度，使本技能的硬币威力+1(最多+13)\n[StartBattle] 本回合使本技能主要目标的流血 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
+          "desc": "目标每带有2级流血 强度，使本技能的硬币威力+1(最多+<style=\"highlight\">13</style>)\n[StartBattle] 本回合使本技能主要目标的流血 层数不会减少。\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标造成相当于(其流血 强度×1.5)点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的流血 强度×1.8)点色欲伤害\n- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的流血 强度×2)点色欲伤害\n(本技能至多计入99级流血 强度)",
+                  "desc": "[OnSucceedAttack] 对目标造成相当于(其流血 强度×<style=\"highlight\">1.5</style>)点色欲伤害\n- 若色欲共鸣数不低于4，则改为造成相当于(目标的流血 强度×<style=\"highlight\">1.8</style>)点色欲伤害\n- 若色欲完全共鸣数不低于4，则改为造成相当于(目标的流血 强度×<style=\"highlight\">2</style>)点色欲伤害\n(本技能至多计入99级流血 强度)",
                   "summary": "[OnSucceedAttack] 根据目标的流血 强度，相应对其造成色欲伤害"
                 },
                 {
@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加(3+色欲共鸣数)级流血 强度\n(最高计入色欲共鸣数：5)",
+                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">3</style>+色欲共鸣数)级流血 强度\n(最高计入色欲共鸣数：<style=\"highlight\">5</style>)",
                   "summary": "[OnSucceedAttack] 使目标增加(3+色欲共鸣数)级流血 强度"
                 },
                 {
@@ -372,11 +372,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加(4+色欲共鸣数)级流血 强度\n(最高计入色欲共鸣数：6)",
+                  "desc": "[OnSucceedAttack] 使目标增加(<style=\"highlight\">4</style>+色欲共鸣数)级流血 强度\n(最高计入色欲共鸣数：<style=\"highlight\">6</style>)",
                   "summary": "[OnSucceedAttack] 使目标增加(4+色欲共鸣数)级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层流血 "
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层流血 "
                 }
               ]
             }
@@ -416,22 +416,22 @@
           "level": 3,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限12.5%的体力\n- 受到恢复的单位每带有2种负面状态，使其额外恢复2.5%的体力(最多7.5%)",
+          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限12.5%的体力\n<style=\"highlight\">- 受到恢复的单位每带有2种负面状态，使其额外恢复2.5%的体力(最多7.5%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加2层尖钉 "
+                  "desc": "[OnSucceedAttackHead] 对目标施加2层尖钉 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -441,22 +441,22 @@
           "level": 4,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限15%的体力\n- 受到恢复的单位每带有1种负面状态，使其额外恢复2.5%的体力(最多10%)\n- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力",
+          "desc": "[EndSkill] 使自身与现存体力比例最低的2名友方单位恢复自身体力上限<style=\"highlight\">15%</style>的体力\n- 受到恢复的单位每带有<style=\"highlight\">1</style>种负面状态，使其额外恢复2.5%的体力(最多<style=\"highlight\">10%</style>)\n<style=\"highlight\">- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级流血 强度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 对目标施加3层尖钉 "
+                  "desc": "[OnSucceedAttackHead] 对目标施加<style=\"highlight\">3</style>层尖钉 "
                 }
               ]
             }
@@ -499,25 +499,25 @@
           "level": 3,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力\n- 受到恢复的单位每带有2种负面状态，下回合使其获得1层攻击等级提升 (最多2层)",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限15%的体力\n<style=\"highlight\">- 受到恢复的单位每带有2种负面状态，下回合使其获得1层攻击等级提升 (最多2层)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加3级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">3</style>级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层诅咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加2层尖钉 "
+                  "desc": "[OnSucceedAttackTail] 对目标施加2层尖钉 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -527,25 +527,25 @@
           "level": 4,
           "name": "诅咒之钉",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限20%的体力\n- 受到恢复的单位每带有1种负面状态，下回合使其获得1层攻击等级提升 (最多3层)\n- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力",
+          "desc": "[CantIdentify]\n随机指定目标\n[EndSkill] 使除自身以外现存体力比例最低的3名友方单位恢复自身体力上限<style=\"highlight\">20%</style>的体力\n- 受到恢复的单位每带有1种负面状态，下回合使其获得<style=\"highlight\">1</style>层攻击等级提升 (最多<style=\"highlight\">3</style>层)\n<style=\"highlight\">- 若包括本技能在内嫉妒共鸣数不低于4，则额外使1名友方单位恢复体力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加4级流血 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">4</style>级流血 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加2层流血 "
+                  "desc": "[OnSucceedAttack] 对目标施加2层流血 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 对目标施加3层诅咒 "
+                  "desc": "[OnSucceedAttack] 对目标施加<style=\"highlight\">3</style>层诅咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 对目标施加3层尖钉 "
+                  "desc": "[OnSucceedAttackTail] 对目标施加<style=\"highlight\">3</style>层尖钉 "
                 }
               ]
             }
@@ -579,15 +579,15 @@
           "level": 3,
           "name": "指定审判",
           "abName": "灼热公爵",
-          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)\n[EndSkill] 使现存体力比例最低的(1+最大共鸣数)名友方单位恢复其体力上限18%的体力(最多3名)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "desc": "<style=\"highlight\">[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)</style>\n[EndSkill] 使现存体力比例最低的(1+最大共鸣数)名友方单位恢复其体力上限<style=\"highlight\">18</style>%的体力(最多3名)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级烧伤 强度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多3层，向下取整)"
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多<style=\"highlight\">3</style>层，向下取整)"
                 }
               ]
             },
@@ -598,15 +598,15 @@
           "level": 4,
           "name": "指定审判",
           "abName": "灼热公爵",
-          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)\n[EndSkill] 使现存体力比例最低的(1+最大共鸣数)名友方单位恢复其体力上限20%的体力(最多3名)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
+          "desc": "[BeforeAttack] 使本技能的攻击容量+(最大共鸣数/2)(最多+3，向下取整)\n[EndSkill] 使现存体力比例最低的(1+最大共鸣数)名友方单位恢复其体力上限<style=\"highlight\">20</style>%的体力(最多3名)\n[EndSkill] 3回合内，回合结束时使自身失去10点理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目标增加8级烧伤 强度"
+                  "desc": "[OnSucceedAttack] 使目标增加8级烧伤 强度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多3层，向下取整)"
+                  "desc": "[OnSucceedAttack] 若目标为主要目标，则下回合对其施加(1+(暴怒共鸣数/3))层[BirdCage](最多3层，向下取整)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -664,10 +664,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加8级烧伤 强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">8</style>级烧伤 强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多4层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多<style=\"highlight\">4</style>层)"
                 }
               ]
             },
@@ -680,7 +680,7 @@
                   "desc": "主要目标每带有1级烧伤 强度，使本硬币对其造成的伤害+1%(最多+50%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层暴怒威力提升 与1层暴怒伤害强化 (最多5名，每个技能最多1次)"
+                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层暴怒威力提升 与1层暴怒伤害强化 (最多<style=\"highlight\">5</style>名，每个技能最多1次)"
                 }
               ]
             }
@@ -698,13 +698,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加10级烧伤 强度"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加<style=\"highlight\">10</style>级烧伤 强度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层烧伤 "
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] 对目标施加1层烧伤 </style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多5层)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若目标为主要目标，则对其施加(1+暴怒共鸣数)层[BirdCage](最多<style=\"highlight\">5</style>层)"
                 }
               ]
             },
@@ -714,10 +714,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "主要目标每带有1级烧伤 强度，使本硬币对其造成的伤害+2%(最多+100%)"
+                  "desc": "主要目标每带有1级烧伤 强度，使本硬币对其造成的伤害+<style=\"highlight\">2</style>%(最多+<style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层暴怒威力提升 与1层暴怒伤害强化 (最多6名，每个技能最多1次)"
+                  "desc": "[EnemyKill] 使现存体力比例最低的(1+最大共鸣数)名友方单位获得1层暴怒威力提升 与1层暴怒伤害强化 (最多<style=\"highlight\">6</style>名，每个技能最多1次)"
                 }
               ]
             }

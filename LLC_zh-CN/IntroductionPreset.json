@@ -1522,7 +1522,23 @@
     },
     {
       "id": "introduce_sentence_191",
-      "content": "哈啊……这次他们最先部署的是{0}吗？"
+      "content": "哈……这次是{0}最先上场吗？"
+    },
+    {
+      "id": "introduce_word_192",
+      "content": "工具"
+    },
+    {
+      "id": "introduce_sentence_192",
+      "content": "对陌生的{0}怀恨在心，不是很奇怪吗？"
+    },
+    {
+      "id": "introduce_word_193",
+      "content": "兽"
+    },
+    {
+      "id": "introduce_sentence_193",
+      "content": "第八十份……再多做几份，身为{0}的生活就可以结束了。"
     }
   ]
 }

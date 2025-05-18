@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得<style=\"highlight\">3</style>层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外<style=\"highlight\">+2</style>层",
+          "desc": "[CantIdentify]\n指定体力最高的单位\n\n[BeforeAttack] 下回合使自身获得<style=\"highlight\">3</style>层迅捷 。\n消耗10层充能 并使本技能在命中时对目标施加的易损 和次元裂痕 层数额外<style=\"highlight\">+2</style>层",
           "coinlist": [
             {
               "coindescs": [

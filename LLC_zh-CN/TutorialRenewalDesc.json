@@ -130,7 +130,7 @@
     },
     {
       "id": "tuto_00_02_03_06",
-      "content": "这里显示了技能投掷硬币之后得到的<color=#f8c200>最终威力<color=#ebcaa2>。\n\n<color=#f8c200>以实玛利的技能“突然袭击”的技能威力更高，因此敌方技能在拼点中失去一枚硬币<color=#ebcaa2>。"
+      "content": "这里显示了投掷硬币之后，得到的<color=#f8c200>技能<color=#ebcaa2><color=#f8c200>最终威力<color=#ebcaa2>。\n\n<color=#f8c200>以实玛利的技能“突然袭击”的技能威力更高，因此敌方技能在拼点中失去一枚硬币<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_03_07",
@@ -498,7 +498,7 @@
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "在同个行动槽内<color=#f8c200>装备不同的<E.G.O>技能，或使用守备技能覆盖技能<color=#ebcaa2>，都会取消装备当前的<E.G.O>技能，并归还罪孽碎片。"
+      "content": "在同个行动槽内<color=#f8c200>装备不同的<E.G.O>技能<color=#ebcaa2>，或<color=#f8c200>使用守备技能覆盖技能<color=#ebcaa2>，都会取消装备当前的<E.G.O>技能，并归还罪孽碎片。"
     },
     {
       "id": "tuto_01_08_02_09",
@@ -510,7 +510,7 @@
     },
     {
       "id": "tuto_01_08_03_01",
-      "content": "提升<E.G.O>的异想解析级别，将会解锁其<color=#f8c200><E.G.O>被动<color=#ebcaa2>。当该单位在本回合内使用完毕<E.G.O>技能，战斗进入下一回合时，该技能的独特<color=#ebcaa2><E.G.O>被动<color=#f8c200>将会激活。\n\n您可以在各个罪人的详细信息窗口中检视其<E.G.O>被动。"
+      "content": "提升<E.G.O>的异想解析阶段，将会解锁其<color=#f8c200><E.G.O>被动<color=#ebcaa2>。当该单位在本回合内使用完毕<E.G.O>技能，战斗进入<color=#f8c200>下一回合<color=#ebcaa2>时，该技能的独特<color=#ebcaa2><E.G.O>被动<color=#f8c200>将被激活。\n\n您可以在各个罪人的详细信息窗口中检视其<E.G.O>被动。"
     },
     {
       "id": "tuto_01_09_01_01",
@@ -518,7 +518,7 @@
     },
     {
       "id": "tuto_01_09_01_02",
-      "content": "任何除基础E.G.O技能以外的E.G.O技能都可以进行<color=#f8c200><E.G.O超频><color=#ebcaa2>。\n按住罪人良秀的头像以打开其E.G.O列表。"
+      "content": "任何除基础E.G.O技能以外的E.G.O技能，都可以进行<color=#f8c200><E.G.O超频><color=#ebcaa2>。\n请按住罪人良秀的头像以打开其E.G.O列表。"
     },
     {
       "id": "tuto_01_09_01_03",
@@ -542,7 +542,7 @@
     },
     {
       "id": "tuto_01_09_01_08",
-      "content": "在下一回合，罪人将会脱离<color=#f8c200><E.G.O侵蚀><color=#ebcaa2>状态，理智值也将重置为0。"
+      "content": "在下一回合，罪人将会脱离<color=#f8c200><E.G.O侵蚀><color=#ebcaa2>状态，\n理智值也将重置为0。"
     },
     {
       "id": "tuto_01_09_01_09",
@@ -550,11 +550,11 @@
     },
     {
       "id": "tuto_01_09_01_10",
-      "content": "按住E.G.O技能卡片以进行<color=#f8c200><E.G.O超频><color=#ebcaa2>。\n使用<color=#f8c200><E.G.O超频><color=#ebcaa2>将<color=#f8c200>主动使该罪人使用<E.G.O>侵蚀技能<color=#ebcaa2>。"
+      "content": "按住E.G.O技能卡片以进行<color=#f8c200><E.G.O超频><color=#ebcaa2>。\n使用<E.G.O超频>，将<color=#f8c200>主动使该罪人使用<E.G.O>侵蚀技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_09_01_11",
-      "content": "如果您超频E.G.O时的资源充足，其将会以<color=#f8c200>稳定超频<color=#ebcaa2>形式进行。否则，其将会<color=#f8c200>不稳定超频<color=#ebcaa2>。"
+      "content": "如果您超频E.G.O时的资源充足，则其将会以<color=#f8c200>稳定超频<color=#ebcaa2>形式进行。否则，其将会<color=#f8c200>不稳定超频<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_09_01_12_title",
@@ -570,7 +570,7 @@
     },
     {
       "id": "tuto_01_09_01_13",
-      "content": "在资源不足的情况下激活<color=#f8c200><E.G.O超频><color=#ebcaa2>，将会触发<color=#f8c200><不稳定超频><color=#ebcaa2>。\n不稳定超频<color=#f8c200>不分敌我<color=#ebcaa2>，对友方与敌方单位一视同仁。任何<color=#f8c200>不足的E.G.O资源将会为负<color=#ebcaa2>。"
+      "content": "在资源不足的情况下激活<color=#f8c200><E.G.O超频><color=#ebcaa2>，\n将会触发<color=#f8c200><不稳定超频><color=#ebcaa2>。\n不稳定超频<color=#f8c200>不分敌我<color=#ebcaa2>，对友方与敌方单位一视同仁。任何<color=#f8c200>不足的罪孽碎片将会为负<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_01_01",
@@ -598,7 +598,7 @@
     },
     {
       "id": "tuto_01_11_abbattle_01_06",
-      "content": "异想体往往存在多个部位。\n\n各个部位从其指定的行动槽当中使用技能，而其速度值也可能变化。"
+      "content": "异想体往往存在多个部位。\n\n每个部位都具有行动槽，且每回合都会根据部位，决定行动槽的速度值。"
     },
     {
       "id": "tuto_01_11_abbattle_01_07",
@@ -618,7 +618,7 @@
     },
     {
       "id": "tuto_01_11_abbattle_01_11",
-      "content": "点击左侧的齿轮以缩小视角并观察战场的全貌。"
+      "content": "点击左侧的齿轮以缩小视角，并观察战场的全貌。"
     },
     {
       "id": "tuto_01_11_abbattle_01_12",
@@ -626,11 +626,11 @@
     },
     {
       "id": "tuto_01_11_abbattle_01_13",
-      "content": "当您在仪表盘上<color=#f8c200>完成了全部友方技能的连接<color=#ebcaa2>，右侧的齿轮将会激活，点击以进入战斗阶段。"
+      "content": "当您在仪表盘上<color=#f8c200>完成了全部友方技能的连接<color=#ebcaa2>，右侧的齿轮将会激活，请点击以进入战斗阶段。"
     },
     {
       "id": "tuto_01_11_abbattle_01_14",
-      "content": "现在，<color=#f8c200>将所有罪人的技能连接至敌方行动槽<color=#ebcaa2>，并下达战斗指令。"
+      "content": "现在，请<color=#f8c200>将所有罪人的技能连接至敌方行动槽<color=#ebcaa2>，并下达战斗指令。"
     },
     {
       "id": "tuto_01_11_abbattle_02_01",
@@ -638,19 +638,19 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_02",
-      "content": "各个单位的本回合的速度值可在此处查看，就在<color=#f8c200>其行动槽<color=#ebcaa2>旁边。"
+      "content": "各个单位在本回合的速度值，可在此处查看，就在<color=#f8c200>其行动槽<color=#ebcaa2>旁边。"
     },
     {
       "id": "tuto_01_11_abbattle_02_03",
-      "content": "所有友方单位的速度也可以在<color=#f8c200>仪表盘<color=#ebcaa2>上查看。"
+      "content": "所有友方单位的速度值，也可以在<color=#f8c200>仪表盘<color=#ebcaa2>上查看。"
     },
     {
       "id": "tuto_01_11_abbattle_02_04",
-      "content": "如您所见，集中遭遇战需要<color=#f8c200>直接指定<color=#ebcaa2>攻击目标。"
+      "content": "如您所见，集中遭遇战\n需要<color=#f8c200>直接指定<color=#ebcaa2>攻击目标。"
     },
     {
       "id": "tuto_01_11_abbattle_02_05",
-      "content": "现在让我们来学习多个敌方单位围攻单个友方时的应对方法。\n请先选择该单位的槽位。"
+      "content": "现在让我们来学习多个敌方单位围攻单个友方时的应对方法。\n请先选择该单位的行动槽。"
     },
     {
       "id": "tuto_01_11_abbattle_02_06",
@@ -678,7 +678,7 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_11",
-      "content": "<color=#f8c200>已经被敌方技能指定的友方单位<color=#ebcaa2>，<color=#f8c200>无论其速度如何<color=#ebcaa2>，都可以和敌方进行<color=#f8c200>拼点<color=#ebcaa2>。"
+      "content": "<color=#f8c200>已经被敌方技能指定<color=#ebcaa2>的友方单位，<color=#f8c200>无论其速度如何<color=#ebcaa2>，都可以和敌方进行<color=#f8c200>拼点<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_12",
@@ -698,7 +698,7 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_15",
-      "content": "如果友方速度值不高于敌方，则无法偏转敌方的攻击，而是进行一次<color=#05DBF2>单方面攻击<color=#ebcaa2>。"
+      "content": "如果友方速度值不高于敌方，则无法偏转敌方的攻击，\n而是会进行一次<color=#05DBF2>单方面攻击<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_16_title",
@@ -706,15 +706,15 @@
     },
     {
       "id": "tuto_01_11_abbattle_02_16",
-      "content": "速度值不高于敌方的友方单位无法迫使敌方与其拼点。在这种情况下，单位将进行<color=#05DBF2>单方面攻击<color=#ebcaa2>而非拼点，以蓝色箭头表示。速度值更高的单位优先攻击。\n\n<color=#05DBF2>单方面攻击<color=#ebcaa2>会直接进行，而不会拼点。"
+      "content": "速度值不高于敌方的友方单位无法迫使敌方与其拼点。\n在这种情况下，友方单位将进行<color=#05DBF2>单方面攻击<color=#ebcaa2>而非拼点，以蓝色箭头表示。速度值更高的单位将优先进行攻击。\n\n<color=#05DBF2>单方面攻击<color=#ebcaa2>会直接进行，而不会拼点。"
     },
     {
       "id": "tuto_01_11_abbattle_02_17",
-      "content": "当多个技能指定同一个行动槽时，仅有最后指定的技能可与其进行拼点。其他技能将以<color=#05DBF2>单方面攻击<color=#ebcaa2>形式进行。\n面对单个强大的敌方单位时，主动放弃<color=#f8c200>拼点<color=#ebcaa2>转而进行多次<color=#05DBF2>单方面攻击<color=#ebcaa2>，有时是更好的策略。"
+      "content": "当多个技能指定同一个行动槽时，仅有最后指定的技能可与其进行拼点。其他技能将以<color=#05DBF2>单方面攻击<color=#ebcaa2>形式进行。\n面对单个强大的敌方单位时，主动放弃<color=#f8c200>拼点<color=#ebcaa2>转而进行多次<color=#05DBF2>单方面攻击<color=#ebcaa2>，\n有时是更好的策略。"
     },
     {
       "id": "tuto_01_11_snow_white_01_01",
-      "content": "您遭遇了新的异想体。请检查其异想体图鉴。"
+      "content": "您遭遇了新的异想体。请查看其异想体图鉴。"
     },
     {
       "id": "tuto_01_11_snow_white_01_02_title",
@@ -746,19 +746,19 @@
     },
     {
       "id": "tuto_01_11_snow_white_02_04",
-      "content": "继续战斗以揭示敌方的被动技能信息。\n<color=#f8c200>在信息窗口当中了解其细节<color=#ebcaa2>对于战胜部分敌方来说至关重要。"
+      "content": "继续战斗以揭示敌方的被动技能信息。\n<color=#f8c200>在信息窗口当中了解其细节<color=#ebcaa2>，对于战胜部分敌人来说至关重要。"
     },
     {
       "id": "tuto_01_11_snow_white_02_05",
-      "content": "持续镇压该异想体"
+      "content": "请持续镇压该异想体。"
     },
     {
       "id": "tuto_01_11_snow_white_03_01",
-      "content": "在集中战斗当中，您作为执行经理偶尔需要做出<color=#f8c200><决断><color=#ebcaa2>。\n<color=#f8c200>战斗的态势因您的选择而千变万化<color=#ebcaa2>，请您慎重。"
+      "content": "在集中遭遇战当中，您作为执行经理偶尔需要做出<color=#f8c200><选择><color=#ebcaa2>。\n<color=#f8c200>战斗的态势因您的选择而千变万化<color=#ebcaa2>，请您慎重。"
     },
     {
       "id": "tuto_01_11_snow_white_03_02_title",
-      "content": "选项"
+      "content": "选项事件"
     },
     {
       "id": "tuto_01_11_snow_white_03_02",
@@ -770,7 +770,7 @@
     },
     {
       "id": "tuto_02_12_01_01",
-      "content": "全部技能都拥有两个等级值，分别为<color=#f8c200>攻击等级<color=#ebcaa2>和<color=#f8c200>防御等级<color=#ebcaa2>。"
+      "content": "所有技能都拥有两个等级值，分别为<color=#f8c200>攻击等级<color=#ebcaa2>和<color=#f8c200>防御等级<color=#ebcaa2>。"
     },
     {
       "id": "tuto_02_12_01_02",
