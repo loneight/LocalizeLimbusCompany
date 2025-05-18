@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "announcer_cheer_5_1",
-      "dlg": "好～讓我們快點結束，然後去吃東西吧～？"
+      "dlg": "好吧～讓我們快點完事，然後去吃點東西吧？"
     },
     {
       "id": "announcer_cheer_5_2",
-      "dlg": "先完成的人有美食吃！當然啦～公司請客！"
+      "dlg": "先幹完活的人有好吃的！當然啦～公司請客！"
     },
     {
       "id": "announcer_specialcheer_5_1",
-      "dlg": "他們都快變成肉塊了……沒有更好的辦法嗎？"
+      "dlg": "他們都快被切成碎肉了……沒有更好的辦法嗎？"
     },
     {
       "id": "announcer_specialcheer_5_2",
@@ -18,11 +18,11 @@
     },
     {
       "id": "announcer_enemy_break_5_1",
-      "dlg": "快看那邊！他搖搖晃晃的！"
+      "dlg": "快看那裡！他搖搖晃晃的！"
     },
     {
       "id": "announcer_ally_break_5_1",
-      "dlg": "嗯……你可以試試像這樣躲開，不就好了嗎？"
+      "dlg": "嗯……你可以試試像這樣躲開，不就行了嗎？"
     },
     {
       "id": "announcer_killenemy_5_1",
@@ -102,7 +102,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_5_1",
-      "dlg": "哇哦～那真是一次強力的攻擊。你不覺得這很值得慶祝嘛～？"
+      "dlg": "哇哦～那真是一次強力的攻擊。你不覺得這很值得慶祝嗎～？"
     },
     {
       "id": "announcer_round_givebigdmg_5_2",

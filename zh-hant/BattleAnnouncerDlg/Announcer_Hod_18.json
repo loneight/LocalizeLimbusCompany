@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "announcer_cheer_18_1",
-      "dlg": "只要你們能克服這次的逆境，就一定能提升自己的能力。雖然過程中可能會有人犧牲……但作為 Sephirah，我會幫助你們避免死亡。"
+      "dlg": "你們只要克服這次的逆境，就一定能夠提升自己的能力。雖然在這個過程中可能會有犧牲……但作為Sephirah，我會幫助你們避免死亡。"
     },
     {
       "id": "announcer_cheer_18_2",
-      "dlg": "最近，有什麼煩惱嗎？如果在工作中遇到困難的話，隨時都可以來找我諮詢。"
+      "dlg": "最近，有什麼煩惱嗎？如果在工作中遇到困難的話，隨時都可以找我進行心理諮詢。"
     },
     {
       "id": "announcer_specialcheer_18_1",
-      "dlg": "你、你看吧，Tiffany，不聽我的話，事情就變得糟糕了……沒、沒什麼。抱歉。我總是聽到一些奇怪的聲音……"
+      "dlg": "你、你看吧，Tiffany，不聽我的話，事情就變得糟糕了……沒……沒什麼。抱歉。我總是聽到一些奇怪的聲音……"
     },
     {
       "id": "announcer_specialcheer_18_2",
@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_18_1",
-      "dlg": "有一名員工的情況看起來相當危急，希望能盡快恢復過來……"
+      "dlg": "有一名員工的情況看起來相當危急，希望能儘快恢復過來……"
     },
     {
       "id": "announcer_killenemy_18_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "announcer_enemy_adv_18_1",
-      "dlg": "希望您不要說這一切都是我的錯，主管……那可不行。我是個好 Sephirah，對吧？"
+      "dlg": "希望您不要說這一切都是我的錯，主管……那可不行。我是個好Sephirah，對吧？"
     },
     {
       "id": "announcer_ally_adv_18_1",
@@ -46,7 +46,7 @@
     },
     {
       "id": "announcer_enemy_specialskill_18_1",
-      "dlg": "主管！請盡快仔細分析敵對目標！不然會有很多員工受傷的！"
+      "dlg": "主管！請儘快仔細分析敵對目標！不然會有很多員工受傷的！"
     },
     {
       "id": "announcer_enemy_specialgimmick_18_1",
@@ -74,7 +74,7 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_18_1",
-      "dlg": "鎮壓目標的狀況惡化了！太好了，我還在想是不是需要通過 Geburah 召喚兔子隊呢……"
+      "dlg": "鎮壓目標的狀況惡化了！太好了，我還在想是不是需要通過Geburah召喚兔子隊呢……"
     },
     {
       "id": "announcer_ally_specialbuff_18_1",
@@ -94,11 +94,11 @@
     },
     {
       "id": "announcer_round_takebigdmg_18_1",
-      "dlg": "認真些啊！要是你就這麼死了，肯定會怪我吧！你是……你是想把我變成壞 Sephirah 嗎？"
+      "dlg": "認真些啊！要是你就這麼死了，肯定會怪我吧！你是……你是想把我變成壞Sephirah嗎？"
     },
     {
       "id": "announcer_round_takebigdmg_18_2",
-      "dlg": "聽我的話呀！在所有 Sephirah 之中，我是唯一一個關心你們的……為什麼不按我教的去做，偏偏要白費力氣呢……"
+      "dlg": "聽我的話呀！在所有Sephirah之中，我是唯一一個關心你們的……為什麼不照我教的去做，偏偏要白費力氣呢……"
     },
     {
       "id": "announcer_round_givebigdmg_18_1",
@@ -129,7 +129,7 @@
     },
     {
       "id": "announcer_equip_18_1",
-      "dlg": "來，請各位員工面帶微笑看向這邊～今天要和我，培訓部的 Sephirah 一起拍關於敵對個體鎮壓訓練的影片哦！"
+      "dlg": "來，請各位員工面帶微笑看向這邊～今天要和我——培訓部的Sephirah一起拍關於敵對個體鎮壓訓練的影片哦！"
     }
   ]
 }

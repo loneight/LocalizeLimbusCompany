@@ -6,7 +6,7 @@
     },
     {
       "id": "announcer_cheer_6_2",
-      "dlg": "毋須擔憂。只要還剩最後一個血球，生命便得以以某種方式保存。"
+      "dlg": "不必擔憂。只要還剩下最後一個血細胞，生命便得以以某種方式保存。"
     },
     {
       "id": "announcer_specialcheer_6_1",
@@ -14,27 +14,27 @@
     },
     {
       "id": "announcer_specialcheer_6_2",
-      "dlg": "同伴們看起來無精打采。如此默默前進並不可取。"
+      "dlg": "同伴們看起來無精打采。默默如此前進並不可取。"
     },
     {
       "id": "announcer_enemy_break_6_1",
-      "dlg": "他們如秋風般搖曳。局勢對我們有利，不是嗎？"
+      "dlg": "他們像秋風一樣搖曳。局勢對我們有利，不是嗎？"
     },
     {
       "id": "announcer_ally_break_6_1",
-      "dlg": "有人說傷痛能促人成長。我相信我的朋友們也是如此。"
+      "dlg": "有人說傷痛能促人成長。相信我的朋友們也是如此。"
     },
     {
       "id": "announcer_killenemy_6_1",
-      "dlg": "方才的戰鬥甚是精彩。"
+      "dlg": "剛剛的戰鬥非常精彩。"
     },
     {
       "id": "announcer_ally_dead_6_1",
-      "dlg": "他們終將歸來。於此片刻……暫且休憩吧。"
+      "dlg": "他們會再度歸來。於此片刻……暫且休憩吧。"
     },
     {
       "id": "announcer_enemy_adv_6_1",
-      "dlg": "置身於層巒疊嶂間……與其風流雲散而求索，回首另闢蹊徑不是更好嗎，管理人。"
+      "dlg": "置身於進退維谷間……與其風流雲散而求索，回首另闢蹊徑不是更好嗎，經理。"
     },
     {
       "id": "announcer_ally_adv_6_1",
@@ -62,7 +62,7 @@
     },
     {
       "id": "announcer_advatk_attr_6_1",
-      "dlg": "哦。明智之舉。"
+      "dlg": "噢。明智之舉。"
     },
     {
       "id": "announcer_disadvatk_attr_6_1",
@@ -98,7 +98,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_6_2",
-      "dlg": "此次交鋒導致了致命的後果……您恐怕沒有重來的機會了，管理人。"
+      "dlg": "此次交鋒導致了致命的後果……您恐怕沒有重來的機會了，經理。"
     },
     {
       "id": "announcer_round_givebigdmg_6_1",
@@ -106,7 +106,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_6_2",
-      "dlg": "此是最為理想之選，管理人。"
+      "dlg": "此是最為理想之選，經理。"
     },
     {
       "id": "announcer_multikillenemy_6_1",

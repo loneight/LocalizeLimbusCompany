@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "announcer_cheer_4_1",
-      "dlg": "希望能幫到大家……"
+      "dlg": "希望這能幫上大家……"
     },
     {
       "id": "announcer_cheer_4_2",
-      "dlg": "如果可以的話……希望大家盡量不要受傷。"
+      "dlg": "可以的話……希望大家盡量不要受傷。"
     },
     {
       "id": "announcer_specialcheer_4_1",
-      "dlg": "啊、啊……撤退後重整旗鼓比較好吧，管理人？"
+      "dlg": "啊、啊……撤退後重整旗鼓比較好吧，經理？"
     },
     {
       "id": "announcer_specialcheer_4_2",
@@ -30,7 +30,7 @@
     },
     {
       "id": "announcer_ally_dead_4_1",
-      "dlg": "啊啊……！管、管理人……"
+      "dlg": "啊啊……！經、經理……"
     },
     {
       "id": "announcer_enemy_adv_4_1",
@@ -58,15 +58,15 @@
     },
     {
       "id": "announcer_disadvatk_physical_4_1",
-      "dlg": "啊，呃……那好像只是激怒了他們……"
+      "dlg": "啊、呃……那好像只是激怒了他們……"
     },
     {
       "id": "announcer_advatk_attr_4_1",
-      "dlg": "管理人……！不愧是您，光憑我是想不到這些方法的！"
+      "dlg": "經理……！不愧是您，光憑我是想不到這些方法的！"
     },
     {
       "id": "announcer_disadvatk_attr_4_1",
-      "dlg": "呃……管理人……？您……確定嗎？"
+      "dlg": "呃……經理……？您……確定嗎？"
     },
     {
       "id": "announcer_enemy_specialbuff_4_1",
@@ -74,11 +74,11 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_4_1",
-      "dlg": "他們看起來……有些不安……如果我們現在攻擊，他們應該沒法還手。"
+      "dlg": "他們看起來……有些不安……如果我們現在攻擊，他們應該無法還手。"
     },
     {
       "id": "announcer_ally_specialbuff_4_1",
-      "dlg": "啊……看樣子大家狀態都很好。趁現在攻擊看看吧，管理人？"
+      "dlg": "啊……看樣子大家狀態都很好。趁現在攻擊看看吧，經理？"
     },
     {
       "id": "announcer_ally_specialdebuff_4_1",
@@ -90,11 +90,11 @@
     },
     {
       "id": "announcer_enemy_destroy_4_2",
-      "dlg": "利落地斬斷了……這樣一來，就不能再用它去幹些蠢事了吧。"
+      "dlg": "俐落地斬斷了……這樣一來，敵人就不能再耍什麼花招了吧。"
     },
     {
       "id": "announcer_round_takebigdmg_4_1",
-      "dlg": "呃呃？！連、連我都能感覺到痛了……"
+      "dlg": "呃呃！？連、連我都能感覺到痛了……"
     },
     {
       "id": "announcer_round_takebigdmg_4_2",
