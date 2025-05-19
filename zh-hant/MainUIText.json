@@ -1931,6 +1931,30 @@
     {
       "id": "ego_gift_category_current_theme",
       "content": "主題卡包限定合成飾品"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_title",
+      "content": "經驗採光 #8（斬擊）"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_open_day",
+      "content": "經驗採光#8（斬擊）將在週一，週二，週日開放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_11_title",
+      "content": "經驗採光 #8（突刺）"
+    },
+    {
+      "id": "mainui_exp_dungeon_11_open_day",
+      "content": "經驗採光#8（突刺）將在週三，週四，週日開放。"
+    },
+    {
+      "id": "mainui_exp_dungeon_12_title",
+      "content": "經驗採光 #8（打擊）"
+    },
+    {
+      "id": "mainui_exp_dungeon_12_open_day",
+      "content": "經驗採光#8（打擊）將在週五，週六，週日開放。"
     }
   ]
 }

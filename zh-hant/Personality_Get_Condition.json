@@ -999,6 +999,22 @@
     {
       "id": "10612_getCondition_gacksung",
       "content": "R公司 第四集團軍 馴鹿隊 鴻璐 3階段同步完成"
+    },
+    {
+      "id": "11212_getCondition_normal",
+      "content": "獲得黑獸 - 巳 格里高爾"
+    },
+    {
+      "id": "11212_getCondition_gacksung",
+      "content": "黑獸 - 巳 格里高爾 3階段同步完成"
+    },
+    {
+      "id": "10912_getCondition_normal",
+      "content": "獲得黑獸 - 巳 羅佳"
+    },
+    {
+      "id": "10912_getCondition_gacksung",
+      "content": "黑獸 - 巳 羅佳 3階段同步完成"
     }
   ]
 }

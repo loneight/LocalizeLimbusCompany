@@ -1523,6 +1523,22 @@
     {
       "id": "introduce_sentence_191",
       "content": "哈啊……這次是{0}被第一次投入戰場嗎？"
+    },
+    {
+      "id": "introduce_word_192",
+      "content": "工具"
+    },
+    {
+      "id": "introduce_sentence_192",
+      "content": "對陌生的 {0} 心懷怨恨，這很奇怪吧？"
+    },
+    {
+      "id": "introduce_word_193",
+      "content": "野獸"
+    },
+    {
+      "id": "introduce_sentence_193",
+      "content": "用這個八十……再多一點就能結束以{0}方式生活了。"
     }
   ]
 }
