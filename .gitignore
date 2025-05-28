@@ -1,4 +1,4 @@
 .vs
 .idea
 .cursor
-copy_lang_files.sh
+*.sh
