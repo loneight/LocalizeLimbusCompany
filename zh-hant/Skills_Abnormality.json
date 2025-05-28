@@ -2739,7 +2739,7 @@
         {
           "level": 1,
           "name": "咔咳！",
-          "desc": "優先指定理智值最低的單位\n[OnSucceedAttack] 生成一隻生雞",
+          "desc": "優先指定理智值最低的單位\n命中时，生成一隻生雞",
           "coinlist": [
             {
               "coindescs": [

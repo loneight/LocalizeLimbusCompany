@@ -563,19 +563,19 @@
           "level": 3,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]",
+          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多<style=\"highlight\">6</style>級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得1層呼吸法</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)</style>"
                 }
               ]
             }
@@ -585,19 +585,19 @@
           "level": 4,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]",
+          "desc": "[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+40%)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 }
               ]
             }
@@ -634,19 +634,19 @@
           "level": 3,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多<style=\"highlight\">6</style>級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得1層呼吸法</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)</style>"
                 }
               ]
             }
@@ -656,19 +656,19 @@
           "level": 4,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 ",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若自身的呼吸法 強度不高於20級，則使自身增加至20級呼吸法 強度並消耗自身體力上限(獲得的呼吸法 強度×2)%的體力\n- 自身不會因該效果而陷入混亂或陣亡\n[BeforeAttack] 使全體友方單位增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若傲慢共鳴數不低於3，則額外使其獲得1層呼吸法 ，並在下回合獲得1層[ReleaseBreath]與1層傲慢傷害強化 <style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+40%)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 }
               ]
             }

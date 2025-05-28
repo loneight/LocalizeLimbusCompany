@@ -253,13 +253,13 @@
           "level": 3,
           "name": "輕蔑，敬畏",
           "abName": "輕蔑螺旋",
-          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+4)\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+<style=\"highlight\">4</style>)\n[BeforeAttack] 使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 平均使全體目標增加共計15級流血 強度"
+                  "desc": "[EndSkill] 平均使全體目標增加共計<style=\"highlight\">15</style>級流血 強度"
                 }
               ]
             }
@@ -269,13 +269,13 @@
           "level": 4,
           "name": "輕蔑，敬畏",
           "abName": "輕蔑螺旋",
-          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+6)\n[BeforeAttack] 本回合與下回合使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n[EndSkill] 若本技能參與了色慾共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
+          "desc": "[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數)(最多+<style=\"highlight\">6</style>)\n[BeforeAttack] <style=\"highlight\">本回合與下回合</style>使自身獲得(最大共鳴數+1)層[GazePersonality](最多7層)\n<style=\"highlight\">[EndSkill] 若本技能參與了色慾共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個</style>\n[EndSkill] 2回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 平均使全體目標增加共計15級流血 強度"
+                  "desc": "[EndSkill] 平均使全體目標增加共計15級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -316,13 +316,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+40%)"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(3+最大共鳴數×2)級流血 強度(最多15級，向下取整)"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">(3+最大共鳴數×2)</style>級流血 強度(最多<style=\"highlight\">15</style>級，向下取整)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層流血 "
                 }
               ]
             }
@@ -332,18 +332,18 @@
           "level": 4,
           "name": "輕蔑，敬畏",
           "abName": "輕蔑螺旋",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得7層[GazePersonality]\n[EndSkill] 若本技能參與了色慾共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使自身獲得7層[GazePersonality]\n<style=\"highlight\">[EndSkill] 若本技能參與了色慾共鳴，則獲得與自身擁有的各個基礎攻擊技能相同屬性的罪孽碎片各1個</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+60%)"
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使本技能造成的傷害+(目標的流血 強度與層數之和)%(最多+<style=\"highlight\">60%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(10+最大共鳴數×2.5)級流血 強度(最多25級，向下取整)"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">(10+最大共鳴數×2.5)</style>級流血 強度(最多<style=\"highlight\">25</style>級，向下取整)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">5</style>層流血 "
                 }
               ]
             }
@@ -374,16 +374,16 @@
           "level": 3,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使自身增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若自身的呼吸法 強度不低於15級，則改為使本技能的最終威力+(最大共鳴數)(最多+6)\n[BeforeAttack] 使自身獲得(最大共鳴數/2)層呼吸法 (最多2層)\n- 若自身的呼吸法 層數不低於5層，則改為使本技能的硬幣威力+(最大共鳴數/2)(最多+2)\n[TargetKill] 下回合使自身獲得2層[HoldingBreath](每回合最多4次)",
+          "desc": "[BeforeAttack] 使自身增加(最大共鳴數)級呼吸法 強度(最多<style=\"highlight\">6</style>級)\n- 若自身的呼吸法 強度不低於15級，則改為使本技能的最終威力+(最大共鳴數)(最多+<style=\"highlight\">6</style>)\n[BeforeAttack] 使自身獲得(最大共鳴數/2)層呼吸法 (最多2層)\n- 若自身的呼吸法 層數不低於5層，則改為使本技能的硬幣威力+(最大共鳴數/2)(最多+2)\n[TargetKill] 下回合使自身獲得<style=\"highlight\">2</style>層[HoldingBreath](每回合最多<style=\"highlight\">4</style>次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層[HoldingBreath](每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[HoldingBreath](每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -393,16 +393,16 @@
           "level": 4,
           "name": "胸痛",
           "abName": "往昔的睡袋",
-          "desc": "[BeforeAttack] 使自身增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若自身的呼吸法 強度不低於15級，則改為使本技能的最終威力+(最大共鳴數)(最多+6)\n[BeforeAttack] 使自身獲得(最大共鳴數/2)層呼吸法 (最多3層)\n- 若自身的呼吸法 層數不低於5層，則改為使本技能的硬幣威力+(最大共鳴數/2)(最多+3)\n[TargetKill] 下回合使自身獲得2層[HoldingBreath](每回合最多6次)",
+          "desc": "[BeforeAttack] 使自身增加(最大共鳴數)級呼吸法 強度(最多6級)\n- 若自身的呼吸法 強度不低於15級，則改為使本技能的最終威力+(最大共鳴數)(最多+6)\n[BeforeAttack] 使自身獲得(最大共鳴數/2)層呼吸法 (最多<style=\"highlight\">3</style>層)\n- 若自身的呼吸法 層數不低於5層，則改為使本技能的硬幣威力+(最大共鳴數/2)(最多+<style=\"highlight\">3</style>)\n[TargetKill] 下回合使自身獲得2層[HoldingBreath](每回合最多<style=\"highlight\">6</style>次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+40%)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得4層[HoldingBreath](每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得<style=\"highlight\">4</style>層[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
@@ -442,7 +442,7 @@
                   "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得4層[HoldingBreath](每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得4層[HoldingBreath](每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -458,10 +458,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+40%)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與層數之和)%(最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得7層[HoldingBreath](每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得<style=\"highlight\">7</style>層[HoldingBreath](每回合最多1次)"
                 }
               ]
             }
