@@ -10,7 +10,7 @@
     },
     {
       "id": "announcer_specialcheer_4_1",
-      "dlg": "啊、啊……撤退後重整旗鼓比較好吧，經理？"
+      "dlg": "哦、哦……撤退後重整旗鼓比較好吧，經理？"
     },
     {
       "id": "announcer_specialcheer_4_2",
@@ -38,11 +38,11 @@
     },
     {
       "id": "announcer_ally_adv_4_1",
-      "dlg": "我們應該會贏！"
+      "dlg": "我們好像要贏了！"
     },
     {
       "id": "announcer_danger_4_1",
-      "dlg": "……這應該是最後的機會了。我有種預感……我們不能錯過接下來發生的事。"
+      "dlg": "……這應該是最後的機會了。我有種預感……要是錯過這個機會就完了。"
     },
     {
       "id": "announcer_enemy_specialskill_4_1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "announcer_disadvatk_physical_4_1",
-      "dlg": "啊、呃……那好像只是激怒了他們……"
+      "dlg": "啊、唔……那好像只是激怒了他們……"
     },
     {
       "id": "announcer_advatk_attr_4_1",
@@ -66,7 +66,7 @@
     },
     {
       "id": "announcer_disadvatk_attr_4_1",
-      "dlg": "呃……經理……？您……確定嗎？"
+      "dlg": "經……理……？您……確定嗎？"
     },
     {
       "id": "announcer_enemy_specialbuff_4_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_4_1",
-      "dlg": "嗯……看樣子大家都不在狀態。還是不要說話比較好……"
+      "dlg": "嗯……看樣子大家的心情都不太好。還是不要搭話比較好……"
     },
     {
       "id": "announcer_enemy_destroy_4_1",
@@ -94,7 +94,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_4_1",
-      "dlg": "呃呃！？連、連我都能感覺到痛了……"
+      "dlg": "呃呃？！連、連我都能感覺到痛了……"
     },
     {
       "id": "announcer_round_takebigdmg_4_2",
@@ -106,7 +106,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_4_2",
-      "dlg": "真是猛烈的攻擊……怎麼會這麼強大？"
+      "dlg": "真是猛烈的攻擊……怎麼樣才能變得那麼強大呢？"
     },
     {
       "id": "announcer_multikillenemy_4_1",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_equip_4_1",
-      "dlg": "啊……我是負責語音播報的辛克萊。請多關照……"
+      "dlg": "啊……我是負責語音播報的辛克萊。請多指教……"
     }
   ]
 }

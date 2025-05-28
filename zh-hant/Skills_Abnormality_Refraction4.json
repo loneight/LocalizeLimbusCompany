@@ -310,7 +310,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層攻擊等級降低 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層 [AttackDown]"
                 }
               ]
             }

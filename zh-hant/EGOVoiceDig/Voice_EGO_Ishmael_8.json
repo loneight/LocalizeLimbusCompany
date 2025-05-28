@@ -94,6 +94,16 @@
       "id": "battle_erosion_20808_1",
       "desc": "E.G.O侵蝕",
       "dlg": "好奇可是壞事哦……過剩的話，可是要被黑暗吞噬殆盡的！"
+    },
+    {
+      "id": "battle_awaken_20809_1",
+      "desc": "E.G.O Activation",
+      "dlg": "無量無邊。既然已銘記信仰，就不該懷有愚蠢的疑問！"
+    },
+    {
+      "id": "battle_erosion_20809_1",
+      "desc": "E.G.O Corrosion",
+      "dlg": "斷絕疑念。銘刻信仰。只需盲目地……祈禱吧。"
     }
   ]
 }

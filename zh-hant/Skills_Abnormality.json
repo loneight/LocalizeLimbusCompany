@@ -2739,7 +2739,7 @@
         {
           "level": 1,
           "name": "咔咳！",
-          "desc": "優先指定理智值最低的單位\n命中时，生成一隻生雞",
+          "desc": "優先指定理智值最低的單位\n[OnSucceedAttack] 生成一隻生雞",
           "coinlist": [
             {
               "coindescs": [
@@ -5029,14 +5029,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -5182,7 +5182,7 @@
                   "desc": "[OnSucceedAttack] 使本體恢復10點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }

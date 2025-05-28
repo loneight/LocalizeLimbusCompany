@@ -1652,17 +1652,17 @@
     },
     {
       "id": "돌시네아",
-      "name": "杜爾西內婭",
+      "name": "杜爾西涅婭",
       "nickName": "拉．曼查領"
     },
     {
       "id": "돌시부하1",
-      "name": "杜爾西內婭的部下",
+      "name": "杜爾西涅婭的部下",
       "nickName": "拉．曼查領"
     },
     {
       "id": "돌시부하2",
-      "name": "杜爾西內婭的部下",
+      "name": "杜爾西涅婭的部下",
       "nickName": "拉．曼查領"
     },
     {
@@ -1717,7 +1717,7 @@
     },
     {
       "id": "돌시네아다침",
-      "name": "杜爾西內婭",
+      "name": "杜爾西涅婭",
       "nickName": "拉．曼查領"
     },
     {
@@ -1777,12 +1777,12 @@
     },
     {
       "id": "돌시네아하편",
-      "name": "杜爾西內婭",
+      "name": "杜爾西涅婭",
       "nickName": "拉．曼查領"
     },
     {
       "id": "돌시부하3",
-      "name": "杜爾西內婭的部下",
+      "name": "杜爾西涅婭的部下",
       "nickName": "拉．曼查領"
     },
     {
@@ -1958,7 +1958,7 @@
     {
       "id": "가치우",
       "name": "賈丘",
-      "nickName": "？？？"
+      "nickName": "賈家"
     },
     {
       "id": "자로",
@@ -2078,22 +2078,22 @@
     {
       "id": "가모",
       "name": "賈母",
-      "nickName": "鴻園家主"
+      "nickName": "鴻園 家主"
     },
     {
       "id": "어린홍루",
       "name": "賈寶玉",
-      "nickName": "賈氏家族的寶石"
+      "nickName": "賈家的寶玉"
     },
     {
       "id": "뇌횡",
       "name": "雷橫",
-      "nickName": "拇指 指揮官ⅠⅠⅠⅠ"
+      "nickName": "拇指 指揮官IIII"
     },
     {
       "id": "어린가환",
       "name": "賈環",
-      "nickName": "大觀園"
+      "nickName": "Jia Family"
     },
     {
       "id": "임대옥",
@@ -2112,7 +2112,7 @@
     },
     {
       "id": "로쟈&히스",
-      "name": "羅佳與希斯克利夫",
+      "name": "羅佳＆希斯克利夫",
       "nickName": "LCB"
     },
     {
@@ -2147,12 +2147,12 @@
     },
     {
       "id": "취수야객",
-      "name": "醉手夜客",
+      "name": "醉掌之夜客",
       "nickName": "？？？"
     },
     {
       "id": "가마꾼",
-      "name": "轎夫",
+      "name": "轎伕",
       "nickName": "大觀園"
     },
     {
@@ -2172,17 +2172,17 @@
     },
     {
       "id": "하인2",
-      "name": "端方的下人",
+      "name": "規規矩矩的下人",
       "nickName": "大觀園"
     },
     {
       "id": "하인3",
-      "name": "禮數周全的下人",
+      "name": "禮貌的下人",
       "nickName": "大觀園"
     },
     {
       "id": "하인4",
-      "name": "冷漠的下人",
+      "name": "冷淡的下人",
       "nickName": "大觀園"
     },
     {
@@ -2206,7 +2206,7 @@
       "nickName": "大觀園"
     },
     {
-      "id": "흑수계",
+      "id": "흑수들",
       "name": "？？？",
       "nickName": "大觀園"
     },
@@ -2223,7 +2223,7 @@
     {
       "id": "에고가환",
       "name": "賈環",
-      "nickName": "N公司"
+      "nickName": "N Corp. New League of Nine Littérateurs"
     },
     {
       "id": "과거가환",
@@ -2233,11 +2233,11 @@
     {
       "id": "에고구보",
       "name": "仇甫",
-      "nickName": "N公司"
+      "nickName": "N Corp. New League of Nine Littérateurs"
     },
     {
       "id": "왕대위",
-      "name": "王大尉",
+      "name": "王大為",
       "nickName": "王家"
     },
     {
@@ -2248,7 +2248,7 @@
     {
       "id": "과거홍루",
       "name": "賈寶玉",
-      "nickName": "賈氏家族的寶石"
+      "nickName": "賈家的寶玉"
     },
     {
       "id": "료슈2",
@@ -2259,6 +2259,211 @@
       "id": "반시춘",
       "name": "賈惜春",
       "nickName": "賈家"
+    },
+    {
+      "id": "사회자",
+      "name": "Host",
+      "nickName": "Daguanyuan"
+    },
+    {
+      "id": "과거가모",
+      "name": "Jia Mu",
+      "nickName": "The Hierarch of Hongyuan"
+    },
+    {
+      "id": "과거가치우",
+      "name": "Jia Qiu",
+      "nickName": "Jia Family"
+    },
+    {
+      "id": "공우진",
+      "name": "Kong Youjin",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "공사혜",
+      "name": "Kong Sihui",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "공사혜아기",
+      "name": "Kong Sihui",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "조길인",
+      "name": "???",
+      "nickName": "???"
+    },
+    {
+      "id": "왕자우",
+      "name": "Wang Zhao",
+      "nickName": "Wang Family"
+    },
+    {
+      "id": "사화정",
+      "name": "???",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "사화정다침",
+      "name": "???",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "사사정",
+      "name": "Shi Sijing",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "다친사사정",
+      "name": "Shi Sijing",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "대관원사람",
+      "name": "Nervous Stranger",
+      "nickName": "Daguanyuan"
+    },
+    {
+      "id": "죄수",
+      "name": "Prisoner of Hongyuan",
+      "nickName": "Hongyuan"
+    },
+    {
+      "id": "죄수과거",
+      "name": "Prisoner of Hongyuan",
+      "nickName": "Hongyuan"
+    },
+    {
+      "id": "가리온",
+      "name": "Garion",
+      "nickName": "???"
+    },
+    {
+      "id": "발톱",
+      "name": "Claw",
+      "nickName": "The Head"
+    },
+    {
+      "id": "임대옥다침",
+      "name": "Lin Daiyu",
+      "nickName": "Baochai's Clan"
+    },
+    {
+      "id": "공씨사람1",
+      "name": "Obstinate Resident",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "공씨사람1다침",
+      "name": "Obstinate Resident",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "공씨사람2",
+      "name": "Curious Resident",
+      "nickName": "Kong Family"
+    },
+    {
+      "id": "어린가환다침",
+      "name": "Jia Huan",
+      "nickName": "Jia Family"
+    },
+    {
+      "id": "어린가환다침2",
+      "name": "Jia Huan",
+      "nickName": "Jia Family"
+    },
+    {
+      "id": "어린가환죽음",
+      "name": "Jia Huan",
+      "nickName": "Jia Family"
+    },
+    {
+      "id": "H사직원",
+      "name": "H Corp. Researcher",
+      "nickName": "Hongyuan"
+    },
+    {
+      "id": "에고구보총",
+      "name": "Gubo",
+      "nickName": "N Corp. New League of Nine Littérateurs"
+    },
+    {
+      "id": "왕청산",
+      "name": "Wang Qingshan",
+      "nickName": "Wang Family"
+    },
+    {
+      "id": "설반다침",
+      "name": "Xue Pan",
+      "nickName": "Xue Family"
+    },
+    {
+      "id": "어린설반",
+      "name": "Xue Pan",
+      "nickName": "Xue Family"
+    },
+    {
+      "id": "발톱죽임",
+      "name": "Claw",
+      "nickName": "The Head"
+    },
+    {
+      "id": "사이화부활",
+      "name": "Shi Yihua",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "다친가시춘",
+      "name": "Jia Xichun",
+      "nickName": "???"
+    },
+    {
+      "id": "어린홍루과거홍루",
+      "name": "Hong Lu",
+      "nickName": "Sinner #6"
+    },
+    {
+      "id": "어린홍루홍루",
+      "name": "Hong Lu",
+      "nickName": "Sinner #6"
+    },
+    {
+      "id": "다친홍루",
+      "name": "Hong Lu",
+      "nickName": "Sinner #6"
+    },
+    {
+      "id": "사씨사병1",
+      "name": "Shi Family Footsoldier 1",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "사씨사병2",
+      "name": "Shi Family Footsoldier 2",
+      "nickName": "Shi Family"
+    },
+    {
+      "id": "설씨사병네임드",
+      "name": "Xue Family Captain",
+      "nickName": "Xue Family"
+    },
+    {
+      "id": "설씨사병1",
+      "name": "Xue Family Footsoldier",
+      "nickName": "Xue Family"
+    },
+    {
+      "id": "설씨하인",
+      "name": "Xue Family Servant",
+      "nickName": "Xue Family"
+    },
+    {
+      "id": "어르신그림자",
+      "name": "Elders",
+      "nickName": "Daguanyuan"
     }
   ]
 }

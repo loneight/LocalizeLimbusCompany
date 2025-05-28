@@ -1220,7 +1220,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -1235,7 +1235,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }

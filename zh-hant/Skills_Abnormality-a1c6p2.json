@@ -239,7 +239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度並對其施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度並對其施加2層 [Burst]"
                 }
               ]
             },
@@ -503,14 +503,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的速度值高於目標至少3點，則重複使用本硬幣(最多1次)"

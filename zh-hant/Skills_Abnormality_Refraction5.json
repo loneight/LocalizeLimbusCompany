@@ -58,7 +58,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層 [Breath]"
                 },
                 {
                   "desc": "本硬幣僅對主要目標造成傷害。"
@@ -434,7 +434,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },

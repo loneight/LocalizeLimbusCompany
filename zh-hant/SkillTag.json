@@ -146,11 +146,11 @@
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[拚點勝利 - 正面命中時]"
+      "name": "[Heads Hit after Clash Win]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[拚點勝利 - 命中時]"
+      "name": "[Hit after Clash Win]"
     },
     {
       "id": "CriticalActivated",

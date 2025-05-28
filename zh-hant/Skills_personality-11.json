@@ -385,7 +385,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-奧提斯 "
+                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_Outis]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方單位在下回合獲得1層迅捷 "
@@ -642,7 +642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度"
                 }
               ]
             }
@@ -1157,7 +1157,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度"
                 }
               ]
             },
@@ -1288,7 +1288,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有 [LineCuttingPersonality]，則對其施加1層 [Laceration] </style>"
                 }
               ]
             },
@@ -1298,7 +1298,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有 [LineCuttingPersonality]，則對其施加1層 [Laceration] </style>"
                 }
               ]
             }

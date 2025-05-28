@@ -79,7 +79,6 @@
     {
       "id": 15,
       "model": "지크프리트",
-      "teller": "Siegfried",
       "title": "收尾人？",
       "content": "喔！是收尾人的好苗子呢！雖然時間不多了，但我還是能簽個名的！"
     },
@@ -102,14 +101,12 @@
     {
       "id": 19,
       "model": "지크프리트",
-      "teller": "Siegfried",
       "title": "收尾人？",
       "content": "喔！工作順利結束！"
     },
     {
       "id": 20,
       "model": "지크프리트",
-      "teller": "Siegfried",
       "title": "收尾人？",
       "content": "那麼，下次再見吧！哈哈哈哈！！"
     },
@@ -457,7 +454,7 @@
       "model": "제복소드",
       "teller": "索德",
       "title": "LCCB",
-      "content": "也不是在開玩笑喲。之後在現場再見吧。"
+      "content": "也不是在開玩笑唷。之後在現場再見吧。"
     },
     {
       "id": 86,

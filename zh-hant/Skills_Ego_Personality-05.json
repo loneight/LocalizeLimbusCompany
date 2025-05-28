@@ -125,12 +125,12 @@
           "level": 1,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[BeforeAttack] 使自身獲得8層充能 \n[EndSkill] 使除自身以外充能 層數最低的1名友方單位獲得8層充能 \n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多3名)",
+          "desc": "[BeforeAttack] 使自身獲得8層 [Charge]\n[EndSkill] 使除自身以外 [Charge] 層數最低的1名友方單位獲得8層 [Charge]\n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多3名)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -140,12 +140,12 @@
           "level": 3,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[BeforeAttack] 使自身獲得8層充能 \n[EndSkill] 使除自身以外充能 層數最低的1名友方單位獲得8層充能 \n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多4名)\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層嫉妒傷害強化 ",
+          "desc": "[BeforeAttack] 使自身獲得8層 [Charge]\n[EndSkill] 使除自身以外 [Charge] 層數最低的1名友方單位獲得8層 [Charge]\n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多4名)\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層 [VioletDamageUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -155,12 +155,12 @@
           "level": 4,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[BeforeAttack] 使自身獲得12層充能 \n[EndSkill] 使除自身以外充能 層數最低的1名友方單位獲得8層充能 \n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多5名)\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層嫉妒傷害強化 \n- 若最大嫉妒共鳴數不低於6，則使自身與該友方單位獲得1層嫉妒傷害強化 ",
+          "desc": "[BeforeAttack] 使自身獲得12層 [Charge]\n[EndSkill] 使除自身以外 [Charge] 層數最低的1名友方單位獲得8層 [Charge]\n- 額外使(最大嫉妒共鳴數-2)名友方單位獲得以上效果(最多<style=\"highlight\">5</style>名)\n- 若最大嫉妒共鳴數不低於4，則使自身與該友方單位獲得1層 [VioletDamageUp]\n<style=\"highlight\">- 若最大嫉妒共鳴數不低於6，則使自身與該友方單位獲得1層 [VioletDamageUp] </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -175,15 +175,15 @@
           "level": 1,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多+2)\n[BeforeAttack] 若自身的充能 層數不低於10層，則消耗最多20層充能 ，每消耗1層充能 ，使本技能造成的傷害+2%(最多+40%)",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多+2)\n[BeforeAttack] 若自身的 [Charge] 層數不低於10層，則消耗最多20層 [Charge]，每消耗1層 [Charge]，使本技能造成的傷害+2%(最多+40%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -193,15 +193,15 @@
           "level": 3,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多+<style=\"highlight\">3</style>)\n[BeforeAttack] 若自身的充能 層數不低於10層，則消耗最多20層充能 ，每消耗1層充能 ，使本技能造成的傷害+<style=\"highlight\">2.5</style>%(最多+<style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多<style=\"highlight\">+3</style>)\n[BeforeAttack] 若自身的 [Charge] 層數不低於10層，則消耗最多20層 [Charge]，每消耗1層 [Charge]，使本技能造成的傷害+<style=\"highlight\">2.5</style>%(最多<style=\"highlight\">+50</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -211,15 +211,15 @@
           "level": 4,
           "name": "電子哀鳴",
           "abName": "夢中的電子羊",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多+3)\n<style=\"highlight\">[BeforeAttack] 若自身的充能 層數不低於10層，則使本技能命中時施加的狀態施加2次</style>\n[BeforeAttack] 若自身的充能 層數不低於10層，則消耗最多20層充能 ，每消耗1層充能 ，使本技能造成的傷害+<style=\"highlight\">3</style>%(最多+<style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大嫉妒共鳴數-2)(最多+3)\n<style=\"highlight\">[BeforeAttack] 若自身的 [Charge] 層數不低於10層，則使本技能命中時施加的狀態施加2次</style>\n[BeforeAttack] 若自身的 [Charge] 層數不低於10層，則消耗最多20層 [Charge]，每消耗1層 [Charge]，使本技能造成的傷害+<style=\"highlight\">3</style>%(最多<style=\"highlight\">+60</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
                 }
               ]
             }
@@ -239,27 +239,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加1層[RoseWedge]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度"
                 }
               ]
             },
@@ -269,7 +256,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 1次(使目標的流血 層數減少1層)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)"
                 }
               ]
             }
@@ -279,38 +279,25 @@
           "level": 3,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "desc": "<style=\"highlight\">若目標的 [Laceration] 強度不低於6級，則使本技能的硬幣威力+1</style>\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的流血 1次(使目標的流血 層數減少1層)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的流血 1次(使目標的流血 層數減少1層)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加1層[RoseWedge]"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)</style>"
                 }
               ]
             },
@@ -320,7 +307,20 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 (1+(最大共鳴數/2))次(最多3次；根據觸發的流血 次數，使目標的流血 層數相應減少)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [RoseWedge] <style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] <style=\"highlight\">(1+(最大共鳴數/2))次(最多3次；根據觸發的 [Laceration] 次數，使目標的 [Laceration] 層數相應減少)</style>"
                 }
               ]
             }
@@ -330,38 +330,25 @@
           "level": 4,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "desc": "目標每帶有<style=\"highlight\">6級</style> [Laceration] 強度，<style=\"highlight\">使本技能的硬幣威力+1(最多+2)</style>\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的流血 1次(使目標的流血 層數減少1層)"
+                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的流血 1次(使目標的流血 層數減少1層)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加2層[RoseWedge]"
+                  "desc": "[OnSucceedAttack] 若最大共鳴數不低於4，則觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -371,10 +358,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 (1+(最大共鳴數/2))次(最多3次；根據觸發的流血 次數，使目標的流血 層數相應減少)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] 對敵方單位造成超過其剩餘體力的溢出傷害時，對全體敵方單位造成共計相當於溢出傷害量的固定傷害(最少1點)"
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層 [RoseWedge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] (1+(最大共鳴數/2))次(最多3次；根據觸發的 [Laceration] 次數，使目標的 [Laceration] 層數相應減少)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] 對敵方單位造成超過其剩餘體力的溢出傷害時，對全體敵方單位造成共計相當於溢出傷害量的固定傷害(最少1點)</style>"
                 }
               ]
             }
@@ -389,35 +389,19 @@
           "level": 1,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "[CantIdentify]\n隨機指定目標\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級流血 強度並觸發其流血 1次(使其流血 層數減少1層)。使自身恢復相當於對友方單位造成流血 傷害量的體力",
+          "desc": "[CantIdentify]\n隨機指定目標\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級 [Laceration] 強度並觸發其 [Laceration] 1次(使其 [Laceration] 層數減少1層)。使自身恢復相當於對友方單位造成 [Laceration] 傷害量的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加2級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加2級流血 強度"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加1層[RoseWedge]"
-                },
-                {
-                  "desc": "- 若目標未帶有[RoseWedge]，則額外使目標增加4級[RoseWedge]強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加2級 [Laceration] 強度"
                 }
               ]
             },
@@ -427,7 +411,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 1次(使目標的流血 層數減少1層)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [RoseWedge]"
+                },
+                {
+                  "desc": "- 若目標未帶有 [RoseWedge]，則額外使目標增加4級 [RoseWedge] 強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] 1次(使目標的 [Laceration] 層數減少1層)"
                 }
               ]
             }
@@ -437,35 +437,19 @@
           "level": 3,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "[CantIdentify]\n隨機指定目標\n若自身與目標的流血 強度之和不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級流血 強度並觸發其流血 1次(使其流血 層數減少1層)。使自身恢復相當於對友方單位造成流血 傷害量的體力",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">若自身與目標的 [Laceration] 強度之和不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級 [Laceration] 強度並觸發其 [Laceration] 1次(使其 [Laceration] 層數減少1層)。使自身恢復相當於對友方單位造成 [Laceration] 傷害量的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加3級流血 強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加3級流血 強度"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加1層[RoseWedge]"
-                },
-                {
-                  "desc": "- 若目標未帶有[RoseWedge]，則額外使目標增加4級[RoseWedge]強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
                 }
               ]
             },
@@ -475,7 +459,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 (1+(最大共鳴數/2))次(最多3次；根據觸發的流血 次數，使目標的流血 層數相應減少)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [RoseWedge] <style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- 若目標未帶有 [RoseWedge]，則額外使目標增加4級 [RoseWedge] 強度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] <style=\"highlight\">(1+(最大共鳴數/2))次(最多3次；根據觸發的 [Laceration] 次數，使目標的 [Laceration] 層數相應減少)</style>"
                 }
               ]
             }
@@ -485,41 +485,25 @@
           "level": 4,
           "name": "渴望-蜜卡拉",
           "abName": "四百朵玫瑰",
-          "desc": "[CantIdentify]\n隨機指定目標\n自身與目標的流血 強度之和每有6級，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級流血 強度並觸發其流血 1次(使其流血 層數減少1層)。使自身恢復相當於對友方單位造成流血 傷害量的體力",
+          "desc": "[CantIdentify]\n隨機指定目標\n自身與目標的 [Laceration] 強度之和每有6級，使本技能的硬幣威力+1<style=\"highlight\">(最多+3)</style>\n[WhenUse] 消耗自身體力上限10%的體力並對全體敵方與友方單位造成(消耗的體力/2)點傷害\n- 若現存體力低於體力上限的50%，則改為使全體友方單位增加5級 [Laceration] 強度並觸發其 [Laceration] 1次(使其 [Laceration] 層數減少1層)。使自身恢復相當於對友方單位造成 [Laceration] 傷害量的體力",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加3級流血 強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加3級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發自身與目標的流血 1次(使其流血 層數減少1層)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 觸發自身與目標的 [Laceration] 1次(使其 [Laceration] 層數減少1層)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與目標增加3級流血 強度"
+                  "desc": "[OnSucceedAttack] 使自身與目標增加3級 [Laceration] 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發自身與目標的流血 1次(使其流血 層數減少1層)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[WinDuelAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] 對目標施加2層[RoseWedge]"
-                },
-                {
-                  "desc": "- 若目標未帶有[RoseWedge]，則額外使目標增加4級[RoseWedge]強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 觸發自身與目標的 [Laceration] 1次(使其 [Laceration] 層數減少1層)</style>"
                 }
               ]
             },
@@ -529,10 +513,26 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] 觸發目標的流血 (1+(最大共鳴數/2))次(最多3次；根據觸發的流血 次數，使目標的流血 層數相應減少)"
+                  "desc": "[WinDuelAttack] 對目標施加2層 [RoseWedge] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] 對敵方單位造成超過其剩餘體力的溢出傷害時，對全體敵方單位造成共計相當於溢出傷害量的固定傷害(最少1點)"
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層 [RoseWedge]"
+                },
+                {
+                  "desc": "- 若目標未帶有 [RoseWedge]，則額外使目標增加4級 [RoseWedge] 強度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] 觸發目標的 [Laceration] (1+(最大共鳴數/2))次(最多3次；根據觸發的 [Laceration] 次數，使目標的 [Laceration] 層數相應減少)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] 對敵方單位造成超過其剩餘體力的溢出傷害時，對全體敵方單位造成共計相當於溢出傷害量的固定傷害(最少1點)</style>"
                 }
               ]
             }

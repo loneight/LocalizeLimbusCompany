@@ -10,11 +10,11 @@
     },
     {
       "id": "announcer_specialcheer_11_1",
-      "dlg": "一副搖搖晃晃的樣子。他們離死不遠了。\n傑克，等他們死了之後就全拿去做食材吧？"
+      "dlg": "一副搖搖晃晃的樣子。他們離死不遠了。\n傑克，等他們死了之後就全拿去做食材如何？"
     },
     {
       "id": "announcer_specialcheer_11_2",
-      "dlg": "你們啊～再這樣可要被剁成肉醬囉？\n沒關係，皮埃爾。他們就這麼被剁碎的話反而替我們省事了。"
+      "dlg": "你們再這樣下去就要被剁成絞肉囉？\n沒關係，皮埃爾。他們就這麼被剁碎的話反而替我們省事了。"
     },
     {
       "id": "announcer_enemy_break_11_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "announcer_enemy_adv_11_1",
-      "dlg": "哎喲，不行不行！\n在變成肉醬之前趕快逃走比較好吧。"
+      "dlg": "哎唷，不行不行！\n在變成絞肉之前趕快逃走比較好吧。"
     },
     {
       "id": "announcer_ally_advex_11_1",
@@ -54,7 +54,7 @@
     },
     {
       "id": "announcer_advatk_physical_11_1",
-      "dlg": "切得漂亮。\n這真是一塊完美的肉！"
+      "dlg": "切得漂亮。\n這真是一片完美的薄切肉片！"
     },
     {
       "id": "announcer_disadvatk_physical_11_1",
@@ -62,11 +62,11 @@
     },
     {
       "id": "announcer_advatk_attr_11_1",
-      "dlg": "削肉以刀，剔骨以鋸！\n同意，皮埃爾。"
+      "dlg": "以刀削肉，以鋸剔骨！\n同意，皮埃爾。"
     },
     {
       "id": "announcer_disadvatk_attr_11_1",
-      "dlg": "選用的工具很奇怪呀。\n哦呼，他們所做的只會讓武器被磨鈍。"
+      "dlg": "選用的工具很奇怪呀。\n唉，這麼做只會讓刀刃白白耗損。"
     },
     {
       "id": "announcer_enemy_specialbuff_11_1",
@@ -74,7 +74,7 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_11_1",
-      "dlg": "他們看起來很累。\n這時候不進行食材處理，肉質就會變硬的～"
+      "dlg": "看來他們鬆懈了。\n這時候不進行食材處理，肉質就會變硬的～"
     },
     {
       "id": "announcer_ally_specialbuff_11_1",
@@ -94,15 +94,15 @@
     },
     {
       "id": "announcer_round_takebigdmg_11_1",
-      "dlg": "哦唔、哦唔……看著就痛，那個。\n應該讓材料無法反抗才對的。"
+      "dlg": "噢、噢……看著就痛啊，那個。\n應該讓材料無法反抗才對的。"
     },
     {
       "id": "announcer_round_takebigdmg_11_2",
-      "dlg": "你們……真的能帶材料來嗎？\n關於供應合約，我得檢查一下。皮埃爾。"
+      "dlg": "你們……真的能帶材料來嗎？\n關於供應合約，我得重新考慮一下。皮埃爾。"
     },
     {
       "id": "announcer_round_givebigdmg_11_1",
-      "dlg": "用力過頭了吧？\n就是啊！要溫柔一點～不然派裡會有骨頭渣的！"
+      "dlg": "用力過頭了吧？\n就是啊！要溫柔一點～不然派裡會有骨頭碎片的！"
     },
     {
       "id": "announcer_round_givebigdmg_11_2",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_equip_11_1",
-      "dlg": "這裡是皮埃爾喲～\n這裡是傑克。\n今天要做什麼料理呢？"
+      "dlg": "這裡是皮埃爾唷～\n這裡是傑克。\n今天要做什麼料理呢？"
     }
   ]
 }

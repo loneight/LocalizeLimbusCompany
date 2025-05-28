@@ -3,7 +3,7 @@
     {
       "id": 1019,
       "panicName": "凌亂的繪畫",
-      "lowMoraleDescription": "使自身獲得1層[Enhancement]並對自身施加1層[Vulnerable]",
+      "lowMoraleDescription": "使自身獲得1層 [Enhancement] 並對自身施加1層 [Vulnerable]",
       "panicDescription": "使自身獲得1層[PlusCoinValueUp]並對自身施加3層[Vulnerable]。"
     },
     {

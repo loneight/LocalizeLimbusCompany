@@ -234,12 +234,8 @@
     },
     {
       "id": "mainui_shop_until_season_finished",
-      "content": "至第6賽季更新前"
-    },
-    {
-      "id": "mainui_shop_until_season_finished",
       "content": "至第7賽季更新前"
-    }
+    },
     {
       "id": "mainui_shop_purchase",
       "content": "購買"

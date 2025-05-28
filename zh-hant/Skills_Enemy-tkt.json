@@ -290,7 +290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於10層，則使目標震顫引爆 並使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若自身的 [Vibration] 層數不低於10層，則使目標 [VibrationExplosion] 並使其 [Vibration] 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於15級，則使其震顫引爆 並使其震顫 層數減少1層"
@@ -593,7 +593,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層 [Vulnerable]"
                 },
                 {
                   "desc": "使目標增加2級震顫 強度"

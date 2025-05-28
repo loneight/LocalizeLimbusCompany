@@ -335,7 +335,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-辛克萊 "
+                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_Sinclair]"
                 }
               ]
             },
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Combustion] 強度"
                 }
               ]
             }
@@ -1089,7 +1089,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 \n- 自身每帶有10層物流箱-辛克萊 ，對目標額外施加1層破裂 (最多2層)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst]\n- 自身每帶有10層 [DevyatDimensionalSackSinclair]，對目標額外施加1層 [Burst] (最多2層)"
                 }
               ]
             },
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "稍、稍微維修一會兒…！",
-          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的物流箱-辛克萊 層數/2)%的護盾(最多15%，每回合最多1次)\n[EndBattle] 啟動戰略性休息福利模式 ",
+          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的 [DevyatDimensionalSackSinclair] 層數/2)%的護盾(最多15%，每回合最多1次)\n[EndBattle] 啟動 [Retreat]",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "稍、稍微維修一會兒…！",
-          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的物流箱-辛克萊 層數)%的護盾(最多25%，每回合最多1次)\n[EndBattle] 啟動戰略性休息福利模式 ",
+          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限<style=\"highlight\">(自身的 [DevyatDimensionalSackSinclair] 層數)</style>%的護盾(最多<style=\"highlight\">25</style>%，每回合最多1次)\n[EndBattle] 啟動 [Retreat]",
           "coinlist": [
             {
               "coindescs": [

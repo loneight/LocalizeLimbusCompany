@@ -224,14 +224,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -276,14 +276,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
@@ -316,7 +316,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 \n- 若本技能消耗了30層血宴 ，則額外施加2層束縛 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層 [Binding]\n- 若本技能消耗了30層 [BloodDinner]，則額外施加2層 [Binding]"
                 }
               ]
             }
@@ -335,14 +335,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
@@ -508,7 +508,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的震顫 層數不低於5層，則使目標震顫引爆 並使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若目標的 [Vibration] 層數不低於5層，則使目標 [VibrationExplosion] 並使其 [Vibration] 層數減少1層"
                 },
                 {
                   "desc": "[WinDuelAttack] 使目標增加5級震顫 強度並對其施加3層震顫 "

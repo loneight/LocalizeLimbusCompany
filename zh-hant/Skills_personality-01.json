@@ -640,7 +640,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 根據自身帶有的所解真知 層數，相應使自身的混亂閾值後移"
+                  "desc": "[OnSucceedAttackHead] 根據自身帶有的 [KnowledgeExplored] 層數，相應使自身的混亂閾值後移"
                 }
               ]
             }

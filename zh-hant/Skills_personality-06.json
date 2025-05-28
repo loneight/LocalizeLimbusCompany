@@ -614,7 +614,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對自身施加2層震顫 "
+                  "desc": "[OnSucceedAttackHead] 對自身施加2層 [Vibration]"
                 }
               ]
             }
@@ -1342,7 +1342,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [PenetrateTakeDamageUp]"
                 }
               ]
             }
@@ -1388,7 +1388,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層突刺易損 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層 [PenetrateTakeDamageUp]"
                 }
               ]
             }
@@ -1630,7 +1630,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層突刺易損 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層 [PenetrateTakeDamageUp]"
                 }
               ]
             },
@@ -1895,7 +1895,7 @@
         {
           "level": 4,
           "name": "精神鞭韃",
-          "desc": "自身每帶有1級[Charge] 強度，使本技能造成的傷害<style=\"highlight\">+4%</style>(最多<style=\"highlight\">+20%</style>)\n[WhenUse] 若自身的充能 層數在5～9層之間\n- 使自身增加<style=\"highlight\">10</style>級[Sinking]強度，並增加10層[Charge]\n- 此技能變更為[CantIdentify]，且獲得[WideAreaRampage]，使本技能攻擊容量 +1\n<style=\"highlight\">- [BeforeUse] 自身的[Charge] 強度不低於5級時，本技能不再變更為[CantIdentify]</style>\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力 <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] 如果[Charge] 層數不低於8層，則消耗8層[Charge] ，使本技能傷害 +40%</style>",
+          "desc": "自身每帶有1級 [Charge] 強度，使本技能造成的傷害<style=\"highlight\">+4%</style>(最多<style=\"highlight\">+20%</style>)\n[WhenUse] 若自身的 [Charge] 層數在5～9層之間\n- 使自身增加<style=\"highlight\">10</style>級 [Sinking] 強度，並增加10層 [Charge]\n- 此技能變更為 [CantIdentify]，且獲得 [WideAreaRampage]，使本技能攻擊容量 +1\n<style=\"highlight\">- [BeforeUse] 自身的 [Charge] 強度不低於5級時，本技能不再變更為 [CantIdentify] </style>\n[WhenUse] 消耗10層 [Charge] 並使本技能的硬幣威力 <style=\"highlight\">+2</style>\n<style=\"highlight\">[BeforeAttack] 如果 [Charge] 層數不低於8層，則消耗8層 [Charge]，使本技能傷害 +40%</style>",
           "coinlist": [
             {
               "coindescs": [

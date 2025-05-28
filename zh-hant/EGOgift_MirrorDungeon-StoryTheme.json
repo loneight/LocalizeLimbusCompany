@@ -41,7 +41,7 @@
         },
         {
           "abilityID": 94071,
-          "simpleDesc": "使自身獲得1層守護 ，1層傷害強化 與1層威力提升 "
+          "simpleDesc": "使自身獲得1層 [Protection]，1層 [AttackDmgUp] 與1層 [ResultEnhancement]"
         }
       ]
     },
@@ -56,7 +56,7 @@
         },
         {
           "abilityID": 94081,
-          "simpleDesc": "使自身獲得1層守護 ，1層傷害強化 與1層威力提升 "
+          "simpleDesc": "使自身獲得1層 [Protection]，1層 [AttackDmgUp] 與1層 [ResultEnhancement]"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "simpleDesc": [
         {
           "abilityID": 9413,
-          "simpleDesc": "對目標施加1～2層尖釘 "
+          "simpleDesc": "對目標施加1～2層 [NailPersonality]"
         },
         {
           "abilityID": 94131,
@@ -134,11 +134,11 @@
     {
       "id": 9416,
       "name": "完全性",
-      "desc": "友方單位增加流血 強度，施加流血 層數或施加特殊流血的技能拚點勝利時，對目標施加2～3層尖釘 \n\n若該友方單位屬於N公司狂信徒，則回合開始時使其獲得1層狂信 並使其對帶有流血 的敵方單位造成的傷害+25%\n\n關卡開始時，若屬於N公司狂信徒的友方單位不低於5名(以參戰人員為基準)，則觸發額外效果。屬於N公司狂信徒的友方單位最終威力+1，加算硬幣威力+1，減算硬幣威力-1，攻擊技能對目標施加的尖釘 層數額外+1。回合開始時，使理智值為最大值且屬於N公司狂信徒的友方單位獲得3層傷害強化 \n",
+      "desc": "友方單位增加 [Laceration] 強度，施加 [Laceration] 層數或施加特殊流血的技能拚點勝利時，對目標施加2～3層 [NailPersonality]\n\n若該友方單位屬於N公司狂信徒，則回合開始時使其獲得1層狂信 並使其對帶有 [Laceration] 的敵方單位造成的傷害+25%\n\n關卡開始時，若屬於N公司狂信徒的友方單位不低於5名(以參戰人員為基準)，則觸發額外效果。屬於N公司狂信徒的友方單位最終威力+1，加算硬幣威力+1，減算硬幣威力-1，攻擊技能對目標施加的 [NailPersonality] 層數額外+1。回合開始時，使理智值為最大值且屬於N公司狂信徒的友方單位獲得3層 [AttackDmgUp]",
       "simpleDesc": [
         {
           "abilityID": 9416,
-          "simpleDesc": "拚點勝利時，對目標施加2～3層尖釘 "
+          "simpleDesc": "拚點勝利時，對目標施加2～3層 [NailPersonality]"
         },
         {
           "abilityID": 94161,

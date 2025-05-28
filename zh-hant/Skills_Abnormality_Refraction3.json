@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
@@ -104,14 +104,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
                 }
               ]
             }
@@ -246,7 +246,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度並對其施加4層燒傷 "
+                  "desc": "[OnSucceedAttack] 使目標增加6級 [Combustion] 強度並對其施加4層 [Combustion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層暴怒抗性弱化 "
@@ -385,7 +385,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttackHead] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -404,7 +404,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttackHead] 使目標增加2層 [Laceration]"
                 }
               ]
             }

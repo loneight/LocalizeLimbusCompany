@@ -69,7 +69,7 @@
     {
       "id": "SelfHarm_LowMorale",
       "name": "自殘",
-      "desc": "- 士氣低落\n- 回合開始時，使自身獲得2層迅捷 並對自身施加2層易損 。"
+      "desc": "- 士氣低落\n- 回合開始時，使自身獲得2層迅捷 並對自身施加2層易損 "
     },
     {
       "id": "SelfHarm_Panic",
@@ -79,12 +79,12 @@
     {
       "id": "Blame_LowMorale",
       "name": "遷怒",
-      "desc": "- 士氣低落\n- 回合開始時，使自身獲得2層強壯 並對自身施加2層易損 。"
+      "desc": "- 士氣低落\n- 回合開始時，使自身獲得2層強壯 並對自身施加2層易損 "
     },
     {
       "id": "Blame_Panic",
       "name": "遷怒",
-      "desc": "- 陷入恐慌\n- 回合開始時，隨機友方單位失去20點理智值。"
+      "desc": "- 陷入恐慌\n- 回合開始時，隨機友方單位失去20點理智值"
     },
     {
       "id": "Charge",
@@ -196,32 +196,32 @@
     {
       "id": "Combustion",
       "name": "燒傷",
-      "desc": "回合結束時，受到數值等同於本效果強度的固定傷害。\n回合結束後，本效果的層數減少1層。"
+      "desc": "回合結束時，受到數值等同於本效果強度的固定傷害\n回合結束後，本效果的層數減少1層"
     },
     {
       "id": "Laceration",
       "name": "流血",
-      "desc": "擲出攻擊技能硬幣時，受到數值等同於本效果強度的固定傷害。\n效果生效後，本效果的層數減少1層。"
+      "desc": "擲出攻擊技能硬幣時，受到數值等同於本效果強度的固定傷害\n效果生效後，本效果的層數減少1層"
     },
     {
       "id": "Vibration",
       "name": "震顫",
-      "desc": "受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值。\n回合結束時，本效果的層數減少1層。"
+      "desc": "受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值\n回合結束時，本效果的層數減少1層"
     },
     {
       "id": "Burst",
       "name": "破裂",
-      "desc": "受到攻擊時，附加數值等同於本效果強度的固定傷害。\n效果生效後，本效果的層數減少1層。"
+      "desc": "受到攻擊時，附加數值等同於本效果強度的固定傷害\n效果生效後，本效果的層數減少1層"
     },
     {
       "id": "Sinking",
       "name": "沉淪",
-      "desc": "受到攻擊時，失去數值等同於本效果強度的固定理智值點數(沒有理智值的目標則受到憂鬱傷害)。\n效果生效後，本效果的層數減少1層。"
+      "desc": "受到攻擊時，失去數值等同於本效果強度的固定理智值點數(沒有理智值的目標則受到憂鬱傷害)\n效果生效後，本效果的層數減少1層"
     },
     {
       "id": "Breath",
       "name": "呼吸法",
-      "desc": "攻擊命中時，基於效果強度提高該次攻擊的暴擊率，觸發暴擊時使效果層數減少1層。\n回合結束時，本效果的層數減少1層。"
+      "desc": "攻擊命中時，基於效果強度提高該次攻擊的暴擊率，觸發暴擊時使效果層數減少1層\n回合結束時，本效果的層數減少1層"
     },
     {
       "id": "BloodPocket",
@@ -246,12 +246,12 @@
     {
       "id": "Operation",
       "name": "手術",
-      "desc": "在層數達到5層時直接陣亡。\n每層減少20%體力上限。\n每層增加20%造成的傷害。\n回合開始時，使自身獲得與本效果層數相同的迅捷 。"
+      "desc": "在層數達到5層時直接陣亡\n每層減少20%體力上限\n每層增加20%造成的傷害\n回合開始時，使自身獲得與本效果層數相同的迅捷 "
     },
     {
       "id": "Emergency_Operation",
       "name": "緊急手術",
-      "desc": "每層使體力上限增加25%，技能威力+1。\n本效果的層數每回合增加1層。\n層數達到5層時，角色直接陣亡。"
+      "desc": "每層「緊急手術」使體力上限增加25%，技能威力+1。\n本效果的層數每回合增加1層\n層數達到5層時，角色直接陣亡"
     },
     {
       "id": "BabayagaTimeLimit",
@@ -266,12 +266,12 @@
     {
       "id": "Greedy",
       "name": "渴望",
-      "desc": "回合開始時，施加10層束縛 。\n物理抗性全部變為「致命」。\n攻擊技能威力+2。\n守備技能威力-2。"
+      "desc": "回合開始時，施加10層束縛 \n物理抗性全部變為「致命」\n攻擊技能威力+2\n守備技能威力-2"
     },
     {
       "id": "PinkRibbon_Ishmael",
       "name": "粉色絲帶",
-      "desc": "本回合內，每次擲出攻擊技能硬幣時使本效果的層數增加1層。\n回合結束時，施加與本效果層數相同的束縛 ，隨後解除本效果。"
+      "desc": "本回合內，每次擲出攻擊技能硬幣時使本效果的層數增加1層。\n回合結束時，施加與本效果層數相同的束縛 ，隨後解除本效果"
     },
     {
       "id": "Muckworm",
@@ -506,7 +506,7 @@
     {
       "id": "Bullet",
       "name": "彈藥",
-      "desc": "特定技能進行攻擊時消耗的資源。\n缺少彈藥時這些攻擊將被取消。"
+      "desc": "特定技能進行攻擊時消耗的資源\n缺少彈藥時這些攻擊將被取消"
     },
     {
       "id": "Meursault_Last_Remodeling",
@@ -691,7 +691,7 @@
     {
       "id": "NailPersonality",
       "name": "尖釘",
-      "desc": "特殊流血\n回合開始時，增加1級流血 強度並獲得與本效果層數相同的流血 層數。回合結束時，使本效果的層數減半。(向下取整)"
+      "desc": "特殊流血\n回合開始時，增加1級流血 強度並獲得與本效果層數相同的流血 層數。回合結束時，使本效果的層數減半(向下取整)"
     },
     {
       "id": "AssemblePersonality",
@@ -788,7 +788,7 @@
     {
       "id": "WrappedCurseTag",
       "name": "糾纏的咒符",
-      "desc": "每層使造成的傷害+1%\n若層數高於9層，則在回合開始時對自身施加2層虛弱 。",
+      "desc": "每層使造成的傷害+1%\n若層數高於9層，則在回合開始時對自身施加2層虛弱 ",
       "summary": "每層使造成的傷害+1%；若層數高於9層，則在回合開始時對自身施加2層虛弱 。"
     },
     {
@@ -961,7 +961,7 @@
     {
       "id": "Prowl_LowMorale",
       "name": "徘徊",
-      "desc": "- 士氣低落\n- 回合結束時，友方單位失去2點理智值。",
+      "desc": "- 士氣低落\n- 回合結束時，友方單位失去2點理智值",
       "undefined": "-"
     },
     {
@@ -973,13 +973,13 @@
     {
       "id": "Blue_LowMorale",
       "name": "抑鬱",
-      "desc": "- 士氣低落\n- 若拚點時硬幣擲出過反面，則使本次拚點威力-1。",
+      "desc": "- 士氣低落\n- 若拚點時硬幣擲出過反面，則使本次拚點威力-1",
       "undefined": "-"
     },
     {
       "id": "Blue_Panic",
       "name": "抑鬱",
-      "desc": "- 士氣低落\n- 若拚點時硬幣擲出過反面，則使本次拚點威力-3。",
+      "desc": "- 士氣低落\n- 若拚點時硬幣擲出過反面，則使本次拚點威力-3",
       "undefined": "-"
     },
     {
@@ -991,7 +991,7 @@
     {
       "id": "DongbaekFlorescence",
       "name": "開花",
-      "desc": "回合結束時，若本效果的層數不低於5層，則受到體力上限(層數)%的怠惰傷害，並進入盛放 狀態\n層數未滿5層時，則會受到(層數x5)點理智傷害，並使本效果的層數-1。",
+      "desc": "回合結束時，若本效果的層數不低於5層，則受到體力上限(層數)%的怠惰傷害，並進入盛放 狀態\n層數未滿5層時，則會受到(層數×5)點理智傷害，並使本效果的層數-1。",
       "summary": ""
     },
     {
@@ -1009,7 +1009,7 @@
     {
       "id": "DongbaekShowdown",
       "name": "對決",
-      "desc": "回合開始時，未帶有本效果的單位會進入盛放 狀態。\n若李箱帶有本效果，冬柏將獲得1層強壯 。",
+      "desc": "回合開始時，未帶有本效果的單位會進入盛放 狀態。\n若李箱帶有本效果，冬柏將獲得1層強壯 ",
       "summary": ""
     },
     {
@@ -1242,7 +1242,7 @@
     {
       "id": "Discard",
       "name": "丟棄",
-      "desc": "- 連接技能時，將可選技能中符合條件的技能從儀表盤中丟棄。(不包括守備技能，E.G.O技能。被丟棄的技能不會移出技能池。)\n- 技能被丟棄時不會發動與「被丟棄」相關效果之外的技能效果，不會發動硬幣效果，且不會獲得該技能的罪孽碎片。"
+      "desc": "- 連接技能時，將可選技能中符合條件的技能從儀錶盤中丟棄。(不包括守備技能，E.G.O技能。被丟棄的技能不會移出技能池。)\n- 技能被丟棄時不會發動與「被丟棄」相關效果之外的技能效果，不會發動硬幣效果，且不會獲得該技能的罪孽碎片。"
     },
     {
       "id": "KnowledgeExplored",
@@ -1304,7 +1304,7 @@
     {
       "id": "FreischutzShotCount",
       "name": "魔彈",
-      "desc": "- 最大值：7\n- 本效果的層數受到特定技能效果的影響。\n-[腦葉公司E.G.O::魔彈 奧提斯 人格專屬效果]\n． 本效果的層數越高，3技能的基礎威力與硬幣威力越高"
+      "desc": "- 最大值：7\n- 本效果的層數受到特定技能效果的影響。\n- [腦葉公司E.G.O::魔彈 奧提斯 人格專屬效果]\n． 本效果的層數越高，3技能的基礎威力與硬幣威力越高"
     },
     {
       "id": "DarkFlame",
@@ -1375,7 +1375,7 @@
     {
       "id": "EchoOfMansion",
       "name": "山莊的迴響",
-      "desc": "- 因技能或硬幣效果使自身增加沉淪強度或對自身施加沉淪層數時，有50%的機率對自身施加1層沉淪\n- 若自身帶有理智值：自身的恐慌類型轉變為山莊的迴響。自身陷入恐慌時，下回合隨機對2名其他友方單位施加山莊的迴響\n- 若自身沒有理智值：自身的硬幣朝向正面的機率-10%\n- 回合結束時，本效果的層數減少1層\n- 本效果無法疊加，施加本效果時會改為將現存層數變為施加的層數\n- 對於帶有理智值但不會改變恐慌類型的特定敵方單位，適用於沒有理智值時的效果。"
+      "desc": "- 因技能或硬幣效果使自身增加沉淪 強度或對自身施加沉淪 層數時，有50%的機率對自身施加1層沉淪 \n- 若自身帶有理智值：自身的恐慌類型轉變為山莊的迴響 。自身陷入恐慌時，下回合隨機對2名其他友方單位施加山莊的迴響 \n- 若自身沒有理智值：自身的硬幣朝向正面的機率-10%\n- 回合結束時，本效果的層數減少1層\n- 本效果無法疊加，施加本效果時會改為將現存層數變為施加的層數。\n- 對於帶有理智值但不會改變恐慌類型的特定敵方單位，適用於沒有理智值時的效果。"
     },
     {
       "id": "Switch_Vibration",
@@ -1497,7 +1497,7 @@
     {
       "id": "PhotoElectricity",
       "name": "光電",
-      "desc": "最大值：3\n自身受到攻擊時，使攻擊者獲得本效果層數層充能 (每個技能最多1次)\n- 若攻擊者充能層數不高於5層，則使其額外獲得3層充能\n回合結束時解除本效果",
+      "desc": "最大值：3\n自身受到攻擊時，使攻擊者獲得本效果層數層充能 (每個技能最多1次)\n- 若攻擊者充能 層數不高於5層，則使其額外獲得3層充能 \n回合結束時解除本效果",
       "summary": ""
     },
     {
@@ -1599,7 +1599,7 @@
     {
       "id": "BloodScissorPersonalitySecond",
       "name": "染血的剪刃II",
-      "desc": "- 最大值：20\n- 染血的剪刃 2階段\n- 回合開始時，每帶有5層本效果，使自身獲得1層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 染血的剪刃 層數不低於10層時，轉化為染血的剪刃II 。\n- 染血的剪刃 層數不低於20層時，轉化為染血的剪刃III 。\n- 若染血的剪刃 被消耗至閾值以下，則轉換至前一階段。\n- 染血的剪刃 的層數不會降至1層以下。\n- 帶有染血的剪刃II 時，根據本效果層數，相應使自身獲得1層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 帶有染血的剪刃III 時，根據本效果層數，相應使自身獲得1層攻擊等級提升",
+      "desc": "- 最大值：20\n- 染血的剪刃 2階段\n- 回合開始時，每帶有5層本效果，使自身獲得1層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 染血的剪刃 層數不低於10層時，轉化為染血的剪刃II 。\n- 染血的剪刃 層數不低於20層時，轉化為染血的剪刃III 。\n- 若染血的剪刃 被消耗至閾值以下，則轉換至前一階段。\n- 染血的剪刃 的層數不會降至1層以下。\n- 帶有染血的剪刃II 時，根據本效果層數，相應使自身獲得1層攻擊等級提升 並對自身施加1層防禦等級降低 \n- 帶有染血的剪刃III 時，根據本效果層數，相應使自身獲得1層攻擊等級提升 ",
       "summary": "",
       "undefined": "-"
     },
@@ -1648,7 +1648,7 @@
     {
       "id": "WornHeartGreg",
       "name": "磨滅的心",
-      "desc": "- 最大值：10\n- 回合結束時，獲得1層本效果\n- 回合開始時，自身每帶有3層本效果，使自身獲得1層防禦等級提升 \n- 若現存體力不高於體力上限的50%，則每帶有3層本效果，使自身增加1級防禦等級\n- 若現存體力不高於體力上限的40%，則自身基礎技能命中時，使自身恢復傷害量(本效果層數×5)%的體力(最少1點，向下取整，每個技能最多30點)",
+      "desc": "- 最大值：10\n- 回合結束時，獲得1層本效果\n- 回合開始時，自身每帶有3層本效果，使自身獲得1層防禦等級提升 \n- 若現存體力不高於體力上限的50%，則每帶有3層本效果，使自身增加1級防禦等級 \n- 若現存體力不高於體力上限的40%，則自身基礎技能命中時，使自身恢復傷害量(本效果層數×5)%的體力(最少1點，向下取整，每個技能最多30點)",
       "summary": "",
       "undefined": "-"
     },
@@ -1758,7 +1758,7 @@
     {
       "id": "FreishutzOutisEgoBullet_6th",
       "name": "第六發魔彈",
-      "desc": "- 攻擊前，攻擊容量+6\n- 命中時，使目標的混亂閾值前移相當於造成傷害量的數值(最多30)\n- 主要目標每帶有7級燒傷 強度，重複使用硬幣1次(最多2次)\n- 加算硬幣技能的基礎威力-16\n- 減算硬幣技能的基礎威力-22\n - 加算硬幣威力-8\n - 減算硬幣威力-12"
+      "desc": "- 攻擊前，攻擊容量+6\n- 命中時，使目標的混亂閾值前移相當於造成傷害量的數值(最多30)\n- 主要目標每帶有7級燒傷 強度，重複使用硬幣1次(最多2次)\n- 加算硬幣技能的基礎威力-16\n- 減算硬幣技能的基礎威力-22\n- 加算硬幣威力-8\n- 減算硬幣威力-12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
@@ -1798,7 +1798,7 @@
     {
       "id": "MeleeCover",
       "name": "近戰支援",
-      "desc": "- 若A單位使B單位獲得本效果，則在A單位使用其技能後，B單位使用技能「近戰支援」對攻擊A單位的敵方單位進行單方面攻擊\n\n- 通過近戰支援使用的技能不會影響B單位的技能池"
+      "desc": "- 若A單位使B單位獲得本效果，則在A單位使用其技能後，B單位使用技能「近戰支援」對攻擊A單位的敵方單位進行單方面攻擊\n- 通過近戰支援使用的技能不會影響B單位的技能池"
     },
     {
       "id": "RequestedTarget",
@@ -1808,7 +1808,7 @@
     {
       "id": "GlowingLantern",
       "name": "精靈誘餌",
-      "desc": "- 最大值：5\n- 回合開始時，使儀表盤最左側行動槽的挑釁值 +10\n- 使自身受到的傷害+50%\n- 受到攻擊時，使攻擊者增加1級破裂 強度(每個目標的技能最多3次)\n．若現存體力低於50%，則額外增加1級破裂 強度\n．若目標的破裂 強度不低於15級，則本效果不會增加破裂 強度\n- 回合結束時本效果的層數減少1層"
+      "desc": "- 最大值：5\n- 回合開始時，使儀錶盤最左側行動槽的挑釁值 +10\n- 使自身受到的傷害+50%\n- 受到攻擊時，使攻擊者增加1級破裂 強度(每個目標的技能最多3次)\n．若現存體力低於50%，則額外增加1級破裂 強度\n．若目標的破裂 強度不低於15級，則本效果不會增加破裂 強度\n- 回合結束時本效果的層數減少1層"
     },
     {
       "id": "HoldingBreath",
@@ -1870,7 +1870,7 @@
     {
       "id": "FirePunchFuel",
       "name": "12區燃料",
-      "desc": "最大值：100\n特定技能使用時消耗燃料\n若本效果層數不高於50層，則轉化為過熱燃料 ",
+      "desc": "最大值：100\n特定技能使用時消耗燃料 \n若本效果層數不高於50層，則轉化為過熱燃料 ",
       "summary": "",
       "undefined": "-"
     },
@@ -1912,13 +1912,13 @@
     {
       "id": "BirdCage",
       "name": "炙熱鳥籠",
-      "desc": "- 最大值：5\n- 若自身帶有 燒傷 ，本效果每層將使自身的暴怒抗性+0.1(本效果不能使暴怒抗性高於2.0)\n- 回合結束時，下回合對自身施加等於本效果層數的 束縛\n- 回合結束時，本效果層數減半(向下取整)\n※ 本效果不能被重複施加",
-      "summary": "每層使憤怒抗性上升0.1",
+      "desc": "- 最大值：5\n- 若自身帶有 燒傷 ，本效果每層將使自身的暴怒抗性+0.1(本效果不能使暴怒抗性高於2.0)\n- 回合結束時，下回合對自身施加等於本效果層數的 束縛 \n- 回合結束時，本效果層數減半(向下取整)\n※ 本效果不能被重複施加",
+      "summary": "每層使暴怒抗性上升0.1",
       "undefined": "-"
     },
     {
       "id": "WideAreaRampage",
-      "name": "全場域無差別射擊",
+      "name": "全域隨機攻擊",
       "desc": "- 每當擲出該技能硬幣時，隨機選擇一個攻擊目標進行攻擊\n・第一枚硬幣必定擊中主要攻擊目標\n・所有[命中時]效果、硬幣造成的傷害僅適用於上述效果中所選的攻擊目標",
       "summary": "從攻擊目標中隨機選擇一名目標進行攻擊",
       "undefined": "-"
@@ -1927,6 +1927,69 @@
       "id": "ActivatedEgoPassive",
       "name": "E.G.O被動技能",
       "desc": "生效中的E.G.O被動技能",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstPoison",
+      "name": "咒殺【毒】",
+      "desc": "基礎值：5\n- 咒殺\n- 在受到因暴擊傷害而觸發破裂 的攻擊時，減少1層\n- 因前述效果減少層數時，自身獲得1級攻擊等級 下降或1級防禦等級 下降(每回合最多發動3次)\n- 若本效果層數為0層，則受到相當於自身破裂 強度的暴食傷害\n- ※ 帶有本效果時，本效果層數不會額外獲得",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SnakeStance",
+      "name": "巳腕",
+      "desc": "基礎值：3\n回合結束時, 下回合使自身獲得3級呼吸法 ，使自身獲得2層呼吸法 \n使用基礎攻擊技能 時，若目標帶有破裂 ，則使自身獲得5級呼吸法 \n回合結束時，本效果的層數減少1層",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstZilu",
+      "name": "Deathrite 【Fissure】",
+      "desc": "- Base Stack: 3\n- When getting Rupture triggered while this unit has Deathrite, lose 1 Stack, and gain 1 Bind next turn\n· When this effect activates, if this unit is to gain 3 or more Bind next turn, lose 2 Stacks instead of gaining Bind\n- At 0 Stack, take Gluttony damage equal to Rupture Potency on self\n※ Cannot gain additional Stacks of this effect while it is already active.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Assist Defense",
+      "desc": "- Max Stack: 3\n- When an ally is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the unique Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Tianjiu Star's Blade",
+      "desc": "- Max Stack: 20\n- At 10+ Stack: at Turn End, gain 1 Haste next turn\n- Used for certain Skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Mark of Decay",
+      "desc": "- Max Stack: 1\n- Take +10% damage from Gluttony Skills\n- Take +10% damage from Deathrite\n- Removed at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Assist Defense",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "Entangled Curse Talisman",
+      "desc": "- Max Stack: 5\n- Expires at Turn End\n- At 10+ Stack, when taking 30+ damage from a Skill: gain +1 Rupture Count; take Gluttony damage equal to Rupture Potency on self (once per turn)\n- When this effect expires, gain (Stack / 4) Attack Power Down next turn (max 2)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "Centipede Venom",
+      "desc": "- Max Stack: 20\n- Turn End: gain (Stack / 4) Defense Level Down next turn (rounded down)\n- Turn End: take Gluttony damage equal to Stack, and halve the Stack (rounded down)\nUpon death, transfers to this unit's ally(for Focused Encounters, a different Part) with none or the least Centipede Venom Stacks.",
       "summary": "",
       "undefined": "-"
     }

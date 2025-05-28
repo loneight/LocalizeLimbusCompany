@@ -1514,7 +1514,7 @@
     },
     {
       "id": "introduce_sentence_190",
-      "content": "懸掛他們，燃燒他們，直至{0}也燃燒殆盡為止。"
+      "content": "懸掛他們，燃燒他們。直至{0}也燃燒殆盡為止。"
     },
     {
       "id": "introduce_word_191",
@@ -1522,15 +1522,15 @@
     },
     {
       "id": "introduce_sentence_191",
-      "content": "哈啊……這次是{0}被第一次投入戰場嗎？"
+      "content": "哈……這次是{0}被第一次投入戰場嗎？"
     },
     {
       "id": "introduce_word_192",
-      "content": "工具"
+      "content": "道具"
     },
     {
       "id": "introduce_sentence_192",
-      "content": "對陌生的 {0} 心懷怨恨，這很奇怪吧？"
+      "content": "對於{0}懷抱著仇恨，怎麼想都很奇怪啊？"
     },
     {
       "id": "introduce_word_193",
@@ -1538,7 +1538,31 @@
     },
     {
       "id": "introduce_sentence_193",
-      "content": "用這個八十……再多一點就能結束以{0}方式生活了。"
+      "content": "這樣就是八十……只要再一點點，我就能脫離作為{0}的生活。"
+    },
+    {
+      "id": "introduce_word_194",
+      "content": "Learning"
+    },
+    {
+      "id": "introduce_sentence_194",
+      "content": "Yet, one must face their disinclinations for the pursuit of {0}."
+    },
+    {
+      "id": "introduce_word_195",
+      "content": "Wish"
+    },
+    {
+      "id": "introduce_sentence_195",
+      "content": "Heheh! Thou art quite full of {0}(es)... Which of them dost thou desire to see come true?!"
+    },
+    {
+      "id": "introduce_word_196",
+      "content": "Doubt"
+    },
+    {
+      "id": "introduce_sentence_196",
+      "content": "No {0}. Engrave faith. Pray in darkness... Pray with obsession."
     }
   ]
 }

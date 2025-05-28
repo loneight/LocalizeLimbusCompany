@@ -1814,7 +1814,7 @@
     {
       "id": 9066,
       "name": "霧化呼吸器",
-      "desc": "關卡的首個回合開始時，使全體友方單位增加4級呼吸法 強度並獲得4層呼吸法 。\n\n戰鬥開始時，使傲慢屬性技能完全共鳴會令全體友方單位增加2級呼吸法 強度並獲得2層呼吸法 。\n- [不可重複觸發] 胸痛 良秀 E.G.O被動「息」觸發時，該效果不會觸發",
+      "desc": "First Turn Start of an Encounter: all allies gain 4 [Breath] Potency and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain 2 [Breath] Potency and +2 [Breath] Count at Combat Start.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate",
       "simpleDesc": [
         {
           "abilityID": 9066,
@@ -1829,7 +1829,7 @@
     {
       "id": 19066,
       "name": "霧化呼吸器+",
-      "desc": "<style=\"upgradeHighlight\">波次的首個回合開始時</style>，使全體友方單位<style=\"upgradeHighlight\">增加5級呼吸法 強度</style>並獲得4層呼吸法 。\n\n戰鬥開始時，使傲慢屬性技能完全共鳴會令全體友方單位<style=\"upgradeHighlight\">增加3級呼吸法 強度</style>並獲得2層呼吸法 。\n- [不可重複觸發] 胸痛 良秀 E.G.O被動「息」觸發時，該效果不會觸發",
+      "desc": "<style=\"upgradeHighlight\">First Turn Start of a wave</style>: All allies gain <style=\"upgradeHighlight\">5 [Breath] Potency</style> and +4 [Breath] Count.\n\nWhen activating Pride Absolute Resonance, all allies gain <style=\"upgradeHighlight\">3 [Breath] Potency</style> and +2 [Breath] Count.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate",
       "simpleDesc": [
         {
           "abilityID": 19066,
@@ -1844,7 +1844,7 @@
     {
       "id": 29066,
       "name": "霧化呼吸器++",
-      "desc": "波次的首個回合開始時，使全體友方單位增加5級呼吸法 強度並<style=\"upgradeHighlight\">獲得5層呼吸法 。</style>\n\n戰鬥開始時，<style=\"upgradeHighlight\">使傲慢碎片共鳴</style>會令全體友方單位增加3級呼吸法 強度並<style=\"upgradeHighlight\">獲得3層呼吸法 。</style>\n- [不可重複觸發] 胸痛 良秀 E.G.O被動「息」觸發時，該效果不會觸發",
+      "desc": "First Turn Start of a wave: all allies gain 5 [Breath] Potency and <style=\"upgradeHighlight\">+5 [Breath] Count</style>.\n\nWhen activating <style=\"upgradeHighlight\">Pride Resonance</style>, all allies gain 3 [Breath] Potency and <style=\"upgradeHighlight\">+3 [Breath] Count</style> at Combat Start.\n- [Cannot Stack] When Thoracalgia Ryōshū E.G.O Passive 「Breath」 activates, this effect does not activate",
       "simpleDesc": [
         {
           "abilityID": 29066,
@@ -3459,7 +3459,7 @@
     {
       "id": 9129,
       "name": "陳舊的木雕人偶",
-      "desc": "[第1、第2順位友方單位專屬]\n\n暴擊時，下回合對目標施加1層防禦等級降低 (每回合每名友方單位最多3次)。",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nOn Crit, inflict 1 [DefenseDown] next turn. (3 times per turn per Identity)\n[Cannot Stack] When Red Sheet Don Quixote's E.G.O Passive activates, this effect does not activate.",
       "simpleDesc": [
         {
           "abilityID": 9129,
@@ -3470,7 +3470,7 @@
     {
       "id": 19129,
       "name": "陳舊的木雕人偶+",
-      "desc": "[第1、第2、<style=\"upgradeHighlight\">第3</style>順位友方單位專屬]\n\n暴擊時，下回合對目標施加1層防禦等級降低 (每回合每名友方單位<style=\"upgradeHighlight\">最多4次</style>)。",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nOn Crit, inflict 1 [DefenseDown] next turn. (<style=\"upgradeHighlight\">4</style> times per turn per Identity)\n[Cannot Stack] When Red Sheet Don Quixote's E.G.O Passive activates, this effect does not activate.",
       "simpleDesc": [
         {
           "abilityID": 19129,
@@ -3481,7 +3481,7 @@
     {
       "id": 29129,
       "name": "陳舊的木雕人偶++",
-      "desc": "[第1、第2、第3順位友方單位專屬]\n\n暴擊時，下回合對目標施加1層防禦等級降低 (每回合每名友方單位<style=\"upgradeHighlight\">最多6次</style>)。",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nOn Crit, inflict 1 [DefenseDown] next turn. (<style=\"upgradeHighlight\">6</style> times per turn per Identity)\n[Cannot Stack] When Red Sheet Don Quixote's E.G.O Passive activates, this effect does not activate.",
       "simpleDesc": [
         {
           "abilityID": 29129,
@@ -4896,7 +4896,7 @@
       "simpleDesc": [
         {
           "abilityID": 9200,
-          "simpleDesc": "獲得拚點威力提升 "
+          "simpleDesc": "拚點威力提升 "
         },
         {
           "abilityID": 92001,

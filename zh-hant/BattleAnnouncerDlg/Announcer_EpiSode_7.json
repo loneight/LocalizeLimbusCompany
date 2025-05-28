@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "announcer_cheer_7_1",
-      "dlg": "Okay，確認進入作戰區域。好，通訊狀況正常。"
+      "dlg": "Okay，確認進入作戰區域。是，通訊狀況正常。"
     },
     {
       "id": "announcer_cheer_7_2",
-      "dlg": "最好毫髮無傷地歸來，都清楚吧？啊，雖然和你們關係不大。"
+      "dlg": "最好毫髮無傷地歸來，都清楚吧？啊，雖然這話和你們基本上無緣。"
     },
     {
       "id": "announcer_specialcheer_7_1",
@@ -18,7 +18,7 @@
     },
     {
       "id": "announcer_enemy_break_7_1",
-      "dlg": "敵方有不大清醒的傢伙啊～收拾掉吧？人道主義的處理……也不需要吧。"
+      "dlg": "敵方有恍惚著的傢伙在啊～收拾掉吧？人道主義的處理……也不需要吧。"
     },
     {
       "id": "announcer_ally_break_7_1",
@@ -38,11 +38,11 @@
     },
     {
       "id": "announcer_ally_advex_7_1",
-      "dlg": "終於取得優勢了。嘛……壓力也是動力，不是嗎？"
+      "dlg": "終於取得優勢了。嘛……所謂的腎上腺素飆升，不是嗎？"
     },
     {
       "id": "announcer_danger_7_1",
-      "dlg": "這次攻擊是最好的機會，也可能是最後的機會。集中精神，我可見過太多在最後關頭鬆懈導致送命的傢伙了。"
+      "dlg": "這次攻擊是最好的機會，也可能是最後的機會。集中精神，我見過太多在最後關頭鬆懈導致送命的傢伙了。"
     },
     {
       "id": "announcer_enemy_specialskill_7_1",
@@ -54,11 +54,11 @@
     },
     {
       "id": "announcer_advatk_physical_7_1",
-      "dlg": "攻擊能力評估……良好！哦～狠狠吃了一發？"
+      "dlg": "攻擊能力評估……良好！哦嗚～狠狠吃了一發？"
     },
     {
       "id": "announcer_disadvatk_physical_7_1",
-      "dlg": "攻擊能力評估……無法觀測……嗯……看樣子對那傢伙需要嘗試其他攻擊方式。"
+      "dlg": "攻擊能力評估……無法觀測……哼……看樣子對那傢伙需要嘗試其他攻擊方式。"
     },
     {
       "id": "announcer_advatk_attr_7_1",
@@ -66,7 +66,7 @@
     },
     {
       "id": "announcer_disadvatk_attr_7_1",
-      "dlg": "我認為這是戰術不利的判斷……算了……你也不可能一直都是正確的吧？和完美的我們不同。"
+      "dlg": "我認為這是戰術不利的判斷……嘛……你也不可能一直都是正確的吧？和完美的我們不同。"
     },
     {
       "id": "announcer_enemy_specialbuff_7_1",
@@ -78,7 +78,7 @@
     },
     {
       "id": "announcer_ally_specialbuff_7_1",
-      "dlg": "哦吼，你們氣勢正旺啊。隔著無線電都能感覺到。是的，這次的攻擊一定十分有效吧。"
+      "dlg": "哦嗬，你們氣勢正旺啊。隔著無線電都能感覺到。是的，這次的攻擊一定十分有效吧。"
     },
     {
       "id": "announcer_ally_specialdebuff_7_1",
@@ -94,7 +94,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_7_1",
-      "dlg": "哦，是爆炸了嗎？我方遭受全方位打擊！優先進行掩護！"
+      "dlg": "哦嗚，是爆炸了嗎？我方遭受全方位打擊！優先進行掩護！"
     },
     {
       "id": "announcer_round_takebigdmg_7_2",
@@ -102,7 +102,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_7_1",
-      "dlg": "致命一擊！幾乎能完成鎮壓了？對啊，聲音都傳到這裡了吧？"
+      "dlg": "致命一擊！幾乎能完成鎮壓了？是啊，聲音都傳到這裡了吧？"
     },
     {
       "id": "announcer_round_givebigdmg_7_2",

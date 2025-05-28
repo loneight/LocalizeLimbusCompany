@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "{0}次提取後必定獲得3★人格"
+      "content": "{0}次提取後必定獲得3星人格"
     },
     {
       "id": "mainui_settings",
@@ -886,15 +886,15 @@
     },
     {
       "id": "gacha_rate_info_intro1",
-      "content": "根據「韓國遊戲產業協會自願約束準則」的規定，我們在此處列出所有基於機率來獲得的遊戲道具所對應的具體機率。\n\n所示每個道具對應的機率都是小數點後五位向上取整的結果。實際數值之和為100%。\n\n[提取1次]的具體機率如下："
+      "content": "根據「韓國遊戲產業協會自願約束準則」的規定，我們在此處列出所有基於機率來獲得的遊戲道具所對應的具體機率。\n\n所示每個道具對應的機率都是小數點後五位向上取整的結果，實際數值之和為100%。"
     },
     {
       "id": "gacha_rate_info_intro2",
-      "content": "每次[提取10次]中，至少會提取出1個2★或更高稀有度的人格。\n\n第10次提取的具體機率如下："
+      "content": "每次[提取10次]中，至少會提取出1個2星或更高稀有度的人格。\n\n第10次提取的具體機率如下："
     },
     {
       "id": "gacha_rate_info_ego1",
-      "content": "下方是在上述機率條件下每個人格或E.G.O的單獨提取機率列表。\n\n該列表有可能會隨著賽季更變而發生改變；卡池列表發生改變時會提前進行告知。"
+      "content": "下方是在上述機率條件下每個人格或E.G.O的單獨提取機率列表。\n\n該列表有可能會隨著賽季更變而發生改變，卡池列表發生改變時會提前進行告知。"
     },
     {
       "id": "gacha_rate_info_ego2",
@@ -906,7 +906,7 @@
     },
     {
       "id": "gacha_rate_info_complete2",
-      "content": "在特定提取中，特定人格與E.G.O的提取機率將會上升。\n\n特定提取中目標角色各人格的提取機率為各自稀有度對應機率的50%；若該角色有多個稀有度相同的人格，則它們會平分這一機率。\n\n其他並非特定提取目標角色的人格則平分各自稀有度剩餘的50%提取機率。"
+      "content": "在特定提取中，特定人格與E.G.O的提取機率將會上升。\n\n特定提取中目標角色各人格的提取機率為各自稀有度對應機率的50%，若該角色有多個稀有度相同的人格，則它們會平分這一機率。\n\n其他並非特定提取目標角色的人格則平分各自稀有度剩餘的50%提取機率。"
     },
     {
       "id": "gacha_rate_info_complete3",
@@ -1166,7 +1166,7 @@
     },
     {
       "id": "gacha_notice_single_season",
-      "content": "此提取包含的2★及3★人格屬於第{0}賽季。"
+      "content": "此提取包含的2星及3星人格屬於第{0}賽季。"
     },
     {
       "id": "error_and_return_to_main",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "notice_of_pity_system",
-      "content": "在卡池持續期間，進行提取可以獲得[理想]。\n收集一定數量的[理想]即可兌換當前卡池目標的3★人格。\n\n※ 不同卡池之間不會共享[理想]，每個卡池都會獨立計算[理想]數量。\n※ 當卡池結束時，剩餘的[理想]將會轉化為紡錘。"
+      "content": "在卡池持續期間，進行提取可以獲得[理想]。\n收集一定數量的[理想]即可兌換當前特定提取的3星人格以及E.G.O。\n\n※ 不同卡池之間不會共享[理想]，每個卡池都會獨立計算[理想]數量。\n※ 當卡池結束時，剩餘的[理想]將會轉化為紡錘。"
     },
     {
       "id": "twine_store",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "進入後，您將無法再移動到迷宮的其他地點；罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
+      "content": "進入後，您將無法再移動到迷宮的其他地點，罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
     },
     {
       "id": "story_dungeon_4_first_open_popup_desc",
@@ -1498,11 +1498,11 @@
     },
     {
       "id": "enable_count_for_battle",
-      "content": "可參戰\n人數"
+      "content": "可參戰人數"
     },
     {
       "id": "select_for_formation",
-      "content": "選擇人格\n參戰"
+      "content": "選擇人格參戰"
     },
     {
       "id": "edit_for_formation",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "full_participated",
-      "content": "參戰人數\n達到上限"
+      "content": "參戰人數達到上限"
     },
     {
       "id": "select_for_delete_participation",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "gacha_rate_info_announcer1",
-      "content": "根據上表的提取機率，可以獲得下表所述的人格、E.G.O、以及播報員。\n\n可以獲得的人格、E.G.O、以及播音員可能會根據特定的賽季作出變更，在這種情況下，將會在變更前提前通知。"
+      "content": "根據上表的提取機率，可以獲得下表所述的人格、E.G.O以及播報員。\n\n可以獲得的人格、E.G.O以及播報員可能會根據特定的賽季作出變更，在這種情況下，將會在變更前提前通知。"
     },
     {
       "id": "mainui_battleresult_ordeal_victory",
@@ -1710,7 +1710,7 @@
     },
     {
       "id": "unlink_account_complete_desc",
-      "content": "成功解除綁定後，\n將返回標題介面。"
+      "content": "成功解除綁定。\n將返回標題介面。"
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "mass_announcer_spoiler_caution",
-      "content": "將領取的獎勵列表中\n播報員可能包含\n對尚未通過的章節的劇透。\n\n是否領取獎勵？"
+      "content": "將領取的獎勵列表中播報員可能包含對尚未通過的章節的劇透。\n\n是否領取獎勵？"
     },
     {
       "id": "select_all",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": "vending_machine_item_available_date_label",
-      "content": "{0}月{1}日{2} ({3})後\n可在自動販賣機兌換"
+      "content": "{0}月{1}日{2} ({3})後可在自動販賣機兌換"
     },
     {
       "id": "gacha_notice_vending_available_date",

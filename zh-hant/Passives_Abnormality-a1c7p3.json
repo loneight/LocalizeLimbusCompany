@@ -73,13 +73,13 @@
     {
       "id": 837503,
       "name": "束縛的一朵",
-      "desc": "攻擊結束後，對目標施加1層[TinyCarmilla]\n若目標帶有[Laceration]，則在攻擊結束後額外施加1層[TinyCarmilla]"
+      "desc": "攻擊結束後，對目標施加1層 [TinyCarmilla]\n若目標帶有 [Laceration]，則在攻擊結束後額外施加1層 [TinyCarmilla]"
     },
     {
       "id": 837601,
       "name": "荊棘之鞭",
-      "desc": "攻擊前，若目標帶有[Burst]，則有20%的機率對目標施加1層[Burst]\n對目標施加[ThornNoose]時，生成荊棘套索。",
-      "summary": "攻擊前，若目標帶有[Burst]，則有20%的機率對目標施加1層[Burst]"
+      "desc": "攻擊前，若目標帶有 [Burst]，則有20%的機率對目標施加1層 [Burst]\n對目標施加 [ThornNoose] 時，生成荊棘套索。",
+      "summary": "攻擊前，若目標帶有 [Burst]，則有20%的機率對目標施加1層 [Burst]"
     },
     {
       "id": 837602,

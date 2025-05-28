@@ -580,7 +580,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得5層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得5層 [Charge]"
                 }
               ]
             },
@@ -667,7 +667,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度"
                 }
               ]
             }
@@ -1133,7 +1133,7 @@
                   "desc": "消耗1發彈藥 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [PenetrateTakeDamageUp] (每回合最多2次)"
                 }
               ]
             }
@@ -1436,7 +1436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)"

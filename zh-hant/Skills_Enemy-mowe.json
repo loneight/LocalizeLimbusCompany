@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -37,7 +37,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -154,7 +154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度"
                 }
               ]
             },
@@ -410,7 +410,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -432,7 +432,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
@@ -442,7 +442,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -801,7 +801,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層攻擊等級降低 "
@@ -894,7 +894,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層攻擊等級降低 "

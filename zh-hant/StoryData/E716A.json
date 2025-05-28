@@ -58,9 +58,9 @@
     },
     {
       "id": 11,
+      "place": "過去，腦葉公司支部？",
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>而萬事有為應有盡。</color>",
-      "place": "過去，腦葉公司支部？"
+      "content": "<color=#ffffa1>而萬事有為應有盡。</color>"
     },
     {
       "id": 12,
@@ -94,7 +94,6 @@
     },
     {
       "id": 18,
-      "place": "Lobotomy Corp. Branch, Past",
       "model": "단테",
       "content": "<……！>"
     },

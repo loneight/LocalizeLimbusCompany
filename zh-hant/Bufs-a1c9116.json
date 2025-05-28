@@ -3,7 +3,7 @@
     {
       "id": "BurstAgility",
       "name": "咒殺【迅捷】",
-      "desc": "基礎值：3\n因受到速度值不低於10的目標的攻擊技能攻擊而觸發自身的破裂 時，使本效果的層數減少1層並對自身施加1層破裂 \n若本效果層數為0層，則受到相當於自身破裂強度的暴食傷害，並解除本效果\n※帶有本效果時，本效果層數不會額外獲得",
+      "desc": "- Base Stack: 3\n- When getting Rupture triggered by getting hit by an Attack Skill from a target with 10+ Speed, lose 1 Stack and gain +1 Rupture Count\n- At 0 Stack, take Gluttony damage equal to Rupture Potency on self; then, this effect expires\n※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "若符合條件，造成額外暴食傷害",
       "undefined": "-"
     },
@@ -16,14 +16,14 @@
     },
     {
       "id": "DarkBeast_LowMorale",
-      "name": "暗數",
+      "name": "暗算",
       "desc": "- 士氣低落\n- 自身的速度值高於目標或進行單方面攻擊時，對目標造成的傷害+10%",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DarkBeast_Panic",
-      "name": "暗數",
+      "name": "暗算",
       "desc": "- 陷入恐慌\n- 自身的速度值高於目標或進行單方面攻擊時，對目標造成的傷害+20%；若自身的速度值高於目標，則自身受到的傷害-20%",
       "summary": "",
       "undefined": "-"

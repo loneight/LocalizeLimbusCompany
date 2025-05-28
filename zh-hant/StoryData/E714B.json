@@ -258,7 +258,7 @@
     {
       "id": 52,
       "model": "이스마엘",
-      "content": "哈啊……"
+      "content": "嗬……"
     },
     {
       "id": 53,
@@ -437,14 +437,15 @@
     },
     {
       "id": 89,
+      "place": -1,
       "model": "뒤틀린호엔하임",
       "content": "<color=#ffffa1>儘管如此，我也沒有必要暴露所有細節。</color>"
     },
     {
       "id": 90,
+      "place": "過去，腦葉公司支部？",
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>反正……都已經過去了。</color>",
-      "place": "過去，腦葉公司支部？"
+      "content": "<color=#ffffa1>反正……都已經過去了。</color>"
     }
   ]
 }

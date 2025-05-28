@@ -3,87 +3,87 @@
     {
       "id": 1,
       "name": "狂氣",
-      "desc": "包含140狂氣。"
+      "desc": "Contains 140 Paid Lunacy."
     },
     {
       "id": 2,
       "name": "一捆狂氣",
-      "desc": "包含588狂氣。"
+      "desc": "Contains 588 Paid Lunacy."
     },
     {
       "id": 3,
       "name": "一束狂氣",
-      "desc": "包含2028狂氣。"
+      "desc": "Contains 2028 Paid Lunacy."
     },
     {
       "id": 4,
       "name": "一箱狂氣",
-      "desc": "包含4294狂氣。"
+      "desc": "Contains 4294 Paid Lunacy."
     },
     {
       "id": 5,
       "name": "一大袋狂氣",
-      "desc": "包含8206狂氣。"
+      "desc": "Contains 8206 Paid Lunacy."
     },
     {
       "id": 6,
       "name": "一倉庫狂氣",
-      "desc": "包含16672狂氣。"
+      "desc": "Contains 16672 Paid Lunacy."
     },
     {
       "id": 11,
       "name": "狂氣",
-      "desc": "包含70狂氣。"
+      "desc": "Contains 70 Paid Lunacy."
     },
     {
       "id": 12,
       "name": "一捆狂氣",
-      "desc": "包含294狂氣。\n您還會額外獲得31免費狂氣。"
+      "desc": "Contains 294 Paid Lunacy.\nYou will also receive 31 Free Lunacy as a bonus."
     },
     {
       "id": 13,
       "name": "一束狂氣",
-      "desc": "包含1014狂氣。\n您還會額外獲得156免費狂氣。"
+      "desc": "Contains 1014 Paid Lunacy.\nYou will also receive 156 Free Lunacy as a bonus."
     },
     {
       "id": 14,
       "name": "一箱狂氣",
-      "desc": "包含2147狂氣。\n您還會額外獲得323免費狂氣。"
+      "desc": "Contains 2147 Paid Lunacy.\nYou will also receive 323 Free Lunacy as a bonus."
     },
     {
       "id": 15,
       "name": "一大袋狂氣",
-      "desc": "包含4103狂氣。\n您還會額外獲得642免費狂氣。"
+      "desc": "Contains 4103 Paid Lunacy.\nYou will also receive 642 Free Lunacy as a bonus."
     },
     {
       "id": 16,
       "name": "一倉庫狂氣",
-      "desc": "包含8336狂氣。\n您還會額外獲得1349免費狂氣。"
+      "desc": "Contains 8336 Paid Lunacy.\nYou will also receive 1349 Free Lunacy as a bonus."
     },
     {
       "id": 21,
       "name": "每月狂氣補給",
-      "desc": "購買後立刻獲得650狂氣。\n之後的30天內每天登錄時都可以領取65免費狂氣。"
+      "desc": "Get 650 Paid Lunacy instantly upon purchase.\nReceive an additional 65 Free Lunacy each day you log in for 30 days."
     },
     {
       "id": 22,
       "name": "每月小份狂氣補給",
-      "desc": "購買後立刻獲得130狂氣。\n之後的30天內每天登錄時都可以領取39免費狂氣。"
+      "desc": "Get 130 Paid Lunacy instantly upon purchase.\nReceive an additional 39 Free Lunacy each day you log in for 30 days."
     },
     {
       "id": 101,
       "name": "每月提取組合包",
-      "desc": "包含以下物品的每月組合包：\n\n．狂氣 x650\n．十連提取券 x1"
+      "desc": "A monthly offer that contains the following:\n\n· Paid Lunacy x650\n· Decaextraction Ticket x1"
     },
     {
       "id": 102,
       "name": "每月成長組合包 I",
-      "desc": "包含以下物品的每月組合包：\n\n．狂氣 x1690\n．十連提取券 x2\n．人格等級直升券II x1\n．人格等級直升券I x2\n．人格訓練券III x10\n．人格訓練券II x30"
+      "desc": "A monthly offer that contains the following:\n\n· Paid Lunacy x1690\n· Decaextraction Ticket x2\n· Level Boost Ticket II x1\n· Level Boost Ticket I x2\n· Identity Training Ticket III x10\n· Identity Training Ticket II x30"
     },
     {
       "id": 103,
       "name": "每月成長組合包 II",
-      "desc": "包含以下物品的每月組合包：\n\n．狂氣 x1690\n．十連提取券 x2\n．紡錘 x120"
+      "desc": "A monthly offer that contains the following:\n\n· Paid Lunacy x1690\n· Decaextraction Ticket x2\n· Thread x120"
     },
     {
       "id": 104,
@@ -98,7 +98,7 @@
     {
       "id": 111,
       "name": "新晉經理組合包",
-      "desc": "提供給新晉經理的一次性組合包。內含以下物品：\n\n．3★必得十連提取券 x1\n．十連提取券 x1"
+      "desc": "提供給新晉經理的一次性組合包。內含以下物品：\n\n．3星必得十連提取券 x1\n．十連提取券 x1"
     },
     {
       "id": 121,
@@ -118,7 +118,7 @@
     {
       "id": 131,
       "name": "每週提取組合包",
-      "desc": "包含以下物品的每週組合包：\n\n．狂氣 x273\n．提取券 x5"
+      "desc": "A weekly offer that contains the following:\n\n· Paid Lunacy x273\n· Extraction Ticket x5"
     },
     {
       "id": 133,
@@ -188,7 +188,7 @@
     {
       "id": 201,
       "name": "1週年紀念組合包",
-      "desc": "1週年限定商品，可獲得以下道具。\n\n． 立即獲得Angela播報員\n． 3★必得十連提取券 ×1\n． 人格跳躍成長券 ×1\n\n※ 持有Angela播報員時，將獲得紡錘箱 ×50。\n※ 使用人格跳躍成長券時，所選人格等級將提升至40級，同步階段將提升至同步階段4。"
+      "desc": "1週年限定商品，可獲得以下道具。\n\n． 立即獲得Angela播報員\n． 3星必得十連提取券 ×1\n． 人格跳躍成長券 ×1\n\n※ 持有Angela播報員時，將獲得紡錘箱 ×50。\n※ 使用人格跳躍成長券時，所選人格等級將提升至40級，同步階段將提升至同步階段4。"
     },
     {
       "id": 999,
@@ -343,7 +343,7 @@
     {
       "id": 205,
       "name": "2週年紀念\n組合包",
-      "desc": "2週年限定商品，可獲得以下道具。\n\n．立即獲得維吉里烏斯播報員\n．3★必得十連提取券 ×1\n．人格跳躍成長券 - ver.2 ×1\n\n※持有維吉里烏斯播報員時，將獲得紡錘箱 ×50。\n※使用人格跳躍成長券 - ver.2時，所選人格等級將提升至50級，同步階段將提升至同步階段4。"
+      "desc": "2週年限定商品，可獲得以下道具。\n\n．立即獲得維吉里烏斯播報員\n．3星必得十連提取券 ×1\n．人格跳躍成長券 - ver.2 ×1\n\n※持有維吉里烏斯播報員時，將獲得紡錘箱 ×50。\n※使用人格跳躍成長券 - ver.2時，所選人格等級將提升至50級，同步階段將提升至同步階段4。"
     },
     {
       "id": 421,
@@ -353,12 +353,12 @@
     {
       "id": 422,
       "name": "特別提取組合包",
-      "desc": "「E.G.O特定提取：指定審判 羅佳」發佈紀念限量禮包，內含以下物品：\n\n十連提取券 x4"
+      "desc": "「E.G.O特定提取：指定審判 羅佳」發佈紀念限量禮包，內含以下物品：\n\n十連提取券 × 4"
     },
     {
       "id": 423,
       "name": "E.G.O成長組合包",
-      "desc": "「E.G.O特定提取：指定審判 羅佳」發佈紀念限量禮包，內含以下物品：\n\n．跳躍成長模組 - E.G.O解析 [WAW] x1"
+      "desc": "「E.G.O特定提取：指定審判 羅佳」發佈紀念限量禮包，內含以下物品：\n\n．跳躍成長模組 - E.G.O解析 [WAW] × 1"
     },
     {
       "id": 424,

@@ -3,47 +3,57 @@
     {
       "id": 603,
       "name": "第6賽季起始狂氣組合包",
-      "desc": "包含以下物品（每賽季重置）\n\n· 狂氣 x1300"
+      "desc": "A Seasonal offer that contains the following:\n\n· Paid Lunacy x1300"
     },
     {
       "id": 604,
       "name": "第6賽季限定補給包",
-      "desc": "僅在第6賽季期間可以購買。內含以下物品：\n\n· 狂氣 x5040\n· 十連提取券 x3\n· 人格訓練券IV x60\n· 人格訓練券III x30\n· 紡錘 x80\n· 第6賽季自我碎片自選箱 x40"
+      "desc": "Only available for purchase during Season 6. The pack contains the following:\n\n· Paid Lunacy x5040\n· Decaextraction Ticket x3\n· Identity Training Ticket IV x60\n· Identity Training Ticket III x30\n· Thread x80\n· Season 6 Nominable Egoshard Crate x40"
     },
     {
       "id": 425,
       "name": "特別提取組合包",
-      "desc": "「新人格定向提取 - 黑獸 巳 羅佳&格里高爾」發布紀念禮包，內含以下物品：\n\n· 十連提取券 x4"
+      "desc": "「新人格特定提取 - 黑獸 - 巳 羅佳＆格里高爾」發佈紀念限量禮包，內含以下物品：\n\n．十連提取券 × 4"
     },
     {
       "id": 426,
       "name": "人格養成組合包",
-      "desc": "「新人格定向提取 - 黑獸 巳 羅佳&格里高爾」發布紀念禮包，內含以下物品：\n\n· 跳躍成長模組 - 人格同步 x1\n· 人格訓練券IV x60\n· 人格訓練券III x30"
+      "desc": "「新人格特定提取 - 黑獸 - 巳 羅佳＆格里高爾」發佈紀念限量禮包，內含以下物品：\n\n．跳躍成長模組 - 人格同步 × 1\n．人格訓練券IV × 60\n．人格訓練券III × 30"
     },
     {
       "id": 154,
       "name": "每週經驗組合包",
-      "desc": "包含以下物品的每週組合包：\n\n· 人格訓練券IV x35\n· 人格訓練券III x25"
+      "desc": "包含以下物品的每週組合包：\n\n．人格訓練券IV × 35\n．人格訓練券III × 25"
     },
     {
       "id": 155,
       "name": "每月經驗組合包 I",
-      "desc": "包含以下物品的每月組合包：\n\n· 人格訓練券IV x80\n· 人格訓練券III x70"
+      "desc": "包含以下物品的每月組合包：\n\n．人格訓練券IV × 80\n．人格訓練券III × 70"
     },
     {
       "id": 156,
       "name": "每月經驗組合包 II",
-      "desc": "包含以下物品的每月組合包：\n\n· 人格訓練券IV x160\n· 人格訓練券III x95"
+      "desc": "包含以下物品的每月組合包：\n\n．人格訓練券IV × 160\n．人格訓練券III × 95"
     },
     {
       "id": 157,
       "name": "每月經驗組合包 III",
-      "desc": "包含以下物品的每月組合包：\n\n· 人格訓練券IV x325\n· 人格訓練券III x165"
+      "desc": "包含以下物品的每月組合包：\n\n．人格訓練券IV × 325\n．人格訓練券III × 165"
     },
     {
       "id": 107,
       "name": "每月成長組合包 I",
-      "desc": "包含以下物品的每月組合包：\n\n· 狂氣 x1690\n· 十連提取券 x2\n· 人格訓練券IV x35\n· 人格訓練券III x25"
+      "desc": "A monthly offer that contains the following:\n\n· Paid Lunacy x1690\n· Decaextraction Ticket x2\n· Identity Training Ticket IV x35\n· Identity Training Ticket III x25"
+    },
+    {
+      "id": 427,
+      "name": "Target Extraction Pack",
+      "desc": "You can obtain the following items from this 「New Target Extraction - Heishou Pack - Mao Branch Adept Faust」 release commemorative Pack.\n\n· Decaextraction Ticket x4"
+    },
+    {
+      "id": 428,
+      "name": "Identity Growth Pack",
+      "desc": "You can obtain the following items from this 「New Target Extraction - Heishou Pack - Mao Branch Adept Faust」 release commemorative Pack.\n\n· Takeoff Module - ID Uptie x 1\n· Identity Training Ticket IV x 60\n· Identity Training Ticket III x 30"
     }
   ]
 }

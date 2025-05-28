@@ -267,17 +267,17 @@
           "level": 1,
           "name": "血慾",
           "abName": "紅舞鞋",
-          "desc": "目標每帶有2級流血 強度，使本技能的硬幣威力+1(最多+6)\n[StartBattle] 本回合使本技能主要目標的流血 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
+          "desc": "目標每帶有2級 [Laceration] 強度，使本技能的硬幣威力+1(最多+6)\n[StartBattle] 本回合使本技能主要目標的 [Laceration] 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標造成相當於其流血 強度點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的流血 強度×1.2)點色慾傷害\n(本技能最多計入99級流血 強度)",
-                  "summary": "[OnSucceedAttack] 根據目標的流血 強度，相應對其造成色慾傷害"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其 [Laceration] 強度點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的 [Laceration] 強度×1.2)點色慾傷害\n(本技能最多計入99級 [Laceration] 強度)",
+                  "summary": "[OnSucceedAttack] 根據目標的 [Laceration] 強度，相應對其造成色慾傷害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬幣效果對目標造成超過其剩餘體力的傷害，則對全體敵方單位造成共計相當於溢出傷害量的固定傷害\n(若是集中遭遇戰，則以本體體力計算)",
-                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害。"
+                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害"
                 }
               ]
             }
@@ -287,17 +287,17 @@
           "level": 3,
           "name": "血慾",
           "abName": "紅舞鞋",
-          "desc": "目標每帶有2級流血 強度，使本技能的硬幣威力+1(最多<style=\"highlight\">+9</style>)\n[StartBattle] 本回合使本技能主要目標的流血 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
+          "desc": "目標每帶有2級 [Laceration] 強度，使本技能的硬幣威力+1(最多<style=\"highlight\">+9</style>)\n[StartBattle] 本回合使本技能主要目標的 [Laceration] 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack]<style=\"highlight\">對目標造成相當於(其流血 強度×1.2)</style>點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的流血 強度×<style=\"highlight\">1.5</style>)點色慾傷害\n<style=\"highlight\"> - 若色慾完全共鳴數不低於4，則改為造成相當於(目標的流血 強度×1.8)點色慾傷害</style> \n(本技能最多計入99級流血 強度)",
-                  "summary": "[OnSucceedAttack] 根據目標的流血 強度，相應對其造成色慾傷害"
+                  "desc": "[OnSucceedAttack]<style=\"highlight\">對目標造成相當於(其 [Laceration] 強度×1.2)</style>點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的 [Laceration] 強度×<style=\"highlight\">1.5</style>)點色慾傷害\n<style=\"highlight\"> - 若色慾完全共鳴數不低於4，則改為造成相當於(目標的 [Laceration] 強度×1.8)點色慾傷害</style> \n(本技能最多計入99級 [Laceration] 強度)",
+                  "summary": "[OnSucceedAttack] 根據目標的 [Laceration] 強度，相應對其造成色慾傷害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬幣效果對目標造成超過其剩餘體力的傷害，則對全體敵方單位造成共計相當於溢出傷害量的固定傷害\n(若是集中遭遇戰，則以本體體力計算)",
-                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害。"
+                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害"
                 }
               ]
             }
@@ -307,17 +307,17 @@
           "level": 4,
           "name": "血慾",
           "abName": "紅舞鞋",
-          "desc": "目標每帶有2級流血 強度，使本技能的硬幣威力+1(最多+ <style=\"highlight\">13</style> )\n[StartBattle] 本回合使本技能主要目標的流血 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
+          "desc": "目標每帶有2級 [Laceration] 強度，使本技能的硬幣威力+1(最多 <style=\"highlight\">+13</style> )\n[StartBattle] 本回合使本技能主要目標的 [Laceration] 層數不會減少。\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標造成相當於(其流血 強度× <style=\"highlight\">1.5</style> )點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的流血 強度× <style=\"highlight\">1.8</style> )點色慾傷害\n- 若色慾完全共鳴數不低於4，則改為造成相當於(目標的流血 強度× <style=\"highlight\">2</style> )點色慾傷害\n(本技能最多計入99級流血 強度)",
-                  "summary": "[OnSucceedAttack] 根據目標的流血 強度，相應對其造成色慾傷害"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於(其 [Laceration] 強度× <style=\"highlight\">1.5</style> )點色慾傷害\n- 若色慾共鳴數不低於4，則改為造成相當於(目標的 [Laceration] 強度× <style=\"highlight\">1.8</style> )點色慾傷害\n- 若色慾完全共鳴數不低於4，則改為造成相當於(目標的 [Laceration] 強度× <style=\"highlight\">2</style> )點色慾傷害\n(本技能最多計入99級 [Laceration] 強度)",
+                  "summary": "[OnSucceedAttack] 根據目標的 [Laceration] 強度，相應對其造成色慾傷害"
                 },
                 {
                   "desc": "[EnemyKill] 若本技能或其硬幣效果對目標造成超過其剩餘體力的傷害，則對全體敵方單位造成共計相當於溢出傷害量的固定傷害\n(若是集中遭遇戰，則以本體體力計算)",
-                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害。"
+                  "summary": "[EnemyKill] 對全體敵方單位造成共計相當於溢出傷害量的傷害"
                 }
               ]
             }
@@ -337,8 +337,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(2+色慾共鳴數)級流血 強度\n(最高計入色慾共鳴數：4)",
-                  "summary": "[OnSucceedAttack] 使目標增加(2+色慾共鳴數)級流血 強度)"
+                  "desc": "[OnSucceedAttack] 使目標增加(2+色慾共鳴數)級 [Laceration] 強度\n(最高計入色慾共鳴數：4)",
+                  "summary": "[OnSucceedAttack] 使目標增加(2+色慾共鳴數)級 [Laceration] 強度)"
                 }
               ]
             }
@@ -353,11 +353,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(<style=\"highlight\">3</style>+色慾共鳴數)級流血 強度\n(最高計入色慾共鳴數：<style=\"highlight\">5</style>)",
-                  "summary": "[OnSucceedAttack] 使目標增加(3+色慾共鳴數)級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(<style=\"highlight\">3</style>+(色慾共鳴數))級 [Laceration] 強度\n(最高計入色慾共鳴數：<style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] 使目標增加(3+色慾共鳴數)級 [Laceration] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -372,11 +372,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(<style=\"highlight\">4</style>+色慾共鳴數)級流血 強度\n(最高計入色慾 共鳴數：<style=\"highlight\">6</style>)",
-                  "summary": "[OnSucceedAttack] 使目標增加(4+色慾共鳴數)級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(<style=\"highlight\">4</style>+色慾共鳴數)級 [Laceration] 強度\n(最高計入色慾共鳴數：<style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] 使目標增加(4+色慾共鳴數)級 [Laceration] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層 [Laceration]"
                 }
               ]
             }
@@ -396,17 +396,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層尖釘 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層 [NailPersonality]"
                 }
               ]
             }
@@ -416,22 +416,22 @@
           "level": 3,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢復自身體力上限12.5%的體力\n<style=\"highlight\"> - 受到恢復的單位每帶有2種負面狀態，使其額外恢復2.5%的體力(最多7.5%)</style>",
+          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢復自身體力上限12.5%的體力\n<style=\"highlight\">- 受到恢復的單位每帶有2種負面狀態，使其額外恢復2.5%的體力(最多7.5%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層尖釘 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層 [NailPersonality] <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -441,22 +441,22 @@
           "level": 4,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢復自身體力上限<style=\"highlight\">15%</style>的體力\n- 受到恢復的單位每帶有<style=\"highlight\">1</style>種負面狀態，使其額外恢復2.5%的體力(最多<style=\"highlight\">10%</style>)\n<style=\"highlight\"> - 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢復體力 </style>",
+          "desc": "[EndSkill] 使自身與現存體力比例最低的2名友方單位恢復自身體力上限<style=\"highlight\">15%</style>的體力\n- 受到恢復的單位每帶有<style=\"highlight\">1</style>種負面狀態，使其額外恢復2.5%的體力(最多<style=\"highlight\">10%</style>)\n<style=\"highlight\">- 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢復體力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加 <style=\"highlight\">4</style> 級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">4</style>級 [Laceration] 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 <style=\"highlight\">3</style> 層詛咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層 [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加 <style=\"highlight\">3</style> 層尖釘 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加<style=\"highlight\">3</style>層 [NailPersonality]"
                 }
               ]
             }
@@ -476,20 +476,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 對目標施加2層尖釘 "
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層 [NailPersonality]"
                 }
               ]
             }
@@ -499,25 +499,25 @@
           "level": 3,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復自身體力上限15%的體力\n<style=\"highlight\"> - 受到恢復的單位每帶有2種負面狀態，下回合使其獲得1層攻擊等級提升 (最多2層)</style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復自身體力上限15%的體力\n<style=\"highlight\">- 受到恢復的單位每帶有2種負面狀態，下回合使其獲得1層 [AttackUp] (最多2層)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Laceration] <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse] <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 對目標施加2層尖釘 "
+                  "desc": "[OnSucceedAttackTail] 對目標施加2層 [NailPersonality] <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -527,25 +527,25 @@
           "level": 4,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復自身體力上限20%的體力\n- 受到恢復的單位每帶有1種負面狀態，下回合使其獲得1層攻擊等級提升 (最多3層)\n- 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢復體力",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 使除自身以外現存體力比例最低的3名友方單位恢復自身體力上限<style=\"highlight\">20%</style>的體力\n- 受到恢復的單位每帶有1種負面狀態，下回合使其獲得<style=\"highlight\">1</style>層 [AttackUp] (最多<style=\"highlight\">3</style>層)\n<style=\"highlight\">- 若包括本技能在內嫉妒共鳴數不低於4，則額外使1名友方單位恢復體力</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加 <style=\"highlight\">4</style> 級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">4</style>級 [Laceration] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Laceration] <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 <style=\"highlight\">3</style> 層詛咒 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層 [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 對目標施加 <style=\"highlight\">3</style> 層尖釘 "
+                  "desc": "[OnSucceedAttackTail] 對目標施加<style=\"highlight\">3</style>層 [NailPersonality]"
                 }
               ]
             }
@@ -568,7 +568,7 @@
                   "desc": "[OnSucceedAttack] 施加6級 [Combustion] 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標為主要目標，則下回合對其施加(1+(暴怒共鳴數/3))層 [BirdCage] (最多3層，向下取整) "
+                  "desc": "[OnSucceedAttack] 若目標為主要目標，則下回合對其施加(1+(暴怒共鳴數/3))層 [BirdCage] (最多2層，向下取整) "
                 }
               ]
             },
@@ -698,7 +698,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 施加<style=\"highlight\">10</style>級[Combustion] "
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 施加<style=\"highlight\">10</style>級 [Combustion] "
                 },
                 {
                   "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] 施加1層 [Combustion] </style>"
@@ -717,7 +717,7 @@
                   "desc": "主要目標每帶有1級 [Combustion] 強度，使本硬幣對其造成的傷害上升<style=\"highlight\">2</style>%(最多<style=\"highlight\">100</style>%)"
                 },
                 {
-                  "desc": "[EnemyKill] 使現存體力比例最低的(1+最大共鳴數)名友方單位獲得1層 [CrimsonResultUp] 與1層 [CrimsonDamageUp] (最多<style=\"highlight\">6</style>名, 每回合最多1次)"
+                  "desc": "[EnemyKill] 使現存體力比例最低的(1+最大共鳴數)名友方單位獲得1層 [CrimsonResultUp] 與1層 [CrimsonDamageUp] (最多<style=\"highlight\">6</style>名，每回合最多1次)"
                 }
               ]
             }

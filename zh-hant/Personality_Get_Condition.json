@@ -1015,6 +1015,14 @@
     {
       "id": "10912_getCondition_gacksung",
       "content": "黑獸 - 巳 羅佳 3階段同步完成"
+    },
+    {
+      "id": "10212_getCondition_normal",
+      "content": "Acquire Heishou Pack - Mao Branch Adept Faust"
+    },
+    {
+      "id": "10212_getCondition_gacksung",
+      "content": "Uptie Heishou Pack - Mao Branch Adept Faust to Tier 3"
     }
   ]
 }

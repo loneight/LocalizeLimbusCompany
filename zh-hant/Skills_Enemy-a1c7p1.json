@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "硬血斬擊",
-          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能造成的傷害+20%",
+          "desc": "[WhenUse] 若目標的 [Laceration] 強度不低於8級，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -114,7 +114,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -133,14 +133,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的流血 強度不低於6級，則使自身獲得1層硬化血液 "
@@ -150,7 +150,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加8級流血 強度並使自身獲得1層染血的剪刃 "
@@ -172,7 +172,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Laceration] 強度並對其施加2層 [Laceration]"
                 }
               ]
             },
@@ -343,14 +343,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -571,7 +571,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層 [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "

@@ -331,7 +331,7 @@
     {
       "id": "Emergency_Operation",
       "name": "緊急手術",
-      "desc": "每層使體力上限增加25%，技能威力+1。\n本效果的每回合層數增加1層。\n層數達到5層時，角色直接陣亡。",
+      "desc": "每層「緊急手術」使體力上限增加25%，技能威力+1。\n本效果的層數每回合增加1層\n層數達到5層時，角色直接陣亡",
       "summary": "層數達到5層時直接陣亡"
     },
     {
@@ -895,7 +895,7 @@
     {
       "id": "NailPersonality",
       "name": "尖釘",
-      "desc": "特殊流血\n回合開始時，增加1級流血 強度並施加{0}層流血 。\n回合結束時，使本效果的層數減半。(向下取整)",
+      "desc": "特殊流血\n回合開始時，增加1級流血 強度並施加{0}層流血 。回合結束時，使本效果的層數減半。(向下取整)",
       "summary": "增加1級流血 強度並施加{0}層流血 "
     },
     {
@@ -1341,7 +1341,7 @@
     {
       "id": "DongbaekFullBloomDisplay",
       "name": "盛放",
-      "desc": "無法行動\n回合結束時使自身失去20點理智值。若理智值降為-45，則完全恢復理智值，並在下回合對自身施加恍惚的意識 \n若本效果在2回合內沒有解除，則在回合結束時解除",
+      "desc": "無法行動\n回合結束時失去20點理智值；若理智值降為-45，則會完全恢復理智值，並在下回合施加恍惚的意識 \n若本效果在2回合內沒有解除，則在回合結束時解除",
       "summary": ""
     },
     {
@@ -1610,7 +1610,7 @@
     {
       "id": "Discard",
       "name": "丟棄",
-      "desc": "- 連接技能時，將可選技能中符合條件的技能從儀表盤中丟棄。(不包括守備技能，E.G.O技能。被丟棄的技能不會移出技能池。)\n- 技能被丟棄時不會發動與「被丟棄」相關效果之外的技能效果，不會發動硬幣效果，且不會獲得該技能的罪孽碎片。"
+      "desc": "- 連接技能時，將可選技能中符合條件的技能從儀錶盤中丟棄。(不包括守備技能，E.G.O技能。被丟棄的技能不會移出技能池。)\n- 技能被丟棄時不會發動與「被丟棄」相關效果之外的技能效果，不會發動硬幣效果，且不會獲得該技能的罪孽碎片。"
     },
     {
       "id": "RailBuffForLine2_M_ALLY",
@@ -1695,7 +1695,7 @@
     {
       "id": "FreischutzShotCount",
       "name": "魔彈",
-      "desc": "- 最大值：7\n- 本效果的層數受到特定技能效果的影響。\n-[腦葉公司E.G.O::魔彈 奧提斯 人格專屬效果]\n． 3技能的基礎威力+{0}\n． 3技能的硬幣威力+{1}"
+      "desc": "- 最大值：7\n- 本效果的層數受到特定技能效果的影響。\n- [腦葉公司E.G.O::魔彈 奧提斯 人格專屬效果]\n． 3技能的基礎威力+{0}\n． 3技能的硬幣威力+{1}"
     },
     {
       "id": "DarkFlame",
@@ -1856,7 +1856,7 @@
     {
       "id": "EchoOfMansion_Main",
       "name": "山莊的迴響",
-      "desc": "- 因技能或硬幣效果使自身增加沉淪 強度或對自身施加沉淪 層數時，有50%的機率對自身施加1層沉淪 \n- 使自身的恐慌類型轉變為山莊的迴響。\n- 自身陷入恐慌時，下回合隨機對除自身以外的2名友方單位施加2層山莊的迴響 \n- 回合結束時，本效果的層數減少1層",
+      "desc": "- 因技能或硬幣效果使自身增加沉淪 強度或對自身施加沉淪 層數時，有50%的機率對自身施加1層沉淪 \n- 使自身的恐慌類型轉變為山莊的迴響 。\n- 自身陷入恐慌時，下回合隨機對除自身以外的2名友方單位施加2層山莊的迴響 \n- 回合結束時，本效果的層數減少1層",
       "summary": ""
     },
     {
@@ -1945,7 +1945,7 @@
     {
       "id": "VibrationContinue",
       "name": "震顫-永恆",
-      "desc": "- 受到造成震顫引爆 的技能或硬幣效果的攻擊時，有(自身的震顫 強度)%的機率額外震顫引爆 1次。(最多50%機率)\n- 受到造成震顫引爆 的技能或硬幣效果的攻擊時，有(自身的震顫 層數)%的機率額外震顫引爆 1次。(最多50%機率)\n- 受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值。\n- 回合結束時，本效果的層數減少1層。\n(本效果強度與層數的增減同樣受普通震顫影響)",
+      "desc": "- 受到造成震顫引爆 的技能或硬幣效果的攻擊時，有(自身的震顫 強度)%的機率額外震顫引爆 1次。(最多50%機率)\n- 受到造成震顫引爆 的技能或硬幣效果的攻擊時，有(自身的震顫 層數)%的機率額外震顫引爆 1次。(最多50%機率)\n- 受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值。\n- 回合結束時，本效果的層數減少1層。\n(本效果強度與層數的增減同樣受普通震顫 影響)",
       "summary": ""
     },
     {
@@ -1963,7 +1963,7 @@
     {
       "id": "VibrationChainPersonality",
       "name": "震顫-鎖鏈",
-      "desc": "- 每帶有10級震顫 強度，使自身的拚點威力-1(最多-3)\n- 受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值\n- 回合結束時，本效果的層數減少1層\n(本效果強度與層數的增減同樣受普通震顫 影響)",
+      "desc": "- 每帶有10級震顫 強度，使自身的拚點威力-1(最多-3)\n- 受到造成震顫引爆 的攻擊時，混亂閾值前移等同於本效果強度的數值\n- 回合結束時，本效果的層數減少1層\n- (本效果強度與層數的增減同樣受普通震顫 影響)",
       "summary": ""
     },
     {
@@ -2349,7 +2349,7 @@
     {
       "id": "MeleeCover",
       "name": "近戰支援",
-      "desc": "- 若A單位使B單位獲得本效果，則在A單位使用其技能後，B單位使用技能「近戰支援」對攻擊A單位的敵方單位進行單方面攻擊\n\n- 通過近戰支援使用的技能不會影響B單位的技能池"
+      "desc": "- 若A單位使B單位獲得本效果，則在A單位使用其技能後，B單位使用技能「近戰支援」對攻擊A單位的敵方單位進行單方面攻擊\n- 通過近戰支援使用的技能不會影響B單位的技能池"
     },
     {
       "id": "RequestedTarget",
@@ -2359,7 +2359,7 @@
     {
       "id": "GlowingLantern",
       "name": "精靈誘餌",
-      "desc": "- 最大值：5\n- 回合開始時，使儀表盤最左側行動槽的挑釁值 +10\n- 使自身受到的傷害+50%\n- 受到攻擊時，使攻擊者增加1級破裂 強度(每個目標的技能最多3次)\n．若現存體力低於50%，則額外增加1級破裂 強度\n．若目標的破裂 強度不低於15級，則本效果不會增加破裂 強度\n- 回合結束時本效果的層數減少1層"
+      "desc": "- 最大值：5\n- 回合開始時，使儀錶盤最左側行動槽的挑釁值 +10\n- 使自身受到的傷害+50%\n- 受到攻擊時，使攻擊者增加1級破裂 強度(每個目標的技能最多3次)\n．若現存體力低於50%，則額外增加1級破裂 強度\n．若目標的破裂 強度不低於15級，則本效果不會增加破裂 強度\n- 回合結束時本效果的層數減少1層"
     },
     {
       "id": "HoldingBreath",
@@ -2437,7 +2437,7 @@
     {
       "id": "VengeanceBookSinclair",
       "name": "復仇帳簿【辛克萊】",
-      "desc": "- 最大值：30\n- 使自身造成的傷害+(本效果層數)%(最多+30%)\n- 根據本效果層數在下回合獲得相應的效果\n． 不低於10層:獲得1層打擊傷害強化 \n． 不低於20層:使自身的最大速度值+1，獲得1層威力提升 \n． 30層:獲得2層打擊傷害強化 ",
+      "desc": "- 最大值：30\n- 使自身造成的傷害+(本效果層數)%(最多+30%)\n- 根據本效果層數在下回合獲得相應的效果\n． 不低於10層：獲得1層打擊傷害強化 \n． 不低於20層：使自身的最大速度值+1，獲得1層威力提升 \n． 30層：獲得2層打擊傷害強化 ",
       "summary": "",
       "undefined": "-"
     },
@@ -2458,13 +2458,13 @@
     {
       "id": "BirdCage",
       "name": "炙熱鳥籠",
-      "desc": "- 最大層數：5層\n- 若此單位具有燒傷，則每層使憤怒抗性上升X\n- 回合結束時 施加等同於本效果層數的束縛\n- 回合結束時 減半本效果層數\n\n※ 本效果不能被重複施加",
-      "summary": "每層使憤怒抗性上升0.1",
+      "desc": "- 最大值：5\n- 若自身帶有 燒傷 ，本效果每層將使自身的暴怒抗性+0.1(本效果不能使暴怒抗性高於2.0)\n- 回合結束時，下回合對自身施加等於本效果層數的 束縛 \n- 回合結束時，本效果層數減半(向下取整)\n※ 本效果不能被重複施加",
+      "summary": "每層使暴怒抗性上升0.1",
       "undefined": "-"
     },
     {
       "id": "WideAreaRampage",
-      "name": "全場域無差別射擊",
+      "name": "全域隨機攻擊",
       "desc": "- 每當擲出該技能硬幣時，隨機選擇一個攻擊目標進行攻擊\n・第一枚硬幣必定擊中主要攻擊目標\n・所有[命中時]效果、硬幣造成的傷害僅適用於上述效果中所選的攻擊目標",
       "summary": "於攻擊對象中隨機選擇一名進行攻擊",
       "undefined": "-"
@@ -2478,15 +2478,64 @@
     },
     {
       "id": "BurstPoison",
-      "name": "咒殺【劇毒】",
-      "desc": "基礎值：5\n- 咒殺\n- 因受到目標的暴擊攻擊而觸發自身的破裂 時，使本效果層數減少1層\n- 因該效果減少層數時，對自身施加1層攻擊等級降低 或1層防禦等級降低 (每回合最多3次)\n因該效果減少層數時，若本效果層數降至0層，則受到相當於自身破裂 強度的暴食傷害\n- ※帶有本效果時，本效果層數不會額外獲得",
+      "name": "咒殺【毒】",
+      "desc": "Base Stack: 5\n- When getting Rupture triggered by a Critical Hit from the target, lose 1 Stack\n- When losing Stacks due to this effect, gain 1 Offense Level Down or 1 Defense Level Down (3 times per turn)\n- When losing Stacks due to this effect, if the Stack drops to 0, take Gluttony damage equal to Rupture Potency on self\n- ※ Cannot gain additional Stacks of this effect while it is already active",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SnakeStance",
       "name": "巳臂",
-      "desc": "最大值：3\n回合結束時，下回合使自身增加3級呼吸法 強度並獲得2層呼吸法 \n使用基礎攻擊技能時，若目標帶有破裂 ，則使自身增加5級呼吸法 強度\n回合結束時，本效果層數減少1層",
+      "desc": "基礎值：3\n回合結束時, 下回合使自身獲得3級呼吸法 ，使自身獲得2層呼吸法 \n使用基礎攻擊技能 時，若目標帶有破裂 ，則使自身獲得5級呼吸法 \n回合結束時，本效果的層數減少1層",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstZilu",
+      "name": "Deathrite 【Fissure】",
+      "desc": "- Base Stack: 3\n- When getting Rupture triggered while this unit has Deathrite, lose 1 Stack, and gain 1 Bind next turn\n· When this effect activates, if this unit is to gain 3 or more Bind next turn, lose 2 Stacks instead of gaining Bind\n- At 0 Stack, take Gluttony damage equal to Rupture Potency on self\n※ Cannot gain additional Stacks of this effect while it is already active.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtect",
+      "name": "Assist Defense",
+      "desc": "- Max Stack: 3\n- When an ally is about take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the exclusive Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceZilu",
+      "name": "Tianjiu Star's Blade",
+      "desc": "- Max Stack: 20\n- At 10+ Stack: at Turn End, gain 1 Haste next turn\n- Used for certain Skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BurstVulnerableZilu",
+      "name": "Mark of Decay",
+      "desc": "- Max Stack: 1\n- Take +10% damage from Gluttony Skills\n- Take +10% damage from Deathrite\n- Removed at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportProtectTypo",
+      "name": "Assist Defense",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EntangledCurseTalisman",
+      "name": "Entangled Curse Talisman",
+      "desc": "- Max Stack: 5\n- Expires at Turn End\n- At 10+ Stack, when taking 30+ damage from a Skill: gain +1 Rupture Count; take Gluttony damage equal to Rupture Potency on self (once per turn)\n- When this effect expires, gain (Stack / 4) Attack Power Down next turn (max 2)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CentipedePoison",
+      "name": "Centipede Venom",
+      "desc": "- Max Stack: 20\n- Turn End: gain (Stack / 4) Defense Level Down next turn (rounded down)\n- Turn End: take Gluttony damage equal to Stack, and halve the Stack (rounded down)\nUpon death, transfers to this unit's ally(for Focused Encounters, a different Part) with none or the least Centipede Venom Stacks.",
       "summary": "",
       "undefined": "-"
     }

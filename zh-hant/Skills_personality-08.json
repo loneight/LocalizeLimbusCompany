@@ -726,7 +726,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
@@ -1090,7 +1090,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             }
@@ -1166,7 +1166,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
                 }
               ]
             },

@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "地區巡查",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2\n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+2\n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
           "coinlist": [
             {},
             {
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "防禦",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
           "coinlist": [
             {}
           ]
@@ -650,7 +650,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級 [Sinking] 強度"
                 }
               ]
             }
@@ -1017,7 +1017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
@@ -1217,7 +1217,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Combustion] 強度"
                 }
               ]
             },
@@ -1341,6 +1341,407 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] 自身每失去20%體力，使本硬幣造成的傷害+10%(最多+30%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "順步",
+          "desc": "[WhenUse] 當目標的[Burst] 為6以上時，硬幣威力+1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予[Burst] 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "順步",
+          "desc": "[WhenUse] 當目標的[Burst] 為<style=\"highlight\">4</style>以上時，硬幣威力+1\n<style=\"highlight\">[WinDuel] [Burst] 次數增加1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予[Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身速度為10以上，則可重複使用該硬幣1次（每個技能限1次）</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "順步",
+          "desc": "<style=\"highlight\">若自身速度比目標高3以上時，硬幣威力+1</style>\n[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n[WinDuel] [Burst] 次數增加1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身速度為10以上，則可重複使用該硬幣1次（每個技能限1次）<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我會為您開路，主君。",
+          "desc": "[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n[WinDuel] [Burst] 次數增加1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害+30%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "我會為您開路，主君。",
+          "desc": "[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n<style=\"highlight\">[WhenUse] 下一回合獲得 [Agility] 2（每回合1次）</style>\n[WinDuel] [Burst] 次數增加1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害+30%<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "我會為您開路，主君。",
+          "desc": "<style=\"highlight\">若自身速度高於目標，則依（速度差x自身[EnhanceZilu]）%提升傷害（上限50%）</style>\n<style=\"highlight\">若自身速度比目標高3以上，硬幣威力+1\n[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1</style>\n[WhenUse] 下一回合獲得 [Agility] 2（每回合1次）\n[WinDuel] [Burst] 次數增加1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 賦予 [Burst] 1</style>"
+                },
+                {
+                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害<style=\"highlight\">+50%</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "讓人無法用眼也無法用耳追上。",
+          "desc": "若自身速度快於目標，則依（速度差x目標的 [Burst] 威力）%提升傷害（上限50%）\n若自身速度比目標快2以上，硬幣威力+1\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[BeforeUse] 若 [EnhanceZilu] 為10以上，則以「黑水 妙 奧義 - 雲海顯現」發動\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身速度為10以上，傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身速度為10以上，硬幣可再使用一次（每技能限1次）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "讓人無法用眼也無法用耳追上。",
+          "desc": "若自身速度快於目標，則依（速度差x目標的 [Burst] 威力）%提升傷害（上限50%）\n<style=\"highlight\">自身速度越快於目標，每相差2點速度，硬幣威力+1（上限+2）</style>\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[BeforeUse] 若 [EnhanceZilu] 為10以上，則以「黑水 妙 奧義 - 雲海顯現」發動\n<style=\"highlight\">[WhenUse] 若目標的 [Burst] 為15以上，硬幣威力+1</style>\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "若自身速度為10以上，傷害+30%<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若自身速度為10以上，硬幣可再使用一次（每技能限1次）<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 賦予 [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "尊命。",
+          "desc": "[DuelCounter]\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[WhenUse] 自身本次戰鬥中失去的累積生命值每達10%，此技能的攻擊等級+1（最多6次。觸發時以最大生命為基準）\n[WhenUse] 獲得 [LegStrength] 3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "尊命。",
+          "desc": "[DuelCounter]\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[WhenUse] 自身本次戰鬥中失去的累積生命值每達10%，此技能的攻擊等級+1（最多6次。觸發時以最大生命為基準）\n[WhenUse] 獲得 [LegStrength] 3\n<style=\"highlight\">[WhenUse] 自身速度越快於目標，基礎威力+1（每2點速度差基礎威力+1，最多+2）</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021205,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "黑水 猫奧義 - 雲海玄玄",
+          "desc": "自身速度比目標快時，傷害增加（速度差x目標的 [Burst] 威力）%，最高50%\n自身速度比目標高2以上，硬幣威力+1\n[WhenUse] 目標的 [Burst] 15以上，硬幣威力+1\n[WhenUse] 自身速度10以上時，獲得 [Breath] 20，且自身 [Breath] 次數不足4時，補至最大4次\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2\n[EndSkill] 消耗 [EnhanceZilu] 10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstZilu]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "自身速度10以上時，傷害+30%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身速度10以上時，硬幣可重用1次（每技能1次）"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 賦予 [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "黑水 猫奧義 - 雲海玄玄",
+          "desc": "自身速度比目標快時，傷害增加（速度差x目標的 [Burst] 威力）%，最高50%\n<style=\"highlight\">自身速度越快於目標，硬幣威力+1（速度差2每增加+1，最高+2）</style>\n<style=\"highlight\">[WhenUse] 目標的 [Burst] 每10點，硬幣威力+1（最多+2）</style>\n[WhenUse] 自身速度10以上時，獲得 [Breath] 20，且自身 [Breath] 次數不足4時，補至最大4次\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2\n[EndSkill] 消耗 [EnhanceZilu] 10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstZilu]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "自身速度10以上時，傷害+30%<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 自身速度10以上時，硬幣可重用1次（每技能1次）<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 賦予 [BurstZilu]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 賦予 [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "超速護衛",
+          "desc": "[CanDuelGuard]\n[SupportProtect] 專用技能\n[BeforeUse] [EnhanceZilu] 10以上時，發動『黑水 猫奧義 - 雲海玄玄』\n[WhenUse] 本次戰鬥中累積失去體力每10%，此技能防禦等級+1（最高6，依發動時最大體力計算）\n[WhenUse] 此技能結束前，不會因傷害進入混亂狀態\n[WhenUse] 獲得 [Protection] 2（每回合1次）",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "超速護衛",
+          "desc": "[CanDuelGuard]\n[SupportProtect] 專用技能\n[BeforeUse] [EnhanceZilu] 10以上時，發動『黑水 猫奧義 - 雲海玄玄』\n[WhenUse] 本次戰鬥中累積失去體力每10%，此技能防禦等級+1（最高6，依發動時最大體力計算）\n[WhenUse] 此技能結束前，不會因傷害進入混亂狀態\n[WhenUse] 獲得 [Protection] 2（每回合1次）<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             }

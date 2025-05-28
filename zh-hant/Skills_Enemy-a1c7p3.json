@@ -162,7 +162,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級 [Laceration] 強度"
                 }
               ]
             },
@@ -321,7 +321,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度"
                 }
               ]
             },
