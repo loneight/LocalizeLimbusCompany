@@ -345,7 +345,7 @@
         {
           "level": 1,
           "name": "劫掠",
-          "desc": "[WinDuel] 複製並使用目標級別為1～3的1個技能的硬幣威力與硬幣數",
+          "desc": "[WinDuel] 複製並使用目標級別為1~3的1個技能的硬幣威力與硬幣數",
           "coinlist": [
             {
               "coindescs": [
@@ -391,7 +391,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
@@ -460,7 +460,7 @@
         {
           "level": 1,
           "name": "劫掠",
-          "desc": "[WinDuel] 複製並使用目標級別為1～3的1個技能的硬幣威力與硬幣數",
+          "desc": "[WinDuel] 複製並使用目標級別為1~3的1個技能的硬幣威力與硬幣數",
           "coinlist": [
             {}
           ]
@@ -498,7 +498,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "潮溼一擊",
+          "name": "潮濕一擊",
           "desc": "",
           "coinlist": [
             {
@@ -659,7 +659,7 @@
         {
           "level": 1,
           "name": "發現漏洞！開火！",
-          "desc": "若目標的流血 強度不低於5級，則使本技能的拚點威力+2",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的拼點威力+2",
           "coinlist": [
             {
               "coindescs": [

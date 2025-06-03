@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "核查帳簿",
+          "name": "覈查賬簿",
           "desc": "",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "核查帳簿",
+          "name": "覈查賬簿",
           "desc": "[WhenUse] 使自身恢復5點理智值",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "核查帳簿",
+          "name": "覈查賬簿",
           "desc": "[WhenUse] 使自身恢復5點理智值",
           "coinlist": [
             {
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "正義的報仇",
+          "name": "正義的報復",
           "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)",
           "coinlist": [
             {
@@ -179,7 +179,7 @@
         },
         {
           "level": 4,
-          "name": "正義的報仇",
+          "name": "正義的報復",
           "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/2)級攻擊等級(最多增加6級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)\n若為參戰人數上限不高於7名的集中遭遇戰，則使本技能增加的攻擊等級變為2倍。",
           "coinlist": [
             {
@@ -241,7 +241,7 @@
         {
           "level": 4,
           "name": "加倍奉還",
-          "desc": "[StartBattle] 若嫉妒完全共鳴數總計不低於6，則反擊時改為使用「正義的報仇」進行反擊\n觸發以上效果時，將本技能的罪孽屬性轉化為嫉妒\n(位於儀錶盤左側的加倍奉還優先觸發，每回合最多觸發2次)",
+          "desc": "[StartBattle] 若嫉妒完全共鳴數總計不低於6，則反擊時改為使用「正義的報復」進行反擊\n觸發以上效果時，將本技能的罪孽屬性轉化為嫉妒\n(位於儀表盤左側的加倍奉還優先觸發，每回合最多觸發2次)",
           "coinlist": [
             {
               "coindescs": [
@@ -266,7 +266,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "正義的報仇",
+          "name": "正義的報復",
           "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/3)級攻擊等級(最多增加4級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)",
           "coinlist": [
             {
@@ -301,7 +301,7 @@
         },
         {
           "level": 4,
-          "name": "正義的報仇",
+          "name": "正義的報復",
           "desc": "[StartBattle] 使本技能增加(最大完全共鳴數/2)級攻擊等級(最多增加6級)\n若最大完全共鳴為嫉妒完全共鳴，則使本技能增加的攻擊等級額外+50%(向下取整)\n若為參戰人數上限不高於6名的遭遇戰，則使本技能增加的攻擊等級變為2倍。",
           "coinlist": [
             {
@@ -341,7 +341,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "吾當齧之！",
+          "name": "吾當嚙之！",
           "desc": "",
           "coinlist": [
             {
@@ -355,7 +355,7 @@
         },
         {
           "level": 2,
-          "name": "吾當齧之！",
+          "name": "吾當嚙之！",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +1",
           "coinlist": [
             {
@@ -369,7 +369,7 @@
         },
         {
           "level": 4,
-          "name": "吾當齧之！",
+          "name": "吾當嚙之！",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {
@@ -620,7 +620,7 @@
         {
           "level": 4,
           "name": "寒芒出鞘",
-          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -688,7 +688,7 @@
         {
           "level": 4,
           "name": "劍跡",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -700,7 +700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度\n若該友方單位屬於劍契組成員，則使其額外增加2級呼吸法 強度"
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法 強度最低的1名友方單位增加2級呼吸法 強度\n<style=\"highlight\">若該友方單位屬於劍契組成員，則使其額外增加2級呼吸法 強度</style>"
                 }
               ]
             }
@@ -746,7 +746,7 @@
         {
           "level": 4,
           "name": "永別了！",
-          "desc": "若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加5級呼吸法 強度",
+          "desc": "<style=\"highlight\">若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身增加5級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -769,10 +769,10 @@
                   "desc": "使本硬幣暴擊時造成的傷害+30%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法層數最低的2名友方單位獲得2層呼吸法 \n若該友方單位屬於劍契組成員，則使其額外獲得2層呼吸法 "
+                  "desc": "[CriticalOnSucceedAttack] 使未帶有呼吸法 或呼吸法層數最低的2名友方單位獲得2層呼吸法 \n<style=\"highlight\">若該友方單位屬於劍契組成員，則使其額外獲得2層呼吸法 </style>"
                 },
                 {
-                  "desc": "[EndSkill] 若擊殺目標，則下回合隨機使除自身以外的1名友方單位與自身獲得1層斬擊傷害強化 "
+                  "desc": "[EndSkill] 若擊殺目標，<style=\"highlight\">則下回合隨機使除自身以外的1名友方單位與自身獲得1層斬擊傷害強化 </style>"
                 }
               ]
             }
@@ -834,13 +834,13 @@
         {
           "level": 2,
           "name": "該徵收了",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級震顫 強度"
                 }
               ]
             }
@@ -849,19 +849,19 @@
         {
           "level": 4,
           "name": "該徵收了",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 目標每帶有6級震顫 強度，使本技能的拚點威力+1(最多+2)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 目標每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)</style>\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使本技能對應行動槽的挑釁值 +4"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合使本技能對應行動槽的挑釁值 +4</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級震顫 強度"
                 }
               ]
             }
@@ -874,13 +874,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司製加速切割機",
+          "name": "T公司制加速切割機",
           "desc": "[WhenUse] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗目標最多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
                 }
               ]
             },
@@ -895,27 +895,27 @@
         },
         {
           "level": 2,
-          "name": "T公司製加速切割機",
-          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拚點威力+1",
+          "name": "T公司制加速切割機",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n<style=\"highlight\">[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗目標最多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度)層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層</style>"
                 }
               ]
             }
@@ -923,27 +923,27 @@
         },
         {
           "level": 4,
-          "name": "T公司製加速切割機",
-          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 目標每帶有6級震顫 強度，使本技能的拚點威力+1(最多+2)",
+          "name": "T公司制加速切割機",
+          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 目標<style=\"highlight\">每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗目標最多3級震顫 強度並對自身施加(消耗的震顫 強度×2)層震顫 \n下回合對目標施加(消耗的震顫 強度-1)層束縛 "
+                  "desc": "[OnSucceedAttack] 消耗目標至多3級震顫 強度並對自身施加(消耗的震顫 強度<style=\"highlight\">×2</style>)層震顫 \n<style=\"highlight\">下回合對目標施加(消耗的震顫 強度-1)層束縛 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若本技能的硬幣效果消耗了目標的震顫 強度，則使其震顫引爆 並使其震顫 層數減少1層<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -957,7 +957,7 @@
         {
           "level": 3,
           "name": "那位，請止步！",
-          "desc": "[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
+          "desc": "[WhenUse] 若目標的震顫 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
           "coinlist": [
             {},
             {
@@ -971,7 +971,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則本效果不消耗目標的震顫 "
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則該效果不消耗目標的震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則使目標振幅轉換 為[VibrationChainPersonality]"
@@ -983,7 +983,7 @@
         {
           "level": 4,
           "name": "那位，請止步！",
-          "desc": "[WhenUse] 目標每帶有6級震顫 強度，使本技能的拚點威力+1(最多+2)\n[WhenUse] 若目標帶有束縛 ，則使本技能的拚點威力+1\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
+          "desc": "[WhenUse] 目標<style=\"highlight\">每帶有6級震顫 強度，使本技能的拼點威力+1(最多+2)</style>\n<style=\"highlight\">[WhenUse] 若目標帶有束縛 ，則使本技能的拼點威力+1</style>\n[WhenUse] 消耗自身的10層震顫 並使本技能的硬幣威力+2",
           "coinlist": [
             {},
             {
@@ -996,20 +996,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加3級震顫 強度</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則本效果不消耗目標的震顫 "
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於10級，則消耗其10級震顫 強度並對其施加2層[TimeSuspend]\n- 若自身帶有[TimeRentalTwoPersonality]，則該效果不消耗目標的震顫 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則使目標振幅轉換 為[VibrationChainPersonality]"
+                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則使目標振幅轉換 為[VibrationChainPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1031,7 +1031,7 @@
         {
           "level": 4,
           "name": "抽取時間吧",
-          "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得4層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內自身受到敵方單位攻擊時，下回合使目標增加3級震顫 強度(每回合最多6次)",
+          "desc": "[StartBattle] 若自身未帶有[TimeRentalTwoPersonality]，則回合結束時使自身獲得4層[TimeRentalTwoPersonality](每回合最多1次)\n[WhenUse] 本回合內自身受到敵方單位攻擊時，下回合使目標增加<style=\"highlight\">3</style>級震顫 強度(每回合最多<style=\"highlight\">6</style>次)",
           "coinlist": [
             {}
           ]
@@ -1044,7 +1044,7 @@
         {
           "level": 1,
           "name": "忍耐已經結束",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
           "coinlist": [
             {},
             {
@@ -1059,7 +1059,7 @@
         {
           "level": 2,
           "name": "忍耐已經結束",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {},
             {
@@ -1074,7 +1074,7 @@
         {
           "level": 4,
           "name": "忍耐已經結束",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗5層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標<style=\"highlight\">每帶有6級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1100,7 +1100,7 @@
         {
           "level": 1,
           "name": "隨心所欲地盛放吧",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[BeforeAttack] 若自身的[BloodArmorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[BeforeAttack] 若自身的[BloodArmorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1124,7 +1124,7 @@
         {
           "level": 2,
           "name": "隨心所欲地盛放吧",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[BeforeAttack] 自身<style=\"highlight\">每帶有10層</style>[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1<style=\"highlight\">(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1139,7 +1139,7 @@
                   "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
                 },
                 {
-                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+10%(最多+50%)"
+                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">50</style>%)"
                 }
               ]
             }
@@ -1148,7 +1148,7 @@
         {
           "level": 4,
           "name": "隨心所欲地盛放吧",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 目標<style=\"highlight\">每帶有6級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1163,7 +1163,7 @@
                   "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
                 },
                 {
-                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+15%(最多+75%)"
+                  "desc": "自身每帶有100層[BloodDinner_Accumulation]，使本硬幣造成的傷害+<style=\"highlight\">15</style>%(最多+<style=\"highlight\">75</style>%)"
                 }
               ]
             }
@@ -1177,7 +1177,7 @@
         {
           "level": 3,
           "name": "將由我來刺穿",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拚點威力+1(最多+2)\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+10%(最多+50%)\n[EndSkill] 若擊殺目標，則獲得30層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 若目標的流血 強度不低於10級，則使本技能的硬幣威力+1\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+10%(最多+50%)\n[EndSkill] 若擊殺目標，則獲得30層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {},
             {},
@@ -1193,7 +1193,7 @@
         {
           "level": 4,
           "name": "將由我來刺穿",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拚點威力+1(最多+2)\n[WhenUse] 目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 若擊殺目標，則獲得60層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多10點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 目標<style=\"highlight\">每帶有5級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 自身每帶有100層[BloodDinner_Accumulation]，使本技能造成的傷害+<style=\"highlight\">20</style>%(最多+<style=\"highlight\">100</style>%)\n[EndSkill] 若擊殺目標，則獲得<style=\"highlight\">60</style>層血宴 ，並使自身獲得10層[BloodArmorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {},
             {},
@@ -1214,13 +1214,13 @@
         {
           "level": 1,
           "name": "笑聲將歸於寂靜",
-          "desc": "[DuelCounter]\n[StartBattle] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多10層，每回合最多1次)",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多10層，每回合最多1次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -1229,13 +1229,13 @@
         {
           "level": 4,
           "name": "笑聲將歸於寂靜",
-          "desc": "[DuelCounter]\n[StartBattle] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多15層，每回合最多1次)",
+          "desc": "[DuelCounter]\n[StartBattle] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodArmorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加10級流血 強度\n[StartBattle] 每有50層[BloodDinner_Common_Accumulation]，使現存體力最低的1名友方單位獲得1層[SwirlingBloodPersonality](最多<style=\"highlight\">15</style>層，每回合最多1次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -1283,7 +1283,7 @@
         {
           "level": 2,
           "name": "桑丘變體硬血6式-鞭",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1311,7 +1311,7 @@
         {
           "level": 4,
           "name": "桑丘變體硬血6式-鞭",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 目標<style=\"highlight\">每帶有6級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 使自身增加20級流血 強度\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，令本技能命中時增加的流血 強度額外+1級(最多+2)。攻擊後消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {},
             {
@@ -1333,7 +1333,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次並使其流血 層數減少1層"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 觸發目標的流血 1次並使其流血 層數減少1層</style>"
                 }
               ]
             }
@@ -1381,7 +1381,7 @@
         {
           "level": 2,
           "name": "桑丘變體硬血8式-割裂",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標<style=\"highlight\">每帶有6級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[BeforeAttack] 自身<style=\"highlight\">每帶有10層</style>[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1<style=\"highlight\">(最多+2)</style>\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]",
           "coinlist": [
             {
               "coindescs": [
@@ -1406,7 +1406,7 @@
                   "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
                 },
                 {
-                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+10%(最多+50%)"
+                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">50</style>%)"
                 }
               ]
             }
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "桑丘變體硬血8式-割裂",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多10點)\n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的攻擊容量+1(最多+2)\n[EndSkill] 本技能每增加1點攻擊容量，消耗10層[BloodArmorPersonalityFirst]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1440,7 +1440,7 @@
                   "desc": "目標每帶有1級流血 強度，使本硬幣造成的傷害+2.5%(最多+25%)"
                 },
                 {
-                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+15%(最多+75%)"
+                  "desc": "每有100層[BloodDinner_Common_Accumulation]，使本硬幣造成的傷害+<style=\"highlight\">15</style>%(最多+<style=\"highlight\">75</style>%)"
                 }
               ]
             }
@@ -1495,7 +1495,7 @@
         {
           "level": 4,
           "name": "桑丘派硬血奧義-La Sangre",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的基礎威力+1(最多+3)\n[WhenUse] 目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 每有100層[BloodDinner_Common_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 自身每帶有10層[BloodArmorPersonalityFirst]，消耗10層[BloodArmorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得100層血宴 ，並使自身重新獲得本技能消耗量一半的[BloodArmorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量50%的體力(最多20點)\n[WhenUse] 自身每帶有10層[BloodArmorPersonalityFirst]，使本技能的基礎威力+1(最多+<style=\"highlight\">3</style>)\n[WhenUse] 目標<style=\"highlight\">每帶有5級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 目標每帶有1級流血 強度，使本技能造成的傷害+5%(最多+50%)\n[WhenUse] 每有100層[BloodDinner_Common_Accumulation]，使本技能造成的傷害+20%(最多+100%)\n[EndSkill] 自身每帶有10層[BloodArmorPersonalityFirst]，消耗10層[BloodArmorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得<style=\"highlight\">100</style>層血宴 ，並使自身重新獲得本技能消耗量一半的[BloodArmorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1524,7 +1524,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加8級流血 強度並對其施加4層流血 "
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">8</style>級流血 強度並對其施加4層流血 "
                 },
                 {
                   "desc": "[EndSkill] 若擊殺目標，則使全體敵方單位增加5級流血 強度並對全體敵方單位施加1層流血 "
@@ -1559,7 +1559,7 @@
         {
           "level": 4,
           "name": "桑丘變體硬血15式-落幕的準備",
-          "desc": "[DuelCounter]\n[StartBattle] 每有40層[BloodDinner_Common_Accumulation]，使現存體力最低的(3+最大共鳴數/2)名友方單位獲得(1+自身的[BloodArmorPersonalityFirst]層數/10)層[SwirlingBloodPersonality]，使自身的[BloodArmorPersonalityFirst]層數減半(每名友方單位最多1次，向下取整)",
+          "desc": "[DuelCounter]\n[StartBattle] 每有40層[BloodDinner_Common_Accumulation]，使現存體力最低的(3+最大共鳴數/2)名友方單位獲得(1+自身的[BloodArmorPersonalityFirst]層數/<style=\"highlight\">10</style>)層[SwirlingBloodPersonality]，使自身的[BloodArmorPersonalityFirst]層數減半(每名友方單位最多1次，向下取整)",
           "coinlist": [
             {},
             {
@@ -1603,19 +1603,19 @@
         {
           "level": 2,
           "name": "發勁",
-          "desc": "若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "若自身的速度值高於目標至少<style=\"highlight\">2</style>點，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使目標增加1級燒傷 強度"
                 }
               ]
             }
@@ -1624,22 +1624,22 @@
         {
           "level": 4,
           "name": "發勁",
-          "desc": "若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)\n[WhenUse] 使自身獲得3層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)</style>\n[WhenUse] 使自身獲得<style=\"highlight\">3</style>層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 對目標施加1層燒傷 "
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 對目標施加1層燒傷 </style>"
                 }
               ]
             }
@@ -1684,29 +1684,29 @@
         {
           "level": 2,
           "name": "翠炎掌",
-          "desc": "若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[WinDuel] 使自身增加3級呼吸法 強度",
+          "desc": "若自身的速度值高於目標至少<style=\"highlight\">2</style>點，則使本技能的硬幣威力+1\n[WinDuel] 使自身增加3級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使自身獲得2層呼吸法 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使目標增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目標每帶有6級燒傷 強度，對其施加1層防禦等級降低 (最多3層，每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 目標每帶有6級燒傷 強度，對其施加1層防禦等級降低 (最多<style=\"highlight\">3</style>層，每回合最多1次)"
                 }
               ]
             }
@@ -1715,29 +1715,29 @@
         {
           "level": 4,
           "name": "翠炎掌",
-          "desc": "若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)\n[WinDuel] 使自身增加3級呼吸法 強度\n- 使自身獲得層數相當於目標[DianxueDonQuixote]層數的呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)</style>\n[WinDuel] 使自身增加3級呼吸法 強度\n<style=\"highlight\">- 使自身獲得層數相當於目標[DianxueDonQuixote]層數的呼吸法 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 目標每帶有6級燒傷 強度，對其施加1層防禦等級降低 (最多5層，每回合最多1次)\n- 對目標額外施加層數相當於其[DianxueDonQuixote]層數的防禦等級降低 "
+                  "desc": "[OnSucceedAttack] 目標每帶有6級燒傷 強度，對其施加1層防禦等級降低 (最多<style=\"highlight\">5</style>層，每回合最多1次)\n<style=\"highlight\">- 對目標額外施加層數相當於其[DianxueDonQuixote]層數的防禦等級降低 </style>"
                 }
               ]
             }
@@ -1786,36 +1786,36 @@
         {
           "level": 4,
           "name": "請您賜教",
-          "desc": "目標每帶有1層[DianxueDonQuixote]，使本技能造成的傷害+15%(最多+45%)\n若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)\n[WinDuel] 使自身增加5級呼吸法 強度\n- 若目標帶有[DianxueDonQuixote]，則使自身額外增加3級呼吸法 強度",
+          "desc": "目標每帶有1層[DianxueDonQuixote]，使本技能造成的傷害<style=\"highlight\">+15%</style>(最多+<style=\"highlight\">45%</style>)\n<style=\"highlight\">若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1，最多+2)</style>\n[WinDuel] 使自身增加5級呼吸法 強度\n- 若目標帶有[DianxueDonQuixote]，則使自身額外增加3級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與目標燒傷 強度之和)%(最多+50%)"
+                  "desc": "使本硬幣暴擊時造成的傷害+(自身的呼吸法 強度與目標燒傷 強度之和)%(最多+<style=\"highlight\">50%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有[DianxueDonQuixote]，則對其施加3層防禦等級降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有[DianxueDonQuixote]，則對其施加3層防禦等級降低 </style>"
                 }
               ]
             }
@@ -1837,7 +1837,7 @@
         {
           "level": 4,
           "name": "先去學學餐桌禮儀吧！",
-          "desc": "若自身的速度值高於攻擊者，則速度值每相差2點，使本技能的硬幣威力+1(最多+2)",
+          "desc": "<style=\"highlight\">若自身的速度值高於攻擊者，則速度值每相差2點，使本技能的硬幣威力+1(最多+2)</style>",
           "coinlist": [
             {}
           ]

@@ -9,8 +9,8 @@
     {
       "id": 1031,
       "panicName": "呈血",
-      "lowMoraleDescription": "若目標未帶有[Laceration]，則使自身的拚點威力-1，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力",
-      "panicDescription": "若目標帶有[Laceration]，則使自身的拚點威力+2；若目標未帶有[Laceration]，則使自身的拚點威力-2，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力"
+      "lowMoraleDescription": "若目標未帶有[Laceration]，則使自身的拼點威力-1，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力",
+      "panicDescription": "若目標帶有[Laceration]，則使自身的拼點威力+2；若目標未帶有[Laceration]，則使自身的拼點威力-2，攻擊命中時使自身恢復相當於目標[Laceration]強度的體力"
     },
     {
       "id": 1032,

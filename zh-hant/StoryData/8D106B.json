@@ -2,195 +2,195 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Evaluation Arena 1F",
+      "place": "評審場內部 1層",
       "model": "이스마엘",
-      "content": "... There's a suspicious looking door to the side. Should we check out what's inside?"
+      "content": "……總感覺旁邊這扇門很可疑，要進去看看嗎？"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<Hmm... Yeah, what should we do?>"
+      "content": "<嗯……該怎麼辦呢。>"
     },
     {
       "id": 2,
       "model": "히스클리프",
-      "content": "Your choice, self-appointed <i>class president</i>."
+      "content": "你決定就好。反正都一樣。"
     },
     {
       "id": 3,
-      "content": "Heathcliff replied nonchalantly."
+      "content": "希斯克利夫幾乎是在說「怎樣都行」。"
     },
     {
       "id": 4,
       "model": "이스마엘",
-      "content": "Well, alright..."
+      "content": "嘛，那麼……"
     },
     {
       "id": 5,
       "model": "이스마엘",
-      "content": "Let's head right in, then."
+      "content": "進去看看吧。"
     },
     {
       "id": 6,
-      "place": "???",
+      "place": "？？？",
       "model": "죄수",
-      "teller": "???",
-      "title": "???",
-      "content": "……."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "……"
     },
     {
       "id": 7,
-      "place": "Evaluation Arena 1F",
+      "place": "評審場內部 1層",
       "model": "이스마엘",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<…….>"
+      "content": "<……>"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "Y-yeah, smooth moves, Ishy. Let's just pretend none of that happened, turn around, and keep walking."
+      "content": "沒、沒錯~是正常的呢，以實。咱們就當作無事發生，右轉回去吧。"
     },
     {
       "id": 10,
       "model": "오티스",
-      "content": "What happened?!"
+      "content": "發生什麼事了！"
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "content": "I-I don't—I just didn't expect <i>that</i>, you know...?"
+      "content": "不、不對……我可沒想過會變成這樣……"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<So... does that mean that we can move on like nothing happened? Or is it a case of no-backsies—>"
+      "content": "<話說回來，如果再次把門關上，就能當作無事發生嗎？>"
     },
     {
       "id": 13,
-      "content": "That's when the host's voice, after a long silence, suddenly began buzzing again."
+      "content": "就在那時，安靜了一會的主持人的聲音再度傳來。"
     },
     {
       "id": 14,
       "model": "사회자",
-      "content": "My, oh my... a certain candidate and his clan elected to bravely open a mysterious door... only to immediately slam it shut in fear! Right, so... I won't name names, on account of it being a rather embarrassing display of spinelessness, but hey. I'll give you guys a chance to rectify that!"
+      "content": "哎呀……某位候選人與其勢力打開了神秘的門……卻立刻將它關上了！因為太丟人我就隱去姓名了……不過會給你們一次重新考慮的機會！"
     },
     {
       "id": 15,
       "model": "돈키호테",
-      "content": "Heeugh! M-Manager Esquire! We must open the door once again, posthaste! An agile craven we shall be made, should we not act swiftly!"
+      "content": "呼啊啊！經理老爺！此刻並非做這種事的時候！這般下去吾等皆會被認定為狡猾的膽小鬼的！"
     },
     {
       "id": 16,
-      "content": "Don Quixote ran up to the door and began bouncing up and down with genuine panic."
+      "content": "堂吉訶德心中焦急難耐，在門前咚咚跺腳。"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<We did see something pretty ugly-looking in there, but...>"
+      "content": "<雖然我們似乎在裡面看到了一些可怕的東西……>"
     },
     {
       "id": 18,
       "model": "단테",
-      "content": "<It wasn't an Abnormality or a Distortion. I didn't feel anything like it around here, either.>"
+      "content": "<但那既不是異想體也不是扭曲。周圍並沒有那種感覺。>"
     },
     {
       "id": 19,
       "model": "로쟈",
-      "content": "I dunno, that almost makes it worse..."
+      "content": "這話不是讓人更不想開門了嗎……？"
     },
     {
       "id": 20,
       "model": "이스마엘",
-      "content": "... It might seem like the host is there just to make some goofy commentary on us, but everything she's said so far has had at least one grain of truth to it."
+      "content": "……哪怕主持人看上去只會嘲諷我們，她的話裡也總是藏著很多資訊。"
     },
     {
       "id": 21,
       "model": "이스마엘",
-      "content": "Sigh... let's check out what's inside. We won't know what's waiting for us in there unless we actually face it."
+      "content": "呼……進去看看吧。那個是什麼，又為什麼會出現在這裡……不直接面對是不會明白的。"
     },
     {
       "id": 22,
-      "content": "Ishmael, now motivated to make up for her earlier blunder, confidently opened the door."
+      "content": "或許是要挽回剛剛失敗的決心給了以實瑪利力量，她勇敢地再度打開了門。"
     },
     {
       "id": 23,
-      "place": "???",
+      "place": "？？？",
       "model": "뫼르소",
-      "content": "The same type of coin we received at the beginning of the game is hanging from the entity's neck."
+      "content": "他的脖子上掛著與我們所收到的物品形狀一致的銅錢。"
     },
     {
       "id": 24,
-      "content": "Another demonstration of Meursault's impeccable observation skills."
+      "content": "默爾索準確的觀察力再度大放異彩。"
     },
     {
       "id": 25,
       "model": "싱클레어",
-      "content": "H-huh, you're right! Why is it wearing a coin...?"
+      "content": "真、真的嗎？為什麼脖子上會有銅……"
     },
     {
       "id": 26,
       "model": "그레고르",
-      "content": "Well, given the circumstances, we can probably gain that coin by kicking this monster to the curb, right?"
+      "content": "那麼看這情況……打倒那個怪物就能得到那些銅錢吧？"
     },
     {
       "id": 27,
       "model": "죄수",
-      "teller": "???",
-      "title": "???",
-      "content": "We..."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "只……"
     },
     {
       "id": 28,
       "model": "죄수",
-      "teller": "???",
-      "title": "???",
-      "content": "We... desire only to repent... An eternal repentance... We desire only to repent... An eternal repentance..."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "只是……想要懺悔……永遠懺悔下去……只是想要懺悔……永遠懺悔下去……"
     },
     {
       "id": 29,
-      "content": "The thing endlessly repeats an unknowable mantra."
+      "content": "那個身份不明的東西不斷低語著意義不明的話語。"
     },
     {
       "id": 30,
-      "content": "It sounded at once desperate and hopeless."
+      "content": "像是在渴求著什麼，又彷彿是放棄了一切。"
     },
     {
       "id": 31,
       "model": "홍루",
-      "content": "They're certainly not abnormal beings."
+      "content": "他們確實不是異形生物呢。"
     },
     {
       "id": 32,
       "model": "이스마엘",
-      "content": "...? Yeah, that's what Dante just said."
+      "content": "……？沒錯，不就和但丁經理剛剛說的一樣嗎。"
     },
     {
       "id": 33,
-      "content": "Hong Lu began as though he recognized them."
+      "content": "鴻璐像是知道那些東西的身份一般，開口說道。"
     },
     {
       "id": 34,
       "model": "홍루",
-      "content": "They're... people."
+      "content": "那些……是人類。"
     },
     {
       "id": 35,
-      "place": "Evaluation Arena - Chamber of the Condemned 1F",
+      "place": "評審場1層，囚犯的房間",
       "model": "홍루",
-      "content": "Hongyuan's condemned."
+      "content": "鴻園的囚犯們。"
     },
     {
       "id": 36,
       "model": "임대옥",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 37,
-      "content": "The condemned howled madly as they charged us."
+      "content": "被稱作囚犯的人們發出尖叫，向著我們瘋狂地爬來。"
     }
   ]
 }

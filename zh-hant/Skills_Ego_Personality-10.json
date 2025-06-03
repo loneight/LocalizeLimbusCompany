@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加4級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
@@ -154,7 +154,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加4級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
@@ -172,13 +172,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加4級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加4級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目標的 [Combustion] 強度不低於10級，則下回合對其施加1層虛弱 與1層破綻 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層虛弱 與1層破綻 "
                 }
               ]
             }
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加6級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
@@ -216,13 +216,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加6級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目標的 [Combustion] 強度不低於10級，則下回合對其施加1層色慾易損 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加1層色慾易損 "
                 }
               ]
             }
@@ -237,13 +237,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標未帶有 [Combustion]，則使其增加6級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標未帶有燒傷 ，則使其增加6級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加4級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 若目標的 [Combustion] 強度不低於10級，則下回合對其施加2層色慾易損 "
+                  "desc": "[OnSucceedAttackTail] 若目標的燒傷 強度不低於10級，則下回合對其施加2層色慾易損 "
                 }
               ]
             }
@@ -263,16 +263,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身與現存體力最低的1名友方單位獲得自身體力上限10%的護盾與2層 [ShieldManagerCryingToad]"
+                  "desc": "[EndSkill] 使自身與現存體力最低的1名友方單位獲得自身體力上限10%的護盾與2層淚珠 "
                 },
                 {
                   "desc": "- 若最大共鳴數不低於4，則額外使1名友方單位獲得以上效果"
                 },
                 {
-                  "desc": "- 若以上友方單位帶有 [ShieldManagerCryingToad]，則使其 [ShieldManagerCryingToad] 層數變為2層"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」"
                 }
               ]
             }
@@ -287,13 +287,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身與現存體力最低的<style=\"highlight\">(1+(最大共鳴數-2))</style>名友方單位獲得自身體力上限<style=\"highlight\">14%</style>的護盾與2層 [ShieldManagerCryingToad] <style=\"highlight\">(除自身以外最大友方單位獲取數：3名)</style>"
+                  "desc": "[EndSkill] 使自身與現存體力最低的<style=\"highlight\">(1+(最大共鳴數-2))</style>名友方單位獲得自身體力上限<style=\"highlight\">14%</style>的護盾與2層淚珠 <style=\"highlight\">(除自身以外最大友方單位獲取數：3名)</style>"
                 },
                 {
-                  "desc": "- 若以上友方單位帶有 [ShieldManagerCryingToad]，則使其 [ShieldManagerCryingToad] 層數變為2層<style=\"highlight\"></style>"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變為2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -308,13 +308,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 使自身與現存體力最低的(1+(最大共鳴數-2))名友方單位獲得自身體力上限<style=\"highlight\">20%</style>的護盾與2層 [ShieldManagerCryingToad] (除自身以外最大友方單位獲取數：3名)"
+                  "desc": "[EndSkill] 使自身與現存體力最低的(1+(最大共鳴數-2))名友方單位獲得自身體力上限<style=\"highlight\">20%</style>的護盾與2層淚珠 (除自身以外最大友方單位獲取數：3名)"
                 },
                 {
-                  "desc": "- 若以上友方單位帶有 [ShieldManagerCryingToad]，則使其 [ShieldManagerCryingToad] 層數變為2層<style=\"highlight\"></style>"
+                  "desc": "- 若以上友方單位帶有淚珠 ，則使其淚珠 層數變為2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,21 +329,21 @@
           "level": 1,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 下回合使本技能對應行動槽的 [Aggro] +5",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 若最大共鳴數不低於4，則使本技能的攻擊容量+1\n[BeforeAttack] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 },
                 {
-                  "desc": "[EndSkill] 使自身獲得自身體力上限(15+2.5×(最大共鳴數))%的護盾與2層 [ShieldManagerCryingToad] (最多+25%)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(15+2.5×(最大共鳴數))%的護盾與2層淚珠 (最多+25%)"
                 },
                 {
-                  "desc": "- 若自身帶有 [ShieldManagerCryingToad]，則使自身的 [ShieldManagerCryingToad] 層數變為2層"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」"
                 }
               ]
             }
@@ -353,21 +353,21 @@
           "level": 3,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)</style>\n[BeforeAttack] 下回合使本技能對應行動槽的<style=\"highlight\"> [Aggro] +10</style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)</style>\n[BeforeAttack] 下回合使本技能對應行動槽的<style=\"highlight\">挑釁值 +10</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">18</style>+<style=\"highlight\">3</style>×(最大共鳴數))%的護盾與2層 [ShieldManagerCryingToad] (最多<style=\"highlight\">+30%</style>)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">18</style>+<style=\"highlight\">3</style>×(最大共鳴數))%的護盾與2層淚珠 (最多+<style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "- 若自身帶有 [ShieldManagerCryingToad]，則使自身的 [ShieldManagerCryingToad] 層數變為2層<style=\"highlight\"></style>"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -377,21 +377,21 @@
           "level": 4,
           "name": "低泣",
           "abName": "悲泣蟾蜍",
-          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)\n[BeforeAttack] 下回合使本技能對應行動槽的 [Aggro] +10<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 使本技能的攻擊容量+(最大共鳴數-2)(最多+2)\n[BeforeAttack] 下回合使本技能對應行動槽的挑釁值 +10<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度並<style=\"highlight\">對其施加3層 [Sinking] </style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度<style=\"highlight\">並對其施加3層沉淪 </style>"
                 },
                 {
-                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">20</style>+<style=\"highlight\">5</style>×(最大共鳴數))%的護盾與2層 [ShieldManagerCryingToad] (最多<style=\"highlight\">+40%</style>)"
+                  "desc": "[EndSkill] 使自身獲得自身體力上限(<style=\"highlight\">20</style>+<style=\"highlight\">5</style>×(最大共鳴數))%的護盾與2層淚珠 (最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "- 若自身帶有 [ShieldManagerCryingToad]，則使自身的 [ShieldManagerCryingToad] 層數變為2層<style=\"highlight\"></style>"
+                  "desc": "- 若自身帶有淚珠 ，則使自身的淚珠層數變為2層<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層 [ShieldManagerCryingToad] 」與「使其 [ShieldManagerCryingToad] 層數變為3層」<style=\"highlight\"></style>"
+                  "desc": "- 若最大憂鬱完全共鳴數不低於4，則使本技能以上效果改為「獲得3層淚珠 」與「使其淚珠 層數變為3層」<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- 若憂鬱共鳴數不低於4，則使自身額外獲得自身體力上限10%的護盾</style>"
@@ -409,22 +409,22 @@
           "level": 1,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層",
+          "desc": "[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse]\n- 目標每帶有3種除 [Curse] 與 [NailPersonality] 以外的負面狀態，額外對其施加1層 [Curse] (最多2層)"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有3種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層尖釘 "
                 }
               ]
             }
@@ -434,25 +434,25 @@
           "level": 3,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "<style=\"highlight\">[BeforeAttack] 若包括本技能在內嫉妒共鳴數不低於4，則使本技能的攻擊容量+1</style>\n[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層",
+          "desc": "<style=\"highlight\">[BeforeAttack] 若包括本技能在內嫉妒共鳴數不低於4，則使本技能的攻擊容量+1</style>\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse]\n- 目標每帶有3種除 [Curse] 與 [NailPersonality] 以外的負面狀態，額外對其施加1層 [Curse] (最多2層)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有3種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層尖釘 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 下回合對目標施加2層 [Binding] (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 下回合對目標施加2層束縛 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -462,28 +462,28 @@
           "level": 4,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "<style=\"highlight\">[BeforeAttack] 包括本技能在內每有3點嫉妒共鳴數，使本技能的攻擊容量+1(最多+2)</style>\n[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層",
+          "desc": "<style=\"highlight\">[BeforeAttack] 包括本技能在內每有3點嫉妒共鳴數，使本技能的攻擊容量+1(最多+2)</style>\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [Curse]\n- 目標每帶有<style=\"highlight\">2</style>種除 [Curse] 與 [NailPersonality] 以外的負面狀態，額外對其施加1層 [Curse] (最多2層)"
+                  "desc": "[OnSucceedAttack] 對目標施加2層詛咒 \n- 目標每帶有<style=\"highlight\">2</style>種除詛咒 與尖釘 以外的負面狀態，額外對其施加1層詛咒 (最多2層)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層 [NailPersonality] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加3層尖釘 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標的 [Curse] 層數不低於4層，則對其施加1層 [ParryingResultDown] (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標的詛咒 層數不低於4層，則對其施加1層拼點威力降低 (每回合最多1次)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層 [Binding] (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層束縛 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -498,22 +498,22 @@
           "level": 1,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目標增加2級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加2級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層 [Curse]"
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層尖釘 "
                 }
               ]
             }
@@ -523,25 +523,25 @@
           "level": 3,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttackTail] 使目標增加<style=\"highlight\">3</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層 [Curse] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">3</style>層尖釘 "
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層 [Binding] (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層束縛 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -551,31 +551,215 @@
           "level": 4,
           "name": "詛咒之釘",
           "abName": "痛苦泰迪",
-          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有 [Curse]，則立即觸發目標的 [Curse] 2次並使其 [Curse] 層數減少2層<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\n隨機指定目標\n[EndSkill] 若目標帶有詛咒 ，則立即觸發目標的詛咒 2次並使其詛咒 層數減少2層<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 使目標增加3級 [Laceration] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 使目標增加3級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層 [Curse] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加4層詛咒 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層 [NailPersonality] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加3層尖釘 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若包括本技能在內嫉妒共鳴數不低於4，則對目標施加1層 [ParryingResultDown] (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若包括本技能在內嫉妒共鳴數不低於4，則對目標施加1層拼點威力降低 (每回合最多1次)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層 [Binding] (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加2層束縛 (每回合最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層 [DefenseDown] (每回合最多1次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] 下回合對目標施加2層防禦等級降低 (每回合最多1次)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得層數相當於暴食共鳴數的[YesdragonSelf](最多5層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "<style=\"highlight\">若自身的[YesdragonSelf]層數不低於6層，則使本技能的硬幣威力+1</style>\n[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得層數相當於暴食共鳴數的[YesdragonSelf](最多5層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級<style=\"highlight\">[Burst]</style>強度"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "<style=\"highlight\">自身每帶有6層[YesdragonSelf]，使本技能的硬幣威力+1(最多+3)</style>\n[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得層數相當於暴食共鳴數的[YesdragonSelf](最多5層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值\n[EndSkill] 3回合內，回合結束時使自身失去10點理智值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">自身每失去2%的體力，使本硬幣造成的傷害+1%(最多+40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "[CantIdentify]\n隨機指定目標\n[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得(暴食共鳴數+4)層[YesdragonSelf](最多10層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">若自身的[YesdragonSelf]層數不低於10層，則使本技能的基礎威力+1</style>\n[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得(暴食共鳴數+4)層[YesdragonSelf](最多10層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級<style=\"highlight\">[Burst]</style>強度"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "污血泣淚",
+          "abName": "應龍",
+          "desc": "[CantIdentify]\n隨機指定目標\n<style=\"highlight\">自身每帶有10層[YesdragonSelf]，使本技能的基礎威力+1(最多+2)</style>\n[StartBattle] 使自身獲得[YesdragonNodie]\n[BeforeAttack] 使自身獲得(暴食共鳴數+4)層[YesdragonSelf](最多10層)\n[BeforeAttack] 使自身受到(自身的[YesdragonSelf]層數×2)點體力傷害\n- 若該效果使自身體力降至混亂閾值之下，則自身不會陷入混亂，而改為移除高於現存體力的混亂閾值",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">自身每失去2%的體力，使本硬幣造成的傷害+1%(最多+40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 若現存體力不高於30%，或自身的[YesdragonSelf]層數不低於20層，則重複使用本硬幣(每個技能最多1次)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] 消耗自身所有體力並使本硬幣造成的傷害+20%(每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }

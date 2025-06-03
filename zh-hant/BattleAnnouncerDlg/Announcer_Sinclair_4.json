@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "announcer_cheer_4_1",
-      "dlg": "希望這能幫上大家……"
+      "dlg": "希望能幫到大家……"
     },
     {
       "id": "announcer_cheer_4_2",
-      "dlg": "可以的話……希望大家盡量不要受傷。"
+      "dlg": "可以的話……希望大家儘量不要受傷。"
     },
     {
       "id": "announcer_specialcheer_4_1",
-      "dlg": "哦、哦……撤退後重整旗鼓比較好吧，經理？"
+      "dlg": "啊、啊……撤退後重整旗鼓比較好吧，經理？"
     },
     {
       "id": "announcer_specialcheer_4_2",
@@ -22,7 +22,7 @@
     },
     {
       "id": "announcer_ally_break_4_1",
-      "dlg": "啊……現在可能不是進攻的好時機。\n我認為……應該盡量不引人注目。"
+      "dlg": "啊……現在可能不是進攻的好時機。\n我認為……應該儘量不引人注目。"
     },
     {
       "id": "announcer_killenemy_4_1",
@@ -38,11 +38,11 @@
     },
     {
       "id": "announcer_ally_adv_4_1",
-      "dlg": "我們好像要贏了！"
+      "dlg": "我們應該會贏！"
     },
     {
       "id": "announcer_danger_4_1",
-      "dlg": "……這應該是最後的機會了。我有種預感……要是錯過這個機會就完了。"
+      "dlg": "……這應該是最後的機會了。我有種預感……我們不能錯過接下來發生的事。"
     },
     {
       "id": "announcer_enemy_specialskill_4_1",
@@ -58,7 +58,7 @@
     },
     {
       "id": "announcer_disadvatk_physical_4_1",
-      "dlg": "啊、唔……那好像只是激怒了他們……"
+      "dlg": "啊，呃……那好像只是激怒了他們……"
     },
     {
       "id": "announcer_advatk_attr_4_1",
@@ -66,7 +66,7 @@
     },
     {
       "id": "announcer_disadvatk_attr_4_1",
-      "dlg": "經……理……？您……確定嗎？"
+      "dlg": "呃……經理……？您……確定嗎？"
     },
     {
       "id": "announcer_enemy_specialbuff_4_1",
@@ -74,7 +74,7 @@
     },
     {
       "id": "announcer_enemy_specialdebuff_4_1",
-      "dlg": "他們看起來……有些不安……如果我們現在攻擊，他們應該無法還手。"
+      "dlg": "他們看起來……有些不安……如果我們現在攻擊，他們應該沒法還手。"
     },
     {
       "id": "announcer_ally_specialbuff_4_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_4_1",
-      "dlg": "嗯……看樣子大家的心情都不太好。還是不要搭話比較好……"
+      "dlg": "嗯……看樣子大家都不在狀態。還是不要說話比較好……"
     },
     {
       "id": "announcer_enemy_destroy_4_1",
@@ -90,7 +90,7 @@
     },
     {
       "id": "announcer_enemy_destroy_4_2",
-      "dlg": "俐落地斬斷了……這樣一來，敵人就不能再耍什麼花招了吧。"
+      "dlg": "利落地斬斷了……這樣一來，就不能再用它去幹些蠢事了吧。"
     },
     {
       "id": "announcer_round_takebigdmg_4_1",
@@ -106,7 +106,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_4_2",
-      "dlg": "真是猛烈的攻擊……怎麼樣才能變得那麼強大呢？"
+      "dlg": "真是猛烈的攻擊……怎麼會這麼強大？"
     },
     {
       "id": "announcer_multikillenemy_4_1",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_equip_4_1",
-      "dlg": "啊……我是負責語音播報的辛克萊。請多指教……"
+      "dlg": "啊……我是負責語音播報的辛克萊。請多關照……"
     }
   ]
 }

@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Startling Strike",
-          "desc": "[WhenUse] If target has 3+ [Burst], Clash Power +1",
+          "name": "先發制人",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             }
@@ -24,13 +24,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraint",
-          "desc": "[WhenUse] If target has 4+ [Burst], Base Power +1",
+          "name": "抑制",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
@@ -40,10 +40,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 3) times (max 2)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 重複使用本硬幣(自身的速度值/3)次(最多2次)"
                 }
               ]
             }
@@ -56,23 +56,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Feather Strike",
-          "desc": "If this unit's Speed is faster than the main target's gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "name": "迅擊",
+          "desc": "若自身的速度值高於主要目標，則每相差2點，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加3層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             },
@@ -82,13 +82,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If target has [BurstAgility], deal +50% damage"
+                  "desc": "若目標帶有[BurstAgility]，則使本硬幣造成的傷害+50%"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [LegStrength]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使自身獲得3層[LegStrength]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Reuse this Coin once (once per Skill)"
+                  "desc": "[WinDuelAttack] 重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }
@@ -101,8 +101,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Windup",
-          "desc": "[WhenUse] Gain 3 [Agility] next turn",
+          "name": "準備動作",
+          "desc": "[WhenUse] 下回合使自身獲得3層迅捷 ",
           "coinlist": [
             {
               "coindescs": [
@@ -120,13 +120,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pursuit",
-          "desc": "[WhenUse] If target has 3+ [Burst], Clash Power +1",
+          "name": "追擊",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -139,13 +139,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overwhelm",
-          "desc": "[WhenUse] If target has 4+ [Burst], Base Power +1",
+          "name": "壓制",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
@@ -155,10 +155,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 3) times (max 2)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 重複使用本硬幣(自身的速度值/3)次(最多2次)"
                 }
               ]
             }
@@ -171,23 +171,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Umbra Strike",
-          "desc": "If this unit's Speed is faster than the main target's gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 3)\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "name": "暗襲",
+          "desc": "若自身的速度值高於主要目標，則每相差2點，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加3層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             },
@@ -197,13 +197,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If target has [BurstAgility], deal +50% damage"
+                  "desc": "若目標帶有[BurstAgility]，則使本硬幣造成的傷害+50%"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [LegStrength]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使自身獲得3層[LegStrength]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Reuse this Coin once (once per Skill)"
+                  "desc": "[WinDuelAttack] 重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }
@@ -216,8 +216,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Windup",
-          "desc": "[WhenUse] Gain 3 [Agility] next turn",
+          "name": "準備動作",
+          "desc": "[WhenUse] 下回合使自身獲得3層迅捷 ",
           "coinlist": [
             {
               "coindescs": [
@@ -235,13 +235,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Question (問)",
-          "desc": "[WhenUse] If target has 5+ [Burst], Coin Power +1",
+          "name": "問",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             }
@@ -254,13 +254,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Answer (答)",
-          "desc": "[WhenUse] If target has 5+ [Burst], Coin Power +1",
+          "name": "答",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 }
               ]
             }
@@ -273,16 +273,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Act Not With Impropriety (非禮勿動)",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)",
+          "name": "非禮勿動",
+          "desc": "[WhenUse] 目標每帶有4級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有2層破裂 ，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[WinDuelAttack] 下回合施加1層束縛 "
                 }
               ]
             },
@@ -292,10 +292,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[Binding]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstStop]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstStop]"
                 }
               ]
             }
@@ -308,8 +308,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "If this unit failed to use this Skill, gain 1 [Binding] next turn\n[WhenUse] Coin Power +1 for every 2 [Burst] on target (max 3)",
+          "name": "閃避",
+          "desc": "若自身未能使用本技能，則下回合對自身施加1層[Binding]\n[WhenUse] 目標每帶有2級[Burst]強度，使本技能的硬幣威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -327,20 +327,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thunderstrike",
-          "desc": "[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "雷霆萬鈞",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於5級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
+                  "desc": "[OnSucceedAttack] 使目標增加4級[Burst]強度"
+                },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstWave]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstWave]"
                 }
               ]
             }
@@ -353,13 +349,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cut them Down, Mao",
-          "desc": "[WhenUse] Heal 10 SP\n[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [Burst]",
+          "name": "斬吧。卯",
+          "desc": "[WhenUse] 使自身恢復10點理智值\n[WhenUse] 若目標的[Burst]強度不低於5級，則使本技能的硬幣威力+1\n[WinDuel] 使目標增加2級[Burst]強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級[Burst]強度"
                 }
               ]
             },
@@ -369,10 +365,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstSuppress]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstSuppress]"
                 }
               ]
             }
@@ -385,8 +381,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Must Push You Further",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)\n[WinDuel] Inflict 2 [Burst] and +2 [Burst] Count",
+          "name": "還需更進一步",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有2層[Burst]，使本技能的拼點威力+1(最多+3)\n[WinDuel] 使目標增加2級[Burst]強度並對其施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -394,7 +390,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +4 [Burst] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加4層[Burst]"
                 }
               ]
             },
@@ -404,7 +400,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             },
@@ -421,7 +417,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target) (max 200%)\n[OnSucceedAttack] Reduce all Deathrites on target to 0"
+                  "desc": "目標的[Burst]強度與[Burst]層數之和每有1點，使本硬幣造成的傷害+5%(最多+200%)\n[OnSucceedAttack] 使目標的所有咒殺降至0層"
                 }
               ]
             }
@@ -434,23 +430,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do Not Meddle",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "莫要插手",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstWave]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstWave]"
                 }
               ]
             }
@@ -463,13 +459,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Startling Strike",
-          "desc": "[WhenUse] If target has 5+ [Burst], Clash Power +1",
+          "name": "先發制人",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於5級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             }
@@ -482,16 +478,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Perforating Kill",
-          "desc": "[WhenUse] If target has 5+ [Burst], Coin Power +1\n[WhenUse] Gain 3 [LegStrength]",
+          "name": "刺殺",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得3層[LegStrength]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [BurstAgility], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] 若目標帶有[BurstAgility]，則下回合使自身獲得1層[Agility]"
                 }
               ]
             }
@@ -504,23 +500,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Etching Strike",
-          "desc": "[WhenUse] If target has 5+ [Burst], Coin Power +1",
+          "name": "標刻",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             }
@@ -533,8 +529,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cursewrit Butcherblade - Blinkstep",
-          "desc": "Prioritizes targets with [BurstAgility]\n[StartBattle] Gain 1 [SupportProtect]\nDeal +15% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on the target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Count on the target (max 3)\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "刻咒殺劍-瞬步",
+          "desc": "優先指定帶有[BurstAgility]的目標\n[StartBattle] 使自身獲得1層[SupportProtect]\n自身與目標的速度值每相差2點，使本技能造成的傷害+15%(最多+60%)\n[WhenUse] 目標每帶有5級[Burst]強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有2層[Burst]，使本技能的基礎威力+1(最多+3)\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -542,7 +538,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層[Burst]"
                 }
               ]
             },
@@ -552,7 +548,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Burst]強度"
                 }
               ]
             },
@@ -562,13 +558,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If target has [BurstAgility], deal +50% damage"
+                  "desc": "若目標帶有[BurstAgility]，則使本硬幣造成的傷害+50%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加5級[Burst]強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this Coin once (once per Skill)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }
@@ -581,27 +577,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cursewrit",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Clash Power +1\n[WhenUse] If target has [BurstAgility], inflict +1 more [Burst] Count with this Skill",
+          "name": "刻咒",
+          "desc": "[WhenUse] 若自身的速度值高於目標至少3點，則使本技能的拼點威力+1\n[WhenUse] 若目標帶有[BurstAgility]，則令本技能額外施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             }
@@ -614,8 +610,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Incomplete Seal Release: <Tianjiu Star's Blade>",
-          "desc": "+20% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)",
+          "name": "禁制部分解放:<天究星刀>",
+          "desc": "自身的速度值與目標每相差2點，使本技能造成的傷害+20%(最多+60%)\n[WhenUse] 目標每帶有5級[Burst]強度，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 目標每帶有2層[Burst]，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +619,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
@@ -633,7 +629,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加5級[Burst]強度"
                 }
               ]
             },
@@ -643,7 +639,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstZilu]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstZilu]"
                 }
               ]
             }
@@ -656,8 +652,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Ask Again",
-          "desc": "[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "再問你一次",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -665,7 +661,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -678,23 +674,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Act Not With Impropriety (非禮勿動)",
-          "desc": "[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "非禮勿動",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstStop]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstStop]"
                 }
               ]
             }
@@ -707,23 +703,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Will Not Meddle",
-          "desc": "[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "莫要插手",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstSuppress]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstSuppress]"
                 }
               ]
             }
@@ -736,16 +732,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thunderstrike - Ripple (波)",
-          "desc": "Prioritizes targets with the most types of Deathrite\n[WhenUse] Coin Power +1 for every 2 [Burst] on the main target (max 4)",
+          "name": "雷霆萬鈞-波",
+          "desc": "優先指定帶有的咒殺種類最多的目標\n[WhenUse] 目標每帶有2級[Burst]強度，使本技能的硬幣威力+1(最多+4)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 2+ types of Deathrite, inflict [BurstWave]"
+                  "desc": "[OnSucceedAttack] 若目標帶有的咒殺不低於2種，則對其施加[BurstWave]"
                 }
               ]
             }
@@ -758,8 +754,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heishou - Mao Linkstrike - Bladestorm",
-          "desc": "[WhenUse] Heal 10 SP\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 2)\n[WinDuel] Inflict 2 [Burst]",
+          "name": "黑獸-卯 聯合-亂擊",
+          "desc": "[WhenUse] 使自身恢復10點理智值\n[WhenUse] 目標每帶有5級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 使目標增加2級[Burst]強度",
           "coinlist": [
             {
               "coindescs": [
@@ -767,7 +763,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             },
@@ -777,7 +773,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
@@ -787,7 +783,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
@@ -797,7 +793,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             }
@@ -810,8 +806,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heed Me, Zilu",
-          "desc": "[WhenUse] Heal 10 SP\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 2)\n[WinDuel] Inflict 2 [Burst]",
+          "name": "子路啊",
+          "desc": "[WhenUse] 使自身恢復10點理智值\n[WhenUse] 目標每帶有5級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 使目標增加2級[Burst]強度",
           "coinlist": [
             {
               "coindescs": [
@@ -819,7 +815,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 }
               ]
             },
@@ -829,7 +825,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
@@ -839,7 +835,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             },
@@ -849,7 +845,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstZilu]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstZilu]"
                 }
               ]
             }
@@ -862,8 +858,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deathrite Deluge",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with the most types of Deathrite\n[WhenUse] Coin Power +1 for every type of Deathrite on target (max 3)",
+          "name": "咒殺氾濫",
+          "desc": "[CantChangeTarget]\n優先指定帶有的咒殺種類最多的目標\n[WhenUse] 目標每帶有1種咒殺，使本技能的硬幣威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -871,7 +867,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target + number of Deathrite types on target) (max 200%)\n[OnSucceedAttack] Reduce all Deathrites on target to 0"
+                  "desc": "目標的[Burst]強度，[Burst]層數與咒殺種類之和每有1點，使本硬幣造成的傷害+5%(最多+200%)\n[OnSucceedAttack] 使目標的所有咒殺降至0層"
                 }
               ]
             }
@@ -884,8 +880,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Answer Me, Jia Baoyu",
-          "desc": "[CantChangeTarget]\nPrioritizes Hong Lu\n[WinDuel] Inflict 4 [Burst] Count\n[DefeatDuel] Inflict 1 [Teaching]",
+          "name": "回答我，賈寶玉",
+          "desc": "[CantChangeTarget]\n優先指定鴻璐\n[WinDuel] 對目標施加4層[Burst]\n[DefeatDuel] 若目標為鴻璐，則使其獲得1層[Teaching]",
           "coinlist": [
             {
               "coindescs": [
@@ -893,7 +889,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -903,7 +899,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -913,7 +909,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -923,7 +919,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             }
@@ -936,8 +932,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tiangang Star - Form (格)",
-          "desc": "Prioritizes Hong Lu\nCoin Power -1 for every [Teaching] on target\n[DefeatDuel] Cannot Stagger with this attack. Gain 15 [DefenseDown] for this Encounter\n[DefeatDuel] Deal -50% damage",
+          "name": "天罡星-格",
+          "desc": "優先指定鴻璐\n目標每帶有1層[Teaching]，使本技能的硬幣威力-2\n[DefeatDuel] 本技能攻擊不會使目標陷入混亂。本場戰鬥期間對自身施加24層[DefenseDown]\n[DefeatDuel] 使本技能造成的傷害-50%",
           "coinlist": [
             {
               "coindescs": [
@@ -945,7 +941,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -955,7 +951,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -965,7 +961,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -975,7 +971,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal +5% damage for every ([Burst] Potency on target + [Burst] Count on target + number of Deathrite types on target) (max 100%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 目標的[Burst]強度與[Burst]層數之和每有1點，使本硬幣造成的傷害+5%(最多+100%)"
                 }
               ]
             }
@@ -988,20 +984,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weaklings...",
-          "desc": "[StartBattle] Apply 2 [AttackDmgUp] to the fastest ally",
+          "name": "懦弱之人…",
+          "desc": "[StartBattle] 使速度值最高的1名友方單位獲得2層[AttackDmgUp]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             }
@@ -1014,20 +1010,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dolts...",
-          "desc": "[StartBattle] Apply 2 [Agility] to the slowest ally next turn",
+          "name": "愚鈍之人…",
+          "desc": "[StartBattle] 使速度值最低的1名友方單位在下回合獲得2層[Agility]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[Binding]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[Vulnerable]"
                 }
               ]
             }
@@ -1040,8 +1036,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'm Gonna Kill You!",
-          "desc": "[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)\n[DefeatDuel] Gain 1 [Vulnerable]",
+          "name": "我要殺了你！",
+          "desc": "[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的基礎威力+1\n[WhenUse] 目標每帶有6級[Burst]強度，使本技能的硬幣威力+1(最多+2)\n[DefeatDuel] 對自身施加1層[Vulnerable]",
           "coinlist": [
             {
               "coindescs": [
@@ -1049,10 +1045,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
                 }
               ]
             },
@@ -1062,10 +1058,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] 對目標造成5點理智傷害"
                 }
               ]
             }
@@ -1078,8 +1074,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Jump In!!",
-          "desc": "[WhenUse] Heal 15 SP\n[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[EndSkill] 1 Jar with the least current HP uses the Skill 'Leaping Cracked Jar' at the target (ignores Stagger)",
+          "name": "飛撲吧！！",
+          "desc": "[WhenUse] 使自身恢復15點理智值\n[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的基礎威力+1\n[EndSkill] 使現存體力最低的1口甕對目標使用技能「飛撲而來的破甕」",
           "coinlist": [
             {
               "coindescs": [
@@ -1087,10 +1083,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             }
@@ -1103,8 +1099,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Watch This Spectacle, All Together!",
-          "desc": "[StartBattle] Summon 2 Jars next turn\n[WhenUse] If target has 3+ negative effects, Base Power +1",
+          "name": "來好好欣賞這齣好戲吧？",
+          "desc": "[StartBattle] 下回合召喚2口甕\n[WhenUse] 若目標帶有的負面狀態不少於3種，則使本技能的基礎威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1112,10 +1108,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             }
@@ -1128,16 +1124,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Talisman Strike",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 30% missing HP on self (max 2)",
+          "name": "符靈術-符擊",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的最終威力+1(最多+3)\n[WhenUse] 自身每失去體力上限30%的體力，使本技能的拼點威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度並對其施加2層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 對目標施加10層[OminousTalisman]"
                 }
               ]
             }
@@ -1150,23 +1146,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Trigger Effect",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 30% missing HP on self (max 2)",
+          "name": "符靈術-效力發動",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的最終威力+1(最多+3)\n[WhenUse] 自身每失去體力上限30%的體力，使本技能的拼點威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度並對其施加2層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 對目標施加10層[OminousTalisman]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 2"
+                  "desc": "[OnSucceedAttack] 消耗目標的2層[OminousTalisman]"
                 }
               ]
             }
@@ -1179,8 +1175,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Deathrite Doll",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 4)",
+          "name": "符靈術-咒殺人偶",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的最終威力+1(最多+4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1188,10 +1184,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst] and +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度並對其施加3層[Burst]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Reduce [OminousTalisman] on target by 5"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 消耗目標的5層[OminousTalisman]"
                 }
               ]
             }
@@ -1204,8 +1200,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spirit Talisman School - Vilerage",
-          "desc": "[StartBattle] Atk Weight +1 for every 20% missing HP on self (max 4)\n[WhenUse] Final Power +1 for every 4 [Burst] on target (max 4\n[DefeatDuel] Deal -50% damage; this Skill cannot Stagger the target with damage or effect\n[EndSkill] If this Skill has defeated an enemy, apply 2 [ResultEnhancement] and 2 [AttackDmgUp] to all allies, including this unit, next turn (once per turn)",
+          "name": "符靈術-邪氣暴走",
+          "desc": "[StartBattle] 自身每失去20%的體力，使本技能的攻擊容量+1(最多+4)\n[WhenUse] 目標每帶有4級[Burst]強度，使本技能的最終威力+1(最多+4)\n[DefeatDuel] 使本技能造成的傷害-50%，且本技能造成的傷害或效果不會使目標陷入混亂\n[EndSkill] 若本技能擊殺了敵方單位，則下回合使包括自身在內的全體友方單位獲得2層[ResultEnhancement]與2層[AttackDmgUp](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,10 +1209,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 對目標施加10層[OminousTalisman]"
                 }
               ]
             },
@@ -1226,10 +1222,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加3層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]"
+                  "desc": "[OnSucceedAttack] 對目標施加10層[OminousTalisman]"
                 }
               ]
             },
@@ -1239,7 +1235,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 消耗目標所有[OminousTalisman]"
                 }
               ]
             }
@@ -1252,26 +1248,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Take This!",
-          "desc": "[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+          "name": "接著！",
+          "desc": "[WhenUse] 目標每帶有2種負面狀態，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
                 }
               ]
             }
@@ -1284,8 +1280,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "KNEEL!",
-          "desc": "[CantIdentify]\n[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+          "name": "跪下！",
+          "desc": "[CantIdentify]\n[WhenUse] 目標每帶有2種負面狀態，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1293,10 +1289,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             },
@@ -1306,10 +1302,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 }
               ]
             }
@@ -1322,26 +1318,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Look at You Flaming Idiots!",
-          "desc": "[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+          "name": "瞧你那蠢樣！",
+          "desc": "[WhenUse] 目標每帶有2種負面狀態，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Burst] on target once. Target loses 1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 觸發目標的[Burst]1次。使目標的[Burst]層數減少1層"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] and [Burst] Potency equal to [MadFeather] Stack"
+                  "desc": "[OnSucceedAttack] 根據目標的[MadFeather]層數，使其增加相應的[Laceration]強度與[Burst]強度"
                 }
               ]
             }
@@ -1354,8 +1350,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Know Your Place!",
-          "desc": "[WideAreaRampage]\n[WhenUse] Consume 3% HP on self (this damage does not kill this unit)",
+          "name": "給余行禮！",
+          "desc": "[WideAreaRampage]\n[WhenUse] 消耗自身體力上限3%的體力(不會因該傷害而陣亡)",
           "coinlist": [
             {
               "coindescs": [
@@ -1363,13 +1359,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[ShamrockTakeDamageUp]"
                 }
               ]
             },
@@ -1379,13 +1375,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[ShamrockTakeDamageUp]"
                 }
               ]
             },
@@ -1395,13 +1391,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加3層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層[ShamrockTakeDamageUp]"
                 }
               ]
             }
@@ -1414,8 +1410,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kowtow Before Me!",
-          "desc": "[CantIdentify]\n[WhenUse] Consume 5% HP on self (this damage does not kill this unit)",
+          "name": "叩首！",
+          "desc": "[CantIdentify]\n[WhenUse] 消耗自身體力上限5%的體力(不會因該傷害而陣亡)",
           "coinlist": [
             {
               "coindescs": [
@@ -1423,14 +1419,14 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict ([MadFeather] on target x 10) [Burst]; all [MadFeather] on target expires"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加(其[MadFeather]層數×10)級[Burst]強度，解除目標所有[MadFeather]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Burst] on target 2 times. Target loses 2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 觸發目標的[Burst]2次。使目標的[Burst]層數減少2層"
                 }
               ]
             }
@@ -1443,23 +1439,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Give You a Chance",
-          "desc": "[DuelCounter] \n[DefeatDuel] All [MadFeather] on target expires",
+          "name": "給你個機會吧",
+          "desc": "[DuelCounter]\n[DefeatDuel] 解除目標所有[MadFeather]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[MadFeather]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MadFeather]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[MadFeather]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層[Binding]"
                 }
               ]
             }
@@ -1472,16 +1468,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Blade Style - Downward Cleave",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Final Power +1 (max 2)\n[WhenUse] Gain +2 [Charge] Count",
+          "name": "充刀流-縱斬",
+          "desc": "[WhenUse] 消耗5層[Charge]並使本技能的最終威力+1(最多+2)\n[WhenUse] 使自身獲得2層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
                 }
               ]
             }
@@ -1494,26 +1490,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Blade Style - Windup Slash",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Clash Power +1 (max 2)\n[WhenUse] Gain +5 [Charge] Count",
+          "name": "充刀流-揮斬",
+          "desc": "[WhenUse] 消耗5層[Charge]並使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身獲得5層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層[Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             }
@@ -1526,8 +1522,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Blade Style - Crushing Slice",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1 (max 2)\n[WhenUse] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[WhenUse] If this unit consumed 10+ [Charge] Count, inflict +3 [Burst] Count\n[WhenUse] At 5~9 [Charge] Count, gain 2(13 - current [Charge] Count) [Burst] to raise this unit's [Charge] Count to 10\n[DefeatDuel] Deal -75% damage; damage dealt by this Skill cannot Stagger the target",
+          "name": "充刀流-碎斬",
+          "desc": "[WhenUse] 消耗5層[Charge]並使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若本技能消耗的[Charge]層數不低於5層，則使本技能增加的[Burst]強度額外+2\n[WhenUse] 若本技能消耗了10層[Charge]，則對目標施加3層[Burst]\n[WhenUse] 若自身的[Charge]層數在5~9層之間，則使自身增加2×(13-現存[Charge]層數)級[Burst]強度並使自身獲得至10層[Charge]\n[DefeatDuel] 使本技能造成的傷害-75%，且本技能造成的傷害不會使目標陷入混亂",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,10 +1531,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
@@ -1548,10 +1544,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             },
@@ -1561,10 +1557,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gluttony damage equal to [Burst] Potency on target; then, reduce [Burst] Count by 1 (max 30)"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其[Burst]強度的暴食傷害，並使其[Burst]層數減少1層(最多30點)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count for every 5 [Charge] Count consumed On Use (max 4)"
+                  "desc": "[OnSucceedAttack] 使用本技能時每消耗了5層[Charge]，對目標施加2層[Burst](最多4層)"
                 }
               ]
             }
@@ -1577,20 +1573,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Blade Style - Flowing Slash",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "充刀流-流斬",
+          "desc": "[WhenUse] 使自身獲得5層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             }
@@ -1603,16 +1599,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Fist Style - Faceoff",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Gain +3 [Charge] Count",
+          "name": "充拳流-相碰",
+          "desc": "[WhenUse] 目標每帶有4級[Burst]強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 對自身施加3層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得3層[Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             }
@@ -1625,23 +1621,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Fist Style - Roundhouse Punch",
-          "desc": "[WhenUse] Final Power +1 for every 5 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Final Power +1\n[WhenUse] At 5~9 [Charge] Count, gain 2(13 - current [Charge] Count) [Burst] Potency to raise [Charge] Count to 10 (once per turn)\n[WhenUse] Gain +5 [Charge] Count",
+          "name": "充拳流-揮擊",
+          "desc": "[WhenUse] 目標每帶有5級[Burst]強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 消耗自身的5層[Charge]並使本技能的最終威力+1\n[WhenUse] 若自身的[Charge]層數在5~9層之間，則使自身增加2×(13-現存[Charge]層數)級[Burst]強度並使自身獲得至10層[Charge](每回合最多1次)\n[WhenUse] 使自身獲得5層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +5 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得5層[Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 2+ [Charge], inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 若自身的[Charge]強度不低於2級，則對目標施加2層[Burst]"
                 }
               ]
             }
@@ -1654,8 +1650,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Fist Style - Destroy",
-          "desc": "[WhenUse] Final Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1 (max 3)\n[WhenUse] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[WhenUse] If this unit consumed 10+ [Charge] Count, inflict +3 [Burst] Count\n[DefeatDuel] Deal -80% damage; damage dealt by this Skill cannot Stagger the target",
+          "name": "充拳流-摧毀",
+          "desc": "[WhenUse] 目標每帶有6級[Burst]強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 消耗5層[Charge]並使本技能的硬幣威力+1(最多+3)\n[WhenUse] 若本技能消耗的[Charge]層數不低於5層，則使本技能增加的[Burst]強度額外+2級\n[WhenUse] 若本技能消耗了10層[Charge]，則對目標施加3層[Burst]\n[DefeatDuel] 使本技能造成的傷害-80%，且本技能造成的傷害不會使目標陷入混亂 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1663,13 +1659,23 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +5 [Charge] Count"
+                  "desc": "[OnSucceedAttack] 使自身獲得5層[Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [OminousTalisman]\n- If this unit consumed 10+ [Charge] Count, inflict ([Charge] Count consumed - 10) [Burst] Count"
+                  "desc": "[OnSucceedAttack] 若本技能消耗了[Charge]層數，則對目標施加10層[OminousTalisman]\n- 若消耗的[Charge]層數不低於10層，則對目標施加(消耗的[Charge]層數-10)層[Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 使自身獲得5層[Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 消耗目標所有[OminousTalisman]"
                 }
               ]
             },
@@ -1679,26 +1685,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +5 [Charge] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 若使用本技能時消耗的[Charge]層數不低於5層，則對目標施加10層[OminousTalisman]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 5"
-                },
-                {
-                  "desc": "[WinDuelAttack] Remove all [OminousTalisman] on target"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If this unit consumed 5+ [Charge] Count On Use, inflict 10 [OminousTalisman]"
-                },
-                {
-                  "desc": "[WinDuelAttack] If this unit consumed 10+ [Charge] Count On Use, consume all [OminousTalisman] on target"
+                  "desc": "[WinDuelAttack] 若使用本技能時消耗的[Charge]層數不低於10層，則消耗目標所有[OminousTalisman]"
                 }
               ]
             }
@@ -1711,20 +1701,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Fist Style - Rhythm Matching",
-          "desc": "[WhenUse] Gain +5 [Charge] Count",
+          "name": "充拳流-匯流而聚",
+          "desc": "[WhenUse] 使自身獲得5層[Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Reduce [OminousTalisman] on target by 3"
+                  "desc": "[OnSucceedAttack] 消耗目標3層[OminousTalisman]"
                 }
               ]
             }
@@ -1737,8 +1727,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swiftfeet Protection",
-          "desc": "[CanDuelGuard]\n[BeforeUse] At 2+ [SupportProtect], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] Gain 1 Defense Level for every 5% HP this unit cumulatively lost in this Encounter (max 10)\n[WhenUse] Cannot be Staggered by damage until this Skill ends",
+          "name": "超速侍衛",
+          "desc": "[CanDuelGuard]\n[BeforeUse] 若自身的[SupportProtect]層數不低於2層，則改為使用「黑獸-卯 奧義-雲解顯現」\n[WhenUse] 本場戰鬥自身每累計失去體力上限5%的體力，使本技能的防禦等級+1(最多+10)\n[WhenUse] 直到本技能結束，自身不會陷入混亂",
           "coinlist": [
             {
               "coindescs": [
@@ -1756,8 +1746,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation",
-          "desc": "+20% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on target (max 3)\n[WhenUse] Clash Power +1 for every 2 [Burst] Count on target (max 3)",
+          "name": "黑獸-卯 奧義-雲解顯現",
+          "desc": "自身的速度值與目標每相差2點，使本技能造成的傷害+20%(最多+60%)\n[WhenUse] 目標每帶有5級[Burst]強度，使本技能的硬幣威力+1(最多+3)\n[WhenUse] 目標每帶有2層[Burst]，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1765,7 +1755,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             },
@@ -1775,7 +1765,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 使目標增加5級[Burst]強度"
                 }
               ]
             },
@@ -1785,7 +1775,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstZilu]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstZilu]"
                 }
               ]
             }
@@ -1798,13 +1788,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Like a Roaring Storm",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nThis Skill attacks targets that aren't Hong Lu\nUses the Heishou Pack - Mao Branch to Stagger every Identity except for Hong Lu next turn; this unit recovers from Stagger\n[EndSkill] Ends turn",
+          "name": "風捲殘雲",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n本技能攻擊鴻璐以外的目標\n下回合使用黑獸-卯使除鴻璐以外的全體人格陷入混亂，並解除自身的混亂\n[EndSkill] 結束回合",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] 對目標施加2層[Burst]"
                 }
               ]
             }

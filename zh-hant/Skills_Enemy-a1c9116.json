@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -54,7 +54,7 @@
         {
           "level": 1,
           "name": "混亂的攻擊",
-          "desc": "[WhenUse] 若自身的速度值不低於7，則使本技能的硬幣威力+1\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 根據拚點次數，相應使本技能造成的傷害增加(每拚點1次造成的傷害+5%，最多+50%)\n[WinDuel] 對目標施加3層流血 ",
+          "desc": "[WhenUse] 若自身的速度值不低於7，則使本技能的硬幣威力+1\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 根據拼點次數，相應使本技能造成的傷害增加(每拼點1次造成的傷害+5%，最多+50%)\n[WinDuel] 對目標施加3層流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -98,13 +98,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "居合斬",
+          "name": "一刀兩斷",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -133,7 +133,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -178,7 +178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身帶有護盾，則在下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 若自身帶有護盾，則在下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -204,7 +204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復2點體力"
@@ -226,7 +226,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 }
               ]
             },
@@ -281,7 +281,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "壹玖柒叄",
+          "name": "壹玖柒叁",
           "desc": "[StartBattle] 使自身獲得4層[Persistent]",
           "coinlist": [
             {
@@ -341,7 +341,7 @@
                   "desc": "[OnSucceedAttack] 使自身恢復8點體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -395,14 +395,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層束縛 "
@@ -419,19 +419,19 @@
         {
           "level": 1,
           "name": "是非不分的攻擊",
-          "desc": "[WhenUse] 若自身的速度值不低於7，則使本技能的硬幣威力+1\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 根據拚點次數，相應使本技能造成的傷害增加(每拚點1次造成的傷害+5%，最多+50%)\n[WinDuel] 使目標增加5級流血 強度",
+          "desc": "[WhenUse] 若自身的速度值不低於7，則使本技能的硬幣威力+1\n[WhenUse] 若目標的流血 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 根據拼點次數，相應使本技能造成的傷害增加(每拼點1次造成的傷害+5%，最多+50%)\n[WinDuel] 使目標增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -463,7 +463,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "撕裂",
+          "name": "割裂",
           "desc": "",
           "coinlist": [
             {
@@ -488,17 +488,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -517,14 +517,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -543,7 +543,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身帶有護盾，則在下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 若自身帶有護盾，則在下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -557,12 +557,12 @@
         {
           "level": 1,
           "name": "先發制人",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [Burst]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 }
               ]
             }
@@ -576,7 +576,7 @@
         {
           "level": 1,
           "name": "抑制",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拚點威力+1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "追擊",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -682,7 +682,7 @@
         {
           "level": 1,
           "name": "壓制",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拚點威力+1",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -774,7 +774,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -842,12 +842,12 @@
         {
           "level": 1,
           "name": "你們都是復仇目標！",
-          "desc": "目標每帶有2層[MiddleFingerBook]，使本技能造成的傷害+10%(最多+50%)\n[BeforeAttack] 若現存體力不高於40%，則使本技能的攻擊容量+1\n[WhenUse] 若目標帶有[MiddleFingerBook]，則使本技能中的所有硬幣轉化為[SuperCoin]\n[WhenUse] 每有3名敵方單位帶有[MiddleFingerBook]，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有2層[MiddleFingerBook]，使本技能的拚點威力+1(最多+5)\n[EndSkill] 若擊殺帶有[MiddleFingerBook]的目標，則下回合使自身獲得1層加算硬幣強化 (每回合最多2次)\n[EndSkill] 解除全體受到攻擊的目標的[MiddleFingerBook]",
+          "desc": "目標每帶有2層[MiddleFingerBook]，使本技能造成的傷害+10%(最多+50%)\n[BeforeAttack] 若現存體力不高於40%，則使本技能的攻擊容量+1\n[WhenUse] 若目標帶有[MiddleFingerBook]，則使本技能中的所有硬幣轉化為[SuperCoin]\n[WhenUse] 每有3名敵方單位帶有[MiddleFingerBook]，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 目標每帶有2層[MiddleFingerBook]，使本技能的拼點威力+1(最多+5)\n[EndSkill] 若擊殺帶有[MiddleFingerBook]的目標，則下回合使自身獲得1層加算硬幣強化 (每回合最多2次)\n[EndSkill] 解除全體受到攻擊的目標的[MiddleFingerBook]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             },

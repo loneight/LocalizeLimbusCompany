@@ -10,7 +10,7 @@
     },
     {
       "id": "WinDuel",
-      "name": "[拚點勝利]"
+      "name": "[拼點勝利]"
     },
     {
       "id": "BeforeAttack",
@@ -82,7 +82,7 @@
     },
     {
       "id": "DefeatDuel",
-      "name": "[拚點失敗]"
+      "name": "[拼點失敗]"
     },
     {
       "id": "OnSucceedAttackHead",
@@ -102,7 +102,7 @@
     },
     {
       "id": "CantDuel",
-      "name": "[無法拚點]"
+      "name": "[無法拼點]"
     },
     {
       "id": "EnemyKill",
@@ -126,7 +126,7 @@
     },
     {
       "id": "StartDuel",
-      "name": "[拚點開始]"
+      "name": "[拼點開始]"
     },
     {
       "id": "EndBattle",
@@ -146,11 +146,11 @@
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Heads Hit after Clash Win]"
+      "name": "[拼點勝利 - 正面命中時]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Hit after Clash Win]"
+      "name": "[拼點勝利 - 命中時]"
     },
     {
       "id": "CriticalActivated",
@@ -162,7 +162,7 @@
     },
     {
       "id": "CantChangeTarget",
-      "name": "[無法改變拚點目標]"
+      "name": "[無法改變拼點目標]"
     },
     {
       "id": "TurnStartBattle",
@@ -194,7 +194,7 @@
     },
     {
       "id": "DuelCounter",
-      "name": "[可拚點反擊]"
+      "name": "[可拼點反擊]"
     },
     {
       "id": "CantBreak",
@@ -202,7 +202,7 @@
     },
     {
       "id": "DuelGuard",
-      "name": "[可拚點防禦]"
+      "name": "[可拼點防禦]"
     },
     {
       "id": "WhenUseEvade",
@@ -222,7 +222,7 @@
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[拚點失敗 - 命中時]"
+      "name": "[拼點失敗 - 命中時]"
     },
     {
       "id": "TargetKillFail",

@@ -6,7 +6,7 @@
     },
     {
       "id": "tip_long_click_to_view_personality",
-      "content": "※ 長按以查看人格詳情。"
+      "content": "※ 長按以檢視人格詳情。"
     },
     {
       "id": "leap_up_confim_main_only_gacksung",
@@ -18,7 +18,7 @@
     },
     {
       "id": "tip_long_click_to_view_ego",
-      "content": "※ 長按以查看E.G.O詳情。"
+      "content": "※ 長按以檢視E.G.O詳情。"
     },
     {
       "id": "ego_leap_up_confim_main_only_gacksung",
@@ -42,11 +42,11 @@
     },
     {
       "id": "check_default_personality_leap_up",
-      "content": "所選人格可通過主線劇情最多免費提升至同步階段3。\n\n您是否仍要進行同步？"
+      "content": "所選人格可通過主線故事最多免費提升至同步階段3。\n\n您是否仍要進行同步？"
     },
     {
       "id": "check_default_ego_leap_up",
-      "content": "所選E.G.O可通過主線劇情最多免費提升至異想解析階段3。\n\n您是否仍要進行異想解析？"
+      "content": "所選E.G.O可通過主線故事最多免費提升至異想解析階段3。\n\n您是否仍要進行異想解析？"
     },
     {
       "id": "select_identity_popup_title",

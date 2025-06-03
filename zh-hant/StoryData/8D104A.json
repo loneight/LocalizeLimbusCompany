@@ -2,590 +2,590 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Evaluation Arena 1F - Lab Ruins",
+      "place": "評審場1層 實驗室廢墟",
       "model": "오티스",
-      "content": "Now... hand over your entire coin bundle. Cough it up, I know you don't have many."
+      "content": "現在……將手裡的銅錢全都交出來。雖然你手中的數量也沒多到要說「全都」的程度。"
     },
     {
       "id": 1,
       "model": "사화정다침",
-      "content": "But... if you take all my coins, I'll be eliminated..."
+      "content": "唔……如果這些全被拿走的話……我會被立刻淘汰的……"
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "Yes, exactly. Are eliminated candidates subject to summary execution here?"
+      "content": "沒錯，正好呢。這裡的淘汰者會被立刻處決嗎？"
     },
     {
       "id": 3,
       "model": "사화정다침",
-      "content": "T-that wasn't a rule..."
+      "content": "沒……沒有這種規則……"
     },
     {
       "id": 4,
       "model": "사회자",
-      "content": "Looks like some candidates have finally had some exciting run-ins with one another!"
+      "content": "現在，有幾名候選人終於迎來了激烈的邂逅呢。"
     },
     {
       "id": 5,
       "model": "사회자",
-      "content": "As a reminder, the goal of this game is to collect as many coins as possible within the given time limit."
+      "content": "這次大戰的核心是，在規定時間內儘可能多地收集銅錢。"
     },
     {
       "id": 6,
       "model": "사회자",
-      "content": "Sure, cooperation and alliances are all well and good, but when negotiations go up in smoke, might becomes a pretty reliable fallback plan."
+      "content": "雖然候選人間互相合作和拉攏也不錯，但如果對話沒法順利進行的話，武力會成為一個不錯的答案。"
     },
     {
       "id": 7,
       "model": "사회자",
-      "content": "Don't you worry, though! The shadows of Hongyuan hiding in the corners of the arena will safely guide any coinless candidate out of the building."
+      "content": "儘管如此也請放心！被奪走所有銅錢的候選人，會由建築物中潛伏的鴻園之影帶領離場。"
     },
     {
       "id": 8,
       "model": "사회자",
-      "content": "Oh, by the way—resisting them is kind of a terrible idea. I heard they're faster to act than to talk."
+      "content": "啊，我勸各位不要反抗他們。聽說他們都是動手不動口的呢。"
     },
     {
       "id": 9,
       "model": "파우스트",
-      "content": "They must have placed the Heishou here."
+      "content": "他們部署了黑獸。"
     },
     {
       "id": 10,
       "model": "사화정다침",
-      "content": "W-what the hell, that's bullshit!"
+      "content": "我、我可沒聽過那種事！"
     },
     {
       "id": 11,
       "model": "사회자",
-      "content": "Of course, if you've lost more than your coins... your life, for example... I suppose the Heishou'll be escorting your corpse out of here instead. Ha ha ha!"
+      "content": "當然，如果不僅僅是銅錢，連性命也被人奪去的話……他們大概就要帶領屍體離場了呢，哈哈哈！"
     },
     {
       "id": 12,
       "model": "오티스",
-      "content": "... You heard her. Would you like to have your corpse escorted out, or would you rather leave on your own accord?"
+      "content": "……這樣啊。你是想作為屍體離場呢，還是想至少保住這條命呢？"
     },
     {
       "id": 13,
       "model": "사화정다침",
-      "content": "Fine... my coins are yours. Take them all..."
+      "content": "我……全部奉上……隨便拿吧……"
     },
     {
       "id": 14,
       "model": "사회자",
-      "content": "Aha, a candidate from the Shi family has been eliminated from the game. What an overwhelmingly dominating display of charisma from the opposing candidate's clan member!"
+      "content": "現在，有一名史家的候選人被淘汰了。他被對方魄力十足的家族勢頭所壓垮了呢。"
     },
     {
       "id": 15,
       "model": "사회자",
-      "content": "If you've been eliminated, please come out to the hallways, forfeit your weapons, and wait for further instructions. Please note that any eliminated candidate loses all rights and privileges appertaining to candidates of Family Hierarch Evaluations, and..."
+      "content": "淘汰者請來走廊，放下武器等待。被淘汰的候選人將被剝奪一切家主評審相關的機會和許可權……"
     },
     {
       "id": 16,
       "model": "홍루",
-      "content": "Ohh, I remember now. His name's Shi Huazhen~"
+      "content": "啊，我想起來了。他名叫史華真~"
     },
     {
       "id": 17,
       "model": "로쟈",
-      "content": "We're already up to seven coins, huh?"
+      "content": "那我們已經收集到了七枚銅錢嗎？"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Hey, that's not bad! Let's wrap this up asap and get the heck outta this creephouse~"
+      "content": "不錯的收穫嘛？讓我們趕緊結束，然後離開這片陰氣森森的地方吧~"
     },
     {
       "id": 19,
       "model": "이상",
-      "content": "We are beset in all directions by sorrow and tragedy. This appears to have been a laboratory for an unknown purpose..."
+      "content": "四周籠罩著濃郁的陰影。這裡貌似是為某種目的而設的實驗室……"
     },
     {
       "id": 20,
-      "content": "Yi Sang's eyes scan over the various machines that are messily strewn about the room."
+      "content": "李箱將視線投向散落的眾多器具。"
     },
     {
       "id": 21,
       "model": "왕자우",
-      "content": "Kong family's laboratory, most likely."
+      "content": "大概是孔家的實驗室。"
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "Yeah... saw the plaque earlier. Apparently their entire family got completely annihilated after presumably breaking a taboo or something."
+      "content": "啊……我看到牌匾了。傳聞是說他們因為觸犯禁忌而被滅門了吧？"
     },
     {
       "id": 23,
       "model": "싱클레어",
-      "content": "Going by what Hong Lu said earlier... and gathering from everything we've heard about the Kong family so far... i-it sure sounds like they're all dead..."
+      "content": "根據鴻璐先生的話……以及有關孔家的傳聞來看，他們似乎真的全都死了呢……"
     },
     {
       "id": 24,
       "model": "왕자우",
-      "content": "It was in the time before the Jia family wielded as much power as it does now..."
+      "content": "那是賈家像如今這般極盛前所發生的事情……"
     },
     {
       "id": 25,
       "model": "왕자우",
-      "content": "Boy, the Kong family really was something back then."
+      "content": "那時的孔家確實是名門望族。"
     },
     {
       "id": 26,
       "model": "왕자우",
-      "content": "Outputting a constant stream of new, groundbreaking Boluses with all kinds of unique qualities can't have been easy. But they somehow managed it back then."
+      "content": "持續生產出劃時代性的全新丸藥並不容易，但他們卻做到了。"
     },
     {
       "id": 27,
       "model": "왕자우",
-      "content": "Because the Kong family had made such impressive contribution to the City as a whole, even past the boundaries of Hongyuan itself..."
+      "content": "孔家不僅限於鴻園，對都市也作出了突出貢獻……"
     },
     {
       "id": 28,
       "model": "왕자우",
-      "content": "... the other families had no choice but to watch in awe as it stood like a mountain so far above them."
+      "content": "其他家族只能望塵莫及。"
     },
     {
       "id": 29,
       "model": "홍루",
-      "content": "Yes, I heard that they delved into various research subjects here."
+      "content": "沒錯，我聽說他們進行過各種各樣的研究。"
     },
     {
       "id": 30,
       "model": "왕자우",
-      "content": "Well. Despite all that glory, what awaited them at the end was a tragedy."
+      "content": "嘛，不過，結局不太好罷了。"
     },
     {
       "id": 31,
       "model": "이스마엘",
-      "content": "So there's no record or evidence of any kind left that could tell us what kind of experiments they carried out down here?"
+      "content": "那連是什麼實驗的記錄，都完全沒有留下來嗎？"
     },
     {
       "id": 32,
       "model": "왕자우",
-      "content": "Nope. It all got purged. Anything to do with their experiment has been practically atomized by the Claws that came here."
+      "content": "沒錯。這座都市裡的所有關聯資料都消失了。如果是包含有實驗資訊的物品，爪牙連一件也不會放過吧。"
     },
     {
       "id": 33,
       "model": "이상",
-      "content": "... Perhaps, in search of the novel, they failed to notice the avarice spiraling out of control; a recurring development among those whose passion is research."
+      "content": "……他們或許是在探求新事物時過於貪婪了。此對研究者而言，應該算是常事。"
     },
     {
       "id": 34,
       "model": "왕자우",
-      "content": "For a while, people from the high-and-mighty families of Hongyuan refused to even look in the general direction of this building. They thought it was heretical, that it would bring them misfortune."
+      "content": "有段時間鴻園的名門望族連這座建築的方向都不會看上一眼，認為這是不敬。"
     },
     {
       "id": 35,
       "model": "왕자우",
-      "content": "Of course, I was pretty young then, so all this is just what the adults told me."
+      "content": "在那時我還年幼……所以這些都是從大人們那裡聽來的。"
     },
     {
       "id": 36,
       "model": "이상",
-      "content": "Do you recall aught from then... Hong Lu?"
+      "content": "鴻璐……你還記得那時之事嗎？"
     },
     {
       "id": 37,
       "model": "홍루",
-      "content": "I was also very young, only ten years old, so my memories aren't very clear..."
+      "content": "因為我那時只有十歲左右，所以記得不算清楚……"
     },
     {
       "id": 38,
       "model": "홍루",
-      "content": "But I do. I recall."
+      "content": "但沒錯，我記得。"
     },
     {
       "id": 39,
       "model": "홍루",
-      "content": "... I recall the day when the weight of avarice broke both the heavens above and the earth beneath the Kong family and smote them."
+      "content": "……慾望沉重到超越掌控，孔家天崩地裂的那一天。"
     },
     {
       "id": 40,
       "model": "단테",
-      "content": "<…….>"
+      "content": "<……>"
     },
     {
       "id": 41,
       "model": "홍루",
-      "content": "But our existence is as fragile as paper, bound to fade away into nothingness just as they have."
+      "content": "說到底，我們也不過是終將如紙片般消散的存在。"
     },
     {
       "id": 42,
       "model": "홍루",
-      "content": "So... I guess that's why we should always be mindful of excess, to empty ourselves that we will not overflow."
+      "content": "所以……任何事都不要過度，放空自己是很重要的吧。"
     },
     {
       "id": 43,
-      "content": "Hong Lu spoke so calmly and clinically about the day when countless lives were lost."
+      "content": "鴻璐淡然談論著，那無數生命瞬間消失的日子。"
     },
     {
       "id": 44,
-      "teller": "Announcement",
-      "title": "???",
-      "content": "……."
+      "teller": "廣播聲",
+      "title": "？？？",
+      "content": "……"
     },
     {
       "id": 45,
-      "teller": "Announcement",
-      "title": "???",
-      "content": "Thank... you so... much again... everyone... who is here today... for the Kong family and Hongyuan's... eternal... prosperity."
+      "teller": "廣播聲",
+      "title": "？？？",
+      "content": "感謝……今日……為了孔家……與鴻園無限的繁榮……而到來的……各位。"
     },
     {
       "id": 46,
-      "content": "This... must be a recording from before the Kong family's complete annihilation."
+      "content": "這些……應該是孔家遭遇滅門前的錄音吧。"
     },
     {
       "id": 47,
-      "teller": "Announcement",
-      "title": "???",
-      "content": "Let this... experiment... be another resounding success for us... so that everyone... in Hongyuan... will be a step closer... to achieving... immortal life..."
+      "teller": "廣播聲",
+      "title": "？？？",
+      "content": "一如既往……這次的實驗……也成功了……全體鴻園居民……離永恒的生命……更進一步了……"
     },
     {
       "id": 48,
-      "teller": "Announcement",
-      "title": "???",
-      "content": "Do... know that our success... is..."
+      "teller": "廣播聲",
+      "title": "？？？",
+      "content": "一定……會成功……"
     },
     {
       "id": 49,
-      "place": "Hongyuan's Laboratory, Past",
-      "teller": "Announcement",
-      "title": "Hongyuan's Laboratory",
-      "content": "Do know that our success is a guarantee, so we would like to ask all research personnel to put their best into every project."
+      "place": "過去，鴻園的實驗室",
+      "teller": "廣播聲",
+      "title": "鴻園的實驗室",
+      "content": "一定會成功的，所以懇請各位實驗相關人員全力以赴。"
     },
     {
       "id": 50,
       "model": "과거가모",
-      "content": "Do you see now? It was not a matter of formula but rather the process, the order of formulation that diminished the efficacy of your previous Bolus."
+      "content": "明白了嗎？之前的丸效果不佳，是因為調和順序出了問題。"
     },
     {
       "id": 51,
       "model": "과거가모",
-      "content": "Let me demonstrate by example. Directly mixing two diametrically opposed ingredients—safflower (紅花), which carries an element of fire, with fleeceflower (何首烏), which carries an element of water—will cause a repelling reaction. What does the Kong family do in such a case?"
+      "content": "比如說，火屬性的紅花與水屬性的何首烏本來就處於兩極，單純地混合會產生排斥作用。這種時候，你們孔家會怎麼做？"
     },
     {
       "id": 52,
       "model": "공우진",
-      "content": "Mm. Use white peony (白芍藥) or gold in between the addition of either ingredient so that they may coexist."
+      "content": "嗯。在其中加入帶有金氣的黃金或白芍，可使材料的氣性相生調和。"
     },
     {
       "id": 53,
       "model": "과거가모",
-      "content": "Yes, a rudimentary application of the Bolus production methodology. However, one thing we must know is that the law followed by our ingredients is not defined solely by the five phases and eight trigrams. Though the five phases are correctly aligned, ingredients each imbued with elements of the sexagenary cycle—distinguished by both the heavenly stems and the earthly branches—all exhibit different effects."
+      "content": "沒錯。這是基本的丸調和方法。但其實……我們所使用的材料，並不單單遵循五行八卦之法。即使順理好了五行，具有六十甲子性質的材料，實際上也發揮著不同的功效……"
     },
     {
       "id": 54,
       "model": "과거가모",
-      "content": "Another aspect of this art to consider is that spacetime itself is a variable that modifies the laws by which yin and yang operate; thus, even if the same recipe were to be followed to the letter, the hour, the minute, and the second during which the Bolus is combined affects its quality and characteristics."
+      "content": "更何況陰陽之理會隨時空而變化，所以哪怕是相同的調和方法，具體制作的時、分、秒，也會影響丸的特性以及質量。"
     },
     {
       "id": 55,
       "model": "공사혜",
-      "content": "So that's why following the same family recipes could yield Boluses of varying effects."
+      "content": "因此……儘管完全遵從了我們家族過去嘗試的配方，也製作出了效果不同的丸藥呢。"
     },
     {
       "id": 56,
       "model": "과거가모",
-      "content": "You must also remain wary of where one stores the Boluses once they are completed, and when to remove them from shade."
+      "content": "就連在何處保管調配好的丸，何時從陰處取出，都會讓其產生變化。"
     },
     {
       "id": 57,
       "model": "과거가모",
-      "content": "Do keep in mind that a wise forger of Boluses always remains acutely aware of the harmony and discord that exists between ingredients."
+      "content": "丸藥師必須經常察覺素材間的調和與排斥……多加小心為好。"
     },
     {
       "id": 58,
       "model": "공우진",
-      "content": "You certainly have an exceptionally high degree of expertise when it comes to Boluses."
+      "content": "和往常一樣，您在丸方面的專業性真是出類拔萃啊。"
     },
     {
       "id": 59,
       "model": "공우진",
-      "content": "I cannot help but always depend on you so. You're the only person who would ever come up with such innovative ways to forge these boluses."
+      "content": "真可靠啊。能想到用這種方式嘗試調和的，果然只有您了吧。"
     },
     {
       "id": 60,
       "model": "공사혜",
-      "content": "You've managed to untangle this side effect in a matter of moments, when we've struggled with it for months. We cannot help but feel a tinge of shame before your skill."
+      "content": "我們找了幾個月也沒有發現克服副作用的方法，現在卻被這麼簡單地解決了，反倒叫我們顏面不保了。"
     },
     {
       "id": 61,
       "model": "과거가모",
-      "content": "... Consider this boon good karma for your vast and profound generosity."
+      "content": "……多虧了你們的心胸寬廣，才能得到這樣的回報。"
     },
     {
       "id": 62,
       "model": "공사혜",
-      "content": "It is all thanks to your wisdom and acumen, venerable Jia Mu."
+      "content": "這都多虧了老太太出色的能力與手段。"
     },
     {
       "id": 63,
       "model": "공사혜",
-      "content": "You deserve every reverence and admiration for coming this far, armed with nothing but your skill and wit."
+      "content": "您僅憑實力與慧眼而達到了此等地位，我認為應該被眾人永遠敬仰。"
     },
     {
       "id": 64,
       "model": "공사혜",
-      "content": "And as they admire your achievements, they'll find hope as well."
+      "content": "只有這樣，在老太太的帶領下，大家才能抱著希望活下去吧？"
     },
     {
       "id": 65,
       "model": "과거가모",
-      "content": "... Of course."
+      "content": "……正是如此。"
     },
     {
       "id": 66,
       "model": "과거가모",
-      "content": "No one could have possibly foreseen that the declining Shi family would produce the next Hierarch, after all. Especially someone without a proper clan."
+      "content": "誰會想到一個出身於地位衰落的史家、沒有像樣勢力的人，能得到家主的寶座呢。"
     },
     {
       "id": 67,
       "model": "공사혜",
-      "content": "Oh...! That is not what I had intended to convey, venerable Jia Mu. If I had offended you, by any chance—"
+      "content": "啊……！我並非那個意思。若我的發言讓您感到不快的話……"
     },
     {
       "id": 68,
       "model": "과거가모",
-      "content": "Worry not, for you have spoken true."
+      "content": "沒關係，你一個字也沒說錯。"
     },
     {
       "id": 69,
       "model": "과거가모",
-      "content": "I understand that it was all thanks to the Kong family's generosity that I could rise. I know better than anyone that you could have easily eliminated me before I had the chance to ascend to the seat of the Family Hierarch."
+      "content": "我比誰都清楚，這都是多虧了孔家的器量深厚。你們要是有那個意願，我早就在繼任家主寶座前被輕易排除掉了。"
     },
     {
       "id": 70,
       "model": "과거가모",
-      "content": "And you would have done so, had you wished to further solidify the Kong family's position here."
+      "content": "如果你們想讓孔家的地位更為穩固，早就有充足理由那麼做。"
     },
     {
       "id": 71,
       "model": "공우진",
-      "content": "In fact, our hearts were truly stirred by the most unexpected outcome of the Family Hierarch war."
+      "content": "倒不如說，我們對家主之爭的意外結局感到欽佩。"
     },
     {
       "id": 72,
       "model": "공우진",
-      "content": "You have clutched victory with nothing but wisdom when all odds were against you."
+      "content": "因為您在那個稱不上公平的環境中制定了明智的戰略，奪得了第一。"
     },
     {
       "id": 73,
       "model": "공우진",
-      "content": "Not to mention that we are greatly appreciative of all the assistance you have so graciously provided us."
+      "content": "而且，十分感謝您這次也在物質和精神上幫助了我們。"
     },
     {
       "id": 74,
       "model": "과거가모",
-      "content": "Save your compliments, please. I am only honored that you saw any use for my insignificant tricks."
+      "content": "別那麼說，我才應該為能發揮我這並不出色的才能，而感到榮幸的。"
     },
     {
       "id": 75,
       "model": "과거가모",
-      "content": "After all, our collective pursuit is to prolong the eternal prosperity of Hongyuan, is it not?"
+      "content": "而且我們都希望鴻園能無限繁榮下去，對吧？"
     },
     {
       "id": 76,
       "model": "어린홍루",
-      "content": "... Grandma, are you making new Boluses again?"
+      "content": "……奶奶，您又在做新丸了嗎？"
     },
     {
       "id": 77,
       "model": "과거가모",
-      "content": "Indeed, little Baoyu."
+      "content": "沒錯，寶玉啊。"
     },
     {
       "id": 78,
       "model": "과거가모",
-      "content": "There is karma to be repaid."
+      "content": "不能不償還受到的業報啊。"
     },
     {
       "id": 79,
       "model": "어린홍루",
-      "content": "And do I have to... keep coming here with you, grandma?"
+      "content": "我也……必須一直和您一起去嗎？奶奶？"
     },
     {
       "id": 80,
       "model": "과거가모",
-      "content": "Yes. This beautiful scenery will not be complete without you as its witness."
+      "content": "是啊，因為……這是只有你一直觀望下去才能完成的絕景啊。"
     },
     {
       "id": 81,
-      "place": "Evaluation Arena 1F - Lab Ruins",
+      "place": "評審場1層 實驗室廢墟",
       "model": "이상",
-      "content": "You have frequented this place… with regularity, Hong Lu?"
+      "content": "鴻璐，你曾經常……來往這裡嗎？"
     },
     {
       "id": 82,
       "model": "홍루",
-      "content": "... Yes. Grandmother often brought me here to play, hand-in-hand."
+      "content": "……是的。奶奶經常拉著我的手來這裡玩。"
     },
     {
       "id": 83,
       "model": "왕자우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 84,
       "model": "왕자우",
-      "content": "Oh, are you guys done collectively spacing out? I've been thinking while you were gone."
+      "content": "啊，在你們發呆的時候，我也在不斷思考。"
     },
     {
       "id": 85,
       "model": "왕자우",
-      "content": "And I've come up with something quite interesting."
+      "content": "結果有了十分有趣的想像啊。"
     },
     {
       "id": 86,
       "model": "왕자우",
-      "content": "So, since the results of the second round are decided only when the time's up..."
+      "content": "規定時間結束時，決定名次的物品，是這個第二輪家主選拔的核心……"
     },
     {
       "id": 87,
       "model": "왕자우",
-      "content": "... I'm sure there are candidates out there coming up with strategies like..."
+      "content": "那肯定會有候選人這樣想。"
     },
     {
       "id": 88,
       "model": "왕자우",
-      "content": "\"Collect a moderate amount of coins, find a nice, hidden corner to lie low, wait until everything blows over, and we just might walk away with a decent rank.\" Know what I mean?"
+      "content": "只要收集適量的銅錢，靜靜潛伏在同一個地方的話……就能贏得相當高的名次……吧。"
     },
     {
       "id": 89,
       "model": "오티스",
-      "content": "There are many points of failure to that plan, but... it would indeed be an appropriate strategy for candidates who are not so confident about their odds in open combat."
+      "content": "不穩定因素太多了……不過對於對戰鬥沒有自信的候選人來說，是個有效的策略。"
     },
     {
       "id": 90,
       "model": "왕자우",
-      "content": "Right?"
+      "content": "是嗎？"
     },
     {
       "id": 91,
       "model": "왕자우",
-      "content": "But here's the thing. Wouldn't it make for such a boring show if most of the candidates are just hiding and doing nothing for the majority of the game? I mean, they even made the show of gathering an audience for this song and dance."
+      "content": "但是，明明連觀眾都特意找來現場直播了，如果都是那種候選人的話，觀眾們肯定會很無聊的吧？"
     },
     {
       "id": 92,
       "model": "왕자우",
-      "content": "There must be—"
+      "content": "恐怕一定是……"
     },
     {
       "id": 93,
-      "place": "Evaluation Arena 1F",
-      "content": "I sensed a very subtle vibration the moment we walked out of the lab and into the hallways."
+      "place": "評審場內部 1層",
+      "content": "從實驗室出來，走入另一條走廊的瞬間，我感到了些許微弱的震動。"
     },
     {
       "id": 94,
-      "content": "Wang Zhao must've felt it, too. He stopped in his tracks and looked around."
+      "content": "名為王昭之人也感受到了，沉默地凝視著某個地方。"
     },
     {
       "id": 95,
       "model": "그레고르",
-      "content": "Hold on. Do you guys hear that?"
+      "content": "喂。你們聽到什麼了嗎？"
     },
     {
       "id": 96,
       "model": "왕자우",
-      "content": "Well... looks like this is where our brief fellowship comes to an end."
+      "content": "好吧……看來同行就到此為止。"
     },
     {
       "id": 97,
       "model": "왕자우",
-      "content": "That was a short but sweet exchange, Jia Baoyu."
+      "content": "雖然時間很短，但是談話很令人愉悅，賈寶玉。"
     },
     {
       "id": 98,
       "model": "왕자우",
-      "content": "But... I don't think you're the one who should hold the most coins."
+      "content": "但是……我並不認為你會是這裡拿到最多銅錢的人。"
     },
     {
       "id": 99,
       "model": "단테",
-      "content": "<What...?>"
+      "content": "<這怎麼說……>"
     },
     {
       "id": 100,
       "model": "왕자우",
-      "content": "Once the games end, I hope we'll all find what we came here for."
+      "content": "選拔結束之時，希望我們都能得到各自想要的東西。"
     },
     {
       "id": 101,
       "model": "오티스",
-      "content": "We weren't planning on sticking with him through the entire round, but..."
+      "content": "說到底他不過是半路同行的人……"
     },
     {
       "id": 102,
       "model": "이스마엘",
-      "content": "Yeah, it's a bit sudden, huh? I guess it's better than a full-on betrayal."
+      "content": "雖然有些突然……但總比他在背後捅我們刀子要好。"
     },
     {
       "id": 103,
       "model": "싱클레어",
-      "content": "W-we're going our separate ways, just like that...? "
+      "content": "就、就這樣分開真的沒問題嗎？"
     },
     {
       "id": 104,
       "model": "파우스트",
-      "content": "... There is no time to spare worrying about him."
+      "content": "……沒有時間擔心那個人了。"
     },
     {
       "id": 105,
       "model": "오티스",
-      "content": "...!"
+      "content": "……！"
     },
     {
       "id": 106,
       "model": "오티스",
-      "content": "Atten-tion! Full-speed sprint toward the 3'O clock direction! Go, go, go!"
+      "content": "所有人！朝著三點鐘方向全力奔跑！"
     },
     {
       "id": 107,
       "model": "히스클리프",
-      "content": "Huh? W-what?! Oi, at least tell us what's going on!"
+      "content": "欸？怎、怎麼了！至少先告訴我們理由再跑吧！"
     },
     {
       "id": 108,
       "model": "오티스",
-      "content": "Eyes forward! The walls are... rising from the floor!"
+      "content": "向前看！地面上……正在升起牆壁！"
     },
     {
       "id": 109,
-      "content": "That's when the host's cheerful voice began booming from the speakers, excitedly explaining the situation."
+      "content": "事到如今，彷彿是在解說現在的情況一般，主持人熱情的聲音傳到了我們耳邊。"
     },
     {
       "id": 110,
       "model": "사회자",
-      "content": "Let's keep things interesting with... a new rule!"
+      "content": "現在，這個時候……要頒佈一條新規則！"
     },
     {
       "id": 111,
       "model": "사회자",
-      "content": "And this one's for you, dear viewers who must've been bored outta your minds with how safe the candidates were playing things! Starting now, walls are gonna start closing off rooms and corralling our candidates every set interval, shrinking the arena!"
+      "content": "為了不讓觀眾因為候選人們謹慎的行動而感到無聊……從現在開始，每隔一段時間，候選人們可以停留的空間就會縮小！"
     },
     {
       "id": 112,
       "model": "사회자",
-      "content": "If you somehow end up trapped in a room, if you fail to make it into the shrinking arena...? Well, that's an elimination, of course!"
+      "content": "如果你們沒能進入縮小後的空間，而是被外面的牆壁擋住的話……？當然就會被取消資格啦！"
     },
     {
       "id": 113,
       "model": "오티스",
-      "content": "Of course..."
+      "content": "果然……"
     },
     {
       "id": 114,
       "model": "사회자",
-      "content": "Aha~ Looks like it's real chaotic out there! Now, let's try not to push your luck and get yourselves stuck between walls, mmkay? It'll be one hell of a clean-up job to have to scrape and scrub your bits off the walls. Better get moving!"
+      "content": "啊~候選人們現在都陷入了極度混亂呢！要是強行行動而被牆壁夾住的話，清理起來會很麻煩的，所以快點行動比較好哦！"
     },
     {
       "id": 115,
-      "content": "We began sprinting full-speed to where the walls were starting to rise from the floor, the host's snidely chipper tone taunting us the whole time."
+      "content": "聽到主持人那拚命嘲諷的言語，我們全力向著逐漸升起牆壁的地方奔去。"
     },
     {
       "id": 116,
       "model": "사회자",
-      "content": "Oof! Looks like some of you didn't make it! You were so close, too... And... ouch, I spy a candidate who's been separated from her clan in the chaos. Whoa, try not to lose your coins in the chaos!"
+      "content": "哎呀，也有千鈞一髮之際跌倒沒能跨過牆壁的候選人呢。哎呀哎呀……還能看到因為下屬四處逃竄結果孤身一人的候選人呢。哦？小心別讓銅錢掉落，要好好收好哦！"
     }
   ]
 }

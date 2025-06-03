@@ -67,7 +67,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "",
           "coinlist": [
@@ -82,7 +82,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "",
           "coinlist": [
@@ -97,7 +97,7 @@
         },
         {
           "level": 4,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "",
           "coinlist": [
@@ -120,7 +120,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
@@ -135,7 +135,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
@@ -150,7 +150,7 @@
         },
         {
           "level": 4,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
@@ -183,7 +183,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層怠惰易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -201,7 +201,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加2層怠惰易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -224,7 +224,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層怠惰易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -242,7 +242,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層怠惰易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加3層束縛 "
@@ -575,7 +575,7 @@
         {
           "level": 1,
           "name": "桑丘之血",
-          "abName": "唐吉訶德",
+          "abName": "堂吉訶德",
           "desc": "",
           "coinlist": [
             {
@@ -590,7 +590,7 @@
         {
           "level": 3,
           "name": "桑丘之血",
-          "abName": "唐吉訶德",
+          "abName": "堂吉訶德",
           "desc": "",
           "coinlist": [
             {
@@ -608,7 +608,7 @@
         {
           "level": 4,
           "name": "桑丘之血",
-          "abName": "唐吉訶德",
+          "abName": "堂吉訶德",
           "desc": "",
           "coinlist": [
             {
@@ -822,7 +822,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "若目標帶有燒傷 ，則使本技能威力+2\n[EnemyKill] 下回合使自身獲得1層強壯 ",
           "coinlist": [
@@ -837,7 +837,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "若目標帶有燒傷 ，則使本技能威力+2\n[EnemyKill] 下回合使自身獲得2層強壯 ",
           "coinlist": [
@@ -852,7 +852,7 @@
         },
         {
           "level": 4,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "若目標帶有燒傷 ，則使本技能威力+2\n目標每帶有1級燒傷 強度，使本技能造成的傷害+5%(最多+100%)\n[EnemyKill] 下回合使自身獲得2層強壯 ",
           "coinlist": [
@@ -872,7 +872,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標\n若目標帶有燒傷 ，則使本技能威力+2\n[EnemyKill] 下回合使自身獲得2層強壯 \n[EnemyKillFail] 下回合使自身增加10級燒傷 強度",
           "coinlist": [
@@ -887,7 +887,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標\n若目標帶有燒傷 ，則使本技能威力+4\n[EnemyKill] 下回合使自身獲得3層強壯 \n[EnemyKillFail] 下回合使自身獲得3層強壯 並增加10級燒傷 強度",
           "coinlist": [
@@ -902,7 +902,7 @@
         },
         {
           "level": 4,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標\n若目標帶有燒傷 ，則使本技能威力+4\n目標每帶有1級燒傷 強度，使本技能造成的傷害+5%(最多+100%)\n[EnemyKill] 下回合使自身獲得3層強壯 \n[EnemyKillFail] 下回合使自身獲得3層強壯 並增加10級燒傷 強度",
           "coinlist": [
@@ -1006,13 +1006,13 @@
         {
           "level": 1,
           "name": "脫線一擊",
-          "abName": "你想挨打嗎？很想？",
+          "abName": "你想捱打嗎？很想？",
           "desc": "[EndSkill] 使自身獲得3層守護 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1021,13 +1021,13 @@
         {
           "level": 3,
           "name": "脫線一擊",
-          "abName": "你想挨打嗎？很想？",
+          "abName": "你想捱打嗎？很想？",
           "desc": "[EndSkill] 使自身獲得3層守護 \n[EndSkill] 下回合使自身獲得1層手術 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1041,13 +1041,13 @@
         {
           "level": 1,
           "name": "脫線一擊",
-          "abName": "你想挨打嗎？很想？",
+          "abName": "你想捱打嗎？很想？",
           "desc": "[EndSkill] 下回合使自身獲得2層手術 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1056,13 +1056,13 @@
         {
           "level": 3,
           "name": "脫線一擊",
-          "abName": "你想挨打嗎？很想？",
+          "abName": "你想捱打嗎？很想？",
           "desc": "[EndSkill] 下回合使自身獲得2層手術 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "使目標的混亂閾值前移本硬幣傷害量的30%"
@@ -1328,7 +1328,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "屍袋",
+          "name": "裹屍袋",
           "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
@@ -1346,7 +1346,7 @@
         },
         {
           "level": 3,
-          "name": "屍袋",
+          "name": "裹屍袋",
           "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
@@ -1364,7 +1364,7 @@
         },
         {
           "level": 4,
-          "name": "屍袋",
+          "name": "裹屍袋",
           "abName": "希斯克利夫",
           "desc": "",
           "coinlist": [
@@ -1391,7 +1391,7 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "消耗5層充能 並使本技能威力+3",
           "coinlist": [
             {
@@ -1406,7 +1406,7 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[WhenUse] 使自身獲得(嫉妒共鳴數)層充能 \n消耗5層充能 並使本技能威力+3",
           "coinlist": [
             {
@@ -1421,7 +1421,7 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[WhenUse] 使自身獲得(嫉妒共鳴數)層充能 \n每消耗5層充能 使本技能威力+3(最多+12)",
           "coinlist": [
             {
@@ -1441,7 +1441,7 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標\n消耗所有充能 層數並使本技能威力+6",
           "coinlist": [
             {
@@ -1456,7 +1456,7 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標\n[WhenUse] 使自身獲得(嫉妒共鳴數)層充能 \n消耗所有充能 層數並使本技能威力+10",
           "coinlist": [
             {
@@ -1471,7 +1471,7 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標\n[WhenUse] 使自身獲得(嫉妒共鳴數)層充能 \n消耗所有充能 層數並使本技能威力+15",
           "coinlist": [
             {
@@ -1562,7 +1562,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加4層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -1580,7 +1580,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加7層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1598,7 +1598,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加10層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 "
@@ -1624,7 +1624,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加4層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加4層束縛 "
@@ -1645,7 +1645,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加7層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加4層束縛 "
@@ -1666,7 +1666,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加10層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加5層束縛 "
@@ -1859,7 +1859,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "",
           "coinlist": [
@@ -1874,7 +1874,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "",
           "coinlist": [
@@ -1897,7 +1897,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
@@ -1912,7 +1912,7 @@
         },
         {
           "level": 3,
-          "name": "第四根火柴",
+          "name": "終末火柴之光",
           "abName": "焦化少女",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
@@ -2515,7 +2515,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -2536,7 +2536,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加4層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加4層麻痹 "
                 }
               ]
             }
@@ -2557,7 +2557,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加6級震顫 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層麻痹 "
                 }
               ]
             }
@@ -2580,7 +2580,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -2598,7 +2598,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加4層蛆蟲 "
@@ -2619,7 +2619,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加4層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加6層蛆蟲 "
@@ -2712,7 +2712,7 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2727,7 +2727,7 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2745,7 +2745,7 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2768,7 +2768,7 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2783,7 +2783,7 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2801,7 +2801,7 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
@@ -2824,13 +2824,13 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身獲得5層充能 "
@@ -2842,13 +2842,13 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身獲得7層充能 "
@@ -2863,13 +2863,13 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[EndSkill] 使自身獲得7層充能 "
@@ -2889,13 +2889,13 @@
         {
           "level": 1,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身獲得7層充能 "
@@ -2907,19 +2907,19 @@
         {
           "level": 3,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身獲得10層充能 "
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合隨機對2名單位施加2層麻痺 與2層束縛 "
+                  "desc": "[OnSucceedAttackTail] 下回合隨機對2名單位施加2層麻痹 與2層束縛 "
                 }
               ]
             }
@@ -2928,19 +2928,19 @@
         {
           "level": 4,
           "name": "電線桿",
-          "abName": "巷弄惡犬",
+          "abName": "巷頭惡犬",
           "desc": "[CantIdentify]\n隨機指定目標",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[EndSkill] 使自身獲得10層充能 "
                 },
                 {
-                  "desc": "[EndSkillTail] 下回合隨機對2名單位施加2層麻痺 與2層束縛 ，並使其獲得3層充能 "
+                  "desc": "[EndSkillTail] 下回合隨機對2名單位施加2層麻痹 與2層束縛 ，並使其獲得3層充能 "
                 }
               ]
             }
@@ -2955,7 +2955,7 @@
           "level": 1,
           "name": "一生燉菜",
           "abName": "冠湯翼蜥",
-          "desc": "[BeforeAttack] 根據當前色慾罪孽碎片數增加傷害(最多+25%)",
+          "desc": "[BeforeAttack] 根據目前色慾罪孽碎片數增加傷害(最多+25%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2970,7 +2970,7 @@
           "level": 3,
           "name": "一生燉菜",
           "abName": "冠湯翼蜥",
-          "desc": "[BeforeAttack] 根據當前色慾罪孽碎片數增加傷害(最多+50%)",
+          "desc": "[BeforeAttack] 根據目前色慾罪孽碎片數增加傷害(最多+50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "一生燉菜",
           "abName": "冠湯翼蜥",
-          "desc": "[CantIdentify]\n指定體力最高的單位\n\n[BeforeAttack] 根據當前色慾罪孽碎片數增加傷害(最多+25%)\n隨後消耗(色慾共鳴數)的色慾罪孽碎片。每消耗1個碎片增加5%傷害",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n\n[BeforeAttack] 根據目前色慾罪孽碎片數增加傷害(最多+25%)\n隨後消耗(色慾共鳴數)的色慾罪孽碎片。每消耗1個資源增加5%傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "一生燉菜",
           "abName": "冠湯翼蜥",
-          "desc": "[CantIdentify]\n指定體力最高的單位\n\n[BeforeAttack] 根據當前色慾罪孽碎片數增加傷害(最多+50%)\n隨後消耗(色慾共鳴數)的色慾罪孽碎片。每消耗1個碎片增加10%傷害",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n\n[BeforeAttack] 根據目前色慾罪孽碎片數增加傷害(最多+50%)\n隨後消耗(色慾共鳴數)的色慾罪孽碎片。每消耗1個資源增加10%傷害",
           "coinlist": [
             {
               "coindescs": [
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "次元撕裂者",
           "abName": "迷失的乘客",
-          "desc": "[CantIdentify] \n指定體力最高的單位\n\n[BeforeAttack] 下回合使自身獲得<style=\"highlight\">3</style>層迅捷 。\n消耗10層充能 並使本技能在命中時對目標施加的易損 和次元裂痕 層數額外<style=\"highlight\">+2</style>層",
+          "desc": "[CantIdentify]\n指定體力最高的單位\n\n[BeforeAttack] 下回合使自身獲得<style=\"highlight\">3</style>層迅捷 。\n消耗10層充能 並使本技能在命中時對目標施加的易損 和次元裂痕 層數額外<style=\"highlight\">+2</style>層",
           "coinlist": [
             {
               "coindescs": [
@@ -3542,7 +3542,7 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[BeforeAttack] 使自身獲得4層呼吸法 ",
           "coinlist": [
             {
@@ -3560,7 +3560,7 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[BeforeAttack] 使自身獲得6層呼吸法 ",
           "coinlist": [
             {
@@ -3581,7 +3581,7 @@
         {
           "level": 4,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3607,7 +3607,7 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得5層呼吸法 ",
           "coinlist": [
             {
@@ -3625,7 +3625,7 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3649,7 +3649,7 @@
         {
           "level": 4,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[CantIdentify]\n指定體力最低的單位\n[BeforeAttack] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
@@ -3784,7 +3784,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -3799,7 +3799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 與1層憂鬱易損 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 與1層憂鬱易損 "
                 }
               ]
             }
@@ -3875,8 +3875,8 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐狸",
-          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，1層怠惰傷害強化 與2層守護 ",
+          "abName": "流浪狐貍",
+          "desc": "[BeforeAttack] 本回合與下回閤中，使全體友方單位獲得1層怠惰威力提升 ，1層怠惰傷害強化 與2層守護 ",
           "coinlist": [
             {}
           ]
@@ -3884,8 +3884,8 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐狸",
-          "desc": "[BeforeAttack] 本回合與下回合中，使全體友方單位獲得1層怠惰威力提升 ，2層怠惰傷害強化 與3層守護 ",
+          "abName": "流浪狐貍",
+          "desc": "[BeforeAttack] 本回合與下回閤中，使全體友方單位獲得1層怠惰威力提升 ，2層怠惰傷害強化 與3層守護 ",
           "coinlist": [
             {
               "coindescs": [
@@ -3904,13 +3904,13 @@
         {
           "level": 1,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得1層怠惰威力提升 與1層怠惰傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加1層怠惰易損 與1層突刺易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加1層怠惰易損 與1層突刺易損 "
                 }
               ]
             }
@@ -3919,13 +3919,13 @@
         {
           "level": 3,
           "name": "狐雨",
-          "abName": "流浪狐狸",
+          "abName": "流浪狐貍",
           "desc": "[CantIdentify]\n隨機指定目標\n[BeforeAttack] 本回合與下2回合中，使自身獲得2層怠惰威力提升 與2層怠惰傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加2層怠惰易損 與2層突刺易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加2層怠惰易損 與2層突刺易損 "
                 }
               ]
             }
@@ -4034,7 +4034,7 @@
                   "desc": "[OnSucceedAttack] 若目標的束縛 層數不低於3層，則下回合對目標施加2層加算硬幣弱化 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則下回合對目標施加1～3層斬擊易損 "
+                  "desc": "[OnSucceedAttack] 若目標的速度值低於自身，則下回合對目標施加1~3層斬擊易損 "
                 }
               ]
             }

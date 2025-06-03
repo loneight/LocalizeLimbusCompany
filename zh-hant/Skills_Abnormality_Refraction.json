@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -619,7 +619,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "曼陀羅",
+          "name": "曼怛羅",
           "desc": "",
           "coinlist": [
             {
@@ -654,7 +654,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層業報輪迴 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加3層麻痹 "
                 }
               ]
             },
@@ -704,7 +704,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "滌淨…",
+          "name": "滌凈…",
           "desc": "",
           "coinlist": [
             {},
@@ -730,7 +730,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -743,7 +743,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "快點快點～",
+          "name": "快點快點~",
           "desc": "",
           "coinlist": [
             {
@@ -762,7 +762,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "皮納塔派對～！",
+          "name": "皮納塔派對~！",
           "desc": "",
           "coinlist": [
             {
@@ -790,13 +790,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "血肉翻湧",
+          "name": "血肉翻涌",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加2層麻痹 "
                 }
               ]
             }

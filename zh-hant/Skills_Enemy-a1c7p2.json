@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -374,7 +374,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加10級流血 強度並使自身獲得1層染血之手 "
@@ -396,14 +396,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使自身獲得1層硬化血液 "
@@ -413,7 +413,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加20級流血 強度並使自身獲得2層染血之手 "
@@ -438,7 +438,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -526,7 +526,7 @@
         {
           "level": 1,
           "name": "褪色的忍耐",
-          "desc": "[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -552,7 +552,7 @@
         {
           "level": 1,
           "name": "無盡的告解",
-          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拚點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拼點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
@@ -615,14 +615,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -658,7 +658,7 @@
         {
           "level": 1,
           "name": "褪色的忍耐",
-          "desc": "[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層[BloodyHand]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -684,7 +684,7 @@
         {
           "level": 1,
           "name": "無盡的告解",
-          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拚點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層[HardenedBlood]，使本技能的拼點威力+1\n[DefeatDuel] 使自身失去2層[BloodyHand]",
           "coinlist": [
             {
               "coindescs": [
@@ -860,7 +860,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血式連刺",
+          "name": "硬血亂刺",
           "desc": "[WhenUse] 自身每帶有5層慶典的熱潮 或目標每帶有6級流血 強度，使本技能的最終威力+1(最多+2)\n[WhenUse] 使自身增加15級流血 強度並立即觸發自身的流血 1次，隨後使自身的流血 層數減少1層",
           "coinlist": [
             {
@@ -976,7 +976,7 @@
                   "desc": "[WinDuelAttack] 使目標增加4級流血 強度並對其施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2～3層[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2~3層[BloomingThorns]"
                 }
               ]
             }
@@ -989,8 +989,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "讓幸福笑容如鮮花般綻放吧！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拚點威力+1",
+          "name": "讓幸福笑容如花般綻放吧！",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1016,7 +1016,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永遠的幸福王國拉．曼查領！",
+          "name": "永遠的幸福王國拉·曼卻領！",
           "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {
@@ -1102,7 +1102,7 @@
                   "desc": "[WinDuelAttack] 使目標增加4級流血 強度並對其施加3層流血 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2～3層[BloomingThorns]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2~3層[BloomingThorns]"
                 }
               ]
             }
@@ -1116,7 +1116,7 @@
         {
           "level": 1,
           "name": "一起快樂地唱起歌吧！",
-          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若自身的[FestivalFever]層數不低於5層，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Laceration]強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1142,7 +1142,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "永遠的幸福王國拉．曼查領！",
+          "name": "永遠的幸福王國拉·曼卻領！",
           "desc": "[WhenUse] 若[BloodDinner]低於40層，則使自身增加20級流血 強度並對自身施加2層流血 ，立即觸發自身的流血 2次，隨後使自身的流血 層數減少2層\n[EndSkill] 消耗40層[BloodDinner]\n[EndBattle] 消耗所有[HardenedBlood]和[FestivalFever]\n\n",
           "coinlist": [
             {

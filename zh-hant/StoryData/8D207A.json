@@ -2,488 +2,488 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Evaluation Arena B2",
+      "place": "評審場 地下2層",
       "model": "그레고르",
-      "content": "Looks like everyone's getting more desperate. They're all cornered, just like us."
+      "content": "大概是因為人們現在都如履薄冰了吧，下手都越來越狠了。"
     },
     {
       "id": 1,
       "model": "이스마엘",
-      "content": "Dammit, it's not like they're gonna win a ton of coins by coming after us!"
+      "content": "嗚……就算搶走我們這點兒銅錢也沒什麼用吧……！"
     },
     {
       "id": 2,
       "model": "오티스",
-      "content": "Our best course of action now would be to take advantage of this situation. They're saving us the time by coming at us with their coins."
+      "content": "事已至此，我們也要全力以赴奪走對方的銅錢。"
     },
     {
       "id": 3,
       "model": "임대옥",
-      "content": "…!"
+      "content": "……！"
     },
     {
       "id": 4,
-      "content": "As we were descending and fighting off groups of enemies after enemies..."
+      "content": "在我們應對不間斷的襲擊並向下推進的途中。"
     },
     {
       "id": 5,
-      "content": "A loud bang of a firearm echoed from not too far across the hallway."
+      "content": "不遠處傳來一聲低沉的槍響，"
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<…!>"
+      "content": "<……！>"
     },
     {
       "id": 7,
-      "content": "Lin Daiyu, who leaped in front of Hong Lu, falls to the ground."
+      "content": "迅速擋在鴻璐面前的林黛玉，踉蹌著跌坐了下來。"
     },
     {
       "id": 8,
       "model": "임대옥다침",
-      "content": "Agh...!"
+      "content": "呃……！"
     },
     {
       "id": 9,
       "model": "에고구보총",
-      "content": "Oh..."
+      "content": "哎呀……"
     },
     {
       "id": 10,
       "model": "에고구보총",
-      "content": "She was certainly not my intended target; forgive me. I am still acclimatizing to the use of this 'E.G.O'."
+      "content": "我不是有意而為。還請諒解。我目前對這E.G.O的熟練度還不夠高。"
     },
     {
       "id": 11,
       "model": "에고구보총",
-      "content": "It's never easy to aim right."
+      "content": "準確瞄準目標一直以來都不容易。"
     },
     {
       "id": 12,
       "model": "로쟈",
-      "content": "Daiyu, are ya... are ya alright? That's a pretty big wound..."
+      "content": "黛玉小姐……你……你還好嗎？這傷口……看著可不小……"
     },
     {
       "id": 13,
       "model": "임대옥다침",
-      "content": "I'm... alright..."
+      "content": "我、我沒事……"
     },
     {
       "id": 14,
       "model": "홍루",
-      "content": "Daiyu... why?"
+      "content": "黛玉……為什麼？"
     },
     {
       "id": 15,
       "model": "임대옥다침",
-      "content": "Don't give me that look. It was just a force of habit."
+      "content": "請不要用那種眼神看我，是我的身體自己動了而已，哥哥。"
     },
     {
       "id": 16,
       "model": "임대옥다침",
-      "content": "Or have you already forgotten? I am from the Lin family, the family of bodyguards."
+      "content": "你忘了嗎？我們林家世世代代都是侍衛出身……"
     },
     {
       "id": 17,
       "model": "홍루",
-      "content": "My wounds can be rewound, Daiyu."
+      "content": "我是可以復原的，黛玉。"
     },
     {
       "id": 18,
       "model": "홍루",
-      "content": "Unlike yours... You knew this."
+      "content": "和你不一樣……你也知道吧。"
     },
     {
       "id": 19,
       "model": "임대옥다침",
-      "content": "I can use Hongyuan's Life Insurance anyway if that's what you are concerned about."
+      "content": "如果要這麼說的話我也可以……使用鴻園的生命保險。"
     },
     {
       "id": 20,
       "model": "홍루",
-      "content": "It won't work on someone who's been dead for too long."
+      "content": "如果死後的時間太長的話，生命保險是沒用的。"
     },
     {
       "id": 21,
       "model": "홍루",
-      "content": "And I don't—"
+      "content": "而且我……"
     },
     {
       "id": 22,
-      "content": "Hong Lu's eyes trembled briefly. My thoughts wandered to visions of Xiren's past, then to her present. Perhaps his did as well."
+      "content": "鴻璐的視線動搖了一瞬。他或許……是想到了很久以前的襲人。"
     },
     {
       "id": 23,
       "model": "임대옥다침",
-      "content": "... Perhaps I thought I could make amends for even a small fraction of the years of resentment I harbored for you."
+      "content": "……我覺得這樣至少可以彌補一下這些年來對哥哥的憤恨。"
     },
     {
       "id": 24,
       "model": "임대옥다침",
-      "content": "Besides, I don't want to see you in pain."
+      "content": "而且我也不想看到哥哥痛苦的模樣。"
     },
     {
       "id": 25,
       "model": "에고구보",
-      "content": "This is quite strange."
+      "content": "真是罕見。"
     },
     {
       "id": 26,
       "model": "에고구보",
-      "content": "Would anyone in the know care to explain to me why this wound on a different candidate's clan is causing such a stir?"
+      "content": "不過是其他候選人的勢力成員受傷而已，有必要這麼慌嗎？"
     },
     {
       "id": 27,
       "model": "에고구보",
-      "content": "Allow me to impart a word of advice. Do not be so hasty in forging fellowships."
+      "content": "聽我一句勸，你們可別隨便結交朋友。"
     },
     {
       "id": 28,
       "model": "에고구보",
-      "content": "For you might come across a fellow whom you had trusted to be a comrade who would build a future together, only for them to flit away without a word."
+      "content": "畢竟被你深信不疑為共勉未來的同志，也可能會二話不說撒腿就跑。"
     },
     {
       "id": 29,
       "model": "이상",
-      "content": "You will not speak with such impudence, Gubo."
+      "content": "不可輕言，仇甫。"
     },
     {
       "id": 30,
       "model": "이상",
-      "content": "Our shared past is not to be a subject of your ridicule...!"
+      "content": "我們的過去絕非任人輕語戲言之物……！"
     },
     {
       "id": 31,
       "model": "에고구보",
-      "content": "Of course... our recent exchanges tell me that you have learned to speak without letting the dirt on the ground draw the majority of your attention."
+      "content": "確實……昨天也是這樣子，看來你現在可以不瞅著地面好好說話了。"
     },
     {
       "id": 32,
       "model": "에고구보",
-      "content": "But Yi Sang, I very much prefer your old self."
+      "content": "但是李箱，我更中意你以前的樣子。"
     },
     {
       "id": 33,
       "model": "에고구보",
-      "content": "Now you are much too... let's see. Yes, much too slick. I can tell from your complete lack of hesitation in coming to your new fellow's defense."
+      "content": "現在的你……太過油滑了。若無其事地站在新朋友身前的模樣真礙眼。"
     },
     {
       "id": 34,
       "model": "에고구보",
-      "content": "So please, get out of my way. I do not wish to hit a wrong target again."
+      "content": "所以你差不多該讓開了。下一槍我可不打算打偏。"
     },
     {
       "id": 35,
       "model": "에고가환",
-      "content": "There is no need, Gubo."
+      "content": "沒有那個必要，仇甫。"
     },
     {
       "id": 36,
       "model": "에고가환",
-      "content": "Look at what hangs from my little brother's waist. There are barely any coins there. Now that's Baoyu, pride and joy of Daguanyuan, everyone."
+      "content": "看看我那令人驕傲的弟弟。還有他那些所剩無幾的銅錢。"
     },
     {
       "id": 37,
       "model": "에고가환",
-      "content": "So you won't need to waste a bullet on that thing."
+      "content": "所以就算你向他射擊，也沒有任何意義。"
     },
     {
       "id": 38,
       "model": "에고가환",
-      "content": "It's simply embarrassing."
+      "content": "我看著都覺得丟人。"
     },
     {
       "id": 39,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 40,
       "model": "에고가환",
-      "content": "You dishonor the Jia family with your pathetic performance. We Jia deserve to be the very best of the four houses."
+      "content": "在四大家族中佔有最高地位的賈家，在這裡居然如此無力，真是令人痛心。"
     },
     {
       "id": 41,
       "model": "홍루",
-      "content": "You talk as though you have already met every candidate from the Jia family, brother."
+      "content": "說得好像你已經見過了賈家的所有候選人一樣啊，哥哥。"
     },
     {
       "id": 42,
       "model": "에고가환",
-      "content": "Yes, you could say that. I made sure that Jia Xichun would be eliminated soon enough."
+      "content": "對，確實是那樣。賈惜春不久後也會被淘汰的。那都是我一手造成的。"
     },
     {
       "id": 43,
       "model": "에고가환",
-      "content": "A foolish pair they were, both master and her bodyguard. Not to mention the rest of her clan that may as well not exist."
+      "content": "不管是侍衛還是主人……都愚蠢至極。她那微不足道的勢力也一樣。"
     },
     {
       "id": 44,
       "model": "에고가환",
-      "content": "While others are giving the arms and legs of their followers to traps to scavenge as many coins as they can..."
+      "content": "其他人為了多得到哪怕一枚銅錢，都斷胳膊斷腿地殺紅了眼……"
     },
     {
       "id": 45,
       "model": "에고가환",
-      "content": "... she stubbornly chooses the straightforward, honest, and boring path... A privilege not availed to someone who's so low on coins."
+      "content": "而她明明一無所有，居然還在用最迂腐的方式老老實實地收集銅錢。"
     },
     {
       "id": 46,
       "model": "에고가환",
-      "content": "I was about to break her skull to end her suffering once and for all, but... tsk, she managed to give me the slip."
+      "content": "我本想打爆她的頭……嘖，可惜讓她跑了。"
     },
     {
       "id": 47,
       "model": "그레고르",
-      "content": "Not too interested in improving our horrible first impression, is he?"
+      "content": "這人和上次見面的時候差不太多啊，真招人厭。"
     },
     {
       "id": 48,
       "model": "그레고르",
-      "content": "Doesn't look like he's about to start a fight just yet, so let's administer some first aid for miss Daiyu here—"
+      "content": "看起來他沒有戰鬥的意願，我們還是先幫黛玉處理傷勢……"
     },
     {
       "id": 49,
       "model": "료슈",
-      "content": "No. No need."
+      "content": "不用。沒有必要。"
     },
     {
       "id": 50,
       "model": "오티스",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 51,
       "model": "오티스",
-      "content": "... The Heishou are here. That means..."
+      "content": "是黑獸。他們的出現就意味著……"
     },
     {
       "id": 52,
       "model": "사회자",
-      "content": "What a shame... the last remaining candidate of the Xue family is eliminated, but not before bringing such a dramatic defeat to the out-of-control Shi family candidate."
+      "content": "哎呀……那位出色地制服了史家暴走候選人的薛家僅存候選人，也被淘汰了。"
     },
     {
       "id": 53,
       "model": "사회자",
-      "content": "Unfortunately, she wasted too much time in that fight and couldn't make it past the rising walls. If there are any clan members who have been separated from your candidate, please remain still where you are."
+      "content": "看來是因為耗費了太多時間導致沒能及時越過牆壁。請淘汰的候選人與其附屬勢力不要移動，待在原地。"
     },
     {
       "id": 54,
       "model": "사회자",
-      "content": "You... will soon be collected according to the procedures."
+      "content": "馬上……就會有人來按照程式回收各位。"
     },
     {
       "id": 55,
       "model": "임대옥다침",
-      "content": "So, miss Baochai has been eliminated."
+      "content": "看來寶釵小姐被淘汰了。"
     },
     {
       "id": 56,
       "model": "임대옥다침",
-      "content": "... It seems that this is as far as I go."
+      "content": "……我好像也到此為止了。"
     },
     {
       "id": 57,
       "model": "임대옥다침",
-      "content": "Brief though this journey may have been, I am glad that we were able to resolve many misunderstandings."
+      "content": "這趟同行解開了諸多誤會，實在是萬幸。"
     },
     {
       "id": 58,
       "model": "홍루",
-      "content": "Daiyu..."
+      "content": "黛玉……"
     },
     {
       "id": 59,
       "model": "임대옥다침",
-      "content": "I will... wish you safe passage."
+      "content": "愿你……平安歸來。"
     },
     {
       "id": 60,
       "model": "임대옥다침",
-      "content": "So please, do return this time."
+      "content": "這次，請一定要回來。"
     },
     {
       "id": 61,
       "model": "사회자",
-      "content": "The game is racing to its end!"
+      "content": "本次評審即將迎來尾聲！"
     },
     {
       "id": 62,
       "model": "사회자",
-      "content": "Let's try something unique this time to really enhance the experience, shall we? More immersion, more drama, more danger~!"
+      "content": "為了進一步營造緊張與危險的氛圍，我們打算弄出一些特殊情況~"
     },
     {
       "id": 63,
       "model": "사회자",
-      "content": "Something like... let's see. What if we corralled the top three candidates into the same room...?"
+      "content": "如果……讓前三名的候選人共處一室面面相對的話……"
     },
     {
       "id": 64,
       "model": "사회자",
-      "content": "The candidates' placements seem pretty concrete now, don't they? But can we shake that up somehow, in the greatest turnabout of history?!"
+      "content": "已成定局的排名！說不定會發生驚天大逆轉呢？"
     },
     {
       "id": 65,
       "model": "사회자",
-      "content": "Games with predictable endings~ can get pretty boring for our dearest spectators."
+      "content": "畢竟大局已定的勝負~會讓各位觀眾感到無聊。"
     },
     {
       "id": 66,
       "model": "단테",
-      "content": "<Which means...?>"
+      "content": "<這話也就是說……>"
     },
     {
       "id": 67,
       "model": "사회자",
-      "content": "Let's review the current rankings, shall we? First, Jia Qiu of the Jia family! Second, Jia Huan of the Jia family! Third, Jia... Baoyu of the Jia family!"
+      "content": "統計一下目前的銅錢數量的話……第一名是賈家的賈丘，第二名是賈家的賈環，第三名是賈家的……賈寶玉！"
     },
     {
       "id": 68,
       "model": "이스마엘",
-      "content": "... They're going to put us in the same room as them?"
+      "content": "……要讓我們和那些人在一起當面對峙嗎？"
     },
     {
       "id": 69,
       "model": "사회자",
-      "content": "Are we about to witness a turnabout? Is it even possible? Well, we'll find out soon enough!"
+      "content": "究竟是否會發生驚天大逆轉呢？大門已然開啟。"
     },
     {
       "id": 70,
       "model": "에고가환",
-      "content": "Haah..."
+      "content": "哈……"
     },
     {
       "id": 71,
       "model": "에고가환",
-      "content": "Now isn't this interesting."
+      "content": "真有趣。"
     },
     {
       "id": 72,
       "model": "에고가환",
-      "content": "If you've made it to third place with those paltry coins, then... the first place must've really been hoarding all the coins for himself."
+      "content": "那點銅錢就能位居第三名……看來第一名攢了不少銅錢啊……"
     },
     {
       "id": 73,
       "model": "에고가환",
-      "content": "Allow me to enter first, little brother. I'd loathe to display even the faintest semblance of amity with you."
+      "content": "弟弟。我可不想跟你一起友好入場，先走一步了。"
     },
     {
       "id": 74,
       "model": "에고가환",
-      "content": "Although, I wouldn't mind if you would make a correct assessment of your limitations and drop out of the game now."
+      "content": "你要是能對自己的上限有點自知之明，早點主動出局的話就再好不過了。"
     },
     {
       "id": 75,
       "model": "그레고르",
-      "content": "... Turnabout?"
+      "content": "……大逆轉？"
     },
     {
       "id": 76,
       "model": "그레고르",
-      "content": "What even is the point of this 'turnabout'...? Isn't it just another way to make the show more interesting for the viewers to enjoy?"
+      "content": "說得倒是好聽……歸根結底就是為了讓那些觀眾看得更有興致吧。"
     },
     {
       "id": 77,
       "model": "이스마엘",
-      "content": "If we come in third place... considering that they're also likely shooting for the Golden Bough, we are almost guaranteed to lose our objective to them."
+      "content": "雖然我們是第三名……但那些人也是衝著金枝來的，在這種情況下肯定會錯失金枝。"
     },
     {
       "id": 78,
       "model": "이스마엘",
-      "content": "Okay..."
+      "content": "但是……"
     },
     {
       "id": 79,
       "model": "이스마엘",
-      "content": "So how the hell are we going to beat that Jia Qiu guy...?"
+      "content": "我們何德何能，既要戰勝賈丘……"
     },
     {
       "id": 80,
       "model": "이스마엘",
-      "content": "Especially with Jia Huan breathing down our necks?"
+      "content": "還要對付賈環……"
     },
     {
       "id": 81,
       "model": "홍루",
-      "content": "But... we have no other choice, do we?"
+      "content": "但是……也沒有別的辦法了吧？"
     },
     {
       "id": 82,
       "model": "홍루",
-      "content": "If there's no way out, then our only path is inward."
+      "content": "既然無路可退，那就只能前進了呢。"
     },
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "Oi, you sure about this?"
+      "content": "喂，你沒事吧？"
     },
     {
       "id": 84,
       "model": "히스클리프",
-      "content": "Both of 'em waiting for you in there, they..."
+      "content": "我們接下來要在那裡面對的那些傢伙……"
     },
     {
       "id": 85,
       "model": "히스클리프",
-      "content": "They..."
+      "content": "可是會把你……"
     },
     {
       "id": 86,
-      "content": "Heathcliff trailed off."
+      "content": "希斯克利夫把話嚥了回去。"
     },
     {
       "id": 87,
-      "content": "Neither of them are even remotely fond of Hong Lu, so they are likely going to go all-out on trying to kill him. Heathcliff knew that."
+      "content": "因為他知道，賈丘和賈環都對鴻璐有所不滿，所以很顯然他們都會全力應戰。"
     },
     {
       "id": 88,
       "model": "홍루",
-      "content": "Big brother Qiu must be waiting for me in there."
+      "content": "想必丘大哥已經在那裡面等我了。"
     },
     {
       "id": 89,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 90,
       "model": "홍루",
-      "content": "Brother Qiu... followed his father's last name, but he was pretty much a part of the Kong family. He survived only because he happened to be away on the day of the Kong family's ruin."
+      "content": "丘大哥是在孔家滅門之日當天偶然缺席的……孔家人。他是隨父姓得到了賈家的姓氏。"
     },
     {
       "id": 91,
       "model": "홍루",
-      "content": "He found out only after he returned. Both his mother from the Kong family and his father from the Jia family were killed in that bloodbath, and... he didn't even have a single, close relative left."
+      "content": "當他回到家中時，不光是他孔家的母親，甚至連賈家的父親也被捲入其中慘遭變故……此外，他還失去了所有曾與他朝夕相處的親戚們。"
     },
     {
       "id": 92,
       "model": "홍루",
-      "content": "What welcomed him upon his return were the empty ruins of this building, the silence of the Daguanyuan people, and the tale of the Kong family's disgraceful greed, and how it destroyed them."
+      "content": "丘大哥看到的……只剩下空空如也的殘垣斷壁，與大觀園閉口不言的人們，以及孔家留下了心懷可恥貪慾之污名的故事。"
     },
     {
       "id": 93,
       "model": "홍루",
-      "content": "Some servants warned me that brother Qiu might come to take my life, as anyone could guess that I probably had something to do with that day."
+      "content": "下人們……偶爾會跟我說，丘大哥說不定會找到我這個可能與孔家滅門之日有所關聯的人，並加害於我。"
     },
     {
       "id": 94,
       "model": "홍루",
-      "content": "But he never came to find me. He simply left Daguanyuan, then Hongyuan."
+      "content": "但丘大哥從未找來我這裡，他只是就這樣離開了鴻園……以及這大觀園。"
     },
     {
       "id": 95,
       "model": "홍루",
-      "content": "So... the fact that he has returned..."
+      "content": "所以他再次回到這裡……"
     },
     {
       "id": 96,
       "model": "홍루",
-      "content": "... must be proof of his indefatigable determination and will."
+      "content": "一定是下了莫大的決心，並抱有絕不退縮的意志。"
     },
     {
       "id": 97,
       "model": "홍루",
-      "content": "Of course, I wouldn't... know what that's like."
+      "content": "儘管我不知道……那究竟是什麼。"
     }
   ]
 }

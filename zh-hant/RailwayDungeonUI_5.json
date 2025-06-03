@@ -10,7 +10,7 @@
     },
     {
       "id": "railway5_clear_info",
-      "content": "通關訊息"
+      "content": "通關資訊"
     },
     {
       "id": "railway5_clear_info_node_ui",
@@ -78,7 +78,7 @@
     },
     {
       "id": "railway_5_warning_enter_node_1",
-      "content": "參加第1區段戰鬥的人格將無法參加第2區段的戰鬥。\n\n以當前編隊進行第1區段的戰鬥？"
+      "content": "參加第1區段戰鬥的人格將無法參加第2區段的戰鬥。\n\n以目前編隊進行第1區段的戰鬥？"
     },
     {
       "id": "railway_5_select_buff_title",
@@ -86,7 +86,7 @@
     },
     {
       "id": "railway_5_stage_level_warning",
-      "content": "※當前人格平均等級 ：<color=#990000>{0}</color>  (推薦等級：<color=#990000>{1}</color> )"
+      "content": "※目前人格平均等級 ：<color=#990000>{0}</color>  (推薦等級：<color=#990000>{1}</color> )"
     }
   ]
 }

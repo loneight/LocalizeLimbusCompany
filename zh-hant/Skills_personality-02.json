@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "地區巡查",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+2\n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +2\n[DefeatDuel] 使自身獲得3層防禦等級提升 ",
           "coinlist": [
             {},
             {
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "客戶保護",
-          "desc": "[WhenUse] 使現存體力比例最低的1名友方單位獲得3層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拚點威力+1",
+          "desc": "[WhenUse] 使現存體力比例最低的1名友方單位獲得3層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "客戶保護",
-          "desc": "[WhenUse] 使現存體力比例最低的1名友方單位獲得4層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拚點威力+2",
+          "desc": "[WhenUse] 使現存體力比例最低的1名友方單位獲得4層防禦等級提升 (每回合最多3次)\n若自身的防禦等級提升 層數不低於5層，則使本技能拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "防禦",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值+3",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3",
           "coinlist": [
             {}
           ]
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "月下劍舞",
-          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的[Breath]強度不低於5級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得2層[Breath]",
           "coinlist": [
             {},
             {
@@ -529,7 +529,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 "
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -538,7 +538,7 @@
         {
           "level": 4,
           "name": "穿刺劍法",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的[Breath]強度不低於7級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得2層[Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -556,7 +556,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 "
+                  "desc": "[CriticalOnSucceedAttack] 對目標施加2層紅梅 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "紅梅飄散",
-          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度(最多10級)",
+          "desc": "目標每帶有1層[RedApricotBlossom]，使本技能造成的傷害+3%\n[WinDuel] 消耗自身一半的[Breath]層數並使自身增加相應的[Breath]強度(最多10級)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "紅梅飄散",
-          "desc": "目標每帶有1層紅梅 ，使本技能造成的傷害+3%\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1(最多+3)\n[WinDuel] 消耗自身一半的呼吸法 層數並使自身增加相應的呼吸法 強度(最多10級)\n本技能暴擊時不消耗目標的紅梅 層數",
+          "desc": "目標每帶有1層[RedApricotBlossom]，使本技能造成的傷害+3%\n<style=\"highlight\">自身每帶有7級[Breath]強度，使本技能的硬幣威力+1(最多+3)</style>\n[WinDuel] 消耗自身一半的[Breath]層數並使自身增加相應的[Breath]強度(最多10級)\n<style=\"highlight\">本技能暴擊時不消耗目標的[RedApricotBlossom]層數</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -650,7 +650,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2級 [Sinking] 強度"
+                  "desc": "[OnSucceedAttackHead] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -709,7 +709,7 @@
         {
           "level": 2,
           "name": "迎接不速之客",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拼點威力+1",
           "coinlist": [
             {},
             {
@@ -724,7 +724,7 @@
         {
           "level": 4,
           "name": "迎接不速之客",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的拚點威力+1\n[WhenUse] 若目標的沉淪 層數不低於3層，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若目標的[Sinking]強度不低於5級，則使本技能的拼點威力+1\n[WhenUse] 若目標的[Sinking]層數不低於3層，則使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {
@@ -837,13 +837,13 @@
         {
           "level": 2,
           "name": "40Y-3啟動",
-          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得<style=\"highlight\">3</style>層充能 "
                 }
               ]
             }
@@ -852,13 +852,13 @@
         {
           "level": 4,
           "name": "40Y-3啟動",
-          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+2",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力<style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得3層充能 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -872,7 +872,7 @@
         {
           "level": 1,
           "name": "充能逆流",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若自身的[Charge]層數在5~9層之間，則消耗體力上限2×(10-現存[Charge]層數)%的體力並使自身獲得至10層[Charge]\n[WhenUse] 消耗10層[Charge]並使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {},
@@ -888,14 +888,14 @@
         {
           "level": 2,
           "name": "充能逆流",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若自身的[Charge]層數在5~9層之間，則消耗體力上限2×(10-現存[Charge]層數)%的體力並使自身獲得至10層[Charge]\n[WhenUse] 消耗10層[Charge]並使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "若包括本技能在內共鳴數不低於3，則消耗自身所有充能 層數，本技能每消耗1層充能 ，使本硬幣造成的傷害+(自身的充能 強度+3)%(最多+120%)"
+                  "desc": "若包括本技能在內共鳴數不低於3，則消耗自身所有充能 層數，本技能每消耗1層充能 ，使本硬幣造成的傷害+<style=\"highlight\">(自身的充能 強度+3)%(最多+120%)</style>"
                 }
               ]
             }
@@ -904,14 +904,14 @@
         {
           "level": 4,
           "name": "充能逆流",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+2",
+          "desc": "[WhenUse] 若自身的[Charge]層數在5~9層之間，則消耗體力上限2×(10-現存[Charge]層數)%的體力並使自身獲得至10層[Charge]\n[WhenUse] 消耗10層[Charge]並使本技能的硬幣威力<style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "若包括本技能在內共鳴數不低於3，則消耗自身所有充能 層數，本技能每消耗1層充能 ，使本硬幣造成的傷害+(自身的充能 強度+4)%(最多+180%)"
+                  "desc": "若包括本技能在內共鳴數不低於3，則消耗自身所有充能 層數，本技能每消耗1層充能 ，使本硬幣造成的傷害+<style=\"highlight\">(自身的充能 強度+4)%(最多+180%)</style>"
                 }
               ]
             }
@@ -954,19 +954,19 @@
         {
           "level": 4,
           "name": "40Y-3充能",
-          "desc": "自身每帶有1級充能 強度，使本技能的硬幣威力+1(最多+4)",
+          "desc": "<style=\"highlight\">自身每帶有1級充能 強度，使本技能的硬幣威力+1(最多+4)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度+5)層充能 (最多8層)"
+                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度+<style=\"highlight\">5</style>)層充能 (最多<style=\"highlight\">8</style>層)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度+5)層充能 (最多8層)"
+                  "desc": "[OnSucceedAttack] 使自身獲得(自身的充能 強度+<style=\"highlight\">5</style>)層充能 (最多<style=\"highlight\">8</style>層)"
                 }
               ]
             },
@@ -974,10 +974,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "若自身的充能 強度不低於3級，則每帶有1級充能 強度，使本硬幣造成的傷害+8%(最多+40%)"
+                  "desc": "若自身的充能 強度不低於3級，則每帶有1級充能 強度，使本硬幣造成的傷害<style=\"highlight\">+8%</style>(最多+<style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層嫉妒易損 \n- 若自身的充能 強度不低於2級，則對目標額外施加1層嫉妒易損 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合對目標施加1層嫉妒易損 \n- 若自身的[Charge]強度不低於2級，則對目標額外施加1層嫉妒易損 </style>"
                 }
               ]
             }
@@ -999,7 +999,7 @@
         {
           "level": 4,
           "name": "充能",
-          "desc": "[WhenUse] 使自身獲得4層充能 (每回合最多2次)",
+          "desc": "[WhenUse] 使自身獲得<style=\"highlight\">4</style>層充能 (每回合最多2次)",
           "coinlist": [
             {}
           ]
@@ -1012,12 +1012,12 @@
         {
           "level": 1,
           "name": "點火",
-          "desc": "[WhenUse] 若自身的燒傷 強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 ",
+          "desc": "[WhenUse] 若自身的[Combustion]強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級[Combustion]強度並對自身施加1層[Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
@@ -1039,7 +1039,7 @@
         {
           "level": 2,
           "name": "點火",
-          "desc": "[WhenUse] 若自身的燒傷 強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低於10點，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若自身的[Combustion]強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級[Combustion]強度並對自身施加1層[Combustion]\n[WhenUse] 若自身的[Combustion]強度與目標的[Combustion]強度之和不低於10點，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1057,10 +1057,10 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的燒傷 強度不低於10級，則使目標額外增加1級燒傷 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的燒傷 強度不低於10級，則使目標額外增加1級燒傷 強度</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1069,7 +1069,7 @@
         {
           "level": 4,
           "name": "點火",
-          "desc": "[WhenUse] 若自身的燒傷 強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的硬幣威力+1(最多+2)",
+          "desc": "[WhenUse] 若自身的[Combustion]強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 使自身增加7級[Combustion]強度並對自身施加1層[Combustion]\n[WhenUse] 自身的[Combustion]強度與目標的[Combustion]強度之和每有10點，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1087,10 +1087,10 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的燒傷 強度不低於10級，則使目標額外增加3級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 若自身的燒傷 強度不低於10級，則使目標額外增加<style=\"highlight\">3</style>級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使自身增加2級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1104,7 +1104,7 @@
         {
           "level": 1,
           "name": "E.G.O紅艷煞 展開",
-          "desc": "[WhenUse] 若自身的燒傷 強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 對自身施加4層燒傷 ",
+          "desc": "[WhenUse] 若自身的[Combustion]強度不低於10級，則使本技能造成的傷害+10%\n[WhenUse] 對自身施加4層[Combustion]",
           "coinlist": [
             {
               "coindescs": [
@@ -1135,7 +1135,7 @@
         {
           "level": 2,
           "name": "E.G.O紅艷煞 展開",
-          "desc": "[WhenUse] 自身每帶有10級燒傷 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層燒傷 \n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低於4點，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 自身每帶有10級[Combustion]強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層[Combustion]\n[WhenUse] 若自身的[Combustion]強度與目標的[Combustion]強度之和不低於4點，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1166,7 +1166,7 @@
         {
           "level": 4,
           "name": "E.G.O紅艷煞 展開",
-          "desc": "[WhenUse] 自身每帶有10級燒傷 強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層燒傷 \n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有4點，使本技能的硬幣威力+1(最多+2)",
+          "desc": "[WhenUse] 自身每帶有10級[Combustion]強度，使本技能造成的傷害+10%(最多+20%)\n[WhenUse] 對自身施加4層[Combustion]\n[WhenUse] 自身的[Combustion]強度與目標的[Combustion]強度之和每有4點，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1205,7 +1205,7 @@
         {
           "level": 3,
           "name": "渴火",
-          "desc": "[StartBattle] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[BeforeUse] 若自身的燒傷 強度不低於30級，則改為使用「紅艷煞 最大感應【劣化侵蝕】」\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低於10點，則使本技能的基礎威力+1\n[WhenUse] 若自身的已失去體力不低於30%，則使本技能的硬幣威力+1",
+          "desc": "[StartBattle] 使自身增加7級[Combustion]強度並對自身施加1層[Combustion]\n[BeforeUse] 若自身的[Combustion]強度不低於30級，則改為使用「紅艷煞 最大感應【劣化侵蝕】」\n[WhenUse] 自身每帶有5級[Combustion]強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的[Combustion]強度與目標的[Combustion]強度之和不低於10點，則使本技能的基礎威力+1\n[WhenUse] 若自身的已失去體力不低於30%，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1217,7 +1217,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級[Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 }
               ]
             },
@@ -1227,7 +1227,7 @@
         {
           "level": 4,
           "name": "渴火",
-          "desc": "[StartBattle] 使自身增加7級燒傷 強度並對自身施加1層燒傷 \n[BeforeUse] 若自身的燒傷 強度不低於30級，則改為使用「紅艷煞 最大感應【劣化侵蝕】」\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)",
+          "desc": "[StartBattle] 使自身增加7級[Combustion]強度並對自身施加1層[Combustion]\n[BeforeUse] 若自身的[Combustion] 強度不低於30級，則改為使用「紅艷煞 最大感應【劣化侵蝕】」\n[WhenUse] 自身每帶有5級[Combustion]強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的[Combustion]強度與目標的[Combustion]強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1254,7 +1254,7 @@
         {
           "level": 1,
           "name": "提升紅艷煞感應度進行共鳴。",
-          "desc": "[WhenUse] 使自身的燒傷 強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的燒傷 強度減少5級(每回合最多1次)",
+          "desc": "[WhenUse] 使自身的[Combustion]強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的[Combustion]強度減少5級(每回合最多1次)",
           "coinlist": [
             {}
           ]
@@ -1262,7 +1262,7 @@
         {
           "level": 4,
           "name": "提升紅艷煞感應度進行共鳴。",
-          "desc": "[WhenUse] 若自身的燒傷 強度不低於10級，則使本技能的硬幣威力+3\n[WhenUse] 使自身的燒傷 強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的燒傷 強度減少5級(每回合最多1次)",
+          "desc": "[WhenUse] 若自身的[Combustion]強度不低於10級，則使本技能的硬幣威力+3\n[WhenUse] 使自身的[Combustion]強度減少5級(每回合最多1次)\n[OnSucceedEvade] 使自身的[Combustion]強度減少5級(每回合最多1次)",
           "coinlist": [
             {}
           ]
@@ -1275,7 +1275,7 @@
         {
           "level": 1,
           "name": "紅艷煞 最大感應【劣化侵蝕】",
-          "desc": "使用本技能後，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的燒傷 強度與目標的燒傷 強度之和不低於10點，則使本技能的基礎威力+1\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+2)",
+          "desc": "使用本技能後，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級[Combustion]強度，使本技能造成的傷害+7.5%(最多+30%)\n[WhenUse] 若自身的[Combustion]強度與目標的[Combustion]強度之和不低於10點，則使本技能的基礎威力+1\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
@@ -1312,7 +1312,7 @@
         {
           "level": 4,
           "name": "紅艷煞 最大感應【劣化侵蝕】",
-          "desc": "使用本技能後，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級燒傷 強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的燒傷 強度與目標的燒傷 強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+3)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+4)",
+          "desc": "使用本技能後，自身陣亡\n- 使用本技能期間，若自身的體力降至1點以下，則體力維持為1點\n[WhenUse] 自身每帶有5級[Combustion]強度，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 自身的[Combustion]強度與目標的[Combustion]強度之和每有10點，使本技能的基礎威力+1(最多+2)\n[WhenUse] 自身每失去30%體力，使本技能的硬幣威力+1(最多+3)\n[BeforeAttack] 自身每失去20%體力，使本技能的攻擊容量+1(最多+4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1353,20 +1353,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "順步",
-          "desc": "[WhenUse] 當目標的[Burst] 為6以上時，硬幣威力+1",
+          "name": "瞬步",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予[Burst] 1"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
                 }
               ]
             }
@@ -1374,23 +1374,23 @@
         },
         {
           "level": 2,
-          "name": "順步",
-          "desc": "[WhenUse] 當目標的[Burst] 為<style=\"highlight\">4</style>以上時，硬幣威力+1\n<style=\"highlight\">[WinDuel] [Burst] 次數增加1</style>",
+          "name": "瞬步",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WinDuel] 對目標施加1層[Burst]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予[Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身速度為10以上，則可重複使用該硬幣1次（每個技能限1次）</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)</style>"
                 }
               ]
             }
@@ -1398,23 +1398,23 @@
         },
         {
           "level": 4,
-          "name": "順步",
-          "desc": "<style=\"highlight\">若自身速度比目標高3以上時，硬幣威力+1</style>\n[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n[WinDuel] [Burst] 次數增加1",
+          "name": "瞬步",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身速度為10以上，則可重複使用該硬幣1次（每個技能限1次）<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1427,20 +1427,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "我會為您開路，主君。",
-          "desc": "[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n[WinDuel] [Burst] 次數增加1",
+          "name": "我將開闢前路，主公。",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害+30%"
+                  "desc": "若目標帶有[BurstAgility]或[BurstZilu]，則使本硬幣造成的傷害+30%"
                 }
               ]
             }
@@ -1448,20 +1448,20 @@
         },
         {
           "level": 2,
-          "name": "我會為您開路，主君。",
-          "desc": "[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1\n<style=\"highlight\">[WhenUse] 下一回合獲得 [Agility] 2（每回合1次）</style>\n[WinDuel] [Burst] 次數增加1",
+          "name": "我將開闢前路，主公。",
+          "desc": "[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WhenUse] 下回合使自身獲得2層[Agility](每回合最多1次)</style>\n[WinDuel] 對目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害+30%<style=\"highlight\"></style>"
+                  "desc": "若目標帶有[BurstAgility]或[BurstZilu]，則使本硬幣造成的傷害+30%<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1469,23 +1469,23 @@
         },
         {
           "level": 4,
-          "name": "我會為您開路，主君。",
-          "desc": "<style=\"highlight\">若自身速度高於目標，則依（速度差x自身[EnhanceZilu]）%提升傷害（上限50%）</style>\n<style=\"highlight\">若自身速度比目標高3以上，硬幣威力+1\n[WhenUse] 當目標的 [Burst] 為4以上時，硬幣威力+1</style>\n[WhenUse] 下一回合獲得 [Agility] 2（每回合1次）\n[WinDuel] [Burst] 次數增加1",
+          "name": "我將開闢前路，主公。",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則使本技能造成的傷害+(速度差×自身的[EnhanceZilu]層數)%(最多+50%)</style>\n<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Burst]強度不低於4級，則使本技能的硬幣威力+1</style>\n[WhenUse] 下回合使自身獲得2層[Agility](每回合最多1次)\n[WinDuel] 對目標施加1層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 賦予 [Burst] 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加1級[Burst]強度</style>"
                 },
                 {
-                  "desc": "若目標擁有 [BurstAgility] 或 [BurstZilu]，則傷害<style=\"highlight\">+50%</style>"
+                  "desc": "若目標帶有[BurstAgility]或[BurstZilu]，則使本硬幣造成的傷害<style=\"highlight\">+50%</style>"
                 }
               ]
             }
@@ -1498,36 +1498,36 @@
       "levelList": [
         {
           "level": 3,
-          "name": "讓人無法用眼也無法用耳追上。",
-          "desc": "若自身速度快於目標，則依（速度差x目標的 [Burst] 威力）%提升傷害（上限50%）\n若自身速度比目標快2以上，硬幣威力+1\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[BeforeUse] 若 [EnhanceZilu] 為10以上，則以「黑水 妙 奧義 - 雲海顯現」發動\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2",
+          "name": "目不能追，耳未可及。",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度差×目標的[Burst]強度)%(最多+50%)\n若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[StartBattle] 使自身獲得1層[SupportProtect](每回合最多1次)\n[BeforeUse] 若自身的[EnhanceZilu]層數不低於10層，則改為使用「黑獸-卯 奧義-雲解顯現」\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若自身速度為10以上，傷害+30%"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身速度為10以上，硬幣可再使用一次（每技能限1次）"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }
@@ -1535,39 +1535,39 @@
         },
         {
           "level": 4,
-          "name": "讓人無法用眼也無法用耳追上。",
-          "desc": "若自身速度快於目標，則依（速度差x目標的 [Burst] 威力）%提升傷害（上限50%）\n<style=\"highlight\">自身速度越快於目標，每相差2點速度，硬幣威力+1（上限+2）</style>\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[BeforeUse] 若 [EnhanceZilu] 為10以上，則以「黑水 妙 奧義 - 雲海顯現」發動\n<style=\"highlight\">[WhenUse] 若目標的 [Burst] 為15以上，硬幣威力+1</style>\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2",
+          "name": "目不能追，耳未可及。",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度差×目標的[Burst]強度)%(最多+50%)\n<style=\"highlight\">若自身的速度值高於目標，則每高於目標2點，使本技能的硬幣威力+1(最多+2)</style>\n[StartBattle] 使自身獲得1層[SupportProtect](每回合最多1次)\n[BeforeUse] 若自身的[EnhanceZilu]層數不低於10層，則改為使用「黑獸-卯 奧義-雲解顯現」\n<style=\"highlight\">[WhenUse] 若目標的[Burst]強度不低於15級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層[Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若自身速度為10以上，傷害+30%<style=\"highlight\"></style>"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身速度為10以上，硬幣可再使用一次（每技能限1次）<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 賦予 [BurstAgility]</style>"
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 對目標施加[BurstAgility]</style>"
                 }
               ]
             }
@@ -1580,20 +1580,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "尊命。",
-          "desc": "[DuelCounter]\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[WhenUse] 自身本次戰鬥中失去的累積生命值每達10%，此技能的攻擊等級+1（最多6次。觸發時以最大生命為基準）\n[WhenUse] 獲得 [LegStrength] 3",
+          "name": "遵命。",
+          "desc": "[DuelCounter]\n[StartBattle] 使自身獲得1層[SupportProtect](每回合最多1次)\n[WhenUse] 本場戰鬥自身每累計失去體力上限10%的體力，使本技能的攻擊等級+1(最多+6，以觸發時的體力上限為基準)\n[WhenUse] 使自身獲得3層[LegStrength]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             }
@@ -1601,20 +1601,20 @@
         },
         {
           "level": 4,
-          "name": "尊命。",
-          "desc": "[DuelCounter]\n[StartBattle] 獲得 [SupportProtect] 1（每回合1次）\n[WhenUse] 自身本次戰鬥中失去的累積生命值每達10%，此技能的攻擊等級+1（最多6次。觸發時以最大生命為基準）\n[WhenUse] 獲得 [LegStrength] 3\n<style=\"highlight\">[WhenUse] 自身速度越快於目標，基礎威力+1（每2點速度差基礎威力+1，最多+2）</style>",
+          "name": "遵命。",
+          "desc": "[DuelCounter]\n[StartBattle] 使自身獲得1層[SupportProtect](每回合最多1次)\n[WhenUse] 本場戰鬥自身每累計失去體力上限10%的體力，使本技能的攻擊等級+1(最多+6，以觸發時的體力上限為基準)\n[WhenUse] 使自身獲得3層[LegStrength]\n<style=\"highlight\">[WhenUse] 若自身的速度值高於目標，則每高於目標2點，使本技能的基礎威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1627,42 +1627,42 @@
       "levelList": [
         {
           "level": 3,
-          "name": "黑水 猫奧義 - 雲海玄玄",
-          "desc": "自身速度比目標快時，傷害增加（速度差x目標的 [Burst] 威力）%，最高50%\n自身速度比目標高2以上，硬幣威力+1\n[WhenUse] 目標的 [Burst] 15以上，硬幣威力+1\n[WhenUse] 自身速度10以上時，獲得 [Breath] 20，且自身 [Breath] 次數不足4時，補至最大4次\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2\n[EndSkill] 消耗 [EnhanceZilu] 10",
+          "name": "黑獸-卯 奧義-雲解顯現",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度差×目標的[Burst]強度)%(最多+50%)\n若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[WhenUse] 若目標的[Burst]強度不低於15級，則使本技能的硬幣威力+1\n[WhenUse] 若自身的速度值不低於10，則使自身增加20級[Breath]強度；若自身的[Breath]層數低於4層，則使自身獲得至4層[Breath]\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層[Burst]\n[EndSkill] 消耗10層[EnhanceZilu]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstZilu]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstZilu]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "自身速度10以上時，傷害+30%"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自身速度10以上時，硬幣可重用1次（每技能1次）"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] 賦予 [BurstZilu]"
+                  "desc": "[ReUseOnSucceedAttack] 對目標施加[BurstZilu]"
                 }
               ]
             }
@@ -1670,45 +1670,45 @@
         },
         {
           "level": 4,
-          "name": "黑水 猫奧義 - 雲海玄玄",
-          "desc": "自身速度比目標快時，傷害增加（速度差x目標的 [Burst] 威力）%，最高50%\n<style=\"highlight\">自身速度越快於目標，硬幣威力+1（速度差2每增加+1，最高+2）</style>\n<style=\"highlight\">[WhenUse] 目標的 [Burst] 每10點，硬幣威力+1（最多+2）</style>\n[WhenUse] 自身速度10以上時，獲得 [Breath] 20，且自身 [Breath] 次數不足4時，補至最大4次\n[WhenUse] 獲得 [LegStrength] 3\n[WinDuel] [Burst] 次數增加2\n[EndSkill] 消耗 [EnhanceZilu] 10",
+          "name": "黑獸-卯 奧義-雲解顯現",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度差×目標的[Burst]強度)%(最多+50%)\n<style=\"highlight\">若自身的速度值高於目標，則每高於目標2點，使本技能的硬幣威力+1(最多+2)</style>\n<style=\"highlight\">[WhenUse] 目標每帶有10級[Burst]強度，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 若自身的速度值不低於10，則使自身增加20級[Breath]強度；若自身的[Breath]層數低於4層，則使自身獲得至4層[Breath]\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層[Burst]\n[EndSkill] 消耗10層[EnhanceZilu]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] [Burst] 次數增加1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層[Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstZilu]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstZilu]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [BurstAgility]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級[Burst]強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "自身速度10以上時，傷害+30%<style=\"highlight\"></style>"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 賦予 [Burst] 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加3級[Burst]強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自身速度10以上時，硬幣可重用1次（每技能1次）<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] 賦予 [BurstZilu]<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] 對目標施加[BurstZilu]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 賦予 [BurstAgility]</style>"
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 對目標施加[BurstAgility]</style>"
                 }
               ]
             }
@@ -1721,8 +1721,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "超速護衛",
-          "desc": "[CanDuelGuard]\n[SupportProtect] 專用技能\n[BeforeUse] [EnhanceZilu] 10以上時，發動『黑水 猫奧義 - 雲海玄玄』\n[WhenUse] 本次戰鬥中累積失去體力每10%，此技能防禦等級+1（最高6，依發動時最大體力計算）\n[WhenUse] 此技能結束前，不會因傷害進入混亂狀態\n[WhenUse] 獲得 [Protection] 2（每回合1次）",
+          "name": "超速侍衛",
+          "desc": "[CanDuelGuard]\n[SupportProtect]專用技能\n[BeforeUse] 若自身的[EnhanceZilu]層數不低於10層，則改為使用「黑獸-卯 奧義-雲解顯現」\n[WhenUse] 本場戰鬥自身每累計失去體力上限10%的體力，使本技能的防禦等級+1(最多+6，以觸發時的體力上限為基準)\n[WhenUse] 直到本技能結束，自身不會陷入混亂\n[WhenUse] 使自身獲得2層[Protection](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1735,8 +1735,8 @@
         },
         {
           "level": 4,
-          "name": "超速護衛",
-          "desc": "[CanDuelGuard]\n[SupportProtect] 專用技能\n[BeforeUse] [EnhanceZilu] 10以上時，發動『黑水 猫奧義 - 雲海玄玄』\n[WhenUse] 本次戰鬥中累積失去體力每10%，此技能防禦等級+1（最高6，依發動時最大體力計算）\n[WhenUse] 此技能結束前，不會因傷害進入混亂狀態\n[WhenUse] 獲得 [Protection] 2（每回合1次）<style=\"highlight\"></style>",
+          "name": "超速侍衛",
+          "desc": "[CanDuelGuard]\n[SupportProtect]專用技能\n[BeforeUse] 若自身的[EnhanceZilu]層數不低於10層，則改為使用「黑獸-卯 奧義-雲解顯現」\n[WhenUse] 本場戰鬥自身每累計失去體力上限10%的體力，使本技能的防禦等級+1(最多+6，以觸發時的體力上限為基準)\n[WhenUse] 直到本技能結束，自身不會陷入混亂\n[WhenUse] 使自身獲得2層[Protection](每回合最多1次)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [

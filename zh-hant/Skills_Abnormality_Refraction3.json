@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 使目標增加4級流血 強度"
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "覆蓋棉花",
-          "desc": "指定流血 強度最高的單位\n[WhenUse] 若主要目標為流血 強度最高的目標，則使本技能的基礎威力+5，施加的狀態變為2倍",
+          "desc": "指定[Laceration]強度最高的單位\n[WhenUse] 若主要目標為[Laceration]強度最高的目標，則使本技能的基礎威力+5，施加的狀態變為2倍",
           "coinlist": [
             {
               "coindescs": [
@@ -99,19 +99,19 @@
         {
           "level": 1,
           "name": "散落的棉花",
-          "desc": "指定帶有棉花 且體力最低的單位\n[WhenUse] 若主要目標為流血 強度最高的單位，則使本技能的基礎威力+5\n[EndBattle] 下回合解除[MRcAfBb]狀態",
+          "desc": "指定帶有[MRcAfBa]且體力最低的單位\n[WhenUse] 若主要目標為[Laceration]強度最高的單位，則使本技能的基礎威力+5\n[EndBattle] 下回合解除[MRcAfBb]狀態",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 }
               ]
             }
@@ -164,7 +164,7 @@
         {
           "level": 1,
           "name": "散落的紅染棉花",
-          "desc": "優先指定流血 強度最高的單位\n[WhenUse] 若主要目標為流血 強度最高的單位，則使本技能的基礎威力+10\n若目標的流血 強度不低於10級，則使本技能造成的傷害+50%",
+          "desc": "優先指定[Laceration]強度最高的單位\n[WhenUse] 若主要目標為[Laceration]強度最高的單位，則使本技能的基礎威力+10\n若目標的[Laceration]強度不低於10級，則使本技能造成的傷害+50%",
           "coinlist": [
             {
               "coindescs": [
@@ -234,7 +234,7 @@
         {
           "level": 1,
           "name": "點燃",
-          "desc": "[WinDuel] 根據目標帶有的燒傷 強度，使其增加相應的燒傷 強度\n[WhenUse] 對目標施加2層燒傷 ",
+          "desc": "[WinDuel] 根據目標帶有的[Combustion]強度，使其增加相應的[Combustion]強度\n[WhenUse] 對目標施加2層[Combustion]",
           "coinlist": [
             {
               "coindescs": [
@@ -246,7 +246,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加6級 [Combustion] 強度並對其施加4層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 使目標增加6級燒傷 強度並對其施加4層燒傷 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層暴怒抗性弱化 "
@@ -263,7 +263,7 @@
         {
           "level": 1,
           "name": "粉塵爆炸",
-          "desc": "[WhenUse] 若目標的燒傷 強度不低於7級，則使本技能的拚點威力+2",
+          "desc": "[WhenUse] 若目標的燒傷 強度不低於7級，則使本技能的拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -295,7 +295,7 @@
         {
           "level": 1,
           "name": "紅艷煞",
-          "desc": "使本技能的拚點威力+(紅焰蛾本回合使用的暴怒技能數×2)\n[WhenUse] 使全體敵方單位增加(紅焰蛾本回合使用的暴怒技能數×2)級燒傷 強度",
+          "desc": "使本技能的拼點威力+(紅焰蛾本回合使用的暴怒技能數×2)\n[WhenUse] 使全體敵方單位增加(紅焰蛾本回合使用的暴怒技能數×2)級[Combustion]強度",
           "coinlist": [
             {
               "coindescs": [
@@ -323,7 +323,7 @@
                   "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的10%"
                 },
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂，則使其增加10級燒傷 強度"
+                  "desc": "[EndSkill] 使因本技能傷害而陷入混亂的目標增加10級燒傷 強度"
                 }
               ]
             }
@@ -337,7 +337,7 @@
         {
           "level": 1,
           "name": "閃避",
-          "desc": "[WhenUseEvade] 使目標增加4級燒傷 強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
+          "desc": "[WhenUseEvade] 使目標增加4級[Combustion]強度\n[OnSucceedEvade] 下回合使自身獲得1層[MRcAiBa]",
           "coinlist": [
             {
               "coindescs": [
@@ -385,7 +385,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             }
@@ -404,7 +404,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度並對其施加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度並對其施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加1層易損 "
@@ -420,7 +420,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層流血 "
                 }
               ]
             }

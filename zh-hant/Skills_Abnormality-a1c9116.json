@@ -31,14 +31,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加1層易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加1層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 本回合與下回合中，對目標施加1層易損 "
+                  "desc": "[OnSucceedAttack] 本回合與下回閤中，對目標施加1層易損 "
                 }
               ]
             },
@@ -81,7 +81,7 @@
         {
           "level": 1,
           "name": "全員，處刑！！！",
-          "desc": "可無視速度值與本技能拚點\n若主要目標的[MiddleFingerBook]層數不低於5層，則使本技能的最終威力+5\n[EndSkill] 解除全體受到攻擊的目標的[MiddleFingerBook]",
+          "desc": "可無視速度值與本技能拼點\n若主要目標的[MiddleFingerBook]層數不低於5層，則使本技能的最終威力+5\n[EndSkill] 解除全體受到攻擊的目標的[MiddleFingerBook]",
           "coinlist": [
             {
               "coindescs": [
@@ -103,7 +103,7 @@
         {
           "level": 1,
           "name": "先發制人",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -122,7 +122,7 @@
         {
           "level": 1,
           "name": "刺殺",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得3層[LegStrength]",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得3層[LegStrength]",
           "coinlist": [
             {
               "coindescs": [

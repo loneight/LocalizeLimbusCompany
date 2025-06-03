@@ -14,7 +14,7 @@
     },
     {
       "id": "story_dungeon_to_main",
-      "content": "主菜單"
+      "content": "主選單"
     },
     {
       "id": "story_dungeon_continue",
@@ -22,7 +22,7 @@
     },
     {
       "id": "story_ask_move_to_main",
-      "content": "要保存並回到主菜單嗎？"
+      "content": "要儲存並回到主選單嗎？"
     },
     {
       "id": "story_ask_give_up_dungeon",
@@ -30,7 +30,7 @@
     },
     {
       "id": "story_to_be_return_enkephalin_box_warning",
-      "content": "※ 所消耗的腦啡肽模塊將會返還。"
+      "content": "※ 所消耗的腦啡肽模組將會返還。"
     },
     {
       "id": "dungeon_encounter_guide_start",
@@ -70,11 +70,11 @@
     },
     {
       "id": "dungeon_save_completion",
-      "content": "進度已保存"
+      "content": "進度已儲存"
     },
     {
       "id": "dungeon_save_completion_content",
-      "content": "您的進度已保存。"
+      "content": "您的進度已儲存。"
     },
     {
       "id": "dungeon_return_to_save_point",
@@ -86,7 +86,7 @@
     },
     {
       "id": "dungeon_unlocked_line_notice",
-      "content": "新路線開放。"
+      "content": "新的道路開放了。"
     },
     {
       "id": "dungeon_encounter_guide_stairs",

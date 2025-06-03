@@ -58,7 +58,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層 [Breath]"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層呼吸法 "
                 },
                 {
                   "desc": "本硬幣僅對主要目標造成傷害。"
@@ -90,7 +90,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "再裝填射擊",
+          "name": "重灌射擊",
           "desc": "使本技能暴擊時造成的傷害+50%\n[WhenUse] 自身每帶有5層呼吸法 ，使本技能的硬幣威力+1 (最多+3)\n[WhenUse] 使自身增加3級呼吸法 強度",
           "coinlist": [
             {
@@ -110,7 +110,7 @@
         {
           "level": 1,
           "name": "掌握弱點",
-          "desc": "[DefeatDuel] 使自身的呼吸法 強度減半\n- 本回合期間增加的呼吸法 強度減半\n- 下回合對自身施加4層麻痺 ",
+          "desc": "[DefeatDuel] 使自身的呼吸法 強度減半\n- 本回合期間增加的呼吸法 強度減半\n- 下回合對自身施加4層麻痹 ",
           "coinlist": [
             {
               "coindescs": [
@@ -131,8 +131,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "指定對象射擊",
-          "desc": "指定帶有[FellBulletMark]的目標\n自身每帶有5級呼吸法 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有3層呼吸法 ，使本技能的基礎威力+1(最多+3)\n[WhenUse] 若目標未帶有[FellBulletMark]，則對自身施加1層麻痺 與3層易損 \n[EndSkill] 若擊殺目標，則使自身增加10級呼吸法 強度並使全體敵方單位失去15點理智值",
+          "name": "指定對像射擊",
+          "desc": "指定帶有[FellBulletMark]的目標\n自身每帶有5級呼吸法 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有3層呼吸法 ，使本技能的基礎威力+1(最多+3)\n[WhenUse] 若目標未帶有[FellBulletMark]，則對自身施加1層麻痹 與3層易損 \n[EndSkill] 若擊殺目標，則使自身增加10級呼吸法 強度並使全體敵方單位失去15點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "調整對象射擊",
+          "name": "調整對像射擊",
           "desc": "[CantIdentify]\n[CantChangeTarget]\n指定帶有[FellBulletMark]的目標\n若自身未攻擊標記的目標，則取消本技能\n自身每帶有5級呼吸法 強度，使本技能的硬幣威力+1(最多+2)\n自身每帶有3層呼吸法 ，使本技能的基礎威力+1(最多+3)\n[EndSkill] 若擊殺目標，則使自身增加10級呼吸法 強度並使全體敵方單位失去15點理智值",
           "coinlist": [
             {
@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "齧",
+          "name": "嚙",
           "desc": "[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的最終威力+1(最多+5)",
           "coinlist": [
             {
@@ -311,7 +311,7 @@
         {
           "level": 1,
           "name": "那是…我的！",
-          "desc": "[CantChangeTarget]\n[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的拚點威力+1(最多+3)\n[WhenUse] 自身每帶有4層呼吸法 ，使本技能的拚點威力+1(最多+3)",
+          "desc": "[CantChangeTarget]\n[WhenUse] 自身每帶有4級呼吸法 強度，使本技能的拼點威力+1(最多+3)\n[WhenUse] 自身每帶有4層呼吸法 ，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -434,7 +434,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -602,7 +602,7 @@
         {
           "level": 1,
           "name": "止不住的血",
-          "desc": "[DuelCounter]\n[WhenUse] 與本技能拚點的目標在拚點進行時流血 層數不會減少",
+          "desc": "[DuelCounter]\n[WhenUse] 與本技能拼點的目標在拼點進行時流血 層數不會減少",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害產生的血宴 "
                 }
               ]
             },
@@ -620,7 +620,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害產生的血宴 "
                 }
               ]
             },
@@ -630,7 +630,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害生成的血宴 "
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 1次，並立即消耗該流血 傷害產生的血宴 "
                 }
               ]
             }
@@ -644,7 +644,7 @@
         {
           "level": 1,
           "name": "沉溺於養分",
-          "desc": "血宴 層數不低於100層時使用\n[EndBattle] 消耗最多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 ",
+          "desc": "血宴 層數不低於100層時使用\n[EndBattle] 消耗至多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -663,7 +663,7 @@
         {
           "level": 1,
           "name": "渴望的棘蔓",
-          "desc": "[WhenUse] 消耗最多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 \n[DefeatDuel] 使本技能的最終威力-5\n[EndSkill] 若本技能消耗的血宴 層數不高於30層，則下回合對自身施加2層易損 ",
+          "desc": "[WhenUse] 消耗至多100層血宴 並觸發以下效果\n- 使自身本體與軀幹部位恢復相當於消耗的血宴 層數的體力\n- 每消耗20層血宴 ，下回合使自身獲得1層攻擊等級提升 \n[DefeatDuel] 使本技能的最終威力-5\n[EndSkill] 若本技能消耗的血宴 層數不高於30層，則下回合對自身施加2層易損 ",
           "coinlist": [
             {
               "coindescs": [

@@ -2,73 +2,73 @@
   "dataList": [
     {
       "id": 9021001,
-      "name": "Rival Candidate",
-      "desc": "Deal +10% damage against Hong Lu"
+      "name": "對家主候選人的牽制",
+      "desc": "對鴻璐造成的傷害+10%"
     },
     {
       "id": 9021002,
-      "name": "Shi(史) Family Charge Circuitry",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: At 2+ [Charge], gain 1 [ParryingResultUp] next turn"
+      "name": "史家制充能迴路",
+      "desc": "本場戰鬥中，每當自身累計消耗10層[Charge]時，使自身增加1級[Charge]強度\n回合結束時，若自身的[Charge]強度不低於2級，則下回合使自身獲得1層[ParryingResultUp]"
     },
     {
       "id": 9021003,
-      "name": "Charge Circuitry Activation",
-      "desc": "Deal +5% damage for every 6 [Burst] on target (Max 10%)"
+      "name": "充能迴路發動",
+      "desc": "目標每帶有6級[Burst]強度，對其造成的傷害+5%(最多+10%)"
     },
     {
       "id": 9021004,
-      "name": "Overload",
-      "desc": "Turn End: at 3+ [Charge], gain 3 [DefenseDown] and 1 [AttackDmgUp] next turn"
+      "name": "過載",
+      "desc": "回合結束時，若自身的[Charge]強度不低於3級，則下回合對自身施加3層[DefenseDown]並使自身獲得1層[AttackDmgUp]"
     },
     {
       "id": 9021201,
-      "name": "Severe Overload",
-      "desc": "Turn End: at 5+ [Charge], gain 4 [DefenseDown] and 3 [AttackDmgUp] next turn"
+      "name": "殘酷的過載",
+      "desc": "回合結束時，若自身的[Charge]強度不低於5級，則下回合對自身施加4層[DefenseDown]並使自身獲得3層[AttackDmgUp]"
     },
     {
       "id": 9020501,
-      "name": "Experiment Goal - Maturation",
-      "desc": "Turn Start: gain [DefenseUp] equal to (number of times this unit was hit by the enemies' Skill Attacks / 2) (max 10)\n\nLose this effect when Staggered for the first time; then, at the next Turn Start, gain 10 [DefenseDown]"
+      "name": "實驗目標-成長",
+      "desc": "回合開始時，使自身獲得(本場戰鬥期間自身受到敵方單位技能攻擊次數/2)層[DefenseUp](最多10層)\n\n自身首次陷入混亂時移除該效果，並在下回合開始時對自身施加10層[DefenseDown]"
     },
     {
       "id": 9020601,
-      "name": "Experiment Goal - Germination",
-      "desc": "Turn Start: if this unit isn't at max HP, heal 80% of the missing HP\n- With every healing, halve the healing effect of this Passive by half (halves down to 10% minimum; applies only when this unit heals more than 1 HP)\n- Does not activate when Staggered\n\nAfter this unit is Staggered for the first time, or when the healing effect is reduced to its minimum, gain 3 [Vulnerable] at every Turn Start"
+      "name": "實驗目標-發芽",
+      "desc": "回合開始時，若自身體力未滿，則使自身恢復已損失體力80%的體力\n- 每恢復1次，使本被動的恢復量減半(最低減少至10%，僅適用於自身恢復不低於1點體力時)\n- 陷入混亂時不會觸發\n\n自身首次陷入混亂或恢復量降至最小值時，每回合開始時對自身施加3層[Vulnerable]"
     },
     {
       "id": 9020701,
-      "name": "Experiment Goal - Blossom",
-      "desc": "When this unit takes damage that brings its HP down to 0, and maintain this unit's HP at 1 until the next turn; deal +50% damage (once per Encounter)\n\nDoes not activate when Staggered"
+      "name": "實驗目標-綻放",
+      "desc": "本場戰鬥中受到使自身體力降至0點的傷害時，直到下回合，自身的體力不會低於1點並使自身造成的傷害+50%(每場戰鬥最多1次)\n\n陷入混亂時不生效"
     },
     {
       "id": 9020801,
-      "name": "Talisman Sorcerer",
-      "desc": "Whenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(0 - SP on self)% damage (max 30%, min 0%)"
+      "name": "符術士",
+      "desc": "自身對敵方單位施加[OminousTalisman]時，使自身失去10點理智值\n\n對帶有[OminousTalisman]的目標造成的傷害+(0-自身的理智值)%(最多+30%，最少+0%)"
     },
     {
       "id": 9020802,
-      "name": "Proliferating Misfortune",
-      "desc": "On death, apply 10 [OminousTalisman] against a random enemy without [OminousTalisman]\n- If all enemies already have [OminousTalisman], then reduce all enemies' [OminousTalisman] by 1 instead"
+      "name": "轉移不祥",
+      "desc": "陣亡時，隨機對未帶有[OminousTalisman]的1名敵方單位施加10層[OminousTalisman]\n- 若全體敵方單位均帶有[OminousTalisman]，則改為使全體敵方單位的[OminousTalisman]層數減少1層"
     },
     {
       "id": 9020803,
-      "name": "Wicked Energy",
-      "desc": "When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume 1~2 [OminousTalisman] on the target and inflict the same value as [DefenseDown] Stacks to the target this turn and next turn "
+      "name": "兇邪之氣",
+      "desc": "對敵方單位施加[OminousTalisman]時，若目標帶有[OminousTalisman]，則消耗其1~2層[OminousTalisman]並在本回合與下回合對其施加相應層數的[DefenseDown]"
     },
     {
       "id": 9020901,
-      "name": "Skilled Talisman Sorcerer",
-      "desc": "Whenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(10 - SP on self)% damage (max 50%, min 0%)"
+      "name": "傑出的符術士",
+      "desc": "自身對敵方單位施加[OminousTalisman]時，使自身失去10點理智值\n\n對帶有[OminousTalisman]的目標造成的傷害+(10-自身的理智值)%(最多+50%，最少+0%)"
     },
     {
       "id": 9020902,
-      "name": "Soul Siphon Technique",
-      "desc": "Turn Start: at 50% or less HP, sacrifice a random Wicked Deathrite Monk to heal (10% of this unit's HP + 50% of the sacrificed unit's HP) HP, heal 25 SP, and recover from Stagger (once per turn)"
+      "name": "吸魂療法",
+      "desc": "回合開始時，若現存體力不高於50%，則隨機犧牲1名邪咒殺僧並使自身恢復(自身體力上限10%+犧牲單位體力50%)的體力與25點理智值，解除自身的混亂(每回合最多1次)"
     },
     {
       "id": 9020903,
-      "name": "Wicked Energy",
-      "desc": "When inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume up to 3 [OminousTalisman] on the target and inflict the same value as [DefenseDown] Stacks to the target this turn and next turn "
+      "name": "兇邪之氣",
+      "desc": "對敵方單位施加[OminousTalisman]時，若目標帶有[OminousTalisman]，則消耗其至多3層[OminousTalisman]並在本回合與下回合對其施加相應層數的[DefenseDown]"
     }
   ]
 }

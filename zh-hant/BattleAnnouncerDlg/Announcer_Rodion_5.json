@@ -2,43 +2,43 @@
   "dataList": [
     {
       "id": "announcer_cheer_5_1",
-      "dlg": "好啦～讓我們快點解決，然後去吃點東西吧？"
+      "dlg": "好吧~讓我們快點完事，然後去吃點東西吧？"
     },
     {
       "id": "announcer_cheer_5_2",
-      "dlg": "先幹完活的人有好吃的！當然啦～公司請客！"
+      "dlg": "先幹完活的有好吃的！當然啦~公司請客！"
     },
     {
       "id": "announcer_specialcheer_5_1",
-      "dlg": "如果就這麼繼續下去他們會被切成肉片的……沒有更好的辦法嗎？"
+      "dlg": "他們都快被切成碎肉了……沒有更好的辦法嗎？"
     },
     {
       "id": "announcer_specialcheer_5_2",
-      "dlg": "哦嗚……你們還好嗎？你們流了好多血啊？"
+      "dlg": "呃……你們還好嗎？你們流了好多血啊？"
     },
     {
       "id": "announcer_enemy_break_5_1",
-      "dlg": "快看那裡！他搖搖晃晃的！"
+      "dlg": "快看那兒！他搖搖晃晃的！"
     },
     {
       "id": "announcer_ally_break_5_1",
-      "dlg": "唔嗯……所以說在那邊要這樣！像這樣躲開不就行了嗎？"
+      "dlg": "嗯……你可以試試像這樣躲開，不就行了嗎？"
     },
     {
       "id": "announcer_killenemy_5_1",
-      "dlg": "Nice！解決了一個！"
+      "dlg": "好！解決了一個！"
     },
     {
       "id": "announcer_ally_dead_5_1",
-      "dlg": "哦唔……但丁……辛苦了……？"
+      "dlg": "呃……但丁……辛苦了……？"
     },
     {
       "id": "announcer_enemy_adv_5_1",
-      "dlg": "呼……如果我們不小心一點的話，還是有可能會輸的……但丁，你有什麼好想法嗎？"
+      "dlg": "嗯……如果我們不小心一點的話，還是有可能會輸的……但丁，你有什麼好想法嗎？"
     },
     {
       "id": "announcer_ally_adv_5_1",
-      "dlg": "嗯～感覺很快就能解決然後回巴士上了，對吧？"
+      "dlg": "嗯~很快就能解決，然後回巴士的吧，對吧？"
     },
     {
       "id": "announcer_danger_5_1",
@@ -46,15 +46,15 @@
     },
     {
       "id": "announcer_enemy_specialskill_5_1",
-      "dlg": "大、大的要來了……但丁！你得趕緊告訴其他人！"
+      "dlg": "大、大的要來了……但丁！你得告訴其他人！"
     },
     {
       "id": "announcer_enemy_specialgimmick_5_1",
-      "dlg": "那個……這是打算幹嘛呢？"
+      "dlg": "嘿……幹嘛呢這是？"
     },
     {
       "id": "announcer_advatk_physical_5_1",
-      "dlg": "完美的一擊！感覺真好～"
+      "dlg": "完美的一擊！感覺不錯~"
     },
     {
       "id": "announcer_disadvatk_physical_5_1",
@@ -62,7 +62,7 @@
     },
     {
       "id": "announcer_advatk_attr_5_1",
-      "dlg": "哦～真聰明，但丁！剛才太棒了！"
+      "dlg": "哦~真聰明，但丁！剛才太棒了！"
     },
     {
       "id": "announcer_disadvatk_attr_5_1",
@@ -70,11 +70,11 @@
     },
     {
       "id": "announcer_enemy_specialbuff_5_1",
-      "dlg": "唔……他們看起來像剛吃了補品一樣，湧出了很多力量啊……？"
+      "dlg": "呃……他們看起來像打了雞血，是剛開過葷嘛……？"
     },
     {
       "id": "announcer_enemy_specialdebuff_5_1",
-      "dlg": "呼嗯，他們好像萎靡不振的樣子？是因為反胃嗎？"
+      "dlg": "呼，他們好像萎靡不振的樣子？是因為反胃嗎？"
     },
     {
       "id": "announcer_ally_specialbuff_5_1",
@@ -82,7 +82,7 @@
     },
     {
       "id": "announcer_ally_specialdebuff_5_1",
-      "dlg": "嗯……我們這的大家狀態有點糟糕啊……"
+      "dlg": "嗯……夥伴們的狀態不是很好……"
     },
     {
       "id": "announcer_enemy_destroy_5_1",
@@ -102,19 +102,19 @@
     },
     {
       "id": "announcer_round_givebigdmg_5_1",
-      "dlg": "嗚哇～那真是一次強力的攻擊。你不覺得這很值得慶祝嗎～？"
+      "dlg": "哇哦~那真是一次強力的攻擊。你不覺得這很值得慶祝嘛~？"
     },
     {
       "id": "announcer_round_givebigdmg_5_2",
-      "dlg": "你剛才太棒了～即使是脾氣暴躁的維吉也會稱讚你的吧？"
+      "dlg": "你剛才太棒了~即使是脾氣暴躁的維吉也會稱讚你的吧？"
     },
     {
       "id": "announcer_multikillenemy_5_1",
-      "dlg": "只用一揮便效果顯著～！這不是很帥嗎？"
+      "dlg": "隨便一揮便效果顯著~！這不是很帥嘛？"
     },
     {
       "id": "announcer_equip_5_1",
-      "dlg": "啊。啊，我要對著這個說話嗎？你好～這裡是羅佳唷～"
+      "dlg": "啊，啊。我要對著這個說話嗎？你好~這裡是羅佳喲~"
     }
   ]
 }

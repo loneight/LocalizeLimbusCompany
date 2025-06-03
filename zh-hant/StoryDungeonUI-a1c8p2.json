@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "storyDungeon_108_coinCount",
-      "content": "Coins"
+      "content": "銅錢"
     },
     {
       "id": "gabook",
-      "content": "Jia Baoyu"
+      "content": "賈寶玉"
     },
     {
       "id": "gachiu",
-      "content": "Jia Qiu"
+      "content": "賈丘"
     },
     {
       "id": "gahwan",
-      "content": "Jia Huan"
+      "content": "賈環"
     },
     {
       "id": "ego_gift_list_8",
-      "content": "Artifacts Found"
+      "content": "持有的器物"
     },
     {
       "id": "get_ego_gift_desc_8",
-      "content": "Artifact Obtained"
+      "content": "已獲得器物。"
     },
     {
       "id": "subtractor_ego_gift_title",
-      "content": "E.G.O Gift Lost"
+      "content": "失去E.G.O飾品"
     },
     {
       "id": "subtractor_ego_gift_title_8",
-      "content": "Artifact Lost"
+      "content": "失去器物"
     },
     {
       "id": "subtractor_ego_gift_desc",
-      "content": "Lost {1} {0}(s)."
+      "content": "失去了{1}枚{0}。"
     },
     {
       "id": "story_dungeon_cannot_move_to_target_node_side_popup_content",
-      "content": "Cannot move to this node."
+      "content": "無法前往此區域。"
     },
     {
       "id": "rankUITitle",
-      "content": "Ranking"
+      "content": "名次"
     }
   ]
 }

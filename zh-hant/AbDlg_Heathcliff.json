@@ -37,7 +37,7 @@
       "personalityid": 10702,
       "voicefile": 0,
       "teller": "し協會 希斯克利夫",
-      "dialog": "……你他媽在開玩笑嗎？你打算讓我去？",
+      "dialog": "……你他媽在逗我嗎？你打算讓我去？",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -45,7 +45,7 @@
       "personalityid": 10702,
       "voicefile": 0,
       "teller": "し協會 希斯克利夫",
-      "dialog": "你在得意什麼？我才是真正幹活的人。",
+      "dialog": "你在得意什麼？我才是真正幹活兒的人。",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {
@@ -93,7 +93,7 @@
       "personalityid": 10701,
       "voicefile": 0,
       "teller": "希斯克利夫",
-      "dialog": "……你他媽在開玩笑嗎？你打算讓我去？",
+      "dialog": "……你他媽在逗我嗎？你打算讓我去？",
       "usage": "(800101, VERY_LOW), (800102, VERY_LOW), (800104, VERY_LOW), (800105, VERY_LOW) "
     },
     {
@@ -101,7 +101,7 @@
       "personalityid": 10701,
       "voicefile": 0,
       "teller": "希斯克利夫",
-      "dialog": "你在得意什麼？我才是真正幹活的人。",
+      "dialog": "你在得意什麼？我才是真正幹活兒的人。",
       "usage": "(800101, SUCCESS), (800102, SUCCESS), (800104, SUCCESS), (800105, SUCCESS)"
     },
     {

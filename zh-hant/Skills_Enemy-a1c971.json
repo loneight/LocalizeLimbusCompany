@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "■嚼",
-          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -127,7 +127,7 @@
         {
           "level": 1,
           "name": "哇■■哈",
-          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標未帶有破裂 ，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [

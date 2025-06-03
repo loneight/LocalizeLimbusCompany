@@ -2,57 +2,57 @@
   "dataList": [
     {
       "id": 1043,
-      "panicName": "Eldtree Mutation",
-      "lowMoraleDescription": "Gain 1 [AttackDmgUp], 1 [Vulnerable], and 1 [BurstVulnerable]",
-      "panicDescription": "Gain 2 [AttackDmgUp], 2 [Vulnerable], and 2 [BurstVulnerable]"
+      "panicName": "古木化",
+      "lowMoraleDescription": "使自身獲得1層[AttackDmgUp]並對自身施加1層[Vulnerable]與1層[BurstVulnerable]",
+      "panicDescription": "使自身獲得2層[AttackDmgUp]並對自身施加2層[Vulnerable]與2層[BurstVulnerable]"
     },
     {
       "id": 1044,
-      "panicName": "Heart of Evil",
-      "lowMoraleDescription": "Clash Power +2 against targets with [OminousTalisman]\nTurn Start: gain 2 [AttackDmgUp] and 1 [Vulnerable]",
-      "panicDescription": "Clash Power +3 against targets with [OminousTalisman]\nTurn Start: gain 3 [AttackDmgUp] and 2 [Vulnerable]"
+      "panicName": "邪心",
+      "lowMoraleDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+2\n回合開始時，使自身獲得2層[AttackDmgUp]並對自身施加1層[Vulnerable]",
+      "panicDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+3\n回合開始時，使自身獲得3層[AttackDmgUp]並對自身施加2層[Vulnerable]"
     },
     {
       "id": 1045,
-      "panicName": "Heart of Oppressive Evil",
-      "lowMoraleDescription": "Clash Power +2 against targets with [OminousTalisman]\nTurn Start: gain 3 [AttackDmgUp] and 1 [Vulnerable]",
-      "panicDescription": "Clash Power +3 against targets with [OminousTalisman]\nTurn Start: gain 4 [AttackDmgUp] and 2 [Vulnerable]"
+      "panicName": "深重的邪心",
+      "lowMoraleDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+2\n回合開始時，使自身獲得3層[AttackDmgUp]並對自身施加1層[Vulnerable]",
+      "panicDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+3\n回合開始時，使自身獲得4層[AttackDmgUp]並對自身施加2層[Vulnerable]"
     },
     {
       "id": 1047,
-      "panicName": "Jia Qiu",
-      "lowMoraleDescription": "Deal +10% damage against targets that aren't Hong Lu",
-      "panicDescription": "Deal +20% damage against targets that aren't Hong Lu"
+      "panicName": "賈丘",
+      "lowMoraleDescription": "對除鴻璐以外的目標造成的傷害+10%",
+      "panicDescription": "對除鴻璐以外的目標造成的傷害+20%"
     },
     {
       "id": 1042,
-      "panicName": "Charge Circuitry Countercurrent",
-      "lowMoraleDescription": "When Clashing against targets with [Burst], gain +3 [Charge] Count and 1 [Vulnerable] (2 times per turn)",
-      "panicDescription": "When Clashing against targets with [Burst], gain +5 [Charge] Count, 1 [AttackDmgUp], and 2 [Vulnerable] (2 times per turn)"
+      "panicName": "充能迴路逆流",
+      "lowMoraleDescription": "與帶有[Burst]的目標進行拼點時，使自身獲得3層[Charge]並對自身施加1層[Vulnerable](每回合最多2次)",
+      "panicDescription": "與帶有[Burst]的目標進行拼點時，使自身獲得5層[Charge]與1層[AttackDmgUp]並對自身施加2層[Vulnerable](每回合最多2次)"
     },
     {
       "id": 9995,
-      "panicName": "Catching Breath",
-      "lowMoraleDescription": "Turn Start: gain 2 [DefenseUp] and lose 2 [Breath] Potency",
-      "panicDescription": "Turn Start: gain 5 [DefenseUp] and lose 5 [Breath] Potency"
+      "panicName": "調息",
+      "lowMoraleDescription": "回合開始時，使自身獲得2層[DefenseUp]並使自身的[Breath]強度減少2級",
+      "panicDescription": "回合開始時，使自身獲得5層[DefenseUp]並使自身的[Breath]強度減少5級"
     },
     {
       "id": 1055,
-      "panicName": "Double-edged Feather",
-      "lowMoraleDescription": "Turn Start: gain 1 Fragile and 1 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed",
-      "panicDescription": "Turn Start: gain 2 Fragile and 2 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed"
+      "panicName": "雙刃羽",
+      "lowMoraleDescription": "回合開始時，對自身施加1層易損 並使自身獲得1層體力恢復提升 。自身的攻擊命中時，使目標增加1級破裂 強度與1級流血 強度",
+      "panicDescription": "回合開始時，對自身施加2層易損 並使自身獲得2層體力恢復提升 。自身的攻擊命中時，使目標增加1級破裂 強度與1級流血 強度"
     },
     {
       "id": 1056,
-      "panicName": "Angst",
-      "lowMoraleDescription": "Clash Power +2 against targets with [OminousTalisman]\nTurn Start: gain 2 [AttackDmgUp] and 1 [Vulnerable]",
-      "panicDescription": "Clash Power +3 against targets with [OminousTalisman]\nTurn Start: gain 3 [AttackDmgUp] and 2 [Vulnerable]"
+      "panicName": "鬱憤",
+      "lowMoraleDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+2\n回合開始時，使自身獲得2層[AttackDmgUp]並對自身施加1層[Vulnerable]",
+      "panicDescription": "與帶有[OminousTalisman]的目標進行拼點時，使自身的拼點威力+3\n回合開始時，使自身獲得3層[AttackDmgUp]並對自身施加2層[Vulnerable]"
     },
     {
       "id": 1058,
-      "panicName": "Charge Order",
-      "lowMoraleDescription": "Turn Start: gain 1 [Vulnerable] and apply 1 [AttackDmgUp] to all allies",
-      "panicDescription": "Turn Start: gain 2 [Vulnerable] and apply 2 [AttackDmgUp] to all allies"
+      "panicName": "突擊指示",
+      "lowMoraleDescription": "回合開始時，對自身施加1層[Vulnerable]並使全體友方單位獲得1層[AttackDmgUp]",
+      "panicDescription": "回合開始時，對自身施加2層[Vulnerable]並使全體友方單位獲得2層[AttackDmgUp]"
     }
   ]
 }

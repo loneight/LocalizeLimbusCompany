@@ -46,7 +46,7 @@
       "id": 1008,
       "panicName": "瘋狂",
       "lowMoraleDescription": "初次進入士氣低落狀態時，進入無差別攻擊狀態。",
-      "panicDescription": "進入無差別攻擊狀態，拚點威力+1，獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>。"
+      "panicDescription": "進入無差別攻擊狀態，拼點威力+1，獲得2層<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">傷害強化</color></link></u>。"
     },
     {
       "id": 1009,
@@ -69,8 +69,8 @@
     {
       "id": 1012,
       "panicName": "抑鬱",
-      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>；若拚點時硬幣擲出過反面，則在本次拚點中拚點威力-1。",
-      "panicDescription": "對自身施加3層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。若拚點時硬幣擲出過反面，則在本次拚點中拚點威力-3。"
+      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>；若拼點時硬幣擲出過反面，則在本次拼點中拼點威力-1。",
+      "panicDescription": "對自身施加3層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。若拼點時硬幣擲出過反面，則在本次拼點中拼點威力-3。"
     },
     {
       "id": 9999,
@@ -81,8 +81,8 @@
     {
       "id": 1013,
       "panicName": "不潔",
-      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。該單位拚點失敗時，使目標失去2點理智值。",
-      "panicDescription": "對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。該單位拚點失敗時，使目標失去5點理智值。"
+      "lowMoraleDescription": "對自身施加1層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。該單位拼點失敗時，使目標失去2點理智值。",
+      "panicDescription": "對自身施加2層<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">易損</color></link></u>。該單位拼點失敗時，使目標失去5點理智值。"
     },
     {
       "id": 1014,
@@ -105,8 +105,8 @@
     {
       "id": 1026,
       "panicName": "破滅",
-      "lowMoraleDescription": "每回合結束時使自身增加3級[Sinking]強度。自身的拚點威力-1",
-      "panicDescription": "每回合結束時使自身增加5級[Sinking]強度並對自身施加3層[Sinking]。自身的拚點威力-2"
+      "lowMoraleDescription": "每回合結束時使自身增加3級[Sinking]強度。自身的拼點威力-1",
+      "panicDescription": "每回合結束時使自身增加5級[Sinking]強度並對自身施加3層[Sinking]。自身的拼點威力-2"
     }
   ]
 }

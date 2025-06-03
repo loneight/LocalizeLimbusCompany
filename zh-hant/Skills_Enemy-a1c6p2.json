@@ -120,14 +120,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -146,7 +146,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
@@ -156,7 +156,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
@@ -341,7 +341,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 }
               ]
             },
@@ -467,21 +467,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -500,7 +500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
@@ -510,7 +510,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有流血 ，則使自身恢復5點理智值"
@@ -773,7 +773,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層攻擊等級降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加2層麻痹 "
                 }
               ]
             }
@@ -816,7 +816,7 @@
         {
           "level": 1,
           "name": "基本攻擊3",
-          "desc": "[WhenUse] 若目標的攻擊等級降低 層數不低於2層，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的攻擊等級降低 層數不低於2層，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -868,7 +868,7 @@
         {
           "level": 1,
           "name": "基本攻擊4",
-          "desc": "優先指定負面狀態最多的目標\n[WhenUse] 目標每帶有3層防禦等級降低 ，使本技能的拚點威力+1(最多+3)",
+          "desc": "優先指定負面狀態最多的目標\n[WhenUse] 目標每帶有3層防禦等級降低 ，使本技能的拼點威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
@@ -879,7 +879,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             },
@@ -973,7 +973,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "重新扣好紐扣",
+          "name": "重新扣好鈕釦",
           "desc": "[WinDuel] 若目標的攻擊等級降低 層數不低於2層，則使本技能的基礎威力+1\n[WhenUse] 若目標帶有攻擊等級降低 ，則使本技能造成的傷害+30%",
           "coinlist": [
             {},
@@ -1019,7 +1019,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 }
               ]
             },
@@ -1061,7 +1061,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "球棒痛毆",
+          "name": "球棍痛毆",
           "desc": "",
           "coinlist": [
             {
@@ -1123,8 +1123,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "洩憤暴打",
-          "desc": "若目標的破裂 強度不低於5級，則使本技能的拚點威力+1\n若目標的流血 強度不低於5級，則使本技能的拚點威力+1\n[WinDuel] 對目標施加3層破裂 ",
+          "name": "泄憤暴打",
+          "desc": "若目標的破裂 強度不低於5級，則使本技能的拼點威力+1\n若目標的流血 強度不低於5級，則使本技能的拼點威力+1\n[WinDuel] 對目標施加3層破裂 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1143,7 +1143,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標額外造成相當於其(流血 強度×流血 層數)點突刺傷害"

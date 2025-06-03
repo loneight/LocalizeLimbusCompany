@@ -6,7 +6,7 @@
     },
     {
       "id": "PERSONALITYSTORY",
-      "content": "人格檔案"
+      "content": "人格故事"
     },
     {
       "id": "NOTE_OF_DANTE",
@@ -46,7 +46,7 @@
     },
     {
       "id": "MIRRORWOLDS",
-      "content": "鏡像世界"
+      "content": "映象世界"
     },
     {
       "id": "STORY",
@@ -54,7 +54,7 @@
     },
     {
       "id": "SECURITY_MATERIAL",
-      "content": "機密文件"
+      "content": "機密檔案"
     },
     {
       "id": "SPEECH",
@@ -138,7 +138,7 @@
     },
     {
       "id": "EnterStoryPopupDesc",
-      "content": "要查看\n{0}嗎？"
+      "content": "要檢視\n{0}嗎？"
     },
     {
       "id": "No",

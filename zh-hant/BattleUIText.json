@@ -150,7 +150,7 @@
     },
     {
       "id": "immunity_information",
-      "content": "抗性情報"
+      "content": "抗性資訊"
     },
     {
       "id": "awaken_ego_skill",
@@ -198,7 +198,7 @@
     },
     {
       "id": "formet_event_rate",
-      "content": "成功率: {0}"
+      "content": "成功率：{0}"
     },
     {
       "id": "ab_event_decision",
@@ -214,7 +214,7 @@
     },
     {
       "id": "info_button_choice_log",
-      "content": "決斷記錄"
+      "content": "選項記錄"
     },
     {
       "id": "info_button_story",
@@ -278,7 +278,7 @@
     },
     {
       "id": "selection",
-      "content": "決斷"
+      "content": "選項"
     },
     {
       "id": "result",
@@ -386,7 +386,7 @@
     },
     {
       "id": "dungeon_save_desc",
-      "content": "已到達檢查點。\n探索進度已保存。\n所有罪人都已被治療。"
+      "content": "已到達檢查點。\n探索進度已儲存。\n所有罪人都已被治療。"
     },
     {
       "id": "battle_battleunit_evade",
@@ -566,15 +566,15 @@
     },
     {
       "id": "EGO_ErodeProbability",
-      "content": "侵蝕機率"
+      "content": "侵蝕概率"
     },
     {
       "id": "EGOSelectUI_resources_lack",
-      "content": "碎片不足。\n請確認罪孽碎片。"
+      "content": "資源不足。\n請確認罪孽碎片。"
     },
     {
       "id": "EGOSelectUI_DetailInfo",
-      "content": "更多情報"
+      "content": "更多資訊"
     },
     {
       "id": "ab_part_destroyable",
@@ -610,7 +610,7 @@
     },
     {
       "id": "LobotomyStartTypo_Title_1",
-      "content": "綠色的黎明"
+      "content": "緑色的黎明"
     },
     {
       "id": "LobotomyStartTypo_Name_1",
@@ -626,7 +626,7 @@
     },
     {
       "id": "LobotomyClearTypo_Title_1",
-      "content": "綠色的黎明"
+      "content": "緑色的黎明"
     },
     {
       "id": "LobotomyClearTypo_Name_1",
@@ -670,7 +670,7 @@
     },
     {
       "id": "BatonPassUIText",
-      "content": "待機解除"
+      "content": "解除待命"
     },
     {
       "id": "perfect",
@@ -726,7 +726,7 @@
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "逆卡巴拉熔毀 - 等級{0}"
+      "content": "逆卡巴拉熔燬 - 等級{0}"
     },
     {
       "id": "SinkingWhite_stack",
@@ -762,7 +762,7 @@
     },
     {
       "id": "battle_StageBuffUI_Stackdesc",
-      "content": "(當前值：{0})"
+      "content": "(目前值：{0})"
     },
     {
       "id": "EGOSelectUI_not_allow",

@@ -52,7 +52,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "鋸裂",
+          "name": "鋸刃切割",
           "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
           "coinlist": [
             {
@@ -80,7 +80,7 @@
         },
         {
           "level": 2,
-          "name": "鋸裂",
+          "name": "鋸刃切割",
           "desc": "若本技能被丟棄，則使自身獲得1層攻擊等級提升 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
           "coinlist": [
             {
@@ -108,7 +108,7 @@
         },
         {
           "level": 4,
-          "name": "鋸裂",
+          "name": "鋸刃切割",
           "desc": "若本技能被丟棄，則使自身獲得1層攻擊等級提升 \n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能",
           "coinlist": [
             {
@@ -380,12 +380,12 @@
         {
           "level": 3,
           "name": "騰躍長刺",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+2\n[WinDuel] 根據拚點次數，相應使自身增加呼吸法 強度(最多10級)",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+2\n[WinDuel] 根據拼點次數，相應使自身增加呼吸法 強度(最多10級)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_Outis]"
+                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-奧提斯 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使速度值最低的2名友方單位在下回合獲得1層迅捷 "
@@ -400,7 +400,7 @@
         {
           "level": 4,
           "name": "騰躍長刺",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+4\n[WinDuel] 根據拚點次數，相應使自身增加呼吸法 強度(最多10級)",
+          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的最終威力+4\n[WinDuel] 根據拼點次數，相應使自身增加呼吸法 強度(最多10級)",
           "coinlist": [
             {
               "coindescs": [
@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "魔彈射擊",
-          "desc": "目標每帶有1級燒傷 強度，使本技能造成的傷害+0.5%(最多+15%)\n\n[BeforeAttack] 使自身獲得1層魔彈 \n- 使自身失去(自身的魔彈 層數-1)×5點理智值\n- 使本技能的攻擊容量變為與自身的魔彈 層數相同\n- 若自身的理智值不高於10點，則本技能有50%的機率進行無差別攻擊\n\n[EndSkill] 若自身的魔彈 層數為7層，則將其重置為0層(視作消耗了最後的彈藥 )",
+          "desc": "目標每帶有1級燒傷 強度，使本技能造成的傷害+0.5%(最多+15%)\n\n[BeforeAttack] 使自身獲得1層魔彈 \n- 使自身失去(自身的魔彈 層數-1)×5點理智值\n- 使本技能的攻擊容量變為與自身的魔彈 層數相同\n- 若自身的理智值不高於10點，則本技能有50%的概率進行無差別攻擊\n\n[EndSkill] 若自身的魔彈 層數為7層，則將其重置為0層(視作消耗了最後的彈藥 )",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "魔彈射擊",
-          "desc": "目標每帶有1級燒傷 強度，使本技能造成的傷害+1%(最多+30%)\n\n[BeforeAttack] 使自身獲得1層魔彈 \n- 使自身失去(自身的魔彈 層數-1)×5點理智值\n- 使本技能的攻擊容量變為與自身的魔彈 層數相同\n- 若自身的理智值不高於10點，則本技能有50%的機率進行無差別攻擊\n\n[EndSkill] 若自身的魔彈 層數為7層，則將其重置為0層(視作消耗了最後的彈藥 )",
+          "desc": "<style=\"highlight\">目標每帶有1級燒傷 強度，使本技能造成的傷害+1%(最多+30%)</style>\n\n[BeforeAttack] 使自身獲得1層魔彈 \n- 使自身失去(自身的魔彈 層數-1)×5點理智值\n- 使本技能的攻擊容量變為與自身的魔彈 層數相同\n- 若自身的理智值不高於10點，則本技能有50%的概率進行無差別攻擊\n\n[EndSkill] 若自身的魔彈 層數為7層，則將其重置為0層(視作消耗了最後的彈藥 )",
           "coinlist": [
             {
               "coindescs": [
@@ -642,7 +642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -844,7 +844,7 @@
         {
           "level": 2,
           "name": "點畫",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -865,7 +865,7 @@
         {
           "level": 4,
           "name": "點畫",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的拚點威力+1\n若目標的流血 強度不低於10級，則使本技能的硬幣威力+1",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n<style=\"highlight\">若目標的流血 強度不低於10級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -897,7 +897,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以20%機率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的機率+20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 "
@@ -909,13 +909,13 @@
         {
           "level": 2,
           "name": "血描畫",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以20%機率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的機率+20%"
+                  "desc": "[OnSucceedAttack] 以20%概率重複使用本硬幣1次。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 \n通過自身硬幣效果重複使用本硬幣時，對目標額外施加1層流血 "
@@ -927,13 +927,13 @@
         {
           "level": 4,
           "name": "血描畫",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的拚點威力+2",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的拼點威力+2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 以40%機率重複使用本硬幣。目標每帶有1種負面狀態，使本硬幣重複使用的機率+20%(每個技能最多2次)"
+                  "desc": "[OnSucceedAttack] 以40%概率重複使用本硬幣。目標每帶有1種負面狀態，使本硬幣重複使用的概率+20%(每個技能最多2次)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層流血 \n通過自身硬幣效果重複使用本硬幣時，對目標額外施加1層流血 "
@@ -950,7 +950,7 @@
         {
           "level": 3,
           "name": "檢查作品",
-          "desc": "目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+30%)\n[WhenUse] 使儀錶盤上位於自身兩側的友方單位在下回合獲得1層迅捷 ",
+          "desc": "目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+30%)\n[WhenUse] 使儀表盤上位於自身兩側的友方單位在下回合獲得1層迅捷 ",
           "coinlist": [
             {},
             {
@@ -962,7 +962,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 },
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使除自身以外理智值最高的1名友方單位在下回合獲得1層突刺傷害強化 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則使除自身以外理智值最高的1名友方單位在下回合獲得1層突刺傷害強化 "
                 }
               ]
             }
@@ -971,7 +971,7 @@
         {
           "level": 4,
           "name": "檢查作品",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n目標每帶有1種負面狀態，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 使儀錶盤上位於自身兩側的友方單位在下回合獲得1層迅捷 ",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n目標每帶有1種負面狀態，使本技能造成的傷害+12.5%(最多+50%)\n[WhenUse] 使儀表盤上位於自身兩側的友方單位在下回合獲得1層迅捷 ",
           "coinlist": [
             {},
             {
@@ -983,7 +983,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級某1種隨機效果的強度，該效果可能為燒傷 、流血 、震顫 、破裂 或沉淪 "
                 },
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則使除自身以外理智值最高的1名友方單位在下回合獲得1層突刺傷害強化 。若該友方單位屬於環指成員，則額外使其獲得1層突刺威力提升 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則使除自身以外理智值最高的1名友方單位在下回合獲得1層突刺傷害強化 。<style=\"highlight\">若該友方單位屬於環指成員，則額外使其獲得1層突刺威力提升 </style>"
                 }
               ]
             }
@@ -1018,7 +1018,7 @@
         {
           "level": 1,
           "name": "脈衝轟炸",
-          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得2層充能 ",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {},
             {
@@ -1033,7 +1033,7 @@
         {
           "level": 2,
           "name": "脈衝轟炸",
-          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 若自身的充能 層數不低於6層，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得2層充能 ",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 若自身的充能 層數不低於6層，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {},
             {
@@ -1048,7 +1048,7 @@
         {
           "level": 4,
           "name": "脈衝轟炸",
-          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 自身每帶有5層充能 ，使本技能的拚點威力+1(最多+2)\n[WhenUse] 使自身獲得2層充能 ",
+          "desc": "[WhenUse] 若自身的充能 層數不低於4層，則使本技能的基礎威力+1\n[WhenUse] 自身每帶有5層充能 ，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {},
             {
@@ -1119,7 +1119,7 @@
         {
           "level": 4,
           "name": "充能騰躍",
-          "desc": "[WhenUse] 消耗自身的6層充能 並使本技能的硬幣威力+1\n- 若自身消耗了充能 層數，則使自身與除自身以外充能 層數最低的2名友方單位獲得(自身的充能 強度+2)層充能力場 (最多8層，每回合最多2次)\n[WhenUse] 使自身獲得2層充能 ",
+          "desc": "[WhenUse] 消耗自身的6層充能 並使本技能的硬幣威力+1\n- 若自身消耗了充能 層數，則使自身與除自身以外充能 層數最低的2名友方單位獲得(自身的充能 強度+<style=\"highlight\">2</style>)層充能力場 (最多<style=\"highlight\">8</style>層，每回合最多<style=\"highlight\">2</style>次)\n[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1150,14 +1150,14 @@
       "levelList": [
         {
           "level": 3,
-          "name": "次元切斷",
-          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的載荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7～14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+1",
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的載荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7~14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+1\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
@@ -1182,8 +1182,8 @@
         },
         {
           "level": 4,
-          "name": "次元切斷",
-          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的載荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7～14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+2\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+2",
+          "name": "次元撕裂",
+          "desc": "[StartBattle] 根據自身帶有的充能 強度，使自身與(最大共鳴數)名帶有充能 的友方單位獲得相應層數的載荷 \n(最多5名其他友方單位)\n[WhenUse] 若自身的充能 強度不低於2級，且自身的充能 層數在7~14層之間，則消耗自身所有充能 層數並使本技能的硬幣威力+2\n[WhenUse] 消耗15層充能 並使本技能的硬幣威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -1240,7 +1240,7 @@
         {
           "level": 4,
           "name": "等離子場展開",
-          "desc": "[WhenUse] 自身每帶有1層充能 ，使本技能的基礎威力+1(最多+10)\n[WhenUse] 使自身獲得2層充能 (每回合最多3次)",
+          "desc": "[WhenUse] 自身<style=\"highlight\">每帶有1層</style>充能 ，使本技能的基礎威力+1(最多+<style=\"highlight\">10</style>)\n[WhenUse] 使自身獲得2層充能 (每回合最多<style=\"highlight\">3</style>次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1259,7 +1259,7 @@
         {
           "level": 1,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗最多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 ",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1280,7 +1280,7 @@
         {
           "level": 2,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗最多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1288,7 +1288,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有 [LineCuttingPersonality]，則對其施加1層 [Laceration] </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 </style>"
                 }
               ]
             },
@@ -1298,7 +1298,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有 [LineCuttingPersonality]，則對其施加1層 [Laceration] </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 </style>"
                 }
               ]
             }
@@ -1307,7 +1307,7 @@
         {
           "level": 4,
           "name": "縫紉",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗最多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多10點)\n[WhenUse] 消耗至多40層血宴 ，每消耗8層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則對自身施加2層流血 \n[WhenUse] 目標<style=\"highlight\">每帶有6級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1315,7 +1315,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 <style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1325,7 +1325,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 "
+                  "desc": "[OnSucceedAttack] 若目標帶有[LineCuttingPersonality]，則對其施加1層流血 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1339,7 +1339,7 @@
         {
           "level": 1,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多20點)\n[WhenUse] 消耗最多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量10%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -1373,7 +1373,7 @@
         {
           "level": 2,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗最多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n<style=\"highlight\">[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1407,7 +1407,7 @@
         {
           "level": 4,
           "name": "剪斷",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗最多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量20%的體力(最多20點)\n[WhenUse] 消耗至多60層血宴 ，每消耗6層血宴 ，使自身獲得1層[BloodScissorPersonalityFirst]\n- 若未消耗血宴 ，則使自身增加5級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1446,7 +1446,7 @@
         {
           "level": 3,
           "name": "給你做條新裙子！",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拚點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗15層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得10層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗15層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得10層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1481,33 +1481,33 @@
         {
           "level": 4,
           "name": "給你做條新裙子！",
-          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的攻擊容量+2\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拚點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗10層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得20層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)\n- 若目標帶有[LineCuttingPersonality]，則額外獲得20層血宴 ，並使自身獲得5層[BloodScissorPersonalityFirst](每回合最多1次)",
+          "desc": "本技能命中時，使自身恢復造成體力傷害量30%的體力(最多20點)\n[BeforeAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的攻擊容量+1\n<style=\"highlight\">- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的攻擊容量+2</style>\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有6級流血 強度，使本技能的拼點威力+1(最多+2)\n[EndSkill] 本技能的攻擊容量每增加1點，使自身消耗<style=\"highlight\">10</style>層[BloodScissorPersonalityFirst]\n[EndSkill] 若擊殺目標，則獲得<style=\"highlight\">20</style>層血宴 。使自身重新獲得本技能消耗量一半的[BloodScissorPersonalityFirst](每回合最多1次)\n<style=\"highlight\">- 若目標帶有[LineCuttingPersonality]，則額外獲得20層血宴 ，並使自身獲得5層[BloodScissorPersonalityFirst](每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">2</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本硬幣造成的傷害+(自身的[BloodScissorPersonalityFirst]層數×3)%(最多+57%)\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本硬幣造成的傷害+(自身的[BloodScissorPersonalityFirst]層數×4)%(最多+120%)"
+                  "desc": "[OnSucceedAttack] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本硬幣造成的傷害+(自身的[BloodScissorPersonalityFirst]層數×<style=\"highlight\">3</style>)%(最多+<style=\"highlight\">57</style>%)\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本硬幣造成的傷害+(自身的[BloodScissorPersonalityFirst]層數×<style=\"highlight\">4</style>)%(最多+<style=\"highlight\">120</style>%)"
                 }
               ]
             }
@@ -1535,7 +1535,7 @@
         {
           "level": 4,
           "name": "真是無禮！",
-          "desc": "[WhenUse] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的基礎威力+1\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的基礎威力+2\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+3)",
+          "desc": "[WhenUse] 若自身的[BloodScissorPersonalityFirst]層數不低於10層，則使本技能的基礎威力+1<style=\"highlight\">\n- 若自身的[BloodScissorPersonalityFirst]層數不低於20層，則改為使本技能的基礎威力+2</style>\n[WhenUse] 自身<style=\"highlight\">每帶有5級</style>流血 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+3)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1575,7 +1575,7 @@
         {
           "level": 2,
           "name": "瞬步",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1590,7 +1590,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於12，則重複使用本硬幣1次(每個技能最多1次)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的速度值不低於12，則重複使用本硬幣1次(每個技能最多1次)</style>"
                 }
               ]
             }
@@ -1599,7 +1599,7 @@
         {
           "level": 4,
           "name": "瞬步",
-          "desc": "若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -1614,7 +1614,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於<style=\"highlight\">10</style>，則重複使用本硬幣1次(每個技能最多1次)"
                 }
               ]
             }
@@ -1646,19 +1646,19 @@
         {
           "level": 2,
           "name": "刺殺",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[OnDirectAttack] 對目標施加1層破裂 ",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[OnDirectAttack] 對目標施加1層破裂 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 對目標施加1層破裂 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+20%"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+<style=\"highlight\">20</style>%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
@@ -1670,22 +1670,22 @@
         {
           "level": 4,
           "name": "刺殺",
-          "desc": "若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[OnDirectAttack] 對目標施加1層破裂 ",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[OnDirectAttack] 對目標施加1層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 (每回合最多2次)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合使自身獲得1層迅捷 (每回合最多2次)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%"
+                  "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+<style=\"highlight\">30</style>%"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
@@ -1736,7 +1736,7 @@
         {
           "level": 4,
           "name": "刻咒殺劍",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n若自身的速度值高於目標，則每高於目標2點，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得3層[LegStrength]\n[OnDirectAttack] 對目標施加2層破裂 ",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n<style=\"highlight\">若自身的速度值高於目標，則每高於目標2點，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得3層[LegStrength]\n[OnDirectAttack] 對目標施加2層破裂 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1764,7 +1764,7 @@
                   "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] 對目標施加[BurstAgility]"
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 對目標施加[BurstAgility]</style>"
                 }
               ]
             }
@@ -1792,7 +1792,7 @@
         {
           "level": 4,
           "name": "部分黑獸化",
-          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層[LegStrength]\n[WhenUse] 若自身的速度值高於目標，則每高於目標2點，使本技能的基礎威力+1(最多+2)",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層[LegStrength]\n<style=\"highlight\">[WhenUse] 若自身的速度值高於目標，則每高於目標2點，使本技能的基礎威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [

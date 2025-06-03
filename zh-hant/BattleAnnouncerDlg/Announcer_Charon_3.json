@@ -10,7 +10,7 @@
     },
     {
       "id": "announcer_specialcheer_3_1",
-      "dlg": "有乘客很痛。不能哭。"
+      "dlg": "有乘客很痛。不要哭。"
     },
     {
       "id": "announcer_specialcheer_3_2",
@@ -26,7 +26,7 @@
     },
     {
       "id": "announcer_killenemy_3_1",
-      "dlg": "梅菲餓了。太好了。對吧？"
+      "dlg": "梅菲餓了。太好了，對吧？"
     },
     {
       "id": "announcer_ally_dead_3_1",
@@ -38,7 +38,7 @@
     },
     {
       "id": "announcer_ally_adv_3_1",
-      "dlg": "呀吼。獲勝方。是我們。"
+      "dlg": "呀呼。贏的人，自己人。"
     },
     {
       "id": "announcer_danger_3_1",
@@ -46,7 +46,7 @@
     },
     {
       "id": "announcer_enemy_specialskill_3_1",
-      "dlg": "地面在晃動。卡戎也搖搖晃晃的。"
+      "dlg": "地面在顫動。卡戎也搖搖晃晃的。"
     },
     {
       "id": "announcer_enemy_specialgimmick_3_1",
@@ -58,15 +58,15 @@
     },
     {
       "id": "announcer_disadvatk_physical_3_1",
-      "dlg": "剛才的一點用都沒有。笨蛋。"
+      "dlg": "剛才的一點用都沒有。傻瓜。"
     },
     {
       "id": "announcer_advatk_attr_3_1",
-      "dlg": "據說知道自己做錯了什麼才是開始。"
+      "dlg": " 據說知道自己做錯了什麼才是開始。"
     },
     {
       "id": "announcer_disadvatk_attr_3_1",
-      "dlg": "你知道自己做錯了什麼嗎？……從電視劇裡看到的。"
+      "dlg": "你知道自己做錯了什麼嗎？……從電視劇裡看來的。"
     },
     {
       "id": "announcer_enemy_specialbuff_3_1",
@@ -86,7 +86,7 @@
     },
     {
       "id": "announcer_enemy_destroy_3_1",
-      "dlg": "咔嚓。部位被破壞了。可以繼續。"
+      "dlg": "咔嚓，部位被破壞了。可以繼續。"
     },
     {
       "id": "announcer_enemy_destroy_3_2",
@@ -98,7 +98,7 @@
     },
     {
       "id": "announcer_round_takebigdmg_3_2",
-      "dlg": "嗚，看起來很痛。"
+      "dlg": "呃，看起來很疼。"
     },
     {
       "id": "announcer_round_givebigdmg_3_1",
@@ -106,7 +106,7 @@
     },
     {
       "id": "announcer_round_givebigdmg_3_2",
-      "dlg": "嗚哇！卡戎也嚇一跳。"
+      "dlg": "哇啊！卡戎也嚇一跳。"
     },
     {
       "id": "announcer_multikillenemy_3_1",
@@ -114,7 +114,7 @@
     },
     {
       "id": "announcer_equip_3_1",
-      "dlg": "卡戎登場。大家都很高興。"
+      "dlg": "卡戎登場，大家都很高興。"
     }
   ]
 }

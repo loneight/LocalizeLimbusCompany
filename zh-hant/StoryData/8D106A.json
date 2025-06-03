@@ -2,613 +2,613 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Evaluation Arena - Chamber of the Condemned 1F",
-      "content": "With a simultaneous click, the coins hanging from the condemned's necks clattered to the ground."
+      "place": "評審場1層，囚犯的房間",
+      "content": "隨著「咔噠」一聲，囚犯們脖子上掛著的銅錢掉落在了地面上。"
     },
     {
       "id": 1,
       "model": "사회자",
-      "content": "As many candidates must have realized by now..."
+      "content": "到了現在，應該已經有不少候選人察覺到了吧……"
     },
     {
       "id": 2,
       "model": "사회자",
-      "content": "This game provides its contestants many, many ways to obtain those precious coins!"
+      "content": "銅錢可以通過在決鬥場中四處活動，以各種方式獲得！"
     },
     {
       "id": 3,
       "model": "사회자",
-      "content": "You could gain them by completing battles in some special rooms, or— Aha! Another candidate has obtained some coins!"
+      "content": "獲取銅錢的方式包括在房間裡進行戰鬥~啊！正巧，又有一位候選人獲得了銅錢！"
     },
     {
       "id": 4,
-      "content": "Despite the host's energetic voice, we couldn't help but be disturbed by what Hong Lu said."
+      "content": "但比起誰得到了銅錢，還有一件更讓人在意的事。"
     },
     {
       "id": 5,
       "model": "이상",
-      "content": "The condemned of Hongyuan...? What is the implication of that particular choice of denomination, Hong Lu?"
+      "content": "鴻園的囚犯……這是何意呢，鴻璐？"
     },
     {
       "id": 6,
       "model": "홍루",
-      "content": "Years ago, the elders have told me of many, many old fables and legends."
+      "content": "以前，長輩們曾經給我講過許多古老的故事。"
     },
     {
       "id": 7,
       "model": "홍루",
-      "content": "'Then... a rooster's crest is grafted over the visage, a goat's hooves move beneath the legs, and an eldtree's branches extend from the arms—thus closer Daguanyuan grows to boundless eternity.'"
+      "content": "「遂其面生雞冠，足履羊蹄，臂生枯木，於是大觀園益近於永劫不滅矣。」"
     },
     {
       "id": 8,
       "model": "이상",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 9,
       "model": "이상",
-      "content": "... Experiments regarding expansion of the Bolus technology, is it?"
+      "content": "這指的是對丸所作的試驗嗎？"
     },
     {
       "id": 10,
       "model": "홍루",
-      "content": "I haven't seen it myself, but I once heard that there is a laboratory beneath even the basements of Daguanyuan... built to research secretive and valuable Boluses."
+      "content": "雖然我未曾親眼見過，但聽說在大觀園的地下某處……存在著一個專門為珍貴的丸而設的隱秘實驗室。"
     },
     {
       "id": 11,
       "model": "오티스",
-      "content": "And they... experimented on these prisoners."
+      "content": "而他們的實驗對像……正是這些囚犯。"
     },
     {
       "id": 12,
       "model": "오티스",
-      "content": "It's not exactly a unique practice among Wings."
+      "content": "在許多翼之中，這並非什麼罕見的事。"
     },
     {
       "id": 13,
       "model": "임대옥",
-      "content": "I believe that the smallest speck of greed lies at the origin of all misfortune."
+      "content": "所有禍端……似乎都始於微不足道的貪念。"
     },
     {
       "id": 14,
       "model": "임대옥",
-      "content": "I do not believe that the definition of immortality that Hongyuan originally sought is the same as the one they seek now."
+      "content": "鴻園當初所追求的長生不老……想來也並非希望一切變成如今這般模樣。"
     },
     {
       "id": 15,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 16,
-      "place": "Kong Family Building, Past",
+      "place": "過去，孔家的建築",
       "model": "어린임대옥",
-      "content": "What took you so long, big bro Baoyu?"
+      "content": "寶玉哥哥，你怎麼來得這麼晚啊？"
     },
     {
       "id": 17,
       "model": "어린홍루",
-      "content": "Sorry... Jia Mu's experiments went on for longer than planned."
+      "content": "抱歉……今天奶奶的實驗結束得晚了。"
     },
     {
       "id": 18,
       "model": "어린가환",
-      "teller": "???",
-      "title": "???",
-      "content": "That's so cool. I wanna see what they do in there, too."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "真羨慕啊，我也想看看他們在裡面做的實驗。"
     },
     {
       "id": 19,
       "model": "어린가환",
-      "teller": "???",
-      "title": "???",
-      "content": "No fair! Why are you the only who gets to go in there, bro? I’m a fast learner, too."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "為什麼只有哥哥能進去？我進去的話，也一定能學得很好啊。"
     },
     {
       "id": 20,
       "model": "어린홍루",
-      "content": "I'm not... going in there to learn anything."
+      "content": "我……並不是去學習的。"
     },
     {
       "id": 21,
       "model": "어린가환",
-      "teller": "???",
-      "title": "???",
-      "content": "Then how come?"
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "那為什麼？"
     },
     {
       "id": 22,
       "model": "어린홍루",
-      "content": "I dunno. I'm..."
+      "content": "我也不知道。我只是……"
     },
     {
       "id": 23,
       "model": "어린홍루",
-      "content": "I'm just there to watch."
+      "content": "只是觀望而已。"
     },
     {
       "id": 24,
       "model": "어린가환",
-      "teller": "???",
-      "title": "???",
-      "content": "That's weird. It's not like you have to work for anything like we do to live a nice life, bro."
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "真奇怪，哥哥和我們不一樣，明明不用那麼努力，也能無憂無慮地生活下去啊。"
     },
     {
       "id": 25,
       "model": "어린가환",
-      "teller": "???",
-      "title": "???",
-      "content": "Maybe it's because you're the precious jade of our family?"
+      "teller": "？？？",
+      "title": "？？？",
+      "content": "是因為他是家族的寶玉嗎？"
     },
     {
       "id": 26,
       "model": "어린임대옥",
-      "content": "Hey, Jia Huan! I told you to not say stuff like that, didn't I?! Wanna see what new moves I learned yesterday?!"
+      "content": "喂，賈環！我不是跟你說過，不準說那種話嗎！要不要我給你看看我昨天修煉的成果？！"
     },
     {
       "id": 27,
       "model": "어린가환",
-      "content": "Wah, sorry... I won't do that again..."
+      "content": "嗚哇，對不起……我不會再說了……"
     },
     {
       "id": 28,
       "model": "어린임대옥",
-      "content": "Anyways... Today, we're going to play a ball game!"
+      "content": "總之，今天我們就來……玩踢球遊戲吧！"
     },
     {
       "id": 29,
       "model": "어린임대옥",
-      "content": "Here's how it works. We're gonna start by kicking this ball at each other, and the one who lasts the longest without dropping the ball wins!"
+      "content": "我們互相踢球，不讓球落地的人就是贏家！"
     },
     {
       "id": 30,
       "model": "어린홍루",
-      "content": "What's the point of... playing a game like that...?"
+      "content": "究竟為什麼……要玩這種遊戲呢……？"
     },
     {
       "id": 31,
       "model": "어린임대옥",
-      "content": "...? Because it's fun, duh."
+      "content": "……？因為好玩啊。"
     },
     {
       "id": 32,
       "model": "어린가환",
-      "content": "I wanna play a Bolus making game!"
+      "content": "我想玩做丸的遊戲！"
     },
     {
       "id": 33,
       "model": "어린가환",
-      "content": "Gather a bunch of sand, and pebbles, and leaves, and seed to make a Bolus, and the best Bolus wins!"
+      "content": "用沙子、小石子、樹葉和種子混在一起，做出最棒的丸的人就是贏家！"
     },
     {
       "id": 34,
       "model": "어린임대옥",
-      "content": "No can do~"
+      "content": "不行~"
     },
     {
       "id": 35,
       "model": "어린임대옥",
-      "content": "Remember, I'm from the Lin family, and you guys are from the Jia family. Children of these noble families shouldn't play a nerdy game like that."
+      "content": "作為林家和賈家的孩子，就算玩，也要玩得帶些志氣才行！"
     },
     {
       "id": 36,
       "model": "어린가환",
-      "content": "Big bro! Bro, wanna come play with us?"
+      "content": "哥哥！哥哥你也要一起玩嗎？"
     },
     {
       "id": 37,
       "model": "과거가환",
-      "content": "Oh, little Huan. I'm sorry. As much as I would like to join you in that very serious game of yours, I don't think she'll let me play."
+      "content": "環兒，真可惜，我可沒資格參加這場莊嚴的比賽啊。"
     },
     {
       "id": 38,
       "model": "과거가환",
-      "content": "Daiyu's going to give both you and me an earful about the rules if you drag me into the game. Isn't that right?"
+      "content": "我要是加入了，黛玉肯定又要念叨我犯規了，對吧？"
     },
     {
       "id": 39,
       "model": "어린임대옥",
-      "content": "Jia Huan, you're trying to pull outta the game, aren't you?"
+      "content": "賈環，你這是故意不想玩吧？"
     },
     {
       "id": 40,
       "model": "어린임대옥",
-      "content": "Fine, fine. Let's play that Bolus-making game once we're done with the ball game."
+      "content": "好吧，踢球遊戲結束之後，我們就來玩做丸的遊戲。"
     },
     {
       "id": 41,
       "model": "어린임대옥",
-      "content": "And tomorrow, we'll play whatever big bro Baoyu's favorite game is. How's that for a plan, huh?"
+      "content": "然後明天就玩寶玉哥哥喜歡的遊戲。"
     },
     {
       "id": 42,
       "model": "어린홍루",
-      "content": "I..."
+      "content": "我……"
     },
     {
       "id": 43,
       "model": "어린홍루",
-      "content": "I'm good with anything, really..."
+      "content": "我覺得哪種都可以……"
     },
     {
       "id": 44,
       "model": "어린임대옥",
-      "content": "But what do <i>you</i> want? Here's some homework for you—when we meet tomorrow, you better have come up with something you like, okay?"
+      "content": "但哥哥你總該有一個喜歡的吧？想一想吧。知道了嗎？"
     },
     {
       "id": 45,
-      "place": "Hongyuan's Laboratory, Past",
+      "place": "過去，鴻園的實驗室",
       "model": "공우진",
-      "content": "I understand that I may be letting the impatience get the better of me, but..."
+      "content": "我知道……這不過是我一時焦急……"
     },
     {
       "id": 46,
       "model": "공우진",
-      "content": "How... certain are you about the plan regarding the... thirteenth branch of the Heishou Pack?"
+      "content": "您之前提到的……那個關於第十三支黑獸的計劃……您當真有把握嗎？"
     },
     {
       "id": 47,
       "model": "과거가모",
-      "content": "Have I ever let you down?"
+      "content": "你什麼時候見過我失敗？"
     },
     {
       "id": 48,
       "model": "과거가모",
-      "content": "Ultimately, a family's power comes from the Heishou they wield. Yet, ever since the olden days, there have been but twelve branches of them—which is what maintains this stalemate between the great families."
+      "content": "家族的力量源自黑獸。然而，自古以來，黑獸僅有十二支，數量受限，正因如此……家族間的勢力均衡才一直難以打破。"
     },
     {
       "id": 49,
       "model": "과거가모",
-      "content": "Yes, the Heishou are the shadow of Daguanyuan, its most dexterous and capable limbs, yet... they have their failings. An immense physical cost follows their explosive strength."
+      "content": "黑獸的確是大觀園的影子、最為優秀的手與足……然而，它們終究並非完美無瑕，此事你我皆知。那瞬間爆發出的強大力量，必然伴隨著極其沉重的肉體代價。"
     },
     {
       "id": 50,
       "model": "과거가모",
-      "content": "Even if you wield a Heishou Pack, it is difficult to expand their numbers, as their population is strictly controlled by the Heishou-Xianren of each branch."
+      "content": "就算僥倖暫時掌握了某支黑獸，也難以真正擴大其數量。因為黑獸的數量，一直以來都由各代的黑獸仙人嚴密管理著。"
     },
     {
       "id": 51,
       "model": "과거가모",
-      "content": "Indeed... no one could even attempt to create a new branch, for the Heishou-Xianren have concealed their unique Bolus recipes."
+      "content": "說到底……沒人能嘗試讓新的黑獸誕生，不就是因為黑獸仙人們把黑獸丸的調配之法隱藏了起來嗎？"
     },
     {
       "id": 52,
       "model": "과거가모",
-      "content": "Yet I am wise in the ways of Bolus-making, and armed with the Xianren's insight. With help from the Kong family, this is certainly a viable endeavor."
+      "content": "然而，我既掌握著丸藥方面的深厚知識，又繼承了仙人們的慧眼。只要能藉助孔家的力量，我就完全有能力挑戰這個領域。"
     },
     {
       "id": 53,
       "model": "과거가모",
-      "content": "The Kong family once led the forefront of the City's medical sciences with your bioengineering achievements, yet now... You must know that your family's place in the City is quite precarious."
+      "content": "孔家曾憑藉將丸與生物科技融合的手段，威震整座都市……可現在呢。"
     },
     {
       "id": 54,
       "model": "과거가모",
-      "content": "There have been developments for easier treatments, better modifications... superior Singularities are rising from all corners of the City; at first, they were only subjects of study and research, but through various applications, many of them are now entering the stages of mass commercialization."
+      "content": "能夠實現更先進的治療與改造的奇點不斷涌現，並在研究與實踐的推動下，正逐步邁入商業化階段。"
     },
     {
       "id": 55,
       "model": "과거가모",
-      "content": "H Corp. will fall by the wayside if the current trend continues... and one day, it may even decline so far as to fall prey to a war of the Wings."
+      "content": "這樣下去的話，H公司遲早會被淘汰……並且隨時可能淪為翼際戰爭的下一位獵物。"
     },
     {
       "id": 56,
       "model": "과거가모",
-      "content": "Hongyuan hides many valuable secrets, as they are often passed down from generation to generation; certain areas within the territory even lead into the Ruins as well. Many Wings even consider us a treasure chest to be cracked open."
+      "content": "鴻園自古以來藏有無數秘密，某些地區甚至與廢墟相連通，對其他虎視眈眈的翼來說，這裡無異於一個尚未開啟的藏寶箱。"
     },
     {
       "id": 57,
       "model": "과거가모",
-      "content": "For the City to fear Hongyuan, to fear the Kong family, you must wield absolute power. A power that... perhaps, a new branch of Heishou with mass-production capabilities could provide."
+      "content": "若能在此局勢下實現黑獸的量產，以武力一舉掌控全域性，整個都市之中，又有誰敢妄圖覬覦孔家與鴻園？"
     },
     {
       "id": 58,
       "model": "공우진",
-      "content": "Would you... keep this a secret from my wife?"
+      "content": "您可以……替我對內人保密嗎？"
     },
     {
       "id": 59,
       "model": "공우진",
-      "content": "I would like for this experiment's success to be a happy surprise for her."
+      "content": "如果這項實驗成功了，我想給她一個驚喜。"
     },
     {
       "id": 60,
       "model": "공우진",
-      "content": "In truth, we received news from the doctors that we have managed to conceive a child..."
+      "content": "其實在幾個月前，我們就從醫院得知了她懷孕的訊息……"
     },
     {
       "id": 61,
       "model": "공우진",
-      "content": "Thus, if we were to coincide that event with our discovery of this new, auspicious path toward what was once considered an impossibility..."
+      "content": "若能正好趕在孩子出生之時，向眾人展示，我們朝著這幾乎被認為不可能的領域邁出了關鍵的一步。"
     },
     {
       "id": 62,
       "model": "공우진",
-      "content": "... would it not be a happy cause for all of Daguanyuan—no, Hongyuan to rejoice?"
+      "content": "那不僅是對大觀園，對整個鴻園來說，都將是值得歡喜的好訊息吧。"
     },
     {
       "id": 63,
       "model": "공우진",
-      "content": "If you require any assistance, materials or people, simply say the word, and us Kong family shall provide."
+      "content": "若我們孔家能為您提供任何援助，無論何事，我們都會全力相助。"
     },
     {
       "id": 64,
       "model": "공우진",
-      "content": "So, shall we let this be a secret between you and me?"
+      "content": "所以，不如這件事就暫時只作為你我之間的秘密如何？"
     },
     {
       "id": 65,
       "model": "과거가모",
-      "content": "Duly noted. I will prepare a special Bolus to celebrate the birth of a new life."
+      "content": "我會記在心上的。為了慶祝這新生命的降臨，也該準備一枚特別的丸才是。"
     },
     {
       "id": 66,
       "model": "과거가모",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 67,
       "model": "과거가모",
-      "content": "This seems to be a good time to return home for the day, little Baoyu."
+      "content": "寶玉啊，今天差不多該回去了。"
     },
     {
       "id": 68,
       "model": "어린홍루",
-      "content": "Grandma... why do you look so happy today?"
+      "content": "奶奶……您今天怎麼這麼高興呀？"
     },
     {
       "id": 69,
       "model": "과거가모",
-      "content": "The doltish fish has snagged the bait I have been preparing for a long time."
+      "content": "因為那條蠢魚終於咬鉤了，不枉我費這麼大功夫下餌。"
     },
     {
       "id": 70,
       "model": "과거가모",
-      "content": "My offer must have been far too tantalizing for them to simply let it pass."
+      "content": "我的提案實在是太過誘人，他們想視而不見都難吧。"
     },
     {
       "id": 71,
       "model": "과거가모",
-      "content": "The Kong family's pretentious overconfidence remains a marker of their bloodline; they have done well hiding it underneath the veil of generosity. But one's nature cannot be overcome."
+      "content": "再怎麼裝得仁義慈祥，孔家那股傲慢放縱，果然是刻在血脈裡的東西。"
     },
     {
       "id": 72,
       "model": "어린홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 73,
       "model": "과거가모",
-      "content": "Now, let us hurry."
+      "content": "好啦，我們趕緊走吧。"
     },
     {
       "id": 74,
       "model": "과거가모",
-      "content": "The revered Xianren await us."
+      "content": "仙人們還在等著我們呢。"
     },
     {
       "id": 75,
-      "place": "Evaluation Arena - Chamber of the Condemned 1F",
+      "place": "評審場1層，囚犯的房間",
       "model": "임대옥",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 76,
-      "content": "... Lin Daiyu had peered into the memory as well with the rest of us."
+      "content": "……林黛玉這次似乎也和我們一起窺見了那段記憶。"
     },
     {
       "id": 77,
       "model": "임대옥",
-      "content": "The ball game..."
+      "content": "踢球遊戲……"
     },
     {
       "id": 78,
-      "content": "She fell into a brief, contemplative silence as she seemed to recall a long-forgotten memory."
+      "content": "像是突然想起了某段被遺忘的記憶，林黛玉怔怔地陷入了沉思。"
     },
     {
       "id": 79,
       "model": "임대옥",
-      "content": "I remember. You..."
+      "content": "那一天……"
     },
     {
       "id": 80,
       "model": "임대옥",
-      "content": "You won that game."
+      "content": "是哥哥你贏了。"
     },
     {
       "id": 81,
       "model": "임대옥",
-      "content": "I remember it because it was the first time you ever beat me in a game of physicality."
+      "content": "我想起來了……那是我第一次在體力遊戲上……輸給哥哥的日子。"
     },
     {
       "id": 82,
       "model": "임대옥",
-      "content": "I remember... being covered head to toe in sand..."
+      "content": "我記得……我渾身沙子……"
     },
     {
       "id": 83,
       "model": "임대옥",
-      "content": "I remember Jia Huan... whining about that little scratch on his hand..."
+      "content": "記得賈環……哭喪著臉，抱怨著手心的擦傷疼得要命……"
     },
     {
       "id": 84,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 85,
       "model": "홍루",
-      "content": "So we did."
+      "content": "確實是這樣啊。"
     },
     {
       "id": 86,
-      "content": "Hong Lu muttered as though he was talking about something that happened an eternity ago."
+      "content": "像在描述一段過去許久的陳年往事一般，鴻璐輕聲答道。"
     },
     {
       "id": 87,
-      "content": "Daiyu shook her head, shaking herself from the reminiscence."
+      "content": "而黛玉隨即彷彿從思緒中回過神來，輕輕地搖了搖頭。"
     },
     {
       "id": 88,
       "model": "임대옥",
-      "content": "The thirteenth Heishou branch... what is it? This has to do with a taboo, doesn't it?"
+      "content": "第十三支黑獸……那究竟是什麼？果然和禁忌有關吧？"
     },
     {
       "id": 89,
       "model": "홍루",
-      "content": "Daiyu. Much time has passed since then, but..."
+      "content": "黛玉。早在久遠的過去我便說過……"
     },
     {
       "id": 90,
       "model": "홍루",
-      "content": "... no matter what question you ask me, no matter what reply I give... it will not be the answer you want."
+      "content": "……你問的問題也好，我給出的回答也好……終究都不是你真正希望聽到的答案吧。"
     },
     {
       "id": 91,
       "model": "임대옥",
-      "content": "That... is not up for you to decide."
+      "content": "這只是哥哥你自己的看法而已……"
     },
     {
       "id": 92,
       "model": "홍루",
-      "content": "You will never find what you seek. So why even try to gain it, and for what?"
+      "content": "明知不會有想要的結果，卻又為何要執意去追尋呢。"
     },
     {
       "id": 93,
       "model": "홍루",
-      "content": "That is why I always replied that your questions were such meaningless inquiries. That is why I do no more than observe."
+      "content": "我早已回答過，這問題毫無意義。正因如此，我僅是觀望。"
     },
     {
       "id": 94,
       "model": "임대옥",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 95,
       "model": "단테",
-      "content": "<Hong Lu... are you okay with seeing all these memories?>"
+      "content": "<鴻璐……你一直看到這些情景，真的還好嗎？>"
     },
     {
       "id": 96,
-      "content": "Hong Lu tilted his head to the side curiously, as though he couldn't understand why I'd ask such a question."
+      "content": "鴻璐聽到我的話，歪了歪頭，像是不太理解我的問題。"
     },
     {
       "id": 97,
       "model": "홍루",
-      "content": "Mm... I don't think it's a matter of whether I am okay with it or not. It just feels unfamiliar... it wasn't a memory I wanted to forget, nor was it a memory I wanted to recall, anyway."
+      "content": "嗯……與其說是好或不好，不如說是一種陌生的感覺吧。既非我曾試圖遺忘的記憶，卻也並非如今想要重溫的過往。"
     },
     {
       "id": 98,
       "model": "홍루",
-      "content": "... The emotions I felt then feel so, so distant from me now."
+      "content": "……當時我所感受到的所有情感與心緒，如今都已遠去。"
     },
     {
       "id": 99,
       "model": "홍루",
-      "content": "I feel like I'm looking down at them from somewhere so high up."
+      "content": "現在的我，彷彿只是從高處俯視著那一切。"
     },
     {
       "id": 100,
       "model": "홍루",
-      "content": "So I don't know what to say to a question like 'are you okay'."
+      "content": "所以若問我是否感覺還好……我也不知道該怎麼回答。"
     },
     {
       "id": 101,
       "model": "홍루",
-      "content": "Because I have nothing more to change."
+      "content": "畢竟對我而言，一切早已無從改變。"
     },
     {
       "id": 102,
       "model": "단테",
-      "content": "<…….>"
+      "content": "<……>"
     },
     {
       "id": 103,
       "model": "이상",
-      "content": "It may be gathered that, from Hong Lu's memories..."
+      "content": "依照鴻璐的記憶進行推測……"
     },
     {
       "id": 104,
       "model": "이상",
-      "content": "... it was Jia Mu who first made the suggestion of researching the thirteenth Heishou branch."
+      "content": "正是那位賈母率先提出了關於第十三支黑獸的實驗。"
     },
     {
       "id": 105,
       "model": "뫼르소",
-      "content": "However, it also appeared that the desire was mutually shared by the Kong family as well."
+      "content": "但看起來孔家也曾經主動希望參與此實驗。"
     },
     {
       "id": 106,
       "model": "이스마엘",
-      "content": "... Yeah, but it didn't seem like they were driven mad with greed like the plaque suggested. They certainly had ambition, I won't deny that, but still..."
+      "content": "感覺孔家不像是牌匾上描述的那樣癲狂貪婪。即便無法否認他們的確有些私慾……"
     },
     {
       "id": 107,
       "model": "싱클레어",
-      "content": "R-right? I know I only have this vague feeling to go on, but... it seemed that they really wished the best for Hongyuan."
+      "content": "對、對吧。雖然只是根據之前所見……但他們看起來是真心在乎鴻園。"
     },
     {
       "id": 108,
       "model": "임대옥",
-      "content": "What I have come to realize in my almost-thirty years of life in here is..."
+      "content": "我在這裡生活還未滿三十年，但我最深的感受便是……"
     },
     {
       "id": 109,
       "model": "임대옥",
-      "content": "... that it is exceedingly rare to find a leader who is generous in both character and temper."
+      "content": "能遇到一位品性溫和、心懷寬容的領導者，是多麼難得的事。"
     },
     {
       "id": 110,
       "model": "임대옥",
-      "content": "Most refuse to give anyone other than themselves a chance. Everyone's so blinded to everything but their immediate profit and interests."
+      "content": "大多數人只顧牢牢抓住眼前的利益，根本不會給別人絲毫機會。"
     },
     {
       "id": 111,
       "model": "임대옥",
-      "content": "But the people of the Kong family, at least the ones I remember... sought to give others a chance, at the very least."
+      "content": "可我記得，孔家的人……至少是願意給予他人機會的。"
     },
     {
       "id": 112,
       "model": "임대옥",
-      "content": "It was only by their support that our Lin family, formerly so insignificant, could become a family of guards because they prioritized selection by merit, not by the nobility of their births."
+      "content": "毫無根基的我們林家，之所以能勉強躋身侍衛家族之列……正是因為他們選拔侍衛時看重的是能力，而不是出身。"
     },
     {
       "id": 113,
       "model": "임대옥",
-      "content": "But once the Kong family was eradicated, every family other than the four pillars lost any means of upward mobility."
+      "content": "然而孔家遭滅門後，除了那穩固的四大家族外，其他人連僅存的機會也被剝奪殆盡。"
     },
     {
       "id": 114,
       "model": "임대옥",
-      "content": "So when I heard that they were... simply gone, all because they were blinded by greed, it felt as though..."
+      "content": "所以，當我聽說孔家是因為被貪慾矇蔽了雙眼才自取滅亡的時候……"
     },
     {
       "id": 115,
       "model": "임대옥",
-      "content": "... I was just a child then, but I vividly remember that crushing feeling."
+      "content": "哪怕那時我還只是個孩子，那份感受至今仍然鮮明。"
     },
     {
       "id": 116,
       "model": "임대옥",
-      "content": "It was devastation."
+      "content": "慘淡。"
     },
     {
       "id": 117,
       "model": "임대옥",
-      "content": "Because I no longer had any place to return to."
+      "content": "因為從那時起，我便再無歸處。"
     },
     {
       "id": 118,
       "model": "그레고르",
-      "content": "Man... You've been dealt a heavy hand, huh. It must've been hard out here."
+      "content": "呼……看來你也吃了不少苦啊。真是辛苦了。"
     },
     {
       "id": 119,
-      "content": "Regardless of these revelations, however, the Family Hierarch war was still ongoing."
+      "content": "即便在這種情況下……家主之爭仍在繼續。"
     },
     {
       "id": 120,
-      "content": "So with Gregor's succinct words of consolation, we moved on from the area, away from the rising walls."
+      "content": "在格里高爾簡短的安慰之後，我們便離開了那片區域，朝著牆壁尚未升起的更深處走去。"
     }
   ]
 }

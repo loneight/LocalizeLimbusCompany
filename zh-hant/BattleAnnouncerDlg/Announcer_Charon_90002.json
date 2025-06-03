@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "announcer_ggomi_90002_1",
-      "dlg": "哼……這種程度的人數還遠遠力有未逮。但丁。",
+      "dlg": "嗯……這種程度的人員還遠遠力有未逮。但丁。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_2",
-      "dlg": "又增加了兩名。嘛，努力一下吧。但丁。",
+      "dlg": "又增加了兩名。嗯，努力一下吧。但丁。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
     {
       "id": "announcer_ggomi_90002_3",
-      "dlg": "你最好讓所有人都上，但丁。就算你沒指揮過這麼多人也……哈。",
+      "dlg": "你最好讓所有人都上，但丁。就算你沒指揮過這麼多人也……哈啊。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
@@ -26,7 +26,7 @@
     },
     {
       "id": "announcer_ggomi_90002_5",
-      "dlg": "哦哦。嘛，光是沒有當場被她變成肉塊就已經不錯了。",
+      "dlg": "哈啊。嘛，光是沒有當場被她變成肉塊就已經不錯了。",
       "imgStr": "charon_announcer",
       "isHide": true
     },
@@ -38,7 +38,7 @@
     },
     {
       "id": "announcer_ggomi_90002_7",
-      "dlg": "真是一團糟啊……怎麼樣？被可米、幹掉的感想。",
+      "dlg": "真是一團糟啊……怎麼樣？被可米，幹掉的感想。",
       "imgStr": "charon_announcer",
       "isHide": true
     }

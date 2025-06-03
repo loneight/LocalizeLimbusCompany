@@ -74,7 +74,7 @@
         {
           "level": 1,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀錶盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -95,7 +95,7 @@
         {
           "level": 2,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀錶盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -116,7 +116,7 @@
         {
           "level": 4,
           "name": "忠義鎖鏈",
-          "desc": "[StartBattle] 使儀錶盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 \n若受影響的行動槽中的技能為嫉妒屬性，則使對應單位獲得1層嫉妒傷害強化 ",
+          "desc": "[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得1層嫉妒威力提升 \n若受影響的行動槽中的技能為嫉妒屬性，則使對應單位獲得1層嫉妒傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加1層加算硬幣弱化 "
+                  "desc": "[OnSucceedAttack] 若目標帶有報復對像 ，則下回合對其施加1層加算硬幣弱化 "
                 }
               ]
             },
@@ -159,7 +159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加1層嫉妒易損 "
+                  "desc": "[OnSucceedAttack] 若目標帶有報復對像 ，則下回合對其施加1層嫉妒易損 "
                 }
               ]
             }
@@ -173,7 +173,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加1層加算硬幣弱化 "
+                  "desc": "[OnSucceedAttack] 若目標帶有報復對像 ，則下回合對其施加1層加算硬幣弱化 "
                 }
               ]
             },
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有報復對象 ，則下回合對其施加2層嫉妒易損 "
+                  "desc": "[OnSucceedAttack] 若目標帶有報復對像 ，則下回合對其施加2層嫉妒易損 "
                 }
               ]
             }
@@ -267,7 +267,7 @@
         {
           "level": 2,
           "name": "寒芒出鞘",
-          "desc": "[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier1](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier1](最多2次)</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "寒芒出鞘",
-          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier1](最多2次)\n- 若參戰的屬於劍契組成員的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1</style>\n[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier1](最多2次)\n<style=\"highlight\">- 若參戰的屬於劍契組成員的友方單位不低於6名，則改為獲得2層</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "穿刺劍法",
-          "desc": "[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
+          "desc": "<style=\"highlight\">[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)</style>\n[WhenUse] 使自身獲得2層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "穿刺劍法",
-          "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1\n[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n- 若參戰的屬於劍契組成員的友方單位不低於6名，則改為獲得2層\n[WhenUse] 使自身獲得3層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
+          "desc": "<style=\"highlight\">若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1</style>\n[StartBattle] 按速度值由低到高使除自身以外屬於劍契組成員的(最大完全共鳴數)名友方單位獲得1層[BladeResultUpTier2](最多2次)\n<style=\"highlight\">- 若參戰的屬於劍契組成員的友方單位不低於6名，則改為獲得2層</style>\n[WhenUse] 使自身獲得3層呼吸法 \n[WinDuel] 下回合使自身獲得1層斬擊威力提升 ",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "弒主妖劍",
-          "desc": "[WhenUse] 下回合使自身獲得1層斬擊威力提升 (最多1層)\n自身每失去1%體力，造成的傷害+0.5%(最多25%)",
+          "desc": "[WhenUse] 下回合使自身獲得1層斬擊威力提升 (最多1層)\n<style=\"highlight\">自身每失去1%體力，造成的傷害+0.5%(最多25%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痹 "
                 }
               ]
             }
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "斷汝筋骨",
-          "desc": "[BeforeAttack] 自身每帶有7級呼吸法 強度，使本技能的攻擊容量+1(最多+2)\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂\n[WhenUse] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+2%(最多+50%)\n使本技能暴擊時造成的傷害+30%\n自身每失去1%的體力，使本技能造成的傷害+0.5%(最多+25%)\n若本技能僅指定1名單位，則使本技能造成的傷害+100%(若是集中遭遇戰，則改為1個部位)",
+          "desc": "<style=\"highlight\">[BeforeAttack] 自身每帶有7級呼吸法 強度，使本技能的攻擊容量+1(最多+2)</style>\n[WhenUse] 直到本技能結束，自身不會因為受到傷害而陷入混亂\n[WhenUse] 自身每帶有1級呼吸法 強度，使本技能暴擊時造成的傷害+2%(最多+50%)\n使本技能暴擊時造成的傷害+<style=\"highlight\">30</style>%\n自身每失去1%的體力，使本技能造成的傷害+0.5%(最多+25%)\n<style=\"highlight\">若本技能僅指定1名單位，則使本技能造成的傷害+100%(若是集中遭遇戰，則改為1個部位)</style>",
           "coinlist": [
             {},
             {},
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痹 "
                 }
               ]
             }
@@ -526,7 +526,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "球棒痛毆",
+          "name": "球棍痛毆",
           "desc": "",
           "coinlist": [
             {
@@ -540,7 +540,7 @@
         },
         {
           "level": 2,
-          "name": "球棒痛毆",
+          "name": "球棍痛毆",
           "desc": "若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -554,8 +554,8 @@
         },
         {
           "level": 4,
-          "name": "球棒痛毆",
-          "desc": "若目標的破裂 強度不低於5級，則使本技能的硬幣威力+2",
+          "name": "球棍痛毆",
+          "desc": "若目標的破裂 強度不低於5級，則使本技能的硬幣威力+<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -610,7 +610,7 @@
         {
           "level": 4,
           "name": "擊倒出局",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層破裂 ",
+          "desc": "<style=\"highlight\">[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WinDuel] 對目標施加2層破裂 ",
           "coinlist": [
             {},
             {
@@ -632,7 +632,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "宣洩",
+          "name": "宣泄",
           "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層攻擊等級降低 ",
           "coinlist": [
             {},
@@ -652,8 +652,8 @@
         },
         {
           "level": 4,
-          "name": "宣洩",
-          "desc": "[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拚點威力+1\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層攻擊等級降低 ",
+          "name": "宣泄",
+          "desc": "<style=\"highlight\">[WhenUse] 若目標的破裂 強度不低於3級，則使本技能的拼點威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加2層攻擊等級降低 ",
           "coinlist": [
             {},
             {},
@@ -726,13 +726,13 @@
         {
           "level": 2,
           "name": "學業精進",
-          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的4%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的拚點威力+1\n[WinDuel] 使自身獲得2層磨礪學識 (每回合最多1次)",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的<style=\"highlight\">4%</style>)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n<style=\"highlight\">[WhenUse] 若自身的所解真知 層數不低於2層，則使本技能的拼點威力+1\n[WinDuel] 使自身獲得2層磨礪學識 (每回合最多1次)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -741,13 +741,13 @@
         {
           "level": 4,
           "name": "學業精進",
-          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的5%)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n[WhenUse] 使本技能的拚點威力+(自身的所解真知 層數-1)(最多+2)\n[WinDuel] 使自身獲得2層磨礪學識 (每回合最多1次)",
+          "desc": "若本技能被丟棄，則使自身獲得(自身的所解真知 層數×體力上限的<style=\"highlight\">5%</style>)點護盾\n[WhenUse] 丟棄 自身所有行動槽中級別最低的1個技能\n<style=\"highlight\">[WhenUse] 使本技能的拼點威力+(自身的所解真知 層數-1)(最多+2)</style>\n[WinDuel] 使自身獲得2層磨礪學識 (每回合最多1次)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層沉淪 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -776,13 +776,13 @@
         {
           "level": 2,
           "name": "學習時間",
-          "desc": "<style=\"highlight\">自身每帶有1層 [KnowledgeExplored]，使本技能造成的傷害+3%(最多+9%)</style>\n<style=\"highlight\">[StartBattle]</style> 根據自身帶有的 [KnowledgeExplored] 層數，<style=\"highlight\">隨機使1名友方單位</style>與自身獲得相應層數的 [KnowledgeTraining] <style=\"highlight\">(優先適用於能夠 [Discard] 技能且 [KnowledgeTraining] 層數最低的友方單位)</style>\n[WhenUse] 按技能級別由低到高 [Discard] 自身所有行動槽中級別最低的2個技能\n<style=\"highlight\">[WhenUse] 若目標的 [Sinking] 強度不低於6級，則使本技能的硬幣威力+1</style>",
+          "desc": "<style=\"highlight\">自身每帶有1層所解真知 ，使本技能造成的傷害+3%(最多+9%)</style>\n[StartBattle] 根據自身帶有的所解真知 層數，<style=\"highlight\">隨機使1名友方單位</style>與自身獲得相應層數的磨礪學識 <style=\"highlight\">(優先適用於能夠丟棄 技能且磨礪學識 層數最低的友方單位)</style>\n[WhenUse] 按技能級別由低到高丟棄 自身所有行動槽中級別最低的2個技能\n<style=\"highlight\">[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(自身的所解真知 層數)級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加(自身的所解真知 層數)級沉淪 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -791,13 +791,13 @@
         {
           "level": 4,
           "name": "學習時間",
-          "desc": "自身每帶有1層所解真知 ，使本技能造成的傷害+5%(最多+15%)\n[StartBattle] 根據自身帶有的所解真知 層數，隨機使2名友方單位與自身獲得相應層數的磨礪學識 (優先適用於能夠丟棄 技能且磨礪學識 層數最低的友方單位)\n[WhenUse] 按技能級別由低到高丟棄 自身所有行動槽中級別最低的2個技能\n[WhenUse] 目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "自身每帶有1層所解真知 ，使本技能造成的傷害<style=\"highlight\">+5%</style>(最多+<style=\"highlight\">15%</style>)\n[StartBattle] 根據自身帶有的所解真知 層數，隨機使<style=\"highlight\">2</style>名友方單位與自身獲得相應層數的磨礪學識 (優先適用於能夠丟棄 技能且磨礪學識 層數最低的友方單位)\n[WhenUse] 按技能級別由低到高丟棄 自身所有行動槽中級別最低的2個技能\n<style=\"highlight\">[WhenUse] 目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(自身的所解真知 層數×2)級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">(自身的所解真知 層數×2)</style>級沉淪 強度"
                 }
               ]
             }
@@ -827,14 +827,14 @@
         {
           "level": 4,
           "name": "燃盡知識",
-          "desc": "自身每帶有1層所解真知 ，使本技能造成的傷害+5%(最多+45%)\n[WhenUse] 目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[BeforeAttack] 消耗自身所有磨礪學識 並使自身額外獲得相應層數的所解真知 \n[EndSkill] 若自身的所解真知 層數不低於4層，則使其重置為1層(若本技能擊殺了敵方單位，則改為重置為3層)",
+          "desc": "自身每帶有1層所解真知 ，使本技能造成的傷害<style=\"highlight\">+5%</style>(最多+<style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] 目標每帶有6級沉淪 強度，使本技能的硬幣威力+1(最多+2)</style>\n[BeforeAttack] 消耗自身所有磨礪學識 並使自身額外獲得<style=\"highlight\">相應層數</style>的所解真知 \n[EndSkill] 若自身的所解真知 層數不低於4層，則使其重置為1層(若本技能擊殺了敵方單位，則改為重置為3層)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 隨機對目標施加沉淪 ，其強度與層數共計(自身的所解真知 層數)點"
+                  "desc": "[OnSucceedAttack] 隨機對目標施加沉淪 ，其強度與層數共計(自身的所解真知 層數)點<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -862,7 +862,7 @@
         {
           "level": 4,
           "name": "專注探求",
-          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +6",
+          "desc": "[WhenUse] 丟棄 自身所有行動槽中級別最高的1個技能\n<style=\"highlight\">[WhenUse] 下回合使本技能對應行動槽的挑釁值 +6</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1024,13 +1024,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "若本技能不會施加破裂 ，則每將增加1級破裂 強度或施加1層破裂 ，使本硬幣暴擊時造成的傷害+5%"
+                  "desc": "<style=\"highlight\">若本技能不會施加破裂 ，則每將增加1級破裂 強度或施加1層破裂 ，使本硬幣暴擊時造成的傷害+5%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於7，則對目標施加2層破裂 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1075,7 +1075,7 @@
         {
           "level": 4,
           "name": "向您致敬",
-          "desc": "若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1。最多+3)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數\n[WinDuel] 使自身增加5級呼吸法 強度\n- 若目標帶有集中攻擊-默爾索 ，則使自身額外增加5級呼吸法 強度",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則根據速度值之差，相應使本技能的硬幣威力增加(速度值每相差2點，使本技能的硬幣威力+1。最多+3)</style>\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則本技能命中時不消耗目標的破裂 層數\n[WinDuel] 使自身增加5級呼吸法 強度\n- 若目標帶有集中攻擊-默爾索 ，則使自身額外增加5級呼吸法 強度",
           "coinlist": [
             {
               "coindescs": [
@@ -1094,16 +1094,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "目標行動槽每帶有1層集中攻擊-默爾索 ，使本硬幣造成的傷害+20%"
+                  "desc": "目標行動槽每帶有1層集中攻擊-默爾索 ，使本硬幣造成的傷害<style=\"highlight\">+20%</style>"
                 },
                 {
                   "desc": "使本技能暴擊時造成的傷害+30%"
                 },
                 {
-                  "desc": "- 目標每帶有1級破裂 強度，使本技能暴擊時造成的傷害+2%(最多+30%)"
+                  "desc": "<style=\"highlight\">- 目標每帶有1級破裂 強度，使本技能暴擊時造成的傷害+2%(最多+30%)</style>"
                 },
                 {
-                  "desc": "[EndSkill] 若本硬幣擊殺目標或破壞部位，則隨機對1個目標重複使用本技能(重複使用時不生效)"
+                  "desc": "<style=\"highlight\">[EndSkill] 若本硬幣擊殺目標或破壞部位，則隨機對1個目標重複使用本技能(重複使用時不生效)</style>"
                 }
               ]
             }

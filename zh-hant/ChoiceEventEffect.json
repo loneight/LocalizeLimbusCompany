@@ -94,11 +94,11 @@
     },
     {
       "id": "GetConfirmedStackableEgogift",
-      "content": "<color=#ebcaa2>獲得E.G.O飾品{reward}{stack}個！</color>"
+      "content": "<color=#ebcaa2>獲得{stack}件E.G.O飾品{reward}！</color>"
     },
     {
       "id": "LoseConfirmedStackableEgogift",
-      "content": "<color=#ebcaa2>失去E.G.O飾品{reward}{stack}個！</color>"
+      "content": "<color=#ebcaa2>失去{stack}件E.G.O飾品{reward}！</color>"
     },
     {
       "id": "GetBuff_OnStageStart",
@@ -106,7 +106,7 @@
     },
     {
       "id": "UnlockHiddenRoute",
-      "content": "<color=#ebcaa2>地圖中追加了新的路線！</color>"
+      "content": "<color=#ebcaa2>地圖中追加了新的道路！</color>"
     },
     {
       "id": "ReduceEnemyWave",
@@ -114,7 +114,7 @@
     },
     {
       "id": "DestroyEgogift",
-      "content": "<color=#ebcaa2>E.G.O飾品{reward}</color> <color=#e30000>失效！</color>"
+      "content": "<color=#ebcaa2>E.G.O飾品 {reward}</color> <color=#e30000>失效！</color>"
     },
     {
       "id": "Choice_90103301",
@@ -126,7 +126,7 @@
     },
     {
       "id": "Choice_901007",
-      "content": "<color=#ebcaa2>回合開始時，</color><color=#ebcaa2>恢復</color><color=#00ff9c>10點體力</color>及<color=#80c9ff>10點理智值</color>（最多3回合）"
+      "content": "<color=#ebcaa2>回合開始時，</color></color=#ebcaa2>恢復</color><color=#00ff9c>10點體力</color>及<color=#80c9ff>10點理智值</color>（最多3回合）"
     },
     {
       "id": "Choice_901009",
@@ -134,7 +134,7 @@
     },
     {
       "id": "Choice_901010",
-      "content": "<color=#ebcaa2>下場戰鬥開始時，技能組不包含</color><color=#bb521f>色慾屬性攻擊技能</color><color=#ebcaa2>的友方單位將陷入混亂</color>"
+      "content": "<color=#ebcaa2>下場戰鬥開始時，技能組不包含</color> <color=#bb521f>色慾屬性攻擊技能</color><color=#ebcaa2>的友方單位將陷入混亂</color>"
     },
     {
       "id": "Choice_901019",
@@ -254,7 +254,7 @@
     },
     {
       "id": "Choice_901024",
-      "content": "<color=#ebcaa2>技能組內包含</color><color=#306471>憂鬱屬性攻擊技能</color><color=#ebcaa2>的友方單位中理智值最低者的</color><color=#f8c200>體力恢復至上限</color>"
+      "content": "<color=#ebcaa2>技能組內包含</color><color=#306471>憂鬱屬性攻擊技能</color></color=#ebcaa2>的友方單位中理智值最低者的</color><color=#f8c200>體力恢復至上限</color>"
     },
     {
       "id": "Choice_901025",
@@ -306,7 +306,7 @@
     },
     {
       "id": "Choice_1040301",
-      "content": "<color=#ebcaa2>所選人格在下場戰鬥的1回合中</color><color=#ebcaa2>增加</color><color=#e30000>10級破裂 強度</color>"
+      "content": "<color=#ebcaa2>所選人格在下場戰鬥的1回合中</color> <color=#ebcaa2>增加</color><color=#e30000>10級破裂 強度</color>"
     },
     {
       "id": "MirrorDungeonAcquireCost",
@@ -318,11 +318,11 @@
     },
     {
       "id": "Choice_90104001",
-      "content": "<color=#ebcaa2>下場戰鬥開始時生效獲得所有</color><color=#f8c200>罪孽碎片各2個</color>"
+      "content": "<color=#ebcaa2>下場戰鬥開始時生效獲得所有<color=#f8c200>罪孽碎片各2個</color><color=#ebcaa2></color>"
     },
     {
       "id": "Choice_9010400101",
-      "content": "<color=#ebcaa2>下場戰鬥全體友方單位</color><color=#f8c200>技能最終威力+2</color>"
+      "content": "<color=#ebcaa2>下場戰鬥全體友方單位<color=#f8c200>技能最終威力+2</color><color=#ebcaa2></color>"
     },
     {
       "id": "Choice_90104002",
@@ -362,11 +362,11 @@
     },
     {
       "id": "Choice_EGO901002",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「倒錯症」、「敬畏」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「倒錯癥」、「敬畏」"
     },
     {
       "id": "Choice_EGO901009",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「熾熱的羽毛」、「融化的石蠟」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「熾熱的羽毛」、「熔化的石蠟」"
     },
     {
       "id": "Choice_EGO901010",
@@ -382,7 +382,7 @@
     },
     {
       "id": "Choice_EGO901014",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「生鏽的紀念幣」、「鬱火」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「鏽蝕的紀念幣」、「鬱火」"
     },
     {
       "id": "Choice_EGO901016",
@@ -402,7 +402,7 @@
     },
     {
       "id": "Choice_EGO901021",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「藍色Zippo牌打火機」、「巡邏用手電筒」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「藍色芝寶牌打火機」、「巡邏用手電筒」"
     },
     {
       "id": "Choice_EGO901024",
@@ -414,7 +414,7 @@
     },
     {
       "id": "Choice_EGO901033",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「標準負荷電池」、「解除限制的除顫儀」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「標準負載電池」、「解除限制的除顫儀」"
     },
     {
       "id": "Choice_EGO901034",
@@ -434,11 +434,11 @@
     },
     {
       "id": "Choice_EGO971029",
-      "content": "戰鬥勝利後，獲得E.G.O飾品「E式次元短劍」、「攜帶式力場電池」"
+      "content": "戰鬥勝利後，獲得E.G.O飾品「E式次元短劍」、「攜帶型力場電池」"
     },
     {
       "id": "GetImmediateConfirmedEgogifts",
-      "content": "<color=#ebcaa2>獲得E.G.O飾品{reward}！</color>"
+      "content": "<color=#ebcaa2>獲得E.G.O飾品 {reward}！</color>"
     },
     {
       "id": "Choice_EGO901101",
@@ -454,7 +454,7 @@
     },
     {
       "id": "LoseMpOnlyUntilMin",
-      "content": "使<color=#fe4b48>理智值</color><color=#ebcaa2>減少</color>至<color=#ebcaa2> {conditions} {targets} </color>的<color=#fe4b48>最小值</color>為止"
+      "content": "<color=#ebcaa2>{conditions}{targets}</color><color=#fe4b48>理智值</color><color=#ebcaa2>減少</color><color=#fe4b48>至下限</color>"
     }
   ]
 }

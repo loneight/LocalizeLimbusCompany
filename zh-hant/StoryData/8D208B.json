@@ -2,525 +2,525 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Final Room of the Family Hierarch Evaluation",
+      "place": "家主評審 最終房間",
       "model": "가치우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 1,
-      "content": "Jia Qiu was waiting for us, just as Hong Lu had predicted."
+      "content": "和鴻璐猜測的一樣，賈丘正在那裡等著我們。"
     },
     {
       "id": 2,
-      "content": "We couldn't tell how long he'd been waiting for us in here, as he didn't appear to be even remotely tired or angry."
+      "content": "雖不知他等了多久。但他臉上既無疲憊，也無憤怒……"
     },
     {
       "id": 3,
-      "content": "He only regarded us in that same, collected silence we remember seeing from the day we first met."
+      "content": "只是帶著與初次見面時別無二致的表情，靜靜注視著到來的我們。"
     },
     {
       "id": 4,
       "model": "에고가환",
-      "content": "How nice of them to bring us all together."
+      "content": "多麼親切啊。"
     },
     {
       "id": 5,
       "model": "에고가환",
-      "content": "Isn't their intent quite obvious? Gathering all of us in here..."
+      "content": "居然特地把剩下的人叫到一起面對面……"
     },
     {
       "id": 6,
       "model": "에고가환",
-      "content": "... They're telling us to rid ourselves of the trouble of finding each other, and determine who comes first among us."
+      "content": "這是打算讓我們省下互相尋找的功夫，直接競爭出第一名嗎？"
     },
     {
       "id": 7,
       "model": "가치우",
-      "content": "Still your insolent tongue, Jia Huan. You possess not even an inkling of the path ahead."
+      "content": "前途未卜，不要輕易開口，賈環。"
     },
     {
       "id": 8,
       "model": "가치우",
-      "content": "You have taken that name for a better purpose than to assume such a boorish display of vanity, have you not?"
+      "content": "你被冠以此名，並非是為了肩負這般不知輕重的傲慢吧。"
     },
     {
       "id": 9,
-      "content": "The tension was palpable. No one was going to make the first move."
+      "content": "沒有人敢輕舉妄動。"
     },
     {
       "id": 10,
-      "content": "There was Jia Huan, who's always been hostile toward Hong Lu and us."
+      "content": "賈環一直以來都對鴻璐和我們抱有強烈敵意。"
     },
     {
       "id": 11,
-      "content": "Then there was Jia Qiu, whose innermost thoughts we couldn't hope to grasp... but most likely harbored much anger toward Hong Lu and carried the torch of vengeance for his family's destruction."
+      "content": "以及賈丘，雖然不知道他腦中所想，但他或許仍然帶有對鴻璐的憤怒，以及因自己家族被滅門而產生的復仇心。"
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "Look, there's... something written up there."
+      "content": "那裡……好像寫著什麼……"
     },
     {
       "id": 13,
-      "content": "Ishmael whispered."
+      "content": "以實瑪利輕聲說道。"
     },
     {
       "id": 14,
-      "content": "A question, written in large, red letters."
+      "content": "房間內刻著紅色的大字。"
     },
     {
       "id": 15,
-      "content": "‘State the virtue of the Family Hierarch.’"
+      "content": "「何為家主必備之品德」"
     },
     {
       "id": 16,
       "model": "사회자",
-      "content": "Now, we have the top three candidates all gathered in this room. Are we about to find out the winner of this game right here, right now, right in this room?"
+      "content": "目前第一到三名。三位候選人齊聚一堂。也許不久後就能在這房間內決出第一了。"
     },
     {
       "id": 17,
       "model": "사회자",
-      "content": "So... with the gravity of this particular situation clearly communicated... let's try something completely different this time. Different, but most appropriate for the ceremony of selecting the next Hierarch of Hongyuan."
+      "content": "因此……在這裡準備了不同於以往的全新活動。既然要成為家主，那麼至少要對鴻園進行一次自我展示吧。"
     },
     {
       "id": 18,
       "model": "사회자",
-      "content": "Behold the wall and ponder the question! This is the time for our finalists to debate the very question at the core of the Family Hierarch Evaluation!"
+      "content": "掛在牆上的問題，是貫穿整個家主評審根源的一問，對此我們為最後的候選人們提供自由交談的時間！"
     },
     {
       "id": 19,
       "model": "가치우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 20,
       "model": "이상",
-      "content": "We are to... engage in a dialogue?"
+      "content": "……是讓我們彼此交涉麼？"
     },
     {
       "id": 21,
       "model": "에고가환",
-      "content": "Hilarious. Had enough of the bloodshed, then? Shall we end this game with a sophisticated little confabulation on the sanctimonious ‘virtues’ instead? Might as well put a bow on it, why don't you?"
+      "content": "真好笑。是因為見膩了血，所以想靠高尚的對話做出了斷嗎？"
     },
     {
       "id": 22,
       "model": "사회자",
-      "content": "If the opponent accepts your argument... perhaps you could indeed flex your rhetorical muscles and finish the second round with a parlay of words... But wouldn't you like to know what happens if you can't?"
+      "content": "如果能說服彼此……也可能僅憑對話就結束第二輪家主評審……可如果你們不能認同彼此呢？"
     },
     {
       "id": 23,
       "model": "사회자",
-      "content": "It changes absolutely nothing! Simply return to what you've been doing for this entire event! Take or be taken! Grab as many coins as you can!"
+      "content": "那就毫無變化！只需和以往一樣，繼續這爭奪不休的銅錢搶奪戰即可！"
     },
     {
       "id": 24,
-      "content": "But all of this was but the host's 'suggestion', nothing more."
+      "content": "不過，那終究只是主持人字面上的建議……"
     },
     {
       "id": 25,
-      "content": "If either Jia Qiu or Jia Huan decides to just attack us anyway, we'd have no choice but to fight them."
+      "content": "如果賈丘或是賈環選擇了淘汰其他人，我們也不得不採取相應的對策。"
     },
     {
       "id": 26,
       "model": "단테",
-      "content": "<What now...?>"
+      "content": "<現在該怎麼辦……>"
     },
     {
       "id": 27,
-      "content": "However, Jia Qiu..."
+      "content": "然而，賈丘依然……"
     },
     {
       "id": 28,
-      "content": "... only wordlessly gazed up at the writings on the wall."
+      "content": "只是默默看著牆上那行意義不明的文字。"
     },
     {
       "id": 29,
       "model": "홍루",
-      "content": "What now, brothers?"
+      "content": "現在要做什麼，哥哥們？"
     },
     {
       "id": 30,
-      "content": "Hong Lu asked casually."
+      "content": "鴻璐神色自若地詢問。"
     },
     {
       "id": 31,
-      "content": "I have to start thinking about every permutation of events that could happen this moment onward."
+      "content": "同時，我腦海中浮現出諸多可能性。"
     },
     {
       "id": 32,
-      "content": "What if he decides to ally with Jia Huan to take us out? Wait, no. Someone like Jia Qiu might not even have to ally with anyone to destroy us."
+      "content": "如果對方決定和賈環聯手，優先除掉我們該怎麼辦？不，像賈丘那樣實力超群的人，即便不結盟應該也能壓制我們吧。"
     },
     {
       "id": 33,
-      "content": "Which means that, for us to come second, at least one of them must be eliminated."
+      "content": "也就是說，為了成為第二名，我們起碼要淘汰其中一人才行。"
     },
     {
       "id": 34,
       "model": "파우스트",
-      "content": "There is a possibility that forfeiting the game now could result in us placing third."
+      "content": "如果現在棄權，也許可以爭取第三名。"
     },
     {
       "id": 35,
       "model": "파우스트",
-      "content": "However, what must also be considered is that, outside this room, there are other candidates who have collected a similar number of coins as we have; it is possible that there are additional coins to be collected, the sum of which may be greater than our current sum."
+      "content": "不過。若是這房間外存在和我們所持銅錢數量相近的候選人，他們的爭鬥也有可能改變排名……"
     },
     {
       "id": 36,
       "model": "파우스트",
-      "content": "... A small variable, but a risk nonetheless."
+      "content": "微小的變數也不能忽視。"
     },
     {
       "id": 37,
       "model": "이스마엘",
-      "content": "... Yeah, but the biggest problem right now is that the only other clan that's aware of the Golden Bough... currently ranks higher than we do."
+      "content": "……最大的問題是，知道金枝存在的勢力……目前排在我們之上。"
     },
     {
       "id": 38,
       "model": "오티스",
-      "content": "Not only are they aware of it, it's probably the whole reason they're participating in this game. At this point, they might as well have already obtained it if they were to forfeit now."
+      "content": "不僅僅是知道吧？哪怕賈環像那時一樣搶走金枝也不奇怪。更何況他們怎麼可能會放過不必流血就能拿走金枝的機會。"
     },
     {
       "id": 39,
       "model": "오티스",
-      "content": "The ideal scenario would be for Jia Qiu to utterly destroy the N Corp. forces, take all of their coins, and eliminate them from the game. But..."
+      "content": "最好的情況或許是……N公司的那傢伙的銅錢被賈丘全部搶走，就此落選……"
     },
     {
       "id": 40,
       "model": "오티스",
-      "content": "Dammit, I can't strategize without knowing what he's thinking. He is impenetrable."
+      "content": "可惡……搞不明白他的想法，根本無法制定計劃。"
     },
     {
       "id": 41,
-      "content": "Outis, of all people, appeared completely stumped... This certainly does not bode well for our plan."
+      "content": "奧提斯嘆氣的含義很明顯。作戰已經接近失敗了。"
     },
     {
       "id": 42,
       "model": "그레고르",
-      "content": "That big fella... he's not much of a talker, and seems to be the kind of guy who prefers to destroy his way to success than to talk things out..."
+      "content": "那位老兄，話也不多……我感覺他比起玩這種過家家，可能更想把一切都破壞掉……"
     },
     {
       "id": 43,
       "model": "가치우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 44,
       "model": "가치우",
-      "content": "They have given us a platform to parlay. Thus rightly parlay we shall."
+      "content": "既然設定了場所，那便有繼續交談的道理。"
     },
     {
       "id": 45,
       "model": "단테",
-      "content": "<…!>"
+      "content": "<……！>"
     },
     {
       "id": 46,
-      "content": "What Jia Qiu said was a surprise to all of us."
+      "content": "賈丘說出了我們不曾想像的話。"
     },
     {
       "id": 47,
       "model": "에고가환",
-      "content": "Now that's unexpected. You're going to play along with this meaningless game, Jia Qiu?"
+      "content": "真讓人意外？你打算接受這種無聊的遊戲嗎，賈丘？"
     },
     {
       "id": 48,
       "model": "에고가환",
-      "content": "The long years spent away from Hongyuan must've been quite smooth-sailing for you."
+      "content": "看樣子在渺無音訊的那漫長歲月裡，你過得很愜意啊。"
     },
     {
       "id": 49,
       "model": "가치우",
-      "content": "There was loneliness and impecuniosity, but it was indeed smooth-sailing."
+      "content": "雖窮困孤苦，但也舒心愜意。"
     },
     {
       "id": 50,
       "model": "가치우",
-      "content": "I was deprived of those who would stand with me, for I was wanting in the fortune with matters of people; thus, I sought out the new, embraced them, and learned much."
+      "content": "我缺乏仁德，身邊才無一人留存，因此我只是親身行動，擁抱新事物，從中學習而已。"
     },
     {
       "id": 51,
       "model": "에고가환",
-      "content": "I don't know just who you could've possibly met and learned from out there, but... your ambitions have certainly inflated."
+      "content": "雖然我不知道你見了誰，又積累了些什麼……不過野心倒是大了不少。"
     },
     {
       "id": 52,
       "model": "에고가환",
-      "content": "I met this Zhao of the Wang family on my way here..."
+      "content": "來這裡的路上，我碰到了那個王家的王昭……"
     },
     {
       "id": 53,
       "model": "에고가환",
-      "content": "And he, whom we had all known to be quite clever, was sitting alone without coins, waiting for his elimination to be confirmed."
+      "content": "那個衆所周知的聰明人，為什麼一枚銅錢都沒有，分文不剩地落選了呢。"
     },
     {
       "id": 54,
       "model": "에고가환",
-      "content": "And do you know what he said to me then?"
+      "content": "我提問後，王家那傢伙是這麼說的……"
     },
     {
       "id": 55,
       "model": "에고가환",
-      "content": "That he'd already given all of his coins to the one who should have them."
+      "content": "他把自己的銅錢全都交給了相配的人。"
     },
     {
       "id": 56,
       "model": "에고가환",
-      "content": "That he'd already achieved 'his' victory in this game, as he'd already given his coins to the one who deserves them most before anyone who does not could claim them..."
+      "content": "他還說，既然在被不相配的人拿走之前，將其交給了正確的人，自己就已經等同於贏得了家主之爭……"
     },
     {
       "id": 57,
       "model": "에고가환",
-      "content": "I was tickled by that insolence, so I thought to separate his head from his torso... but the Heishou of this evaluation site leaped in to protect him."
+      "content": "他說的話太過放肆，我本想把他的腦袋砍掉……可是被實驗場的黑獸給阻止了。"
     },
     {
       "id": 58,
       "model": "에고가환",
-      "content": "Jia Qiu, why would you seek the Wang family's alliance now, of all times?"
+      "content": "為什麼事到如今才開始拉攏王家，賈丘。"
     },
     {
       "id": 59,
       "model": "가치우",
-      "content": "Alliance? Quite the lofty phrasing for what that was."
+      "content": "說拉攏未免太過誇張。"
     },
     {
       "id": 60,
       "model": "가치우",
-      "content": "I had merely discerned what he deemed to be good—and promised that I would make it so."
+      "content": "我不過是看清了他認為有利之事，並給予了他有利之處。"
     },
     {
       "id": 61,
       "model": "에고가환",
-      "content": "What is good, huh..."
+      "content": "利嗎……"
     },
     {
       "id": 62,
       "model": "에고가환",
-      "content": "What could you possibly have, after having essentially severed yourself from Daguanyuan for years, to offer him that the Wang family doesn't already have?"
+      "content": "我很好奇幾乎和大觀園斷絕關係的你……到底能給王家什麼利益。"
     },
     {
       "id": 63,
       "model": "에고가환",
-      "content": "Fine, then... I'll play along with your game for now. If you have something to say, then say it."
+      "content": "算了……就陪你們玩玩吧。想說什麼何不趁現在說呢。"
     },
     {
       "id": 64,
-      "content": "Jia Huan gave Jia Qiu a sarcastic grin as he leaned against the wall."
+      "content": "賈環嗤笑一聲，靠在牆上看著賈丘。"
     },
     {
       "id": 65,
       "model": "가치우",
-      "content": "To ask one to state the virtue of the Family Hierarch..."
+      "content": "家主必備之品德……"
     },
     {
       "id": 66,
       "model": "가치우",
-      "content": "... is to ask one to state what it is that Hongyuan, soon to be under the lordship of the new Hierarch, needs the most."
+      "content": "換言之，或是意指家主在治理鴻園時所必需的東西。"
     },
     {
       "id": 67,
       "model": "가치우",
-      "content": "I saw naught but two kinds of people as I was raised in this vast yet confined room they call Hongyuan."
+      "content": "我在這名為鴻園的巨大屋室中成長至今，唯能目睹兩件事。"
     },
     {
       "id": 68,
       "model": "가치우",
-      "content": "Those who kill, and those who die."
+      "content": "殺人與被殺。"
     },
     {
       "id": 69,
       "model": "가치우",
-      "content": "To dissolve this vile distinction, to restore to the righteous path this land's trajectory of history, dyed crimson with the blood spilled in the name of our selfish avarice... we need these two virtues: humanity and propriety."
+      "content": "為了破壞這一區別，讓順從自身慾望互相傷害的歷史迴歸原狀……則需要「仁」與「禮」。"
     },
     {
       "id": 70,
       "model": "에고가환",
-      "content": "Your words are utterly meaningless. Do you seriously think the people who clamber around every restructuring day to secure just enough room for them to live have any care left to give about either of your pretentious virtues?"
+      "content": "虛無縹緲的空話。你覺得對一到重構日就得拚命守護自己那一間房間的人而言，說這些有用嗎？"
     },
     {
       "id": 71,
       "model": "에고가환",
-      "content": "What Hongyuan needs is simple and pragmatic: the power to dominate and the administrative efficacy to wield it. Not to mention the ability to maintain the constant upward growth of technological innovation to keep up with the other Wings."
+      "content": "鴻園需要的，是強而有力的行政。非要再說一點，那就是不落後於其他翼的技術吧 。"
     },
     {
       "id": 72,
-      "content": "Unlike the other two who seemed to be more engaged in this debate than I'd expected..."
+      "content": "兩人提出的話題比想像中更為正式，而與此相對的……"
     },
     {
       "id": 73,
-      "content": "... Hong Lu kept his aloof silence, as though none of that was of any interest to him."
+      "content": "鴻璐像是毫無興趣一樣，一言不發。"
     },
     {
       "id": 74,
-      "content": "This seemed to irk Jia Qiu, who turned to look at Hong Lu."
+      "content": "也許是注意到這點……賈丘向鴻璐投去視線。"
     },
     {
       "id": 75,
       "model": "가치우",
-      "content": "... Speak, Jia Baoyu."
+      "content": "……賈寶玉。"
     },
     {
       "id": 76,
       "model": "가치우",
-      "content": "Dare speak your mind—what does Hongyuan need?"
+      "content": "你也暢所欲言便是。鴻園最需要的是什麼？"
     },
     {
       "id": 77,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 78,
       "model": "에고가환",
-      "content": "Don't treat him as though he's on the same scale on which we operate, Jia Qiu."
+      "content": "最好別用你的衡量標準對待他，賈丘。"
     },
     {
       "id": 79,
       "model": "에고가환",
-      "content": "He doesn't even know what <i>he</i> needs, let alone what Hongyuan needs. This is a waste of time."
+      "content": "對一個連現在的自己需要什麼都不清楚的傢伙，又怎麼問他鴻園必需的東西呢。"
     },
     {
       "id": 80,
       "model": "에고가환",
-      "content": "He does not even possess an ounce of ambition nor the heart to bloviate meaninglessly about his purposes."
+      "content": "那傢伙連說些花言巧語的膽量都沒有。"
     },
     {
       "id": 81,
       "model": "홍루",
-      "content": "... Yes, brother Huan is right. How could someone like me even dream of participating in such a... grand discussion of great causes?"
+      "content": "……沒錯。正如哥哥所說。這種……對大義的詢問，我怎麼能做出回答呢？"
     },
     {
       "id": 82,
       "model": "가치우",
-      "content": "I will not formulate my judgment of you based on conclusions Jia Huan or anyone else in Hongyuan has drawn. They will be heard, indeed, but my Way is forged only by the answers that spring from my own deliberations."
+      "content": "我不準備根據賈環或是鴻園的其他人所下的結論來評判你。雖聽取他人之言，但最後唯有親自思索得到的答案，才能成為自身之道。"
     },
     {
       "id": 83,
       "model": "가치우",
-      "content": "Thus, Jia Baoyu—do not allow the judgment of others to guide your tongue."
+      "content": "所以賈寶玉。你的答案也無需順應他人的結論。"
     },
     {
       "id": 84,
-      "content": "Jia Qiu replies sternly. Hong Lu looks toward the ground, somewhat taken aback, before looking up at Jia Qiu."
+      "content": "賈丘斬釘截鐵地說道。而鴻璐面露難色地看向地面，最後再次注視著賈丘。"
     },
     {
       "id": 85,
       "model": "홍루",
-      "content": "Would it not be much more... productive for you to tell us more of your thoughts, big brother?"
+      "content": "不如請大哥就自己的想法……更詳細地談談，這樣不是更好嗎？"
     },
     {
       "id": 86,
       "model": "에고가환",
-      "content": "Hah... just listen to him."
+      "content": "哈啊……你看。"
     },
     {
       "id": 87,
       "model": "자로",
-      "content": "To reply to my lord's question with such a fatuous query signifies that he lacks the vision to perceive the grand picture."
+      "content": "在這種情況下反問，是不理解大局的表現。"
     },
     {
       "id": 88,
       "model": "히스클리프",
-      "content": "Oi... This ain't the kind of question you can just pop out an answer for, is it? Don't put 'im on the spot, give him some time to—!"
+      "content": "喂……你覺得答案是能啪一下冒出來的嗎？再給點時間啊……！"
     },
     {
       "id": 89,
       "model": "자로",
-      "content": "Do you still fail to realize which party among those present wields the sharpest blade?"
+      "content": "此時此刻手握主導權的是誰？"
     },
     {
       "id": 90,
       "model": "자로",
-      "content": "Shame that you do not understand the significance of the powerful choosing to engage in rhetoric over crushing others with sheer might in times of chaos..."
+      "content": "在亂世中強者不選擇以武力征服他人而給予其機會，可你們甚至不清楚其中含義……令人嘆息。"
     },
     {
       "id": 91,
       "model": "가치우",
-      "content": "That is enough, Zilu."
+      "content": "子路，夠了。"
     },
     {
       "id": 92,
       "model": "가치우",
-      "content": "I ask you again. What virtue must the Hierarch possess? What does Hongyuan need the most?"
+      "content": "再問你一次。關於家主必備之物，如今鴻園最所需之物，你有何答案。"
     },
     {
       "id": 93,
-      "content": "... For a split second, Hong Lu's lips part."
+      "content": "……鴻璐的嘴似乎微張了片刻。"
     },
     {
       "id": 94,
       "place": -1,
       "model": "어린홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 95,
       "model": "과거가치우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 96,
-      "place": "Final Room of the Family Hierarch Evaluation",
+      "place": "家主評審 最終房間",
       "model": "홍루",
-      "content": "I..."
+      "content": "我……"
     },
     {
       "id": 97,
-      "content": "But they soon shut again, as though he was shaking himself from an illusion."
+      "content": "可那一切又像是我的錯覺一樣，鴻璐屏息閉上了嘴。"
     },
     {
       "id": 98,
       "model": "홍루",
-      "content": "Honestly, I have no idea what kind of answer you're looking for from me, brother."
+      "content": "我不清楚，大哥希望我做出怎樣的回答。"
     },
     {
       "id": 99,
       "model": "가치우",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 100,
       "model": "가치우",
-      "content": "This was my first act of goodwill toward you… and quite possibly, the final opportunity I may be able to afford you."
+      "content": "這是我第一次對你施以善意……同時也是最後一次機會。"
     },
     {
       "id": 101,
       "model": "가치우",
-      "content": "Will you discard it regardless, blinded to its significance?"
+      "content": "而你不知其寶貴，僅僅想將其浪費。"
     },
     {
       "id": 102,
       "model": "홍루",
-      "content": "Brother Qiu..."
+      "content": "大哥……"
     },
     {
       "id": 103,
       "model": "홍루",
-      "content": "You must be anticipating something from me."
+      "content": "你一定對我有所期待吧。"
     },
     {
       "id": 104,
       "model": "가치우",
-      "content": "Anticipation, is it..."
+      "content": "期待……"
     },
     {
       "id": 105,
       "model": "가치우",
-      "content": "An imprudent anticipation begets nothing but despair in the face of futility, leaving nothing but a hollow heart in its wake."
+      "content": "錯付的期待，到最後只會留下虛幻而空虛的心境。"
     },
     {
       "id": 106,
       "model": "가치우",
-      "content": "Even still... I have deigned to grant you my valuable time for that slim potentiality I once saw within you."
+      "content": "即使如此……我也寄希望於從你身上所見的那一絲可能性，抽出了寶貴的時間。"
     },
     {
       "id": 107,
       "model": "가치우",
-      "content": "And by doing so, I risk delaying everything that I have prepared for a long, long time."
+      "content": "甚至承擔起長久以來準備的一切都將滯後的風險。"
     },
     {
       "id": 108,
       "model": "가치우",
-      "content": "Yet... you still evade my every query."
+      "content": "而你……只是在迴避對我做出答案。"
     },
     {
       "id": 109
@@ -528,32 +528,32 @@
     {
       "id": 110,
       "model": "가치우",
-      "content": "To swallow one's words when it is their turn to speak is to hide them."
+      "content": "於講述之時，卻閉口不言應說之事，這即為隱瞞。"
     },
     {
       "id": 111,
       "model": "가치우",
-      "content": "As you insist on stopping and veiling your thoughts, I am, perforce, compelled to act in a manner unbecoming of a noble man."
+      "content": "你一再放棄思考，試圖隱瞞，我也難盡君子之道。"
     },
     {
       "id": 112,
       "model": "가치우",
-      "content": "It seems that I must dabble in your methods today, Zilu."
+      "content": "子路啊。今日就借你的辦法一用。"
     },
     {
       "id": 113,
       "model": "자로",
-      "content": "As you command, my lord."
+      "content": "謹遵主公之命。"
     },
     {
       "id": 114,
       "model": "가치우",
-      "content": "I shall afford you neither the wherewithal nor the time to mask your ruminations."
+      "content": "唯有將你逼迫到無暇隱瞞思緒。"
     },
     {
       "id": 115,
       "model": "가치우",
-      "content": "Bring forth a real answer; do not let it languish behind your tongue."
+      "content": "方能想得答案，脫口而出。"
     },
     {
       "id": 116

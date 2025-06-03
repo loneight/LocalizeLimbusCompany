@@ -2,226 +2,226 @@
   "dataList": [
     {
       "id": 2061,
-      "name": "Coin",
-      "desc": "Hong Lu deals +0.5% damage for every Coin\n\n<i><color=#a16a3b>Artifacts used for the second round of the Family Hierarch Evaluation. Candidates without any remaining coins, either lost or taken by force, will be immediately eliminated.</color></i>",
+      "name": "銅錢",
+      "desc": "每擁有1枚銅錢，使鴻璐造成的傷害+0.5%\n\n<i><color=#a16a3b>用於家主評審第二輪的物品。銅錢全部遺失或被強行奪取的候選人將被立即淘汰。</color></i>",
       "simpleDesc": [
         {
           "abilityID": 2061,
-          "simpleDesc": "Hong Lu deals +0.5% damage for every Coin"
+          "simpleDesc": "每擁有1枚銅錢，使鴻璐造成的傷害+0.5%"
         }
       ]
     },
     {
       "id": 2062,
-      "name": "Worn Entry Card",
-      "desc": "A broken and battered entry card.\nMaybe it opens a door somewhere."
+      "name": "陳舊的通行證",
+      "desc": "破碎陳舊的通行證。\n或許能用來打開某個地方的門扉？"
     },
     {
       "id": 2063,
-      "name": "Heavenly King's Heartmending Pill",
-      "desc": "Turn End: 1 ally with the least SP heals 10 SP",
+      "name": "天王補心丹",
+      "desc": "回合結束時，使理智值最低的1名友方單位恢復10點理智值。",
       "simpleDesc": [
         {
           "abilityID": 2063,
-          "simpleDesc": "Every Turn End: 1 ally with the least SP heals 10 SP at Turn End"
+          "simpleDesc": "每回合結束時，使理智值最低的1名友方單位恢復10點理智值"
         }
       ]
     },
     {
       "id": 2064,
-      "name": "Tranquil Lotus Bolus",
-      "desc": "Turn End: heal 5% HP for 1 ally with the least HP percentage (rounded down)",
+      "name": "靜蓮丸",
+      "desc": "回合結束時，使現存體力比例最低的1名友方單位恢復其體力上限5%的體力(向下取整)。",
       "simpleDesc": [
         {
           "abilityID": 2064,
-          "simpleDesc": "Heal the affected unit by 5% HP"
+          "simpleDesc": "使該單位恢復其體力上限5%的體力"
         }
       ]
     },
     {
       "id": 2065,
-      "name": "Sanguine Blossom Bolus",
-      "desc": "Turn Start: among allies who lost HP, 1 ally with the least HP percentage deals +(missing HP percentage / 4)% damage (rounded down)",
+      "name": "血花丸",
+      "desc": "回合開始時，使失去體力的友方單位中現存體力比例最低的1名友方單位造成的傷害+(其失去體力比例/4)%(向下取整)。",
       "simpleDesc": [
         {
           "abilityID": 2065,
-          "simpleDesc": "The affected unit deals +(missing HP percentage /4)% damage"
+          "simpleDesc": "該單位造成的傷害+(其失去體力比例/4)%"
         }
       ]
     },
     {
       "id": 2066,
-      "name": "Tenacity Bolus",
-      "desc": "Turn Start: 1 ally with the highest max HP gains [DefenseUp] equal to the number of times that unit was hit by the enemies' Skill Attacks (max 6)",
+      "name": "強韌丸",
+      "desc": "回合開始時，使體力上限最高的1名友方單位獲得(本場戰鬥其受到敵方單位技能攻擊次數)層[DefenseUp](最多6層)。",
       "simpleDesc": [
         {
           "abilityID": 2066,
-          "simpleDesc": "Gain Defense Level Up equal to the number of times this unit was hit"
+          "simpleDesc": "根據受到攻擊次數獲得防禦等級提升 "
         }
       ]
     },
     {
       "id": 2067,
-      "name": "Flower in the Mirror",
-      "desc": "Every Turn Start: inflict 3 [Burst] Potency and +1 [Burst] Count to all enemies without [Burst] (for Focused Encounters, all Parts)\n\n<i><color=#a16a3b>How heartless they are—the flowing stream and the wilting blossom both.</color></i>",
+      "name": "鏡中花",
+      "desc": "每回合開始時，使全體未帶有[Burst]的敵方單位增加3級[Burst]強度並對其施加1層[Burst](若是集中遭遇戰，則改為所有部位)\n\n<i><color=#a16a3b>水流花謝兩無情。</color></i>",
       "simpleDesc": [
         {
           "abilityID": 2067,
-          "simpleDesc": "Inflict 3 Rupture Potency and +1 Rupture Count to all enemies/Parts without Rupture"
+          "simpleDesc": "使全體未帶有破裂 的敵方單位或所有部位增加3級破裂 強度並對其施加1層破裂 "
         }
       ]
     },
     {
       "id": 2068,
-      "name": "Accursed Codex",
-      "desc": "First Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [ShamrockResultUp] and 1 [ShamrockDamageUp] for 3 turns. ",
+      "name": "被詛咒的古代文書",
+      "desc": "關卡的首個回合開始時，參戰的全體友方單位失去5點理智值並在3回合內獲得1層[ShamrockResultUp]與1層[ShamrockDamageUp]。",
       "simpleDesc": [
         {
           "abilityID": 2068,
-          "simpleDesc": "Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for 3 turns"
+          "simpleDesc": "參戰的單位失去5點理智值並在3回合內獲得暴食威力提升 與暴食傷害強化 "
         }
       ]
     },
     {
       "id": 2069,
-      "name": "Madness-inscribed Codex",
-      "desc": "First Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [ShamrockResultUp] and 1 [ShamrockDamageUp] for this Encounter.\nOn Clash Lose, lose 5 SP; convert the Skill's final Coin to [SuperCoin]. (except E.G.O Skills; once per turn per Identity)",
+      "name": "寄宿瘋狂的古代文書",
+      "desc": "關卡的首個回合開始時，參戰的全體友方單位失去5點理智值並在本場戰鬥中獲得1層[ShamrockResultUp]與1層[ShamrockDamageUp]。\n拼點失敗時，使其失去5點理智值並使該技能的最後一枚硬幣轉化為[SuperCoin](不包括E.G.O技能，每回合每名友方單位最多1次)",
       "simpleDesc": [
         {
           "abilityID": 2069,
-          "simpleDesc": "Combat Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for this Encounter"
+          "simpleDesc": "參戰的單位失去5點理智值並在本場戰鬥中獲得暴食威力提升 與暴食傷害強化 "
         },
         {
           "abilityID": 20691,
-          "simpleDesc": "Lose 5 SP on Clash Lose. Convert the Skill's final Coin to Unbreakable Coin"
+          "simpleDesc": "拼點失敗時失去5點理智值。該技能的最後一枚硬幣轉化為不可摧毀的硬幣"
         }
       ]
     },
     {
       "id": 2070,
-      "name": "Moon in the Water",
-      "desc": "On Hit against enemies with 5+ Rupture Potency: gain 1 Poise Potency and +1 Poise Count (3 times per Skill)\n\n<i><color=#a16a3b>How heartless they are—the flowing stream and the wilting blossom both.</color></i>",
+      "name": "水中月",
+      "desc": "攻擊命中破裂 強度不低於5級的敵方單位時，使自身增加1級呼吸法 強度並獲得1層呼吸法 (每個技能最多3次)\n\n<i><color=#a16a3b>水流花謝兩無情。</color></i>",
       "simpleDesc": [
         {
           "abilityID": 2070,
-          "simpleDesc": "On Hit against enemies with 5+ Rupture: gain Poise Potency and Count"
+          "simpleDesc": "攻擊命中破裂 強度不低於5級的敵方單位時，使自身增加呼吸法 強度並獲得呼吸法 "
         }
       ]
     },
     {
       "id": 2071,
-      "name": "Flower Mound",
-      "desc": "Skills that inflict [Burst]: Clash Power +1, deal +10% damage\nIf targets with 15+ [Burst] Potency is defeated After Attack, the Identity that defeated that unit gains 2 [AttackUp] next turn (3 times per Skill)\n\n<i><color=#a16a3b>Beneath the glacial moon I lay the blossom's soul to rest</color></i>",
+      "name": "花冢",
+      "desc": "施加[Burst]的技能拼點威力+1，造成的傷害+10%\n攻擊結束後若[Burst]強度不低於15級的目標陣亡，則下回合使擊殺該敵方單位的友方單位獲得2層[AttackUp](每個技能最多3次)\n\n<i><color=#a16a3b>冷月葬花魂。</color></i>",
       "simpleDesc": [
         {
           "abilityID": 2071,
-          "simpleDesc": "Skills that inflict Rupture: Clash Power +1, deal +10% damage"
+          "simpleDesc": "施加破裂 的技能拼點威力+1，造成的傷害+10%"
         },
         {
           "abilityID": 20712,
-          "simpleDesc": "If a target with 15+ Rupture is defeated, the unit that defeated it gains 2 Offense Level Up next turn"
+          "simpleDesc": "攻擊結束後若破裂 強度不低於15級的目標陣亡，則下回合使擊殺該敵方單位的友方單位獲得2層攻擊等級提升 "
         }
       ]
     },
     {
       "id": 2072,
-      "name": "Lightening Axe",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: At 2+ [Charge], gain 1 [ParryingResultUp] next turn\nOn Hit with a Skill that consumed 5+ [Charge]: inflict 1 [Burst] Potency (3 times per Skill)",
+      "name": "電擊斧",
+      "desc": "本場戰鬥中，每當自身累計消耗10層[Charge]時，使自身增加1級[Charge]強度。\n回合結束時，若自身的[Charge]強度不低於2級，則下回合使自身獲得1層[ParryingResultUp]\n消耗不低於5層[Charge]的技能命中時，使目標增加1級[Burst]強度(每個技能最多3次)",
       "simpleDesc": [
         {
           "abilityID": 2072,
-          "simpleDesc": "Gain 1 Charge every time this unit consumes 10 Charge Count"
+          "simpleDesc": "每當自身累計消耗10層充能 時，使自身增加1級充能 強度"
         },
         {
           "abilityID": 20721,
-          "simpleDesc": "At 2+ Charge, gain 1 Clash Power Up next turn"
+          "simpleDesc": "充能 強度不低於2級時，下回合獲得1層拼點威力提升 "
         },
         {
           "abilityID": 20722,
-          "simpleDesc": "On Hit with Skills that consumed 5+ Charge Count: inflict 1 Rupture"
+          "simpleDesc": "消耗不低於5層充能 的技能命中時，使目標增加1級破裂 強度"
         }
       ]
     },
     {
       "id": 2073,
-      "name": "Heartrender Talisman",
-      "desc": "Gluttony Skills deal +10% damage against enemies with Deathrite effects\nFor Identities at -15 or less SP at Combat Start: convert the final Coin for their Skills into [SuperCoin] (once per turn per Identity; prioritizes the Skill in the leftmost Skill Slot; except E.G.O Skills)",
+      "name": "破心符",
+      "desc": "暴食技能對帶有咒殺效果的敵方單位造成的傷害+10%。\n戰鬥開始時，理智值不高於-15點的友方單位使用的技能的最後一枚硬幣轉化為[SuperCoin](每回合每名友方單位最多1次，優先適用於最左側行動槽中的技能，不包括E.G.O技能)",
       "simpleDesc": [
         {
           "abilityID": 2073,
-          "simpleDesc": "Gluttony Skills deal +10% damage against enemies with Deathrite effects"
+          "simpleDesc": "暴食技能對帶有咒殺效果的敵方單位造成的傷害+10%"
         },
         {
           "abilityID": 20731,
-          "simpleDesc": "At -15 or less SP: convert the final Coin for their Skills into Unbreakable Coin"
+          "simpleDesc": "理智值不高於-15點的友方單位使用的技能的最後一枚硬幣轉化為不可摧毀的硬幣 "
         }
       ]
     },
     {
       "id": 2074,
-      "name": "Bloodsevering Blade",
-      "desc": "Clash Power +1 when not at full HP.\nWhen an affected unit hits, deal +1% damage for every ([Laceration] Potency on target + [Laceration] Count on target) (max 20%)",
+      "name": "絕血刀",
+      "desc": "友方單位體力未滿時，使其拼點威力+1。\n該單位攻擊命中時，造成的傷害+(目標的[Laceration]強度+[Laceration]層數)%(最多+20%)",
       "simpleDesc": [
         {
           "abilityID": 2074,
-          "simpleDesc": "When not at full HP, Clash Power +1"
+          "simpleDesc": "友方單位體力未滿時，使其拼點威力+1"
         },
         {
           "abilityID": 20741,
-          "simpleDesc": "On Hit, deal +1% damage for every (Bleed Potency on target + Bleed Count on target)"
+          "simpleDesc": "攻擊命中時，造成的傷害+(目標的流血強度+流血層數)%(最多+20%)"
         }
       ]
     },
     {
       "id": 2075,
-      "name": "Jin Gang Bolus",
-      "desc": "When taking damage, gain Skill Final Power +1 and deal +10% damage (activates for self-damages as well) next turn\nWhen taking damage that brings a unit's HP down to 1, heal 50% HP, and the affected unit gains 2 [Enhancement] at Turn Start for the duration of that Encounter (once per Encounter)",
+      "name": "金剛丸",
+      "desc": "友方單位在戰鬥中受到傷害時，下回合使其技能的最終威力+1，造成的傷害+10%(自身造成的傷害也會觸發)\n友方單位受到使其體力降至1點的傷害時，使其恢復體力上限50%的體力，本場戰鬥期間在回合開始時使其獲得2層[Enhancement](每場戰鬥最多1次)",
       "simpleDesc": [
         {
           "abilityID": 2075,
-          "simpleDesc": "Skill Final Power +1, deal +10% damage next turn"
+          "simpleDesc": "下回合技能的最終威力+1，造成的傷害+10%"
         },
         {
           "abilityID": 20751,
-          "simpleDesc": "Heal 50% HP and gain 2 Attack Power Up for this Encounter"
+          "simpleDesc": "恢復體力上限50%的體力，本場戰鬥期間獲得2層強壯 "
         }
       ]
     },
     {
       "id": 2076,
-      "name": "Faded Poster",
-      "desc": "[Effects apply only to #1, #8 Deployed Identities]\nAfter Attack: if the target is defeated, gain 2 [Breath] Potency and +2 [Breath] Count.\nFor this Encounter, each unit gains +1 Offense Level for every 1 enemy that is defeated at the 'After Attack' timing (max 3)",
+      "name": "褪色的海報",
+      "desc": "[第1、第8順位友方單位專屬]\n攻擊結束後，若目標陣亡，則使自身增加2級[Breath]強度並獲得2層[Breath]。\n本場戰鬥期間，每有1名敵方單位在自身攻擊結束後陣亡，使自身攻擊等級+1(最多+3)。",
       "simpleDesc": [
         {
           "abilityID": 2076,
-          "simpleDesc": "Gain 2 Poise Potency and +2 Poise Count"
+          "simpleDesc": "增加2級呼吸法 強度，獲得2層呼吸法 "
         },
         {
           "abilityID": 20761,
-          "simpleDesc": "Offense Level +1 for every defeated enemy"
+          "simpleDesc": "每有1名敵方單位陣亡，攻擊等級+1"
         }
       ]
     },
     {
       "id": 2077,
-      "name": "Deep Claw Marks",
-      "desc": "Gain 1 [ParryingResultUp] for 3 turns after Substituting in.",
+      "name": "深深的爪痕",
+      "desc": "解除待命的友方單位在3回合內獲得1層[ParryingResultUp]。",
       "simpleDesc": [
         {
           "abilityID": 20771,
-          "simpleDesc": "Gain 1 Clash Power Up for 3 turns after Substituting in"
+          "simpleDesc": "解除待命時獲得1層拼點威力提升 "
         }
       ]
     },
     {
       "id": 2078,
-      "name": "The Memory of Kong Family Annihilation",
-      "desc": "Hong Lu's level rises to 55\nHong Lu's Uptie and Threadspin Tiers rise to Tier 4\n\n<i><color=#a16a3b>'Remember the day ruin came to the Kong family,\nwho have brought this destruction upon themselves through their grave transgressions.\nTo violate the laws of Hongyuan is no tragedy—as such, it warrants no pity, only humiliation and scorn.\nThis site of history stands as a monument to the inevitability of karma.'</color></i>"
+      "name": "孔滅日的記憶",
+      "desc": "鴻璐人格等級提升至55\n鴻璐人格同步與異想解析提升至4階段。\n\n<i><color=#a16a3b>「勿忘孔家滅門之日。\n滅門皆因孔家罪孽深重。\n對其未能遵守鴻園戒律之罪業，無需悲憫，只應感到可笑。\n因此，報應必當降至其身。」</color></i>"
     },
     {
       "id": 2079,
-      "name": "Red Entry Card",
-      "desc": "A broken and battered red entry card.\nMaybe it opens a door somewhere."
+      "name": "紅色通行證",
+      "desc": "破碎陳舊的紅色通行證。\n或許能用來打開某個地方的門扉？"
     }
   ]
 }

@@ -4,84 +4,84 @@
       "id": 1080101,
       "title": "막힌_길_장치_조작",
       "eventDesc": "",
-      "behaveDesc": "Who will interface with the dial?",
+      "behaveDesc": "讓哪位罪人操作錶盤？",
       "successDesc": [
-        "{0} fiddles with the dial for a bit, then with the loud noise of stone grinding against stone, the device activates.\n\n'Authorization granted. Printing entry authorization card...'\n\nAn entry card slipped out of the machine.\nThis should open up a new path for us... probably."
+        "罪人{0}操作了一下表盤後，裝置伴隨著轟隆聲開始運作。\n\n「已批準。即將發放通行許可證。」\n\n裝置內出現了一張通行證。\n有了通行證……應該就能去別的地方了。"
       ],
       "failureDesc": [
-        "{0} fiddles with the dial for a good while, but nothing happens.\n\nWe decide to turn around; this seems to be a dead end for us."
+        "罪人{0}對著錶盤操作了許久，但無事發生。\n\n看上去沒法繼續前進，那就只能回頭了。"
       ]
     },
     {
       "id": 1080601,
       "title": "낭떠러지_도전",
-      "eventDesc": "We need every single coin we can get to come in second place.\nIt looks dangerous, but... we have to take the risk.",
-      "behaveDesc": "Who can we trust to descend and return safely?",
+      "eventDesc": "為了拿到第二名，連一枚銅錢都不能忽視。\n雖然很危險……也只能一試了。",
+      "behaveDesc": "哪位罪人可以平安往返呢？",
       "successDesc": [
-        "{0} runs past the other clans and begins to rapidly descend.\n\n'Alright, looks like everyone's rushing ahead!'\n'Let's see which of the contestants will manage to grab the coins!'\n\nLoud noises echo from the dark.\nThen, something large crumbles; we can only hear the contestants' screaming.\n\nDid... something go wrong down there?\nJust as I begin to worry, {0} crawls out of the hole, alone.\nThe other candidates didn't make it.\nWe take the coins {0} picked up from the hole and continue on."
+        "罪人{0}甩開其他勢力，迅速向下。\n\n「好，挑戰者們出發了！」\n「第一個得到銅錢的人究竟是誰呢！？」\n\n從昏暗的廢墟下不斷傳來嘈雜的聲音。\n又突然傳來什麼東西倒塌的聲音和慘叫聲。\n\n難道……出了什麼問題嗎？\n正當我心中浮現不安時，罪人{0}獨自一人從廢墟中爬了出來。\n其他挑戰者似乎都沒能平安歸來。\n拿到罪人{0}帶來的銅錢後，我們向下一個地點走去。"
       ],
       "failureDesc": [
-        "{0} runs past the other clans and begins to rapidly descend.\n\n'Alright, looks like everyone's rushing ahead!'\n'Let's see which of the contestants will manage to grab the coins!'\n\nLoud noises echo from the dark.\nThen, something large crumbles; we can only hear the contestants' screaming.\n\nDid... something go wrong down there?\nJust as I begin to worry, a candidate crawls out of the hole, alone.\n{0} didn't return...\nWe need to find their remains and turn the clock...\n... So we hurriedly descend down the hole to look for {0}'s body."
+        "罪人{0}甩開其他勢力，迅速向下。\n\n「好，挑戰者們出發了！」\n「第一個得到銅錢的人究竟是誰呢！？」\n\n從昏暗的廢墟下不斷傳來嘈雜的聲音。\n又突然傳來什麼東西倒塌的聲音和慘叫聲。\n\n難道……出了什麼問題嗎？\n正當我心中浮現不安時，另一位挑戰者獨自一人從廢墟中爬了出來。\n罪人{0}似乎沒能平安歸來。\n為了回收屍體，倒轉時鐘……\n我和其他罪人一起迅速往罪人{0}所在的下層奔去。"
       ]
     },
     {
       "id": 1080701,
       "title": "죄인_벌주기_1차",
-      "eventDesc": "We need to collect as many coins as we can, no matter what it takes.\nI feel sorry for the prisoner, but...\n... I ask the Sinners to punish him anyway.",
-      "behaveDesc": "Who will punish the condemned?",
+      "eventDesc": "必須儘可能多收集一些銅錢。\n雖然對囚犯感到抱歉……\n但我決定拜託罪人給予他們懲罰。",
+      "behaveDesc": "讓哪位罪人進行處罰？",
       "successDesc": [
-        "{0} swings their weapon with all their might.\nSome Sinners place their hands over their ears, trying to block out the prisoner's pained sobbing.\n\n'Wonderfully done!'\n'Now that's what I call a proper punishment. Here's an extra coin for you!'\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'He may be a sinner who hath done wrong, yet this... is no justice.'\n'... Yeah. This doesn't feel good at all.' "
+        "罪人{0}用力揮舞武器。\n聽到囚犯痛苦的聲音，有幾位罪人捂著耳朵露出了難過的表情。\n\n「太棒了！」\n「既然懲罰得當，那麼就再給他們一枚銅錢吧？」\n\n雖然得到了銅錢……\n但進行懲罰的罪人{0}表情似乎不太好。\n\n「即使是犯下惡行之人，如此……也絕非正確之舉。」\n「……同意。心情都變差了。」"
       ],
       "failureDesc": [
-        "{0} swings their weapon, but they can't seem to put much force behind it.\n{0} puts down the weapon, unwilling to continue punishing the condemned. We receive a small bundle of coins as a reward.\n\nWe accepted it, but...\n{0} doesn't seem very happy about it.\n\n'He may be a sinner who hath done wrong, yet this... is no justice.'\n'... Yeah. This doesn't feel good at all.'"
+        "罪人{0}笨拙地揮舞了幾下武器，隨後停手了。\n罪人像是不想繼續般放下了武器後，得到了幾枚銅錢。\n\n雖然得到了銅錢……\n但進行懲罰的罪人{0}表情似乎不太好。\n\n「即使是犯下惡行之人，如此……也絕非正確之舉。」\n「……同意。心情都變差了。」"
       ]
     },
     {
       "id": 1080702,
       "title": "죄인_벌주기_2차",
-      "eventDesc": "'Oho, but we're not stopping here!'\n'This prisoner has committed a very, very serious crime! He deserves more punishment, more!'\n'Are ya ready?!'",
-      "behaveDesc": "Who will punish the condemned?",
+      "eventDesc": "「不能這樣結束！」\n「這名囚犯罪孽深重，需要受到更多的懲罰！」\n「準備好了嗎？」",
+      "behaveDesc": "讓哪位罪人進行處罰？",
       "successDesc": [
-        "{0} swings their weapon with all their might.\nSome Sinners place their hands over their ears, trying to block out the prisoner's pained sobbing.\n\n'Wonderfully done!'\n'Now that's what I call a proper punishment. Here's an extra coin for you!'\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'Cease... cease this, I beseech thee. I wish not to linger in this room for even a moment more.'\n'Those bastards watching us from above... I'm going to beat 'em to death if I ever run into 'em.'\n\nThe condemned collapses to the ground. He no longer moves.\n... Let's move on."
+        "罪人{0}用力揮舞武器。\n聽到囚犯痛苦的聲音，有幾位罪人捂著耳朵露出了難過的表情。\n\n「太棒了！」\n「既然懲罰得當，那麼就再給他們一枚銅錢吧？」\n\n雖然得到了銅錢……\n但進行處罰的罪人{0}表情似乎不太好。\n\n「停下……請停下吧。吾再也不想在此房間之中停留哪怕片刻了。」\n「要是現在讓我在路上碰到上頭那些人……我一定把他們往死裡揍。」\n\n囚犯倒下後不再動彈了。\n……去其他房間吧。"
       ],
       "failureDesc": [
-        "{0} swings their weapon, but they can't seem to put much force behind it.\n{0} puts down the weapon, unwilling to continue punishing the condemned. We receive a small bundle of coins as a reward.\n\nWe pick up the coin, but...\n{0} doesn't seem very happy about it.\n\n'Stop... stop this, I beseech thee. I wish not to linger in this room for even a moment more.'\n'Those bastards watching us from above... I'm going to beat 'em to death if I ever run into 'em.'\n\nThe prisoner collapses to the ground. He no longer moves.\n... Let's move on."
+        "罪人{0}笨拙地揮舞了幾下武器，隨後停手了。\n罪人像是不想繼續般放下了武器後，得到了幾枚銅錢。\n\n雖然得到了銅錢……\n但進行懲罰的罪人{0}表情似乎不太好。\n\n「停下……請停下吧。吾再也不想在此房間之中停留哪怕片刻了。」\n「要是現在讓我在路上碰到上頭那些人……我一定把他們往死裡揍。」\n\n囚犯倒下後不再動彈了。\n……去其他房間吧。"
       ]
     },
     {
       "id": 1080801,
       "title": "항아리_보기",
-      "eventDesc": "We carefully approach the jar to inspect what's inside...\nA potent, ominous energy is seeping from the opening.\nThe closer we get, the louder becomes the eldritch noise crawling out of the depths of the jar.",
-      "behaveDesc": "Who will peer into the jar?",
+      "eventDesc": "為了調查甕裡的情況，小心翼翼地接近後……\n半開的蓋子縫隙中，散發出不妙的氣息。\n越靠近，甕內深處越是傳來奇妙的聲音，越來越響。",
+      "behaveDesc": "讓哪位罪人檢視甕的內部？",
       "successDesc": [
-        "{0} looks into the jar.\n\n‘…!’\n‘…….’\n‘…?’\n\n{0} begins to babble incomprehensibly.\nI don't think there's a person inside the jar, which is good, but...\n... whatever it is, looking at it for too long is clearly dangerous.\n\nWith some effort, we manage to peel {0} away from the jar.\n{0} is holding an old, tattered scroll.\nIt might prove to be useful in the coming battles, so I decide to take it with us."
+        "罪人{0}向甕中看去。\n\n「……！」\n「……」\n「……？」\n\n罪人{0}看向甕中後，開始唸叨起意義不明的話。\n幸好似乎沒有人被關在裡面……\n但繼續看下去似乎也很危險。\n\n設法將一直看著甕內的罪人{0}拉開後。\n被拉開的罪人手中不知何時握著一卷陳舊的卷軸。\n或許在之後的戰鬥中能派上用場，還是帶著走吧。"
       ],
       "failureDesc": [
-        "{0} looks into the jar.\n\n‘!?#*$!’\n‘…*!&@^?!’\n‘@%#&…’\n\n{0} begins to babble incomprehensibly.\nI don't think there's a person inside the jar, which is good, but...\n... whatever it is, looking at it for too long is clearly dangerous.\n\nWith some effort, we barely manage to stop {0} from crawling into the jar.\n{0} is holding an old, tattered scroll.\nIt might come in useful for the coming battles, so I decide to take it with us."
+        "罪人{0}向甕中看去。\n\n「!?#*$!」\n「…*!&@^?!」\n「@%#&…」\n\n罪人{0}看向甕中後，開始唸叨起意義不明的話。\n幸好似乎沒有人被關在裡面……\n但繼續看下去似乎也很危險。\n\n設法將想要進到甕內的罪人{0}拉開後。\n被拉開的罪人手中不知何時握著一卷陳舊的卷軸。\n或許在之後的戰鬥中能派上用場，還是帶著走吧。"
       ]
     },
     {
       "id": 1081001,
       "title": "공포_견디기",
       "eventDesc": "",
-      "behaveDesc": "Who has the highest resistance to fear?",
+      "behaveDesc": "誰最擅長忍受恐懼？",
       "successDesc": [
-        "{0} and some other candidates' clan members crawl into the jars.\nThe device activates, and all kinds of creepy, crawly bugs pour out of the device and into the jar.\n{0} manages to stay inside, despite the horror...\n... but everyone else jumps out of the jars, screaming.\n\n'Looks like our dear audience really enjoyed that.'\n'Well... It's too bad, but the coins are only for the brave ones who managed to stay inside the jar!'\n\nCoins fall out from near the speaker.\n{0} crawls out of the jar as well with a look that cannot be described as anything positive."
+        "包含罪人{0}在內的幾名候選人的下屬進入了甕中。\n過了一會，裝置啟動了，各種蟲子蠕動著掉進了甕裡。\n罪人{0}忍著厭惡感堅持到了最後……\n而其他的下屬則慘叫著逃出了甕。\n\n「觀眾們似乎看得很開心。」\n「那麼……雖然很遺憾，但銅錢只會給予勇敢堅持到最後之人！」\n\n揚聲器所在的地方掉落了幾枚銅錢。\n不久後，罪人{0}面如死灰地從甕中走了出來。"
       ],
       "failureDesc": [
-        "{0} and some other candidates' clan members crawl into the jars.\nThe device activates, and all kinds of creepy, crawly bugs pour out of the device and into the jar.\n{0} leaps out of the jar, unable to stand the sensation of crawling insects.\n\n'Looks like our dear audience really enjoyed that.'\n'Well... It's too bad, but the coins are only for the brave ones who managed to stay inside the jar!'\n\nCoins fall out from near the speaker, but another candidate picks them up."
+        "包含罪人{0}在內的幾名候選人的下屬進入了甕中。\n過了一會，裝置啟動了，各種蟲子蠕動著掉進了甕裡。\n罪人{0}難忍厭惡感，逃出了甕。\n\n「觀眾們似乎看得很開心。」\n「那麼……雖然很遺憾，但銅錢只會給予勇敢堅持到最後之人！」\n\n揚聲器所在的地方掉落的銅錢被其他的候選人拿走了。"
       ]
     },
     {
       "id": 1081301,
       "title": "막바지_보너스_내기",
-      "eventDesc": "'Ah, so there's a mutual agreement between the two candidates! The <i>wager</i> it is, then!'\n\n'Very well! Place five of your coins in front of you, and...'\n\n'... send out a member of your clan, and have them give a presentation on why their 'candidate' is more deserving of the Family Hierarch seat!'\n\n'Refute your opponent's argument while reinforcing your own, and... our dear audience will choose the winner.'\n\n'Alright, then! Send out your most articulate and persuasive representatives!'",
-      "behaveDesc": "Which one of us is the best debater?",
+      "eventDesc": "「看來兩位候選人都希望『打賭』啊？」\n\n「非常好！那麼雙方請交出五枚銅錢……」\n\n「請候選人各派出一位勢力成員出列，簡述自己的『候選人』值得成為家主的理由！」\n\n「駁斥對方的論點，強調自己的觀點……觀眾們會決定勝負。」\n\n「那麼各位候選人！請讓對口才有自信的成員出列！」",
+      "behaveDesc": "誰的口才最好？",
       "successDesc": [
-        "{0} crushes the opponent's argument with ease.\n\nThe opposing candidate's representative falls to their knees, clearly devastated by their loss.\n\n'Congratulations to the winner!'\n\n{0} gathers all the coins from the ground."
+        "罪人{0}以驚人的口才壓制了對方。\n\n被駁倒的候選人的勢力成員像是陷入混亂一樣當場癱坐在地。\n\n「恭喜！」\n\n罪人{0}把掉在地板上的銅錢全都撿了過來。"
       ],
       "failureDesc": [
-        "The opposing representative crushes {0}'s argument with ease...\n\nThey walk up to us triumphantly to take the coins we've placed on the ground as {0} just stands there, overwhelmed.\n\n... What should we do?"
+        "對方以驚人的口才壓制了罪人{0}。\n\n面對一臉困惑的罪人，對手的勢力成員準備帶著銅錢離開。\n\n該如何抉擇？"
       ]
     }
   ]

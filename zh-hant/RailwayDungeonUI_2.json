@@ -18,7 +18,7 @@
     },
     {
       "id": "railway_dungeon_ask_to_select_buff_and_rotate",
-      "content": "是否通過路線回到 <color=#0f7137>起點站</color>？\n\n<size=90%>移動後將會增加巡迴數，\n並選擇將要啟動的 <color=#0f7137>友方BUFF</color> 與 <color=#990000>敵方BUFF</color>。</size>"
+      "content": "是否通過路線回到 <color=#0f7137>起點站</color>？\n\n<size=90%>移動後將會增加巡迴數，\n並選擇將要啟用的 <color=#0f7137>友方BUFF</color> 與 <color=#990000>敵方BUFF</color>。</size>"
     },
     {
       "id": "railway_dungeon_current_rotation_count_title",
@@ -94,11 +94,11 @@
     },
     {
       "id": "railway_dungeon_2_buff_acquire_ally_buff",
-      "content": "選擇1種友方BUFF。"
+      "content": "選擇1種<style=\"railwayDungeonAlly\">友方BUFF</style>。"
     },
     {
       "id": "railway_dungeon_2_buff_acquire_enemy_buff",
-      "content": "選擇1種敵方BUFF。"
+      "content": "選擇1種<style=\"railwayDungeonEnemy\">敵方BUFF</style>。"
     },
     {
       "id": "railway_dungeon_2_buff_not_selectable",
@@ -214,7 +214,7 @@
     },
     {
       "id": "railway_dungeon_2_current_battle_turn_count",
-      "content": "本站歷經的回合數：<size=\"60%\">{0}</size>"
+      "content": "本站歷經的回合數：<style=\"number_highlight\"><size=\"60%\">{0}</size></style>"
     },
     {
       "id": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count",

@@ -42,7 +42,7 @@
     },
     {
       "id": "mainui_battleselection_everydungeon",
-      "content": "鏡像迷宮"
+      "content": "映象迷宮"
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
@@ -114,7 +114,7 @@
     },
     {
       "id": "mainui_common_state",
-      "content": "當前"
+      "content": "目前"
     },
     {
       "id": "mainui_common_sort",
@@ -214,7 +214,7 @@
     },
     {
       "id": "mainui_mirror_entrance_warning",
-      "content": "※已消耗的腦啡肽模塊將不會返還。"
+      "content": "※已消耗的腦啡肽模組將不會返還。"
     },
     {
       "id": "mainui_proress",
@@ -246,7 +246,7 @@
     },
     {
       "id": "mainui_category",
-      "content": "類型"
+      "content": "型別"
     },
     {
       "id": "mainui_stats_hp",
@@ -254,7 +254,7 @@
     },
     {
       "id": "mainui_stats_speed",
-      "content": "速度值"
+      "content": "速度"
     },
     {
       "id": "mainui_stats_defense",
@@ -294,7 +294,7 @@
     },
     {
       "id": "mainui_gacha_rateinfo",
-      "content": "機率詳情"
+      "content": "概率詳情"
     },
     {
       "id": "mainui_gacha_history",
@@ -326,7 +326,7 @@
     },
     {
       "id": "mainui_type",
-      "content": "類型"
+      "content": "型別"
     },
     {
       "id": "mainui_level_unit",
@@ -342,7 +342,7 @@
     },
     {
       "id": "mainui_networkingerror_content",
-      "content": "網路連接不穩定。\n請檢查網路狀態"
+      "content": "網路連線不穩定。\n請檢查網路狀態"
     },
     {
       "id": "mainui_networkingerror_close",
@@ -474,7 +474,7 @@
     },
     {
       "id": "main_information",
-      "content": "情報"
+      "content": "資訊"
     },
     {
       "id": "main_until",
@@ -510,7 +510,7 @@
     },
     {
       "id": "giving_up_story_dungeon_content",
-      "content": "當前正在進行主線劇情{0}的迷宮探索。\n要放棄當前進度並開始新的探索嗎？"
+      "content": "目前正在進行主線故事{0}的迷宮探索。\n要放棄目前進度並開始新的探索嗎？"
     },
     {
       "id": "mainui_all",
@@ -542,7 +542,7 @@
     },
     {
       "id": "mainui_inventory",
-      "content": "背包"
+      "content": "揹包"
     },
     {
       "id": "mainui_awaken_requirement_amount",
@@ -618,11 +618,11 @@
     },
     {
       "id": "mainui_ego_awaken_skill_name_reinforcement",
-      "content": "覺醒E.G.O技能強化"
+      "content": "覺醒E.G.O技能[{0}]強化"
     },
     {
       "id": "mainui_ego_erosion_skill_name_reinforcement",
-      "content": "侵蝕E.G.O技能強化"
+      "content": "侵蝕E.G.O技能[{0}]強化"
     },
     {
       "id": "mainui_specific_level_achievement",
@@ -654,7 +654,7 @@
     },
     {
       "id": "mainui_activation",
-      "content": "啟動"
+      "content": "啟用"
     },
     {
       "id": "mainui_ask_purchase_enkephalin",
@@ -710,7 +710,7 @@
     },
     {
       "id": "game_setting",
-      "content": "遊戲設定"
+      "content": "設定"
     },
     {
       "id": "level",
@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "{0}次提取後必定獲得3星人格"
+      "content": "{0}次提取後必定獲得3★人格"
     },
     {
       "id": "mainui_settings",
@@ -846,7 +846,7 @@
     },
     {
       "id": "gacha_category",
-      "content": "類型"
+      "content": "型別"
     },
     {
       "id": "gacha_time",
@@ -858,7 +858,7 @@
     },
     {
       "id": "mainui_ask_purchase_enkephalin_module",
-      "content": "腦啡肽模塊不足。\n要進行合成嗎？"
+      "content": "腦啡肽模組不足。\n要進行合成嗎？"
     },
     {
       "id": "list",
@@ -870,15 +870,15 @@
     },
     {
       "id": "probability",
-      "content": "機率"
+      "content": "概率"
     },
     {
       "id": "gacha_rate_label",
-      "content": "提取機率"
+      "content": "提取概率"
     },
     {
       "id": "gacha_rate_title_ten1",
-      "content": "[提取10次（第1-9次）]: 與[提取1次]一致"
+      "content": "[提取10次（第1~9次）]：與[提取1次]一致"
     },
     {
       "id": "gacha_rate_title_ten2",
@@ -886,35 +886,35 @@
     },
     {
       "id": "gacha_rate_info_intro1",
-      "content": "根據「韓國遊戲產業協會自願約束準則」的規定，我們在此處列出所有基於機率來獲得的遊戲道具所對應的具體機率。\n\n所示每個道具對應的機率都是小數點後五位向上取整的結果，實際數值之和為100%。"
+      "content": "根據「韓國遊戲產業協會自願約束準則」的規定，我們在此處列出所有基於概率來獲得的遊戲道具所對應的具體概率。\n\n所示每個道具對應的概率都是小數點後五位向上取整的結果。實際數值之和為100%。[提取1次]的具體概率如下："
     },
     {
       "id": "gacha_rate_info_intro2",
-      "content": "每次[提取10次]中，至少會提取出1個2星或更高稀有度的人格。\n\n第10次提取的具體機率如下："
+      "content": "每次[提取10次]中，至少會提取出1個2★或更高稀有度的人格。\n\n第10次提取的具體概率如下："
     },
     {
       "id": "gacha_rate_info_ego1",
-      "content": "下方是在上述機率條件下每個人格或E.G.O的單獨提取機率列表。\n\n該列表有可能會隨著賽季更變而發生改變，卡池列表發生改變時會提前進行告知。"
+      "content": "下方是在上述概率條件下每個人格或E.G.O的單獨提取概率列表。\n\n該列表有可能會隨著賽季更變而發生改變；卡池列表發生改變時會提前進行告知。"
     },
     {
       "id": "gacha_rate_info_ego2",
-      "content": "<b>E.G.O不會被重複提取。通過任何途徑獲得的E.G.O（包括提取，自動販賣機與郵件領取）都會使相應E.G.O從卡池中移除。</b>\n\n只要卡池列表中可供提取的E.G.O還有剩餘，提取出E.G.O的機率就不會發生變化。換句話說，提取出的其他E.G.O越多，獲得特定E.G.O的機率就越高。"
+      "content": "<b>E.G.O不會被重複提取。通過任何途徑獲得的E.G.O（包括提取，自動販賣機與郵件領取）都會使相應E.G.O從卡池中移除。</b>\n\n只要卡池列表中可供提取的E.G.O還有剩餘，提取出E.G.O的概率就不會發生變化。換句話說，提取出的其他E.G.O越多，獲得特定E.G.O的概率就越高。"
     },
     {
       "id": "gacha_rate_info_complete1",
-      "content": "若您已經擁有所有E.G.O，使得卡池中沒有任何可供提取的E.G.O剩餘，則[提取1次]和[提取10次]的機率如下："
+      "content": "若您已經擁有所有E.G.O，使得卡池中沒有任何可供提取的E.G.O剩餘，則[提取1次]和[提取10次]的概率如下："
     },
     {
       "id": "gacha_rate_info_complete2",
-      "content": "在特定提取中，特定人格與E.G.O的提取機率將會上升。\n\n特定提取中目標角色各人格的提取機率為各自稀有度對應機率的50%，若該角色有多個稀有度相同的人格，則它們會平分這一機率。\n\n其他並非特定提取目標角色的人格則平分各自稀有度剩餘的50%提取機率。"
+      "content": "在定向提取中，特定人格與E.G.O的提取概率將會上升。\n\n定向提取中目標角色各人格的提取概率為各自稀有度對應概率的50%；若該角色有多個稀有度相同的人格，則它們會平分這一概率。\n\n其他並非定向提取目標角色的人格則平分各自稀有度剩餘的50%提取概率。"
     },
     {
       "id": "gacha_rate_info_complete3",
-      "content": "特定提取目標角色的E.G.O同理。\n\n特定提取帶來的提取機率改變不會影響各個稀有度與類型所對應的總機率。"
+      "content": "定向提取目標角色的E.G.O同理。\n\n定向提取帶來的提取概率改變不會影響各個稀有度與型別所對應的總概率。"
     },
     {
       "id": "gacha_rate_info_piece1",
-      "content": "★ 自我碎片\n當您提取出您已經擁有的人格或E.G.O（如果可以）時，您將會獲得對應角色的自我碎片，其數量取決於提取結果的稀有度與類型。"
+      "content": "★ 自我碎片\n當您提取出您已經擁有的人格或E.G.O（如果可以）時，您將會獲得對應角色的自我碎片，其數量取決於提取結果的稀有度與型別。"
     },
     {
       "id": "gacha_rate_info_piece2",
@@ -954,7 +954,7 @@
     },
     {
       "id": "limbus_pass_reward",
-      "content": "巴士通行證獎勵"
+      "content": "邊獄通行證獎勵"
     },
     {
       "id": "loading_battlehint",
@@ -1058,15 +1058,15 @@
     },
     {
       "id": "min_speed_upgrade",
-      "content": "最小值提升"
+      "content": "最小速度值提升"
     },
     {
       "id": "max_speed_upgrade",
-      "content": "最大值提升"
+      "content": "最大速度值提升"
     },
     {
       "id": "min_max_speed_upgrade",
-      "content": "最大最小值提升"
+      "content": "最小與最大速度值提升"
     },
     {
       "id": "mailbox",
@@ -1086,7 +1086,7 @@
     },
     {
       "id": "classification",
-      "content": "類型"
+      "content": "型別"
     },
     {
       "id": "quantity",
@@ -1094,11 +1094,11 @@
     },
     {
       "id": "appearance_probability",
-      "content": "提取機率"
+      "content": "提取概率"
     },
     {
       "id": "Individual_appearance_probability",
-      "content": "單獨提取機率"
+      "content": "單獨提取概率"
     },
     {
       "id": "notice_sold_out",
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "gacha_rate_detail",
-      "content": "提取機率詳情"
+      "content": "提取概率詳情"
     },
     {
       "id": "gacha_alarm_title",
@@ -1142,7 +1142,7 @@
     },
     {
       "id": "remote_download_return_title",
-      "content": "需要進行數據更新。\n即將返回至標題介面。"
+      "content": "需要進行數據更新。\n即將返回至標題界面。"
     },
     {
       "id": "battle_skip",
@@ -1166,11 +1166,11 @@
     },
     {
       "id": "gacha_notice_single_season",
-      "content": "此提取包含的2星及3星人格屬於第{0}賽季。"
+      "content": "此提取包含的2★及3★人格屬於第{0}賽季。"
     },
     {
       "id": "error_and_return_to_main",
-      "content": "錯誤發生。\n返回至標題介面。"
+      "content": "錯誤發生。\n返回至標題界面。"
     },
     {
       "id": "to_window",
@@ -1190,11 +1190,11 @@
     },
     {
       "id": "gacha_rate_info_intro1_1a",
-      "content": "提取1次時，提取機率如下。"
+      "content": "提取1次時，提取概率如下。"
     },
     {
       "id": "gacha_rate_info_intro1_1b",
-      "content": "使用1次{0}時，獲取機率如下。"
+      "content": "使用1次{0}時，獲取概率概率如下。"
     },
     {
       "id": "gacha_rate_info_intro1_1c",
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "package_info_detail1",
-      "content": "選定需要獲取的道具後，使用一次{0}後獲取道具的機率如下。"
+      "content": "選定需要獲取的道具後，使用一次{0}後獲取道具的概率如下。"
     },
     {
       "id": "package_info_detail2",
@@ -1218,7 +1218,7 @@
     },
     {
       "id": "package_info_title",
-      "content": "道具獲取機率詳情"
+      "content": "道具獲取概率詳情"
     },
     {
       "id": "used_once",
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "probability_details",
-      "content": "機率詳情"
+      "content": "概率詳情"
     },
     {
       "id": "be_in_use",
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "panic_type",
-      "content": "恐慌類型"
+      "content": "恐慌型別"
     },
     {
       "id": "mental_strength",
@@ -1266,11 +1266,11 @@
     },
     {
       "id": "open_scheduled_date_month_day",
-      "content": "計畫於{0}月{1}日開放"
+      "content": "計劃於{0}月{1}日開放"
     },
     {
       "id": "mainui_acquire_user_ticker_deco",
-      "content": "獲得道具"
+      "content": "獲得物品"
     },
     {
       "id": "last_battlepass_season_level",
@@ -1306,7 +1306,7 @@
     },
     {
       "id": "new_season_former_piece_to_current_piece_desc",
-      "content": "先前賽季擁有的自我碎片會按照一定比例轉化為當前賽季的自我碎片。"
+      "content": "先前賽季擁有的自我碎片會按照一定比例轉化為目前賽季的自我碎片。"
     },
     {
       "id": "new_season_former_piece_to_thread_desc",
@@ -1314,7 +1314,7 @@
     },
     {
       "id": "new_season_former_box_to_current_box_desc",
-      "content": "先前賽季擁有的自我碎片箱（包括隨機與自選）都會按照一定比例轉化為當前賽季的自我碎片箱。"
+      "content": "先前賽季擁有的自我碎片箱（包括隨機與自選）都會按照一定比例轉化為目前賽季的自我碎片箱。"
     },
     {
       "id": "new_season_former_box_to_thread_box",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "notice_of_pity_system",
-      "content": "在卡池持續期間，進行提取可以獲得[理想]。\n收集一定數量的[理想]即可兌換當前特定提取的3星人格以及E.G.O。\n\n※ 不同卡池之間不會共享[理想]，每個卡池都會獨立計算[理想]數量。\n※ 當卡池結束時，剩餘的[理想]將會轉化為紡錘。"
+      "content": "在卡池持續期間，進行提取可以獲得[理想]。\n收集一定數量的[理想]\n即可兌換目前卡池目標的3★人格或E.G.O。\n\n※ 不同卡池之間不會共享[理想]，每個卡池都會獨立計算[理想]數量。\n※ 當卡池結束時，剩餘的[理想]將會轉化為紡錘。"
     },
     {
       "id": "twine_store",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "lack_of_formation_participation",
-      "content": "本場戰鬥中，可以選中<color=#990000>最多{0}名</color>罪人參加戰鬥。"
+      "content": "本場戰鬥中，可以選中<color=#990000>最多{0}名</color>罪人蔘加戰鬥。"
     },
     {
       "id": "tutorial_formation_participation_add_title",
@@ -1402,7 +1402,7 @@
     },
     {
       "id": "tutorial_formation_participation_add_desc",
-      "content": "當前關卡似乎允許比上個關卡更多的罪人參戰。此時，隊伍編成按鈕將會閃爍。"
+      "content": "目前關卡似乎允許比上個關卡更多的罪人蔘戰。此時，隊伍編成按鈕將會閃爍。"
     },
     {
       "id": "could_not_select_friend_support_in_this_dungeon",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "進入後，您將無法再移動到迷宮的其他地點，罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
+      "content": "進入後，您將無法再移動到迷宮的其他地點；罪人{0}的體力將會全部恢復，理智值將會重置為0。\n您確定要繼續嗎？"
     },
     {
       "id": "story_dungeon_4_first_open_popup_desc",
@@ -1498,11 +1498,11 @@
     },
     {
       "id": "enable_count_for_battle",
-      "content": "可參戰人數"
+      "content": "可參戰\n人數"
     },
     {
       "id": "select_for_formation",
-      "content": "選擇人格參戰"
+      "content": "選擇人格\n參戰"
     },
     {
       "id": "edit_for_formation",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "full_participated",
-      "content": "參戰人數達到上限"
+      "content": "參戰人數\n達到上限"
     },
     {
       "id": "select_for_delete_participation",
@@ -1562,7 +1562,7 @@
     },
     {
       "id": "effect_list_to_applied_level",
-      "content": "當前等級效果"
+      "content": "目前等級效果"
     },
     {
       "id": "choice_event_effect",
@@ -1582,7 +1582,7 @@
     },
     {
       "id": "formation_view_detail",
-      "content": "查看詳情"
+      "content": "檢視詳情"
     },
     {
       "id": "only_hyphen",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "gacha_rate_info_announcer1",
-      "content": "根據上表的提取機率，可以獲得下表所述的人格、E.G.O以及播報員。\n\n可以獲得的人格、E.G.O以及播報員可能會根據特定的賽季作出變更，在這種情況下，將會在變更前提前通知。"
+      "content": "根據上表的提取概率，可以獲得下表所述的人格、E.G.O、以及播報員。\n\n可以獲得的人格、E.G.O、以及播音員可能會根據特定的賽季作出變更，在這種情況下，將會在變更前提前通知。"
     },
     {
       "id": "mainui_battleresult_ordeal_victory",
@@ -1686,31 +1686,31 @@
     },
     {
       "id": "unlink_account_title",
-      "content": "選擇要解除綁定的帳號"
+      "content": "選擇要解除繫結的賬號"
     },
     {
       "id": "unlink_account_current_account",
-      "content": "當前帳號"
+      "content": "目前賬號"
     },
     {
       "id": "unlink_account_linked_account",
-      "content": "已綁定帳號"
+      "content": "已繫結賬號"
     },
     {
       "id": "unlink_account_desc",
-      "content": "解除綁定後，{0}日內無法再次解除。"
+      "content": "解除繫結後，{0}日內無法再次解除。"
     },
     {
       "id": "unlink_account_desc_unable_by_day",
-      "content": "{0}後可以再次解除綁定。"
+      "content": "{0}後可以再次解除繫結。"
     },
     {
       "id": "unlink_account_complete_title",
-      "content": "已解除綁定"
+      "content": "已解除繫結"
     },
     {
       "id": "unlink_account_complete_desc",
-      "content": "成功解除綁定。\n將返回標題介面。"
+      "content": "成功解除繫結後，\n將返回標題界面。"
     },
     {
       "id": "mainui_stageinfo_effectiveAttribute",
@@ -1766,7 +1766,7 @@
     },
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
-      "content": "在您當前的故事進度使用本張票券\n將使您選擇的人格提升等級至{1}而非{0}，\n且可能造成大量的經驗值損失。\n\n您確定要使用本張票券嗎？"
+      "content": "在您目前的故事進度使用本張票券\n將使您選擇的人格提升等級至{1}而非{0}，\n且可能造成大量的經驗值損失。\n\n您確定要使用本張票券嗎？"
     },
     {
       "id": "mainui_exp_dungeon_7_title",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "mainui_exp_dungeon_7_open_day",
-      "content": "經驗採光#7（斬擊）將在週一，週二，週日開放。"
+      "content": "經驗採光#7（斬擊）將在週一、週二、週日開放。"
     },
     {
       "id": "mainui_exp_dungeon_8_title",
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "mainui_exp_dungeon_8_open_day",
-      "content": "經驗採光#7（突刺）將在週三，週四，週日開放。"
+      "content": "經驗採光#7（突刺）將在週三、週四、週日開放。"
     },
     {
       "id": "mainui_exp_dungeon_9_title",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "mainui_exp_dungeon_9_open_day",
-      "content": "經驗採光#7（打擊）將在週五，週六，週日開放。"
+      "content": "經驗採光#7（打擊）將在週五、週六、週日開放。"
     },
     {
       "id": "mainui_default_personality_blocked",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "mass_announcer_spoiler_caution",
-      "content": "將領取的獎勵列表中播報員可能包含對尚未通過的章節的劇透。\n\n是否領取獎勵？"
+      "content": "將領取的獎勵列表中\n播報員可能包含\n對尚未通過的章節的劇透。\n\n是否領取獎勵？"
     },
     {
       "id": "select_all",
@@ -1826,11 +1826,11 @@
     },
     {
       "id": "story_voice_setting_ui_desc",
-      "content": "（臨時Dummy）請選擇要應用語音的項目。"
+      "content": "（臨時Dummy）請選擇要應用語音的專案。"
     },
     {
       "id": "vending_machine_item_available_date_label",
-      "content": "{0}月{1}日{2} ({3})後可在自動販賣機兌換"
+      "content": "{0}月{1}日{2} ({3})後\n可在自動販賣機兌換"
     },
     {
       "id": "gacha_notice_vending_available_date",
@@ -1862,35 +1862,35 @@
     },
     {
       "id": "remote_download_quit_game",
-      "content": "增加了新的下載項目。\n遊戲即將關閉，請重啟遊戲以下載。"
+      "content": "增加了新的下載專案。\n遊戲即將關閉，請重啟遊戲以下載。"
     },
     {
       "id": "mainui_settings_battle_speech",
-      "content": "戰鬥中的台詞字幕"
+      "content": "戰鬥中臺詞字幕"
     },
     {
       "id": "unable_to_upgrade_sync_level_by_main_story_1",
-      "content": "主線劇情\n通過第1章時\n自動進行"
+      "content": "主線劇情\n第1章通關時\n自動進行"
     },
     {
       "id": "unable_to_upgrade_sync_level_by_main_story_2",
-      "content": "主線劇情\n通關第2章時\n自動進行"
+      "content": "主線劇情\n第2章通關時\n自動進行"
     },
     {
       "id": "exp_dungeon_opened_desc",
-      "content": "已開放經驗採光"
+      "content": "經驗採光已解鎖。"
     },
     {
       "id": "abnormality_tutorial_battle_participate_desc",
-      "content": "請選擇五名參與戰鬥的罪人。"
+      "content": "選擇5名罪人蔘與此戰鬥"
     },
     {
       "id": "thread_dungeon_opened_desc",
-      "content": "已開放紡錘採光。"
+      "content": "紡錘採光已解鎖"
     },
     {
       "id": "mirror_dungeon_opened_desc",
-      "content": "已開放鏡像迷宮。"
+      "content": "映象迷宮已解鎖"
     },
     {
       "id": "ego_gift_combine_explain_title",
@@ -1902,11 +1902,11 @@
     },
     {
       "id": "ego_gift_combine_explain_label_attack_type",
-      "content": "攻擊類型"
+      "content": "攻擊型別"
     },
     {
       "id": "ego_gift_combine_explain_label_etc",
-      "content": "雜項"
+      "content": "其他"
     },
     {
       "id": "ego_gift_combine_explain_button_label",
@@ -1914,7 +1914,7 @@
     },
     {
       "id": "ego_gift_combine_explain_no_item_list",
-      "content": "沒有相關的E.G.O飾品合成配方。"
+      "content": "相關E.G.O飾品合成配方不存在"
     },
     {
       "id": "ego_gift_combine_explain_required_label",
@@ -1922,11 +1922,11 @@
     },
     {
       "id": "attendance_event_s6_desc",
-      "content": "活動期間，將根據累積簽到總次數獲得相應獎勵。獎勵將與彈出視窗同時自動領取。\n\n總計簽到14日時，將獲得全部獎勵。"
+      "content": "活動期間中，可以根據累計簽到天數獲取獎勵。獎勵會在相應的彈窗出現時自動領取。\n\n簽到14天時，可獲得所有獎勵。"
     },
     {
       "id": "formation_none_selected_desc",
-      "content": "仍有尚未指定編隊順序的罪人。\n\n請指定罪人的編隊順序。"
+      "content": "沒有指定編隊順序的罪人。\n\n請指定罪人的編隊順序。"
     },
     {
       "id": "ego_gift_category_current_theme",
@@ -1938,7 +1938,7 @@
     },
     {
       "id": "mainui_exp_dungeon_10_open_day",
-      "content": "經驗採光#8（斬擊）將在週一，週二，週日開放。"
+      "content": "經驗採光#8（斬擊）將在週一、週二、週日開放。"
     },
     {
       "id": "mainui_exp_dungeon_11_title",
@@ -1946,7 +1946,7 @@
     },
     {
       "id": "mainui_exp_dungeon_11_open_day",
-      "content": "經驗採光#8（突刺）將在週三，週四，週日開放。"
+      "content": "經驗採光#8（突刺）將在週三、週四、週日開放。"
     },
     {
       "id": "mainui_exp_dungeon_12_title",
@@ -1954,7 +1954,7 @@
     },
     {
       "id": "mainui_exp_dungeon_12_open_day",
-      "content": "經驗採光#8（打擊）將在週五，週六，週日開放。"
+      "content": "經驗採光#8（打擊）將在週五、週六、週日開放。"
     }
   ]
 }

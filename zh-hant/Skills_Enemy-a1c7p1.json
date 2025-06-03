@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血式突刺",
+          "name": "硬血強化突刺",
           "desc": "",
           "coinlist": [
             {
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "硬血斬擊",
-          "desc": "[WhenUse] 若目標的 [Laceration] 強度不低於8級，則使本技能造成的傷害+20%",
+          "desc": "[WhenUse] 若目標的流血 強度不低於8級，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -114,7 +114,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -127,20 +127,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血式撕裂",
+          "name": "硬血割裂",
           "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能造成的傷害+10%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的流血 強度不低於6級，則使自身獲得1層硬化血液 "
@@ -150,7 +150,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身增加8級流血 強度並使自身獲得1層染血的剪刃 "
@@ -166,13 +166,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "硬血式強化撕裂",
+          "name": "硬血強化割裂",
           "desc": "[WhenUse] 若目標的流血 層數不低於6層，則使本技能的基礎威力+1\n自身每帶有1層硬化血液 ，使本技能造成的傷害+5%(最多+25%)\n[EndSkill] 消耗所有[HardenedBlood]與[BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級 [Laceration] 強度並對其施加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度並對其施加2層流血 "
                 }
               ]
             },
@@ -260,7 +260,7 @@
         {
           "level": 1,
           "name": "現在還能參加活動！",
-          "desc": "[WhenUse] 消耗最多50層血宴 ，每消耗10層血宴 ，使自身獲得1層染血的剪刃 \n[WhenUse] 若本技能未消耗血宴 ，則使自身增加5級流血 強度並使自身獲得1層硬化血液 \n[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1",
+          "desc": "[WhenUse] 消耗至多50層血宴 ，每消耗10層血宴 ，使自身獲得1層染血的剪刃 \n[WhenUse] 若本技能未消耗血宴 ，則使自身增加5級流血 強度並使自身獲得1層硬化血液 \n[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -285,8 +285,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "别著急",
-          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層染血的剪刃 ，使本技能拚點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
+          "name": "彆著急",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 自身每帶有1層染血的剪刃 ，使本技能拼點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -302,7 +302,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗最多5層染血的剪刃 ，使本硬幣造成的傷害+(20×消耗的染血的剪刃 層數)%(最多+100%)"
+                  "desc": "[OnSucceedAttack] 消耗至多5層染血的剪刃 ，使本硬幣造成的傷害+(20×消耗的染血的剪刃 層數)%(最多+100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多30%)"
@@ -343,14 +343,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -386,7 +386,7 @@
         {
           "level": 1,
           "name": "如此美味！",
-          "desc": "[WhenUse] 消耗最多50層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]\n[WhenUse] 若本技能未消耗[BloodDinner]，則使自身增加5級流血 強度並使自身獲得1層[HardenedBlood]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗至多50層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]\n[WhenUse] 若本技能未消耗[BloodDinner]，則使自身增加5級流血 強度並使自身獲得1層[HardenedBlood]\n[WhenUse] 若目標的流血 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -412,7 +412,7 @@
         {
           "level": 1,
           "name": "你就像只過街老鼠！",
-          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1\n[WhenUse] 自身每帶有1層染血的剪刃 ，使本技能拚點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
+          "desc": "[WhenUse] 若目標的流血 強度不低於5級，則使本技能硬幣威力+1\n[WhenUse] 自身每帶有1層染血的剪刃 ，使本技能拼點威力+1(最多+3)\n自身每帶有1層硬化血液 ，使本技能造成的傷害+7%(最多+35%)\n[EndSkill] 消耗所有硬化血液 ",
           "coinlist": [
             {
               "coindescs": [
@@ -428,7 +428,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗最多5層染血的剪刃 ，使本硬幣造成的傷害+(20×消耗的染血的剪刃 層數)%(最多+100%)"
+                  "desc": "[OnSucceedAttack] 消耗至多5層染血的剪刃 ，使本硬幣造成的傷害+(20×消耗的染血的剪刃 層數)%(最多+100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使自身恢復體力上限(目標的流血 強度)%的體力(最多30%)"
@@ -571,7 +571,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層 [Burst]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層防禦等級降低 "
@@ -680,7 +680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] 使本硬幣造成的傷害+20%"

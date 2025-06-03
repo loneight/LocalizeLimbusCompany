@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "clear_turn",
-      "content": "通關回合數"
+      "content": "清剿回合數"
     },
     {
       "id": "accumulated_turn",
@@ -14,7 +14,7 @@
     },
     {
       "id": "reward_after_clear",
-      "content": "通關獎勵"
+      "content": "清剿獎勵"
     },
     {
       "id": "lost_and_found",
@@ -26,7 +26,7 @@
     },
     {
       "id": "progressing_railway_line",
-      "content": "行進線路: {0}"
+      "content": "行進線路：{0}"
     },
     {
       "id": "select_railway_line",
@@ -66,7 +66,7 @@
     },
     {
       "id": "use_enkephalin_module_to_acquire_rewards",
-      "content": "是否花費<color=#990000>{0}腦啡肽模塊</color>\n以領取獎勵？"
+      "content": "是否花費<color=#990000>{0}腦啡肽模組</color>\n以領取獎勵？"
     },
     {
       "id": "able_to_acquire_rewards_without_using_enkephalin_module",
@@ -74,7 +74,7 @@
     },
     {
       "id": "railway_dungeon_ask_for_re_enter",
-      "content": "當前位於第<color=#990000>{0}站{1}</color>.\n是否返回站點？"
+      "content": "目前位於第<color=#990000>{0}站{1}</color>.\n是否返回站點？"
     },
     {
       "id": "railway_dungeon_current_running",
@@ -82,7 +82,7 @@
     },
     {
       "id": "final_clear_accumulated_turn",
-      "content": "總計通關回合數"
+      "content": "總計清剿回合數"
     },
     {
       "id": "railway_dungeon_detailed_info",
@@ -90,11 +90,11 @@
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_1",
-      "content": "折射軌道 - 通關第{0}站後"
+      "content": "折射軌道 - 清剿第{0}站後"
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_2",
-      "content": "折射軌道 - 通關第{0}站後 ，總計回合數{1}以下"
+      "content": "折射軌道 - 清剿第{0}站後 ，總計回合數{1}以下"
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_3",
@@ -130,7 +130,7 @@
     },
     {
       "id": "railway_dungeon_open_duration",
-      "content": "運行期間"
+      "content": "執行期間"
     },
     {
       "id": "railway_dungeon_current_station",
@@ -138,7 +138,7 @@
     },
     {
       "id": "railway_dungeon_route_map",
-      "content": "線路運行圖"
+      "content": "線路執行圖"
     },
     {
       "id": "railway_dungeon_resume_operation",
@@ -158,7 +158,7 @@
     },
     {
       "id": "final_clear_accumulated_round",
-      "content": "累計通關巡迴數"
+      "content": "累計清剿巡迴數"
     },
     {
       "id": "railway_clear_date",

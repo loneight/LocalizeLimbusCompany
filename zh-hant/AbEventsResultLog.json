@@ -22,7 +22,7 @@
     },
     {
       "id": "800801_muckwormedapple_success_1_1",
-      "content": "<color=#ebcaa2>金蘋果生成了新的軀幹！</color>"
+      "content": "<color=#ebcaa2>金蘋果產生了新的軀幹！</color>"
     },
     {
       "id": "800801_muckwormedapple_failure_1_1",
@@ -34,7 +34,7 @@
     },
     {
       "id": "800801_muckwormedapple_failure_1_3",
-      "content": "<color=#ebcaa2>金蘋果生成了新的軀幹！</color>"
+      "content": "<color=#ebcaa2>金蘋果產生了新的軀幹！</color>"
     },
     {
       "id": "800201_aztec_circle_1_1",
@@ -214,7 +214,7 @@
     },
     {
       "id": "disappear_ego_gift",
-      "content": "<color=#ebcaa2>E.G.O飾品{0}</color><color=#e30000>已失效</color>"
+      "content": "<color=#e30000>失去</color><color=#ebcaa2>E.G.O飾品{0}</color>"
     },
     {
       "id": "acquire_ego_gift_if_win",
@@ -282,7 +282,7 @@
     },
     {
       "id": "unlock_hidden_node",
-      "content": "<color=#ebcaa2>地圖中追加了新的路線！</color>"
+      "content": "<color=#ebcaa2>地圖中追加了新的道路！</color>"
     },
     {
       "id": "enemy_wave_decrease",

@@ -18,11 +18,11 @@
     },
     {
       "id": "announcer_enemy_break_9_1",
-      "dlg": "那個，我覺得先處理那個敵人會輕鬆一點。"
+      "dlg": "啊，我覺得先處理那個實體會輕鬆些。"
     },
     {
       "id": "announcer_ally_break_9_1",
-      "dlg": "請小心……畢竟不知道精神或身體受傷的同伴會變成什麼樣子……"
+      "dlg": "請小心……畢竟不知道精神或身體受傷的同伴，會變成什麼樣子……"
     },
     {
       "id": "announcer_killenemy_9_1",
@@ -50,11 +50,11 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_9_1",
-      "dlg": "嘴裡突然泛酸……每次危險臨近的時候我都會這樣……？"
+      "dlg": "嘴裡突然泛苦……每次危險臨近的時候我都會這樣……？"
     },
     {
       "id": "announcer_advatk_physical_9_1",
-      "dlg": "傷口十分俐落……那一定就是它們的弱點吧？"
+      "dlg": "傷口十分利落……那一定就是它們的弱點吧？"
     },
     {
       "id": "announcer_disadvatk_physical_9_1",
@@ -66,11 +66,11 @@
     },
     {
       "id": "announcer_disadvatk_attr_9_1",
-      "dlg": "我認為對那個個體使用其他方式會更好……"
+      "dlg": "我認為對那個實體使用其他方式會更好……"
     },
     {
       "id": "announcer_enemy_specialbuff_9_1",
-      "dlg": "敵對個體正蠢蠢欲動。小心謹慎一點比較好。"
+      "dlg": "敵對實體正蠢蠢欲動。小心謹慎一些比較好。"
     },
     {
       "id": "announcer_enemy_specialdebuff_9_1",
@@ -78,23 +78,23 @@
     },
     {
       "id": "announcer_ally_specialbuff_9_1",
-      "dlg": "大家看上去興致正旺。"
+      "dlg": "大家，看上去興致正旺。"
     },
     {
       "id": "announcer_ally_specialdebuff_9_1",
-      "dlg": "但丁經理……稍微讓罪人們休息一下怎麼樣……"
+      "dlg": "但丁經理……稍稍讓罪人們休息一下怎麼樣……"
     },
     {
       "id": "announcer_enemy_destroy_9_1",
-      "dlg": "成功破壞了一個部位！這下事情能稍微輕鬆一點了。"
+      "dlg": "成功破壞了一個部位！這下事情能稍微輕鬆些了。"
     },
     {
       "id": "announcer_enemy_destroy_9_2",
-      "dlg": "缺損部位的管理須知也要另外寫下才行……"
+      "dlg": "缺損部位的管理須知也要另外記下才行……"
     },
     {
       "id": "announcer_round_takebigdmg_9_1",
-      "dlg": "怎麼會……！大家都沒事吧？"
+      "dlg": "怎麼會……！大家，都沒事吧？"
     },
     {
       "id": "announcer_round_takebigdmg_9_2",
@@ -110,7 +110,7 @@
     },
     {
       "id": "announcer_multikillenemy_9_1",
-      "dlg": "一次就能處理那麼多……簡直像魔彈一樣……"
+      "dlg": "一次就能處理那麼多……簡直像魔彈射手一樣……"
     },
     {
       "id": "announcer_equip_9_1",

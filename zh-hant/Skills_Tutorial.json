@@ -205,7 +205,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "拙劣斬擊",
+          "name": "笨拙揮砍",
           "desc": "",
           "coinlist": [
             {}
@@ -231,7 +231,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "沉重一擊",
+          "name": "沉重打擊",
           "desc": "",
           "coinlist": [
             {}
@@ -257,7 +257,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "軟弱打擊",
+          "name": "拙劣打擊",
           "desc": "",
           "coinlist": [
             {}

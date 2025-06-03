@@ -18,7 +18,7 @@
     },
     {
       "id": "tutorial_battle_danteAbility_01_desc_01",
-      "content": "點擊右上方光之樹苗能力按鈕。"
+      "content": "點選右上方光之樹苗能力按鈕。"
     },
     {
       "id": "tutorial_battle_danteAbility_02_desc_01",
@@ -31,6 +31,18 @@
     {
       "id": "ui_activated",
       "content": "發動"
+    },
+    {
+      "id": "IsUnavailableDanteAbility_TitleText",
+      "content": "無法使用此光之樹苗能力。"
+    },
+    {
+      "id": "IsUnavailableDanteAbility_DescText_IsActivatedAbility",
+      "content": "今天已經使用過該光之樹苗能力。"
+    },
+    {
+      "id": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero",
+      "content": "今天的使用次數已用盡。"
     }
   ]
 }

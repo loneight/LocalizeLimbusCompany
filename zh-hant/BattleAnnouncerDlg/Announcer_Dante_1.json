@@ -6,11 +6,11 @@
     },
     {
       "id": "announcer_cheer_1_2",
-      "dlg": "不要過於粗暴的對待自己的身體。不、不是……我只是擔心你才這麼說的。"
+      "dlg": "不要過於勉強自己的身體。不、不是……我只是擔心你才這麼說的。"
     },
     {
       "id": "announcer_specialcheer_1_1",
-      "dlg": "哦……你們是不是傷得很嚴重？我是不是該開始做心理準備了？"
+      "dlg": "呃……你是不是傷得很嚴重？我是不是該開始做心理準備了？"
     },
     {
       "id": "announcer_specialcheer_1_2",
@@ -26,11 +26,11 @@
     },
     {
       "id": "announcer_killenemy_1_1",
-      "dlg": "好。有罪人打倒了敵人。保持氣勢。"
+      "dlg": "好，有罪人打倒了敵人。保持勢頭。"
     },
     {
       "id": "announcer_ally_dead_1_1",
-      "dlg": "有罪人剛剛死了。雖說我是可以幫他復活沒錯……"
+      "dlg": "有罪人剛剛死了。雖說我倒是可以復活……"
     },
     {
       "id": "announcer_enemy_adv_1_1",
@@ -42,7 +42,7 @@
     },
     {
       "id": "announcer_danger_1_1",
-      "dlg": "現在好像是十分關鍵的時刻吧？我相信大家能做出正確的判斷。"
+      "dlg": "現在好像是十分關鍵的時刻吧？我相信你能做出正確的判斷。"
     },
     {
       "id": "announcer_enemy_specialskill_1_1",
@@ -50,11 +50,11 @@
     },
     {
       "id": "announcer_enemy_specialgimmick_1_1",
-      "dlg": "總感覺有什麼非常糟糕的事情要發生了……只有我有不祥的預感嗎？"
+      "dlg": "總感覺有什麼糟糕的事情要發生了……只有我有不祥的預感嗎？"
     },
     {
       "id": "announcer_advatk_physical_1_1",
-      "dlg": "幹得漂亮。看來我方的攻擊開始漸入佳境了。"
+      "dlg": "幹得漂亮。我們打出了一記猛擊。"
     },
     {
       "id": "announcer_disadvatk_physical_1_1",
@@ -66,11 +66,11 @@
     },
     {
       "id": "announcer_disadvatk_attr_1_1",
-      "dlg": "哦……那種罪孽攻擊敵人並不那麼有效。把握下個機會吧。"
+      "dlg": "啊……那種罪孽攻擊敵人並不那麼有效。等下個機會吧。"
     },
     {
       "id": "announcer_enemy_specialbuff_1_1",
-      "dlg": "總感覺敵人在使用一些對他們有利的陰招？大家小心點。"
+      "dlg": "總感覺敵人在使用一些對他們有利的陰招？你們該小心了。"
     },
     {
       "id": "announcer_enemy_specialdebuff_1_1",
@@ -86,7 +86,7 @@
     },
     {
       "id": "announcer_enemy_destroy_1_1",
-      "dlg": "很好，已經破壞了敵人的一個部位。剩下的部位也都這樣來吧。"
+      "dlg": "不錯，已經破壞了敵人的一個部位。剩下的部位也都這樣來吧。"
     },
     {
       "id": "announcer_enemy_destroy_1_2",
@@ -98,11 +98,11 @@
     },
     {
       "id": "announcer_round_takebigdmg_1_2",
-      "dlg": "某人的人格受到了嚴重損傷。"
+      "dlg": "某人的人格遭到了嚴重損傷。"
     },
     {
       "id": "announcer_round_takebigdmg_1_3",
-      "dlg": "剛才可真是漂亮的一擊。你們可以以後都維持這樣嗎？"
+      "dlg": "剛才可真是漂亮的一擊。能不能繼續保持下去啊？"
     },
     {
       "id": "announcer_round_takebigdmg_1_4",
@@ -110,11 +110,11 @@
     },
     {
       "id": "announcer_multikillenemy_1_1",
-      "dlg": "有一名罪人幹掉了多個敵人。回去後會好好表揚你的。"
+      "dlg": "有一名罪人幹掉了多個敵人。這之後值得表揚。"
     },
     {
       "id": "announcer_equip_1_1",
-      "dlg": "雖然是副天天見到膩的面孔……但我來囉。"
+      "dlg": "雖然是副天天見到膩的面孔……但我來咯。"
     },
     {
       "id": "announcer_a1c5p3_ish_special_1_1",

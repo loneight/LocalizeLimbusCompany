@@ -133,8 +133,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "回應",
-          "desc": "[WinDuel] 根據拚點次數相應使本技能造成的傷害增加(每次拚點使本技能造成的傷害+10%，最多+50%)\n[WinDuel] 下回合使自身獲得2層迅捷 \n[DefeatDuel] 下回合對自身施加2層束縛 ",
+          "name": "迴應",
+          "desc": "[WinDuel] 根據拼點次數相應使本技能造成的傷害增加(每次拼點使本技能造成的傷害+10%，最多+50%)\n[WinDuel] 下回合使自身獲得2層迅捷 \n[DefeatDuel] 下回合對自身施加2層束縛 ",
           "coinlist": [
             {
               "coindescs": [
@@ -172,12 +172,12 @@
         {
           "level": 1,
           "name": "給你剪得漂漂亮亮的！",
-          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+3)",
+          "desc": "[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 重複使用本硬幣(自身的[BloodScissor]階段-1)次(最多2次)"
@@ -194,19 +194,19 @@
         {
           "level": 1,
           "name": "更加鋒利",
-          "desc": "[WhenUse] 消耗最多20層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值。\n- 若自身未通過本技能消耗[BloodDinner]，則使自身增加30級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "[WhenUse] 消耗至多20層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值。\n- 若自身未通過本技能消耗[BloodDinner]，則使自身增加30級流血 強度\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -220,7 +220,7 @@
         {
           "level": 1,
           "name": "咔嚓！！",
-          "desc": "[WhenUse] 消耗最多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標帶有[LineCutting]，則使本技能的拚點威力+5\n攻擊命中帶有[LineCutting]的目標時，使自身恢復5點理智值",
+          "desc": "[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標帶有[LineCutting]，則使本技能的拼點威力+5\n攻擊命中帶有[LineCutting]的目標時，使自身恢復5點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
         {
           "level": 1,
           "name": "也把你剪斷！",
-          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1 (最多+2)\n[WhenUse] 消耗最多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拚點威力+2",
+          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1 (最多+2)\n[WhenUse] 消耗至多30層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[WhenUse] 若目標的流血 強度不低於6級，則使本技能的拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -304,7 +304,7 @@
         {
           "level": 1,
           "name": "給你們都剪好！",
-          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1\n[WhenUse] 消耗最多100層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[EndSkill] 消耗10層[BloodScissor]",
+          "desc": "[BeforeAttack] 自身的[BloodScissor]每到1階段，使本技能的攻擊容量+1\n[WhenUse] 消耗至多100層[BloodDinner]，每消耗10層[BloodDinner]，使自身獲得1層[BloodScissor]並恢復3點理智值\n[EndSkill] 消耗10層[BloodScissor]",
           "coinlist": [
             {
               "coindescs": [
@@ -365,7 +365,7 @@
         {
           "level": 1,
           "name": "如此無禮！",
-          "desc": "[DuelCounter]\n[WhenUse] 自身的[BloodScissor]每到1階段，使本技能的拚點威力+1 (最多+3)\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1 (最多+3)",
+          "desc": "[DuelCounter]\n[WhenUse] 自身的[BloodScissor]每到1階段，使本技能的拼點威力+1 (最多+3)\n[WhenUse] 自身每帶有5級流血 強度，使本技能的硬幣威力+1 (最多+3)",
           "coinlist": [
             {
               "coindescs": [

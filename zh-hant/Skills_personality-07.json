@@ -109,7 +109,7 @@
         {
           "level": 3,
           "name": "切斷繩結",
-          "desc": "若嫉妒共鳴數不低於3，則使本技能的拚點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1",
+          "desc": "若嫉妒共鳴數不低於3，則使本技能的拼點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 4,
           "name": "切斷繩結",
-          "desc": "若嫉妒共鳴數不低於3，則使本技能的拚點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1\n若嫉妒完全共鳴數不低於6，則使本技能的硬幣威力+1",
+          "desc": "若嫉妒共鳴數不低於3，則使本技能的拼點威力+1\n若嫉妒共鳴數不低於4，則使本技能的硬幣威力+1\n若嫉妒完全共鳴數不低於6，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -450,19 +450,19 @@
         {
           "level": 2,
           "name": "40S-2啟動",
-          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得2層充能 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -471,19 +471,19 @@
         {
           "level": 4,
           "name": "40S-2啟動",
-          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 消耗5層充能 並使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層充能 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -497,7 +497,7 @@
         {
           "level": 1,
           "name": "光電標記",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身獲得至10層充能 \n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {},
@@ -513,23 +513,23 @@
         {
           "level": 2,
           "name": "光電標記",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身獲得至10層充能 \n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層體力恢復降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 對目標施加1層體力恢復降低 </style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多<style=\"highlight\">3</style>層)"
                 }
               ]
             }
@@ -538,29 +538,29 @@
         {
           "level": 4,
           "name": "光電標記",
-          "desc": "[WhenUse] 若自身的充能 層數在5～9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身的充能 層數變為10層\n[WhenUse] 消耗10層充能 並使本技能的硬幣威力+2",
+          "desc": "[WhenUse] 若自身的充能 層數在5~9層之間，則消耗體力上限2×(10-現存充能 層數)%的體力並使自身獲得至10層充能 \n[WhenUse] 消耗10層充能 並使本技能的硬幣威力<style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 "
+                  "desc": "[OnSucceedAttack] 若自身消耗了充能 層數，則對目標施加2層防禦等級降低 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層體力恢復降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層體力恢復降低 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -580,7 +580,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得5層 [Charge]"
+                  "desc": "[OnSucceedAttack] 使自身獲得5層充能 "
                 }
               ]
             },
@@ -603,7 +603,7 @@
         {
           "level": 4,
           "name": "光電魚叉",
-          "desc": "自身每帶有2級充能 強度，使本技能的硬幣威力+1(最多+2)",
+          "desc": "<style=\"highlight\">自身每帶有2級充能 強度，使本技能的硬幣威力+1(最多+2)</style>",
           "coinlist": [
             {},
             {
@@ -623,10 +623,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)"
+                  "desc": "[OnSucceedAttack] 對目標施加層數相當於自身充能 強度的光電 (最多3層)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 自身每帶有2級充能 強度，對目標施加1層打擊易損 (最多2層)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 自身每帶有2級充能 強度，對目標施加1層打擊易損 (最多2層)</style>"
                 }
               ]
             }
@@ -648,7 +648,7 @@
         {
           "level": 4,
           "name": "充能",
-          "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多2次)",
+          "desc": "[WhenUse] 使自身獲得3層充能 (每回合最多<style=\"highlight\">2</style>次)",
           "coinlist": [
             {}
           ]
@@ -661,13 +661,13 @@
         {
           "level": 1,
           "name": "斬首",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於8級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於8級，則使本技能的拼點威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Sinking] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度"
                 }
               ]
             }
@@ -676,7 +676,7 @@
         {
           "level": 2,
           "name": "斬首",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 若目標的沉淪 層數不低於3層，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的拼點威力+1\n<style=\"highlight\">[WhenUse] 若目標的沉淪 層數不低於3層，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {},
             {
@@ -691,13 +691,13 @@
         {
           "level": 4,
           "name": "斬首",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的拚點威力+1\n[WhenUse] 目標每帶有3層沉淪 ，使本技能的硬幣威力+1(最多+2)",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的拼點威力+1\n[WhenUse] 目標<style=\"highlight\">每帶有3層</style>沉淪 ，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級沉淪 強度"
                 }
               ]
             }
@@ -736,7 +736,7 @@
         {
           "level": 2,
           "name": "追悼遊行",
-          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1\n[WhenUse] 若自身的棺 不低於4層，則使本技能的攻擊容量+1\n[WhenUse] 若自身帶有杜拉罕 ，則使本技能的攻擊容量+1\n[EndSkill] 若自身帶有杜拉罕 ，則使自身失去10點理智值",
+          "desc": "[WhenUse] 若目標的沉淪 強度不低於5級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WhenUse] 若自身的棺 不低於4層，則使本技能的攻擊容量+1\n[WhenUse] 若自身帶有杜拉罕 ，則使本技能的攻擊容量+1</style>\n[EndSkill] 若自身帶有杜拉罕 ，則使自身失去10點理智值",
           "coinlist": [
             {},
             {
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "追悼遊行",
-          "desc": "[WhenUse] 目標每帶有5級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 自身每帶有4層棺 ，使本技能的攻擊容量+1(最多+2)\n[WhenUse] 若自身帶有杜拉罕 ，則使本技能的攻擊容量+1\n[EndSkill] 若自身帶有杜拉罕 ，則使自身失去10點理智值",
+          "desc": "[WhenUse] 目標<style=\"highlight\">每帶有5級</style>沉淪 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 自身<style=\"highlight\">每帶有4層</style>棺 ，使本技能的攻擊容量+1<style=\"highlight\">(最多+2)</style>\n[WhenUse] 若自身帶有杜拉罕 ，則使本技能的攻擊容量+1\n[EndSkill] 若自身帶有杜拉罕 ，則使自身失去10點理智值",
           "coinlist": [
             {},
             {
@@ -774,7 +774,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級沉淪 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層破滅將至 "
@@ -818,12 +818,12 @@
         {
           "level": 4,
           "name": "鎮魂曲",
-          "desc": "[WinDuel] 使自身恢復10點理智值\n[BeforeUse] 若自身帶有杜拉罕 ，則改為使用「悲嘆、哀慟、破滅吧」\n[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1(最多+4)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+12%(最多+120%)\n[WhenUse] 使自身獲得1層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得2層棺 ",
+          "desc": "[WinDuel] 使自身恢復10點理智值\n[BeforeUse] 若自身帶有杜拉罕 ，則改為使用「悲嘆、哀慟、破滅吧」\n[WhenUse] 目標<style=\"highlight\">每帶有3級</style>沉淪 強度，使本技能的硬幣威力+1(最多+<style=\"highlight\">4</style>)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+12%(最多+120%)\n[WhenUse] 使自身獲得1層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得2層棺 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加4層沉淪 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">4</style>層沉淪 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標帶有破滅將至 ，則對其施加2層沉淪 "
@@ -833,10 +833,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級沉淪 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級沉淪 強度"
                 },
                 {
-                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/2)級沉淪 強度(最多5級)"
+                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/<style=\"highlight\">2</style>)級沉淪 強度(最多<style=\"highlight\">5</style>級)"
                 }
               ]
             }
@@ -865,7 +865,7 @@
         {
           "level": 3,
           "name": "杜拉罕啊…！",
-          "desc": "[DuelCounter]\n[BeforeUse] 若自身帶有杜拉罕 且自身的理智值不低於15點，則使用「悲嘆、哀慟、破滅吧」進行反擊(每回合最多1次)\n[StartBattle] 若自身未帶有杜拉罕 ，則下回合使自身獲得1層杜拉罕 (每回合最多1層)\n[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1\n[EndBattle] 若自身帶有杜拉罕 ，則解除自身的杜拉罕 ",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] 若自身帶有杜拉罕 且自身的理智值不低於15點，則使用「悲嘆、哀慟、破滅吧」進行反擊(每回合最多1次)</style>\n[StartBattle] 若自身未帶有杜拉罕 ，則下回合使自身獲得1層杜拉罕 (每回合最多1層)\n<style=\"highlight\">[WhenUse] 若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+1</style>\n[EndBattle] 若自身帶有杜拉罕 ，則解除自身的杜拉罕 ",
           "coinlist": [
             {},
             {
@@ -880,13 +880,13 @@
         {
           "level": 4,
           "name": "杜拉罕啊…！",
-          "desc": "[DuelCounter]\n[BeforeUse] 若自身帶有杜拉罕 且自身的理智值不低於15點，則使用「悲嘆、哀慟、破滅吧」進行反擊(每回合最多1次)\n[StartBattle] 若自身未帶有杜拉罕 ，則下回合使自身獲得1層杜拉罕 (每回合最多1層)\n[WhenUse] 目標每帶有3級沉淪 強度，使本技能的硬幣威力+1(最多+2)\n[WinDuel] 下回合使自身獲得(本技能拚點次數/3)層攻擊等級提升 (最多3層，每回合最多1次)\n[EndBattle] 若自身帶有杜拉罕 ，則解除自身的杜拉罕 ",
+          "desc": "[DuelCounter]\n[BeforeUse] 若自身帶有杜拉罕 且自身的理智值不低於15點，則使用「悲嘆、哀慟、破滅吧」進行反擊(每回合最多1次)\n[StartBattle] 若自身未帶有杜拉罕 ，則下回合使自身獲得1層杜拉罕 (每回合最多1層)\n[WhenUse] 目標<style=\"highlight\">每帶有3級</style>沉淪 強度，使本技能的硬幣威力+1<style=\"highlight\">(最多+2)</style>\n<style=\"highlight\">[WinDuel] 下回合使自身獲得(本技能拼點次數/3)層攻擊等級提升 (最多3層，每回合最多1次)</style>\n[EndBattle] 若自身帶有杜拉罕 ，則解除自身的杜拉罕 ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度並對其施加1層沉淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級沉淪 強度<style=\"highlight\">並對其施加1層沉淪 </style>"
                 }
               ]
             }
@@ -930,7 +930,7 @@
         {
           "level": 4,
           "name": "悲嘆、哀慟、破滅吧",
-          "desc": "[WhenUse] 使自身失去15點理智值\n[WhenUse] 目標每帶有5級沉淪 強度，使本技能的基礎威力+1(最多+4)\n[WhenUse] 自身理智值越低，本技能造成的傷害越高(每失去1點理智值，造成的傷害+0.3%，最多+21%)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+10%(最多+100%)\n[WhenUse] 自身每帶有1層杜拉罕 ，使本技能造成的傷害+20%(最多+60%)\n[WhenUse] 使自身獲得2層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得3層棺 \n[EndSkill] 若自身理智值低於0點，則使自身恢復10點理智值。自身理智值低於0點時，根據相差的理智值，相應使自身額外恢復理智值(每相差1點，額外恢復2點理智值，最多50點)\n[EndBattle] 解除自身的杜拉罕 ",
+          "desc": "[WhenUse] 使自身失去15點理智值\n[WhenUse] 目標每帶有5級沉淪 強度，使本技能的基礎威力+1(最多+<style=\"highlight\">4</style>)\n[WhenUse] 自身理智值越低，本技能造成的傷害越高(每失去1點理智值，造成的傷害+0.3%，最多+21%)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">100</style>%)\n[WhenUse] 自身每帶有1層杜拉罕 ，使本技能造成的傷害+<style=\"highlight\">20</style>%(最多+<style=\"highlight\">60</style>%)\n[WhenUse] 使自身獲得<style=\"highlight\">2</style>層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得<style=\"highlight\">3</style>層棺 \n[EndSkill] 若自身理智值低於0點，則使自身恢復10點理智值。自身理智值低於0點時，根據相差的理智值，相應使自身額外恢復理智值(每相差1點，額外恢復<style=\"highlight\">2</style>點理智值，最多<style=\"highlight\">50</style>點)\n[EndBattle] 解除自身的杜拉罕 ",
           "coinlist": [
             {
               "coindescs": [
@@ -938,17 +938,17 @@
                   "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">5</style>級沉淪 強度並對其施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的30%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的<style=\"highlight\">30</style>%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標造成相當於其沉淪 強度的憂鬱傷害(最多30點)"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其沉淪 強度的憂鬱傷害(最多<style=\"highlight\">30</style>點)"
                 },
                 {
-                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/2)級沉淪 強度(最多8級)"
+                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/<style=\"highlight\">2</style>)級沉淪 強度(最多<style=\"highlight\">8</style>級)"
                 },
                 {
                   "desc": "[EnemyKill] 使自身恢復15點理智值"
@@ -995,25 +995,25 @@
         {
           "level": 4,
           "name": "悲嘆、哀慟、破滅吧",
-          "desc": "[WhenUse] 使自身失去15點理智值\n[WhenUse] 目標每帶有5級沉淪 強度，使本技能的基礎威力+1(最多+4)\n[WhenUse] 自身理智值越低，本技能造成的傷害越高(每失去1點理智值，造成的傷害+0.3%，最多+21%)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+10%(最多+100%)\n[WhenUse] 自身每帶有1層杜拉罕 ，使本技能造成的傷害+20%(最多+60%)\n[WhenUse] 使自身獲得2層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得3層棺 \n[EndSkill] 若自身理智值低於0點，則使自身恢復10點理智值。自身理智值低於0點時，根據相差的理智值，相應使自身額外恢復理智值(每相差1點，額外恢復2點理智值，最多50點)\n[EndBattle] 解除自身的杜拉罕 ",
+          "desc": "[WhenUse] 使自身失去15點理智值\n[WhenUse] 目標每帶有5級沉淪 強度，使本技能的基礎威力+1(最多+<style=\"highlight\">4</style>)\n[WhenUse] 自身理智值越低，本技能造成的傷害越高(每失去1點理智值，造成的傷害+0.3%，最多+21%)\n[WhenUse] 自身每帶有1層棺 ，使本技能造成的傷害+<style=\"highlight\">10</style>%(最多+<style=\"highlight\">100</style>%)\n[WhenUse] 自身每帶有1層杜拉罕 ，使本技能造成的傷害+<style=\"highlight\">20</style>%(最多+<style=\"highlight\">60</style>%)\n[WhenUse] 使自身獲得<style=\"highlight\">2</style>層棺 \n[EndSkill] 若本技能攻擊擊殺了目標，則使自身獲得<style=\"highlight\">3</style>層棺 \n[EndSkill] 若自身理智值低於0點，則使自身恢復10點理智值。自身理智值低於0點時，根據相差的理智值，相應使自身額外恢復理智值(每相差1點，額外恢復<style=\"highlight\">2</style>點理智值，最多<style=\"highlight\">50</style>點)\n[EndBattle] 解除自身的杜拉罕 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加5級沉淪 強度並對其施加2層沉淪 "
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">5</style>級沉淪 強度並對其施加2層沉淪 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的30%"
+                  "desc": "[OnSucceedAttack] 使目標的混亂閾值前移本硬幣傷害量的<style=\"highlight\">30</style>%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標造成相當於其沉淪 強度的憂鬱傷害(最多30點)"
+                  "desc": "[OnSucceedAttack] 對目標造成相當於其沉淪 強度的憂鬱傷害(最多<style=\"highlight\">30</style>點)"
                 },
                 {
-                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/2)級沉淪 強度(最多8級)"
+                  "desc": "[EnemyKill] 隨機使2名敵方單位增加(被擊殺目標的沉淪 強度/<style=\"highlight\">2</style>)級沉淪 強度(最多<style=\"highlight\">8</style>級)"
                 },
                 {
                   "desc": "[EnemyKill] 使自身恢復15點理智值"
@@ -1058,29 +1058,29 @@
         {
           "level": 2,
           "name": "火力反擊",
-          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WhenUse] 下回合使自身獲得1層迅捷 (每回合最多1次)",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n<style=\"highlight\">[WhenUse] 下回合使自身獲得1層迅捷 (每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得1層呼吸法 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1089,29 +1089,29 @@
         {
           "level": 4,
           "name": "火力反擊",
-          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n[WhenUse] 下回合使自身獲得<style=\"highlight\">2</style>層迅捷 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層呼吸法 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1133,7 +1133,7 @@
                   "desc": "消耗1發彈藥 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [PenetrateTakeDamageUp] (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)"
                 }
               ]
             }
@@ -1142,21 +1142,21 @@
         {
           "level": 2,
           "name": "一槍爆頭",
-          "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+30%)\n[WhenUse] 使自身增加3級呼吸法 強度並獲得1層呼吸法 \n[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+30%)</style>\n[WhenUse] 使自身增加3級呼吸法 強度並獲得1層呼吸法 \n<style=\"highlight\">[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+30%"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+30%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層突刺易損 (每回合最多1次)"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 下回合對目標施加1層突刺易損 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -1165,21 +1165,21 @@
         {
           "level": 4,
           "name": "一槍爆頭",
-          "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加3級呼吸法 強度並獲得2層呼吸法 \n[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)",
+          "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%<style=\"highlight\">(最多+50%)</style>\n[WhenUse] 使自身增加3級呼吸法 強度並獲得<style=\"highlight\">2</style>層呼吸法 \n[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+50%"
+                  "desc": "使本硬幣暴擊時造成的傷害<style=\"highlight\">+50%</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層突刺易損 (每回合最多2次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層突刺易損 (每回合最多1次)"
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層突刺易損 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "瞄準眉心",
-          "desc": "[BeforeUse] 若自身帶有[Bullet_LogicAtelier]，則改為使用「邏輯工作室製 高速粉碎彈」\n若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×12.5)%",
+          "desc": "[BeforeUse] 若自身帶有[Bullet_LogicAtelier]，則改為使用「邏輯工作室制 高速粉碎彈」\n若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×12.5)%",
           "coinlist": [
             {
               "coindescs": [
@@ -1204,7 +1204,7 @@
                   "desc": "使本硬幣暴擊時造成的傷害+50%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗最多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
+                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗至多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
                 }
               ]
             }
@@ -1213,21 +1213,21 @@
         {
           "level": 4,
           "name": "瞄準眉心",
-          "desc": "[BeforeUse] 若自身帶有[Bullet_LogicAtelier]，則改為使用「邏輯工作室製 高速粉碎彈」\n若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×12.5)%\n[EndSkill] 使自身獲得2層呼吸法 ",
+          "desc": "[BeforeUse] 若自身帶有[Bullet_LogicAtelier]，則改為使用「邏輯工作室制 高速粉碎彈」\n若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×12.5)%\n<style=\"highlight\">[EndSkill] 使自身獲得2層呼吸法 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥 "
+                  "desc": "消耗1發彈藥 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+80%"
+                  "desc": "使本硬幣暴擊時造成的傷害<style=\"highlight\">+80%</style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(目標的突刺抗性×50)%"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(目標的突刺抗性×50)%</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗最多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
+                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗至多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1251,7 +1251,7 @@
         {
           "level": 4,
           "name": "戰鬥呼吸",
-          "desc": "回合開始時，若自身的彈藥 數為0，則改為使用「掩護」\n[WhenUse] 若句點事務所 代表 鴻璐在場，則向其申請[MeleeCover](每回合最多1次)\n[OnSucceedEvade] 使自身增加3級呼吸法 強度(每回合最多3次)\n[EndBattle] 下回合使自身獲得1層[LogicAtelierAM](每回合最多1次)",
+          "desc": "回合開始時，若自身的彈藥 數為0，則改為使用「掩護」\n[WhenUse] 若句點事務所 代表 鴻璐在場，則向其申請[MeleeCover](每回合最多1次)\n<style=\"highlight\">[OnSucceedEvade] 使自身增加3級呼吸法 強度(每回合最多3次)</style>\n[EndBattle] 下回合使自身獲得1層[LogicAtelierAM](每回合最多1次)",
           "coinlist": [
             {
               "coindescs": []
@@ -1265,7 +1265,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "邏輯工作室製 高速粉碎彈",
+          "name": "邏輯工作室制 高速粉碎彈",
           "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×25)%",
           "coinlist": [
             {
@@ -1277,7 +1277,7 @@
                   "desc": "使本硬幣暴擊時造成的傷害+100%"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗最多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
+                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗至多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
                 }
               ]
             }
@@ -1285,22 +1285,22 @@
         },
         {
           "level": 4,
-          "name": "邏輯工作室製 高速粉碎彈",
-          "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×25)%\n[EndSkill] 使自身獲得5層呼吸法 ",
+          "name": "邏輯工作室制 高速粉碎彈",
+          "desc": "若自身的速度值高於目標，則每相差1點，使本技能造成的傷害+10%(最多+50%)\n[WhenUse] 使自身增加5級呼吸法 強度\n[WhenUse] 消耗所有[LogicAtelierAM]，使自身增加(消耗的[LogicAtelierAM]層數×2)級呼吸法 強度並使本技能造成的傷害+(消耗的[LogicAtelierAM]層數×25)%\n<style=\"highlight\">[EndSkill] 使自身獲得5層呼吸法 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發[Bullet_LogicAtelier]"
+                  "desc": "消耗1發[Bullet_LogicAtelier]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+130%"
+                  "desc": "使本硬幣暴擊時造成的傷害<style=\"highlight\">+130%</style>"
                 },
                 {
-                  "desc": "使本硬幣暴擊時造成的傷害+(目標的突刺抗性×50)%"
+                  "desc": "<style=\"highlight\">使本硬幣暴擊時造成的傷害+(目標的突刺抗性×50)%</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗最多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%"
+                  "desc": "[CriticalOnSucceedAttack] 若自身的呼吸法 強度不低於30級，則消耗至多10級超出30級的呼吸法 強度並使本硬幣造成的傷害+(消耗的呼吸法 強度×10)%<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1319,7 +1319,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1328,12 +1328,12 @@
         {
           "level": 4,
           "name": "掩護",
-          "desc": "[CanDuelGuard]\n[WhenUse] 若句點事務所 代表 鴻璐在場，則向其申請[MeleeCover](每回合最多1次)\n[WinDuel] 對目標施加1層突刺抗性弱化 (每回合最多1次)\n[EndBattle] 下回合使自身獲得1層[LogicAtelierAM](每回合最多1次) ",
+          "desc": "[CanDuelGuard]\n[WhenUse] 若句點事務所 代表 鴻璐在場，則向其申請[MeleeCover](每回合最多1次)\n<style=\"highlight\">[WinDuel] 對目標施加1層突刺抗性弱化 (每回合最多1次)</style>\n[EndBattle] 下回合使自身獲得1層[LogicAtelierAM](每回合最多1次) ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1371,22 +1371,22 @@
         {
           "level": 2,
           "name": "雲渦撕裂",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1395,22 +1395,22 @@
         {
           "level": 4,
           "name": "雲渦撕裂",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使自身獲得2層忍耐 (每回合最多1次)",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 下回合使自身獲得<style=\"highlight\">2</style>層忍耐 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1423,7 +1423,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "嵐雲斬風",
+          "name": "風起雲涌",
           "desc": "",
           "coinlist": [
             {
@@ -1436,7 +1436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)"
@@ -1447,26 +1447,26 @@
         },
         {
           "level": 2,
-          "name": "嵐雲斬風",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "name": "風起雲涌",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 "
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 對目標施加1層斬擊易損 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1474,26 +1474,26 @@
         },
         {
           "level": 4,
-          "name": "嵐雲斬風",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)",
+          "name": "風起雲涌",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層虛弱 (每回合最多<style=\"highlight\">2</style>次)"
                 }
               ]
             }
@@ -1544,35 +1544,35 @@
         {
           "level": 4,
           "name": "雷鳴斬",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[StartBattle] 下回合使自身獲得1層[CloudWall]\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)\n[WinDuel] 下回合使自身獲得1層[BlackCloudBlade](每回合最多1次)",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)</style>\n[StartBattle] 下回合使自身獲得1層[CloudWall]\n[WhenUse] 下回合使自身獲得1層忍耐 (每回合最多1次)\n<style=\"highlight\">[WinDuel] 下回合使自身獲得1層[BlackCloudBlade](每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層斬擊易損 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層斬擊易損 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%"
+                  "desc": "[OnSucceedAttack] 使本技能最後一枚硬幣造成的傷害+10%<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+10%(最多+100%)"
+                  "desc": "目標每帶有1種負面狀態，使本硬幣造成的傷害+10%<style=\"highlight\">(最多+100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加6級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加6級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1586,7 +1586,7 @@
         {
           "level": 1,
           "name": "後巷規矩",
-          "desc": "[DuelCounter]\n若黑云會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拚點失敗時，使本技能的最終威力+3\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "desc": "[DuelCounter]\n若黑雲會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拼點失敗時，使本技能的最終威力+3\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
           "coinlist": [
             {
               "coindescs": [
@@ -1606,18 +1606,18 @@
         {
           "level": 4,
           "name": "後巷規矩",
-          "desc": "[DuelCounter]\n若黑云會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拚點失敗時，使本技能的最終威力+4\n目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+100%)\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
+          "desc": "[DuelCounter]\n若黑雲會 副會長 以實瑪利在場，則觸發以下效果\n- 使本技能中的所有硬幣轉化為[SuperCoin]\n- 拼點失敗時，使本技能的最終威力<style=\"highlight\">+4\n目標每帶有1種負面狀態，使本技能造成的傷害+10%(最多+100%)</style>\n[WhenUse] 若自身帶有[CloudWall]，則使本技能所有重複使用效果無條件生效",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)"
+                  "desc": "[OnSucceedAttack] 若自身帶有[BlackCloudBlade]，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)"
+                  "desc": "[OnSucceedAttack] 若自身帶有[EngageToBattle]，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }

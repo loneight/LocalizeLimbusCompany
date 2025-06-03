@@ -18,7 +18,7 @@
     },
     {
       "id": "start_buffs",
-      "content": "當前效果"
+      "content": "目前效果"
     },
     {
       "id": "enter_normal_difficulty",
@@ -30,11 +30,11 @@
     },
     {
       "id": "list_of_applied_effects",
-      "content": "當前效果"
+      "content": "目前效果"
     },
     {
       "id": "activation_complete",
-      "content": "已啟動"
+      "content": "已啟用"
     },
     {
       "id": "lack_of_points",
@@ -86,7 +86,7 @@
     },
     {
       "id": "dungeon_shop_change_formation_desc",
-      "content": "為當前編隊追加新的人格或E.G.O"
+      "content": "為目前編隊追加新的人格或E.G.O"
     },
     {
       "id": "dungeon_shop_heal_character",
@@ -126,7 +126,7 @@
     },
     {
       "id": "mirrordungeon_with_number",
-      "content": "鏡像迷宮 {0}"
+      "content": "映象迷宮 {0}"
     },
     {
       "id": "mirrordungeon_select_buffs_title",
@@ -194,7 +194,7 @@
     },
     {
       "id": "mirror_dungeon_buffs_title_10",
-      "content": "交織的可能性"
+      "content": "概率坍縮"
     },
     {
       "id": "mirror_dungeon_buffs_title_11",
@@ -266,7 +266,7 @@
     },
     {
       "id": "mirrordungeon_resting_change_formation_desc",
-      "content": "為當前編隊追加新的人格或E.G.O"
+      "content": "為目前編隊追加新的人格或E.G.O"
     },
     {
       "id": "hard_difficulty_en",
@@ -298,7 +298,7 @@
     },
     {
       "id": "dungeon_resting_change_formation_desc",
-      "content": "為當前編隊追加新的人格或E.G.O"
+      "content": "為目前編隊追加新的人格或E.G.O"
     },
     {
       "id": "dungeon_resting_heal_title_one",
@@ -374,11 +374,11 @@
     },
     {
       "id": "mirrordungeon_select_less_character_at_start",
-      "content": "當前編隊的罪人數量少於最大可選罪人數量。\n您確定要繼續嗎？"
+      "content": "目前編隊的罪人數量少於最大可選罪人數量。\n您確定要繼續嗎？"
     },
     {
       "id": "list_of_applied_effects_is_empty",
-      "content": "當前沒有效果啟用。"
+      "content": "目前沒有效果啟用。"
     },
     {
       "id": "give_up_rewards",
@@ -390,7 +390,7 @@
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_desc",
-      "content": "要移動到玻璃窗嗎？\n探索獎勵畫面會在您再次進入鏡像迷宮介面時彈出。"
+      "content": "要移動到玻璃窗嗎？\n探索獎勵視窗會在您再次進入映象迷宮界面時彈出。"
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_button_lobby",
@@ -442,11 +442,11 @@
     },
     {
       "id": "mirror_dungeon_challenge_mode_description",
-      "content": "挑戰模式啟動時，將會隨機組成編隊。\n直到領取獎勵為止都無法更改編隊。\n當以挑戰模式通關時，所獲得的獎勵將會增加。"
+      "content": "挑戰模式啟用時，將會隨機組成編隊。\n直到領取獎勵為止都無法更改編隊。\n當以挑戰模式通關時，所獲得的獎勵將會增加。"
     },
     {
       "id": "mirror_dungeon_challenge_mode_ask",
-      "content": "要啟動挑戰模式嗎？"
+      "content": "要啟用挑戰模式嗎？"
     },
     {
       "id": "mirror_dungeon_challenge_mode",
@@ -590,35 +590,35 @@
     },
     {
       "id": "md3_buffs_summaryDesc_1011",
-      "content": "出現燒傷類飾品的機率提高"
+      "content": "出現燒傷類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1012",
-      "content": "出現流血類飾品的機率提高"
+      "content": "出現流血類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1013",
-      "content": "出現震顫類飾品的機率提高"
+      "content": "出現震顫類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1014",
-      "content": "出現破裂類飾品的機率提高"
+      "content": "出現破裂類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1015",
-      "content": "出現沉淪類飾品的機率提高"
+      "content": "出現沉淪類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1016",
-      "content": "出現呼吸法類飾品的機率提高"
+      "content": "出現呼吸法類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1017",
-      "content": "出現充能類飾品的機率提高"
+      "content": "出現充能類飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_1018",
-      "content": "出現隨機飾品的機率提高"
+      "content": "出現隨機飾品的概率提高"
     },
     {
       "id": "md3_buffs_summaryDesc_102",
@@ -754,15 +754,15 @@
     },
     {
       "id": "md3_buffs_summaryDesc_109",
-      "content": "刷新所需經費減少"
+      "content": "重新整理所需經費減少"
     },
     {
       "id": "md3_buffs_summaryDesc_1091",
-      "content": "刷新所需經費減少"
+      "content": "重新整理所需經費減少"
     },
     {
       "id": "md3_buffs_summaryDesc_1092",
-      "content": "較低機率免費進行刷新"
+      "content": "較低概率免費進行重新整理"
     },
     {
       "id": "md3_buffs_summaryDesc_1093",
@@ -778,7 +778,7 @@
     },
     {
       "id": "md3_buffs_summaryDesc_1101",
-      "content": "較低機率免費進行強化"
+      "content": "較低概率免費進行強化"
     },
     {
       "id": "md3_buffs_summaryDesc_1102",
@@ -862,7 +862,7 @@
     },
     {
       "id": "md3_buffs_summaryDesc_153",
-      "content": "額外獲得初始階段所選項目的4級隨機E.G.O飾品"
+      "content": "額外獲得初始階段所選專案的4級隨機E.G.O飾品"
     },
     {
       "id": "md3_buffs_summaryDesc_121",
@@ -890,11 +890,11 @@
     },
     {
       "id": "md3_buffs_summaryDesc_1222",
-      "content": "攻擊等級 增加1"
+      "content": "攻擊等級+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1223",
-      "content": "攻擊等級 增加1"
+      "content": "攻擊等級+1"
     },
     {
       "id": "md3_buffs_summaryDesc_1224",

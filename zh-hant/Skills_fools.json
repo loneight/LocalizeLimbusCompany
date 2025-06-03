@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "…可米，生氣了。",
-          "desc": "[BeforeAttack] 根據帶有[CandyForCharon]的人格數，使本技能的攻擊容量相應增加\n[WhenUse] 根據帶有[CandyForCharon]的人格數，使本技能的拚點威力相應增加",
+          "desc": "[BeforeAttack] 根據帶有[CandyForCharon]的人格數，使本技能的攻擊容量相應增加\n[WhenUse] 根據帶有[CandyForCharon]的人格數，使本技能的拼點威力相應增加",
           "coinlist": [
             {
               "coindescs": [
@@ -99,7 +99,7 @@
         {
           "level": 1,
           "name": "布隆布隆",
-          "desc": "[WhenUse] 根據帶有[CandyForCharon]的人格數，使本技能的拚點威力相應增加\n每有1名帶有[CandyForCharon]的人格，使本技能造成的傷害+10%(最多+100%)",
+          "desc": "[WhenUse] 根據帶有[CandyForCharon]的人格數，使本技能的拼點威力相應增加\n每有1名帶有[CandyForCharon]的人格，使本技能造成的傷害+10%(最多+100%)",
           "coinlist": [
             {},
             {}
@@ -113,7 +113,7 @@
         {
           "level": 1,
           "name": "你打了，可米。",
-          "desc": "[WhenUse] 下回合使自身獲得2層拚點威力提升 與2層迅捷 ",
+          "desc": "[WhenUse] 下回合使自身獲得2層拼點威力提升 與2層迅捷 ",
           "coinlist": [
             {
               "coindescs": [

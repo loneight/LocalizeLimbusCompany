@@ -2,63 +2,63 @@
   "dataList": [
     {
       "id": "tuto_00_01_01_01",
-      "content": "現在開始進行關於戰鬥方法的說明。"
+      "content": "下面向您介紹戰鬥的進行方式。"
     },
     {
       "id": "tuto_00_01_01_02",
-      "content": "首先，請看<color=#f8c200>儀錶盤<color=#ebcaa2>的部分。\n可以透過<color=#f8c200>儀錶盤<color=#ebcaa2>對罪人下達指令。"
+      "content": "首先請確認<color=#f8c200>儀表盤<color=#ebcaa2>。\n\n您可以通過<color=#f8c200>儀表盤<color=#ebcaa2>來對罪人們下達命令。"
     },
     {
       "id": "tuto_00_01_01_03",
-      "content": "<color=#f8c200>儀錶盤<color=#ebcaa2>的上方有配置罪人所使用的<color=#f8c200>技能<color=#ebcaa2>"
+      "content": "<color=#f8c200>儀表盤<color=#ebcaa2>上排列著罪人所使用的<color=#f8c200>技能<color=#ebcaa2> 。"
     },
     {
       "id": "tuto_00_01_01_04",
-      "content": "操作方式很簡單。<color=#f8c200>從左至右按照順序連接<color=#ebcaa2>後戰鬥便會進行。"
+      "content": "操作方法很簡單。<color=#f8c200>從左到右依次連線技能<color=#ebcaa2>即可進行戰鬥。"
     },
     {
       "id": "tuto_00_01_01_05",
-      "content": "接著請嘗試直接下達指令。\n\n請點擊儀錶盤的<color=#f8c200>左側齒輪<color=#ebcaa2>"
+      "content": "現在，讓我們來直接下達命令。\n\n請按住儀表盤<color=#f8c200>左側的齒輪<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_01_01_06",
-      "content": "請維持按著左側的齒輪的狀態<color=#f8c200>按順序連接各個技能<color=#ebcaa2>試試看。"
+      "content": "在您按住左側齒輪的同時，嘗試<color=#f8c200>沿著引導線由左至右連線各個技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_01_01_07",
-      "content": "做得很好。若是已連接所有技能，點擊<color=#f8c200>右側的齒輪<color=#ebcaa2>後戰鬥便會開始。"
+      "content": "幹得漂亮。您現在已經連線了全部技能，現在請按<color=#f8c200>右側齒輪<color=#ebcaa2>以開始戰鬥階段。"
     },
     {
       "id": "tuto_00_01_02_01",
-      "content": "戰鬥會如同經理您的指示進行。\n要再嘗試操作一次嗎？"
+      "content": "戰鬥將按照經理您的命令展開。\n\n要再試一次嗎？"
     },
     {
       "id": "tuto_00_01_02_02",
-      "content": "請使用儀錶盤，由左至右按順序連接技能繼續下達指令。"
+      "content": "觀察儀表盤，從左側齒輪上拉出鎖鏈，由左至右依次連線各個技能並下達命令。"
     },
     {
       "id": "tuto_00_01_02_03_title",
-      "content": "儀錶盤"
+      "content": "儀表盤"
     },
     {
       "id": "tuto_00_01_02_04",
-      "content": "使用儀錶盤便能進行戰鬥。\n\n點擊左側的齒輪照順序開始連接技能，直到連接到右側的齒輪後便會進行戰鬥。"
+      "content": "戰鬥將按照儀表盤的命令展開。\n\n按下左邊的齒輪依次連線技能，然後連線到右邊的齒輪上以繼續戰鬥。"
     },
     {
       "id": "tuto_00_02_01_01",
-      "content": "存在於友方及敵方頭上的七角形圖案稱為\n<color=#f8c200>技能行動槽<color=#ebcaa2>。"
+      "content": "懸浮於友方與敵方頭頂的七邊形圖示\n叫做<color=#f8c200>行動槽<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_01_02",
-      "content": "現在由於執行經理尚未下達指令\n友方的技能行動槽尚為空白狀態。"
+      "content": "由於經理您還未通過連線技能來下達命令，\n友方的行動槽目前是空置的狀態。"
     },
     {
       "id": "tuto_00_02_01_03",
-      "content": "請選擇儀錶盤上其中一個最初存在的技能\n並嘗試將其連接。"
+      "content": "從儀表盤的左側開始，\n在兩個技能當中選擇其一連線。"
     },
     {
       "id": "tuto_00_02_01_04",
-      "content": "執行經理您所選中的技能將裝填至技能行動槽中。"
+      "content": "如您所見，您連線的技能填充了友方行動槽。"
     },
     {
       "id": "tuto_00_02_01_05_title",
@@ -66,175 +66,175 @@
     },
     {
       "id": "tuto_00_02_01_06",
-      "content": "被裝填的技能會於罪人上方的技能行動槽中顯示。\n開始戰鬥後，罪人們會使用自己技能行動槽中所填裝填的技能來進行戰鬥。"
+      "content": "填充的技能將顯示在每個罪人頭頂漂浮的行動槽中。\n\n戰鬥階段開始時，每個罪人都將使用其行動槽中填充的技能參戰。"
     },
     {
       "id": "tuto_00_02_01_07",
-      "content": "請嘗試連接儀錶盤上所有的技能、將友方的行動槽填滿。"
+      "content": "從左至右，請在儀表盤上為每一位罪人填充其豎列當中的一個技能。"
     },
     {
       "id": "tuto_00_02_01_08",
-      "content": "做得很好。於此狀態下達指令的話，罪人們將使用各自技能行動槽中的技能開始戰鬥。"
+      "content": "幹得漂亮。現在，按下右側的齒輪，您的罪人將使用其行動槽中填充的技能參戰。"
     },
     {
       "id": "tuto_00_02_02_01",
-      "content": "罪人與敵人對彼此雙方都使用攻擊技能時，將觸發<color=#f8c200><拚點><color=#ebcaa2>。"
+      "content": "罪人與敵方單位同時使用攻擊技能時，將會進行<color=#f8c200><拼點><color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_02_02",
-      "content": "進行<color=#f8c200><拚點><color=#ebcaa2>時，會依據各個角色所使用之技能來決定<color=#f8c200>威力<color=#ebcaa2>。"
+      "content": "在<color=#f8c200><拼點><color=#ebcaa2>的過程中，其<color=#f8c200>威力<color=#ebcaa2>主要由參與拼點的技能決定。"
     },
     {
       "id": "tuto_00_02_02_03",
-      "content": "<color=#f8c200><拚點><color=#ebcaa2>是於兩次技能之內，<color=#f8c200>威力<color=#ebcaa2>較大的那方獲勝。"
+      "content": "在此次<color=#f8c200><拼點><color=#ebcaa2>的兩個技能當中，<color=#f8c200>威力<color=#ebcaa2>更大的技能將會拼點勝利。"
     },
     {
       "id": "tuto_00_02_02_04",
-      "content": "<color=#f8c200>失敗<color=#ebcaa2>的那方將會<color=#f8c200>被破壞一枚硬幣<color=#ebcaa2>。"
+      "content": "請注意敵方的硬幣。當一個技能拼點<color=#f8c200>失敗<color=#ebcaa2>時，該技能將會被<color=#f8c200>摧毀一枚硬幣<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_02_05",
-      "content": "若是尚留存<color=#f8c200>技能硬幣<color=#ebcaa2>的場合，直到硬幣<color=#f8c200>全被破壞<color=#ebcaa2>為止，將會繼續進行<color=#f8c200><拚點><color=#ebcaa2>行動。"
+      "content": "即便技能在拼點中失敗，只要其依然有剩餘的<color=#f8c200>技能硬幣<color=#ebcaa2>，那麼雙方就會繼續投擲硬幣並進行<color=#f8c200><拼點><color=#ebcaa2>，直至其中一方<color=#f8c200>失去全部硬幣<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_02_06",
-      "content": "<color=#f8c200><拚點><color=#ebcaa2>期間全硬幣都被破壞的那方，視為<color=#f8c200><拚點><color=#ebcaa2>失敗。並且<color=#f8c200><拚點><color=#ebcaa2><color=#f8c200>勝利的角色將獲得攻擊權<color=#ebcaa2>"
+      "content": "在本次<color=#f8c200><拼點><color=#ebcaa2>當中失去全部硬幣的技能，將會徹底在這次<color=#f8c200><拼點><color=#ebcaa2>當中失敗。因此，<color=#f8c200><拼點><color=#ebcaa2>成功的單位將會進行攻擊，而<color=#f8c200><拼點><color=#ebcaa2>失敗的單位則無法攻擊。"
     },
     {
       "id": "tuto_00_02_03_01",
-      "content": "這次將為您說明<color=#f8c200><拚點><color=#ebcaa2>勝敗決定後，會如何計算<color=#f8c200>威力<color=#ebcaa2>的數值。\n\n請您再一次下達戰鬥指令。"
+      "content": "現在，讓我們觀察<color=#f8c200><拼點><color=#ebcaa2>的結果是如何被<color=#f8c200>威力<color=#ebcaa2>決定的。\n\n請您下令戰鬥。"
     },
     {
       "id": "tuto_00_02_03_02",
-      "content": "在這裡，投擲技能的硬幣之前將會顯示<color=#f8c200>基礎威力<color=#ebcaa2>。"
+      "content": "在這裡顯示的數值，是表示該技能在投擲任何硬幣之前的<color=#f8c200>基礎威力<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_03_03",
-      "content": "這裡將顯示技能的<color=#f8c200>硬幣威力<color=#ebcaa2>。"
+      "content": "在這裡顯示的數值，是表示該技能的<color=#f8c200>硬幣威力<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_03_04",
-      "content": "而此處將顯示<color=#f8c200>硬幣枚數<color=#ebcaa2>。\n\n也會顯示<color=#f8c200>能夠<拚點>的次數以及攻擊次數<color=#ebcaa2>。"
+      "content": "這裡顯示了技能的<color=#f8c200>硬幣數量<color=#ebcaa2>。\n\n硬幣的數量也決定了<color=#f8c200><拼點>徹底失敗之前的可失敗次數，以及其攻擊時的可攻擊次數<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_03_05",
-      "content": "在兩名角色各自投擲硬幣後，僅計算<color=#f8c200>出現正面的硬幣枚數<color=#ebcaa2>作為<color=#f8c200>基礎威力<color=#ebcaa2>，接著加算上<color=#f8c200>硬幣威力<color=#ebcaa2>。"
+      "content": "每個<color=#f8c200>擲出正面的硬幣<color=#ebcaa2>，其<color=#f8c200>硬幣威力<color=#ebcaa2>都將被加至該技能的<color=#f8c200>基礎威力<color=#ebcaa2>之上。"
     },
     {
       "id": "tuto_00_02_03_05_popup_title",
-      "content": "最終威力計算"
+      "content": "最終威力的計算"
     },
     {
       "id": "tuto_00_02_03_05_popup_content",
-      "content": "<color=#f8c200>基礎威力<color=#ebcaa2>加上擲出了<color=#f8c200>正面的硬幣<color=#ebcaa2>之<color=#f8c200>硬幣威力<color=#ebcaa2>，將決定其<color=#f8c200>最終威力<color=#ebcaa2>。\n\n正面硬幣為亮面，而反面硬幣則為暗面。"
+      "content": "技能最終威力的公式如下：\n\n<color=#f8c200>基礎威力<color=#ebcaa2>+(<color=#f8c200>正面硬幣數<color=#ebcaa2>x<color=#f8c200>硬幣威力<color=#ebcaa2>)\n\n正面硬幣閃閃發亮，反面硬幣則黯淡無光。"
     },
     {
       "id": "tuto_00_02_03_06",
-      "content": "在這裡將顯示投擲硬幣後<color=#f8c200>最終<color=#ebcaa2>決定的<color=#f8c200>基礎值<color=#ebcaa2>傷害。\n\n<color=#f8c200>由於「強擊」技能的威力較高，將破壞一枚敵方硬幣<color=#ebcaa2>。"
+      "content": "這裡顯示了投擲硬幣之後，得到的<color=#f8c200>技能<color=#ebcaa2><color=#f8c200>最終威力<color=#ebcaa2>。\n\n<color=#f8c200>以實瑪利的技能「突然襲擊」的技能威力更高，因此敵方技能在拼點中失去一枚硬幣<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_02_03_07",
-      "content": "就像這樣，直到某一方的硬幣全數被破壞為止，<color=#f8c200><拚點><color=#ebcaa2>會持續進行，<color=#f8c200>擁有剩餘硬幣的那方將判斷為<拚點>勝利<color=#ebcaa2>。\n\n請不要忘記制定能使<color=#f8c200><拚點><color=#ebcaa2>勝利的戰略這件最為重要的事。"
+      "content": "如您所見，他們將會繼續進行<color=#f8c200><拼點><color=#ebcaa2>，直至一方失去全部硬幣。<color=#f8c200>擁有剩餘硬幣的單位將在<拼點>中獲勝<color=#ebcaa2>。\n\n請您謹記，制定能夠在<color=#f8c200><拼點><color=#ebcaa2>過程中取勝的策略，是最為重要的。"
     },
     {
       "id": "tuto_00_03_01_01",
-      "content": "接著將為您解說關於<color=#f8c200><理智值><color=#ebcaa2>的相關事項。\n<color=#f8c200><理智值><color=#ebcaa2>之增減最大值為45，最小值則為-45。"
+      "content": "現在，讓我們來熟悉<color=#f8c200><理智值><color=#ebcaa2>吧。\n\n<color=#f8c200><理智值><color=#ebcaa2>的最高值為45，而最低值為-45。"
     },
     {
       "id": "tuto_00_03_01_02",
-      "content": "可透過顯示於底下罪人圖示旁的球體，查看罪人們的<color=#f8c200><理智值><color=#ebcaa2>。"
+      "content": "罪人的<color=#f8c200><理智值><color=#ebcaa2>也會在這裡顯示，位於其頭像旁邊的圓球當中。"
     },
     {
       "id": "tuto_00_03_01_03",
-      "content": "請您下達戰鬥指令。"
+      "content": "請您下令戰鬥。"
     },
     {
       "id": "tuto_00_03_01_04",
-      "content": "<color=#f8c200><理智值><color=#ebcaa2><color=#f8c200>可能增加對於拚點以及打倒敵人之類的勝算<color=#ebcaa2>，也<color=#f8c200>可能減少不利於戰鬥的時刻<color=#ebcaa2>。"
+      "content": "各個單位的<color=#f8c200><理智值><color=#ebcaa2>會在不同條件下改變。\n<color=#f8c200>有利的戰況將會提高理智值<color=#ebcaa2>，\n而<color=#f8c200>不利的戰況將會降低理智值<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_03_01_05",
-      "content": "伴隨<color=#f8c200><理智值><color=#ebcaa2>提高，<color=#f8c200>投擲技能硬幣時<color=#ebcaa2>增加出現正面的機率。"
+      "content": "單位的<color=#f8c200>理智值越高<color=#ebcaa2>，其<color=#f8c200>擲出硬幣為正面<color=#ebcaa2>的概率就越高。"
     },
     {
       "id": "tuto_00_03_02_01",
-      "content": "由於前面的回合友方全員皆拚點勝利，現在的場面對我方是十分有利的狀況。請您再次下達戰鬥指令。"
+      "content": "友方單位在先前的拼點當中全部得勝，因此其理智值得到恢復。形勢目前對我方有利，請您繼續下令。"
     },
     {
       "id": "tuto_00_03_02_02",
-      "content": "全部角色皆存在<color=#f8c200><混亂><color=#ebcaa2>閥值，其將以線的形式顯示。"
+      "content": "請您關注該單位的體力條。此處的細線表示<color=#f8c200><混亂閾值><color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_03_02_03",
-      "content": "依照承受傷害，體力減少至<color=#f8c200><混亂><color=#ebcaa2>閥值以下的情況，將進入<color=#f8c200><混亂狀態><color=#ebcaa2>。"
+      "content": "如果體力下降至<color=#f8c200><混亂閾值><color=#ebcaa2>以下，該單位將會<color=#f8c200><陷入混亂><color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_03_03_01",
-      "content": "處於<color=#f8c200><混亂狀態><color=#ebcaa2>的對象將無法行動，同時會大幅增加被傷害值，會將戰況變成相當不利的狀態。"
+      "content": "<color=#f8c200><陷入混亂><color=#ebcaa2>的單位將會無法行動並受到額外傷害，深陷於不利的形勢當中。"
     },
     {
       "id": "tuto_00_03_04_01",
-      "content": "由於之前的回合打倒了敵人，喪失戰意的剩餘敵人將進入<color=#f8c200><恐慌><color=#ebcaa2>狀態。"
+      "content": "在擊敗敵人後，剩餘的敵人將會失去戰意。\n您使得剩餘敵方單位陷入了<color=#f8c200><恐慌><color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_03_04_02",
-      "content": "理智值下降至一定程度的敵人會進入<color=#f8c200><士氣低下><color=#ebcaa2>、抑或<color=#f8c200><恐慌><color=#ebcaa2>的負面狀態。"
+      "content": "當敵方單位的理智值降至一定值以下時，其將會陷入<color=#f8c200><士氣低落><color=#ebcaa2>或<color=#f8c200><恐慌><color=#ebcaa2>，進而獲得負面效果。"
     },
     {
       "id": "tuto_00_03_04_03",
-      "content": "受到<color=#f8c200><士氣低下><color=#ebcaa2>、<color=#f8c200><恐慌><color=#ebcaa2>效果影響的敵人，其負面狀態將會顯示於此。"
+      "content": "<color=#f8c200><士氣低落><color=#ebcaa2>與<color=#f8c200><恐慌><color=#ebcaa2>狀態一旦觸發，將會在此處顯示。"
     },
     {
       "id": "tuto_00_03_04_04",
-      "content": "<color=#f8c200><士氣低下><color=#ebcaa2>、<color=#f8c200><恐慌><color=#ebcaa2>的效果會有個體差異。\n點擊底下的圖示，即可確認目前正受到哪種狀態影響。"
+      "content": "每個單位因陷入<color=#f8c200><士氣低落><color=#ebcaa2>或<color=#f8c200><恐慌><color=#ebcaa2>狀態而獲得的效果各不相同。\n您可以點選下方的圖示，以確認其獲得的效果。"
     },
     {
       "id": "tuto_00_04_01_01",
-      "content": "點擊角色即可閱覽該角色的<color=#f8c200>情報<color=#ebcaa2>。"
+      "content": "點選該單位以檢視其<color=#f8c200>詳細資訊<color=#ebcaa2>視窗。"
     },
     {
       "id": "tuto_00_04_01_02",
-      "content": "此處可以查看角色基礎的<color=#f8c200>數值<color=#ebcaa2>。"
+      "content": "您可以在這裡檢視其<color=#f8c200>基礎情況<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_04_01_03",
-      "content": "在這個介面可以查看角色的<color=#f8c200>養成狀態<color=#ebcaa2>以及<color=#f8c200>持有技能<color=#ebcaa2>。"
+      "content": "您可以在這裡檢視其<color=#f8c200>技能列表<color=#ebcaa2>與其<color=#f8c200>升級進度<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_04_01_04",
-      "content": "使用同樣的方式也可以查看敵方的情報。"
+      "content": "亦可通過相同的方法檢視敵方單位的情報。"
     },
     {
       "id": "tuto_00_04_01_05",
-      "content": "所有單位都有具有<color=#f8c200>耐性<color=#ebcaa2>。\n在這個介面可以查看<color=#f8c200>弱點屬性<color=#ebcaa2>。"
+      "content": "所有角色都具有<color=#f8c200>抗性<color=#ebcaa2>。\n可以在此確認對應角色的<color=#f8c200>低抗性屬性<color=#ebcaa2>。"
     },
     {
       "id": "tuto_00_04_01_06_title",
-      "content": "攻擊類型和屬性"
+      "content": "攻擊型別及屬性"
     },
     {
       "id": "tuto_00_04_01_07",
-      "content": "技能分為<color=#f8c200>3種攻擊類型<color=#ebcaa2>及<color=#f8c200>7種罪孽屬性<color=#ebcaa2>。\n傷害量會依據目標的抗性來決定。"
+      "content": "技能可以分為<color=#f8c200>3種攻擊型別<color=#ebcaa2>與<color=#f8c200>7種罪孽屬性<color=#ebcaa2>。\n目標受到的傷害正是基於其抗性而定。"
     },
     {
       "id": "tuto_00_04_01_08",
-      "content": "掌握敵人的弱點屬性並使用相對應的屬性進行攻擊，能讓戰鬥變得更加有利。"
+      "content": "若能洞悉敵方單位的屬性弱點並以對應的屬性進行攻擊將更有利於在戰鬥中獲取優勢。"
     },
     {
       "id": "tuto_00_04_02_01",
-      "content": "基本上，下方儀錶盤中最左方的技能行動順序為最快的。"
+      "content": "一般情況下將會最先使用位於下方儀表盤中最左側的技能。"
     },
     {
       "id": "tuto_00_04_02_02",
-      "content": "隨著回合的推進，從<color=#f8c200>編成順序較前的我方角色開始<color=#ebcaa2>，會依序每人增加一個行動槽，從而獲得額外的攻擊機會。"
+      "content": "每過一個回合，都將會使<color=#f8c200>友方單位按照編隊順位優先順序<color=#ebcaa2>依次獲得1個行動槽並提供更多進攻的機會。"
     },
     {
       "id": "tuto_00_04_03_01",
-      "content": "這是一項讓罪人們能夠<color=#f8c200>自主使用技能<color=#ebcaa2>的功能。"
+      "content": "這是一種能讓罪人們<color=#f8c200>自動選擇技能<color=#ebcaa2>的代理功能。"
     },
     {
       "id": "tuto_00_04_03_02",
-      "content": "然而，不透過經理而是讓罪人們自行做出戰術選擇，可能會導致戰鬥表現不盡理想，做出選擇是經理的責任。"
+      "content": "以罪人們的自行判斷代替經理的命令有可能導致戰鬥陷入僵局，還請經理仔細斟酌。"
     },
     {
       "id": "tuto_00_04_03_03_title",
@@ -242,23 +242,23 @@
     },
     {
       "id": "tuto_00_04_03_04",
-      "content": "將由現在的狀況下自動計算該技能拚點勝率，並在此處表示。\n\n並非是完美的計算，但若是需要快速判斷的場合可以提供參考。"
+      "content": "基於當下的情況自動計算的技能拼點勝率將會顯示在這兩處。\n\n計算結果並不完美，建議在您需要進行快速判斷時用於參考。"
     },
     {
       "id": "tuto_01_02_01_01",
-      "content": "1回合中使用複數<color=#f8c200>相同的屬性（顏色）<color=#ebcaa2>時，將會觸發<color=#f8c200><共鳴><color=#ebcaa2>。"
+      "content": "在同一回合內使用多個相同<color=#f8c200>屬性（顏色）<color=#ebcaa2>的技能，將會啟用<color=#f8c200><共鳴><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_01_02",
-      "content": "請試著連接相同屬性的技能，並觸發<color=#f8c200><共鳴><color=#ebcaa2>。"
+      "content": "請連線相同屬性的技能並激活<color=#f8c200><共鳴><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_01_03",
-      "content": "若<color=#f8c200>連續連接3個以上的相同屬性技能<color=#ebcaa2>，將會觸發<color=#f8c200><完全共鳴><color=#ebcaa2>。\n\n請試著觸發<color=#f8c200><完全共鳴><color=#ebcaa2>。"
+      "content": "<color=#f8c200>連線至少3個相鄰的同屬性技能<color=#ebcaa2>將會啟用<color=#f8c200><完全共鳴><color=#ebcaa2>。\n\n請啟用<color=#f8c200><完全共鳴><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_01_04",
-      "content": "像這樣觸發<color=#f8c200><共鳴><color=#ebcaa2>或<color=#f8c200><完全共鳴><color=#ebcaa2>時，可以獲得技能威力提升等有利效果。"
+      "content": "通過<color=#f8c200><共鳴><color=#ebcaa2>與<color=#f8c200><完全共鳴><color=#ebcaa2>即可使對應的技能獲得小幅度威力提升等增益效果。"
     },
     {
       "id": "tuto_01_02_01_05_title",
@@ -266,7 +266,7 @@
     },
     {
       "id": "tuto_01_02_01_06",
-      "content": "1回合中使用2個以上的相同屬性技能，將會觸發<color=#f8c200><共鳴><color=#ebcaa2>。"
+      "content": "在同一回合內使用2個及以上的同屬性技能，將會啟用<color=#f8c200><共鳴><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_02_01_title",
@@ -274,7 +274,7 @@
     },
     {
       "id": "tuto_01_02_02_02",
-      "content": "1回合中連續連接3個以上的相同屬性技能\n將會觸發<color=#f8c200><完全共鳴><color=#ebcaa2>。"
+      "content": "在同一回合內連續連線3個及以上的同屬性技能時，\n將會啟用<color=#f8c200><完全共鳴><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_02_03_title",
@@ -282,131 +282,131 @@
     },
     {
       "id": "tuto_01_02_02_04",
-      "content": "觸發<color=#f8c200><共鳴><color=#ebcaa2>的技能會根據は<color=#f8c200>共鳴技能的數量<color=#ebcaa2>而獲得一定程度的強化，<color=#f8c200>且參與順序越靠後的技能<color=#ebcaa2>，其效果會越顯著。\n\n<color=#f8c200><完全共鳴><color=#ebcaa2>時，參與完全共鳴的<color=#f8c200>所有技能都會適用強化效果<color=#ebcaa2>。"
+      "content": "參與<color=#f8c200><共鳴><color=#ebcaa2>的技能將會基於<color=#f8c200>共鳴技能數量<color=#ebcaa2>獲得小幅強化，<color=#f8c200>越靠後的技能<color=#ebcaa2>獲得的強化幅度越大。\n\n啟用<color=#f8c200><完全共鳴><color=#ebcaa2>時，參與該完全共鳴的<color=#f8c200>所有技能都會獲得強化效果<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_03_01",
-      "content": "所有單位都擁有<color=#f8c200>被動技能<color=#ebcaa2>。"
+      "content": "所有角色都擁有專屬的<color=#f8c200>被動技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_03_02",
-      "content": "請點擊浮士德查看<color=#f8c200>被動技能<color=#ebcaa2>。"
+      "content": "請點選浮士德，並確認浮士德的<color=#f8c200>被動技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_03_03",
-      "content": "請您點擊罪人的技能情報欄。"
+      "content": "請點選罪人的技能情報。"
     },
     {
       "id": "tuto_01_02_03_04",
-      "content": "點擊<color=#f8c200>被動技能<color=#ebcaa2>的按鈕，可以查看發動條件和發動效果。"
+      "content": "點選此處的<color=#f8c200>被動技能<color=#ebcaa2>按鈕，即可確認其啟用條件與效果。"
     },
     {
       "id": "tuto_01_02_03_05",
-      "content": "浮士德的被動為<color=#f8c200><共鳴><color=#ebcaa2>效果。\n可以透過先前所述的<color=#f8c200><共鳴><color=#ebcaa2>來觸發該效果。"
+      "content": "浮士德的被動技能是<color=#f8c200><共鳴><color=#ebcaa2>效果。\n可以通過先前提到的<color=#f8c200><共鳴><color=#ebcaa2>啟用該技能。"
     },
     {
       "id": "tuto_01_02_03_06",
-      "content": "請觸發所需屬性的<color=#f8c200><共鳴><color=#ebcaa2>，以啟動<color=#f8c200><共鳴被動><color=#ebcaa2>效果。\n\n浮士德的被動需要共鳴2個<color=#004bd5>傲慢（藍色）<color=#ebcaa2>屬性。"
+      "content": "請啟用對應屬性的<color=#f8c200><共鳴><color=#ebcaa2>，以此啟用<color=#f8c200><共鳴被動技能><color=#ebcaa2>。\n\n浮士德的被動技能需要2個及以上的<color=#004bd5>傲慢(藍色)<color=#ebcaa2>屬性共鳴。"
     },
     {
       "id": "tuto_01_02_04_01",
-      "content": "接下來查看其他種類的被動效果。\n\n點擊<color=#f8c200>左上<color=#ebcaa2>的圖示也能查看被動效果。\n請點擊罪人默爾索的圖示。"
+      "content": "讓我們再確認另一種被動技能。\n\n點選<color=#f8c200>左上角<color=#ebcaa2>的圖示也可以確認各項被動技能。\n請點選罪人默爾索的圖示。"
     },
     {
       "id": "tuto_01_02_04_02",
-      "content": "罪人默爾索的被動為<color=#f8c200><持有><color=#ebcaa2>效果。\n\n<color=#f8c200><持有被動><color=#ebcaa2>只要<color=#f8c200>罪孽碎片<color=#ebcaa2>達到要求數值時，將會在每個回合自動啟動。"
+      "content": "罪人默爾索的被動技能為<color=#f8c200><持有><color=#ebcaa2>效果。\n\n<color=#f8c200><持有型被動技能><color=#ebcaa2>只需持有滿足其數量要求的對應屬性<color=#f8c200>罪孽碎片<color=#ebcaa2>，便會在每回合自動啟用。"
     },
     {
       "id": "tuto_01_02_04_03",
-      "content": "該被動需要2個<color=#fbc82b>怠惰（黃色）<color=#ebcaa2>碎片。"
+      "content": "該被動技能需要2個<color=#fbc82b>怠惰（黃色）<color=#ebcaa2>罪孽碎片。"
     },
     {
       "id": "tuto_01_02_04_04",
-      "content": "<color=#f8c200>使用技能<color=#ebcaa2>時，會獲得<color=#f8c200>該技能屬性的罪孽碎片<color=#ebcaa2>。\n\n由於在前一回合已經累積了足夠的<color=#fbc82b>怠惰（黃色）<color=#ebcaa2>碎片，因此該<color=#f8c200><持有被動><color=#ebcaa2>目前處於啟動狀態。"
+      "content": "<color=#f8c200>使用技能<color=#ebcaa2>即可獲得<color=#f8c200>與該技能同屬性的罪孽碎片<color=#ebcaa2>。\n\n由於之前已經收集了足夠的<color=#fbc82b>怠惰（黃色）<color=#ebcaa2>罪孽碎片，所以該<color=#f8c200><持有型被動技能><color=#ebcaa2>已經處於啟用狀態了。"
     },
     {
       "id": "tuto_01_02_04_05",
-      "content": "目前啟動的被動技能將會發光顯示。"
+      "content": "已經啟用的被動技能將會有高亮顯示。"
     },
     {
       "id": "tuto_01_02_04_06",
-      "content": "沒有參與戰鬥的罪人們將會使用<支援被動>來輔助戰鬥。\n\n可以在此處查看<color=#f8c200><支援被動><color=#ebcaa2>。"
+      "content": "沒有參與戰鬥的罪人們將會通過<支援被動技能>，為戰鬥中的罪人們提供支援。\n\n可以在此處確認<color=#f8c200><支援被動技能><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_02_04_07_title",
-      "content": "支援技能"
+      "content": "支援被動技能"
     },
     {
       "id": "tuto_01_02_04_08",
-      "content": "當罪人們成長到一定程度後，即使未參與戰鬥的罪人，也能透過<支援被動>來輔助我方角色。\n<支援被動>與一般被動技能一樣，可以透過<color=#f8c200><共鳴><color=#ebcaa2>或<color=#f8c200><持有><color=#ebcaa2>效果來啟動。"
+      "content": "充分成長後的罪人們即使不參與戰鬥，也可以通過<支援被動技能>為友方提供支援。\n<支援被動技能>也需要通過<color=#f8c200><共鳴><color=#ebcaa2>或<color=#f8c200><持有><color=#ebcaa2>的方式啟用。"
     },
     {
       "id": "tuto_01_03_01_01",
-      "content": "每個單位除了攻擊技能之外，還具有<color=#f8c200><守備技能><color=#ebcaa2>。"
+      "content": "角色們除了攻擊技能以外，還擁有<color=#f8c200><守備技能><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_03_01_02",
-      "content": "點擊下方罪人的頭像，即可將該行動槽變為<color=#f8c200><守備技能><color=#ebcaa2>。"
+      "content": "點選下方的罪人頭像，即可將對應行動槽中的技能\n改為<color=#f8c200><守備技能><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_03_01_03",
-      "content": "首先點擊罪人默爾索的頭像，生成<color=#f8c200><防禦><color=#ebcaa2>技能。"
+      "content": "首先，請您點選罪人默爾索的頭像產生<color=#f8c200><防禦><color=#ebcaa2>技能。"
     },
     {
       "id": "tuto_01_03_01_04",
-      "content": "接著，點擊浮士德的頭像生成<color=#f8c200><迴避><color=#ebcaa2>技能。"
+      "content": "接下來，點選浮士德的頭像產生<color=#f8c200><閃避><color=#ebcaa2>技能。"
     },
     {
       "id": "tuto_01_03_01_05",
-      "content": "最後，點擊罪人希斯克利夫的頭像，生成<color=#f8c200><反擊><color=#ebcaa2>技能"
+      "content": "最後，點選罪人希斯克利夫的頭像產生<color=#f8c200><反擊><color=#ebcaa2>技能。"
     },
     {
       "id": "tuto_01_03_01_06_title",
-      "content": "守備技能 - 防禦"
+      "content": "守備技能：防禦"
     },
     {
       "id": "tuto_01_03_01_07",
-      "content": "<color=#f8c200><防禦><color=#ebcaa2>技能會根據威力獲得相等的<color=#f8c200>護盾<color=#ebcaa2>。\n受到傷害時，會優先由護盾承受傷害，而非生命值。"
+      "content": "<color=#f8c200><防禦><color=#ebcaa2>將會提供與其威力相當的<color=#f8c200>護盾<color=#ebcaa2>。\n受到傷害時，將會優先扣除護盾值。"
     },
     {
       "id": "tuto_01_03_01_08_title",
-      "content": "守備技能 - 迴避"
+      "content": "守備技能：閃避"
     },
     {
       "id": "tuto_01_03_01_09",
-      "content": "若<color=#f8c200><迴避><color=#ebcaa2>技能的最終威力不低於對手的攻擊技能，對方的攻擊將會完全<color=#f8c200>無效<color=#ebcaa2>。\n迴避技能將根據對方的攻擊技能硬幣數進行判定，若最終威力低於對手的攻擊技能將會直接承受該傷害，請多加注意。"
+      "content": "<color=#f8c200><閃避><color=#ebcaa2>的最終威力只要不低於目標技能，即可使對方的攻擊<color=#f8c200>完全無效<color=#ebcaa2>。\n攻擊技能的每枚硬幣都會進行判定，且請注意，最終威力低於對方時將不會產生任何效果。"
     },
     {
       "id": "tuto_01_03_01_10_title",
-      "content": "守備技能 - 反擊"
+      "content": "守備技能：反擊"
     },
     {
       "id": "tuto_01_03_01_11",
-      "content": "<color=#f8c200><反擊><color=#ebcaa2>技能會在<color=#f8c200>承受攻擊後給予目標單方面攻擊<color=#ebcaa2>。\n若承受傷害後進入混亂狀態則無法進行反擊，請多加注意。"
+      "content": "<color=#f8c200><反擊><color=#ebcaa2>將會在<color=#f8c200>受到攻擊後對目標發動單方面攻擊<color=#ebcaa2>。\n請注意，若因為受到攻擊而陷入混亂，將會無法進行反擊。"
     },
     {
       "id": "tuto_01_03_01_12",
-      "content": "再度點擊罪人的頭像可以將<color=#f8c200><守備技能>取消<color=#ebcaa2>。"
+      "content": "再次點選罪人的頭像，即可\n<color=#f8c200>取消<守備技能><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_03_01_13",
-      "content": "現在直接看實戰效果吧。\n\n請試著連接<color=#f8c200><守備技能><color=#ebcaa2>。"
+      "content": "現在讓我們在戰鬥中直接瞭解各種效果。\n\n請連線<color=#f8c200><守備技能><color=#ebcaa2>並下達戰鬥指令。"
     },
     {
       "id": "tuto_01_03_02_01",
-      "content": "在適當的場合下使用<color=#f8c200><守備技能><color=#ebcaa2>可以比攻擊來得有效，但根據狀況也有可能變得更加危險。"
+      "content": "雖然在合理運用<color=#f8c200><守備技能><color=#ebcaa2>的情況下收益將會大於進攻收益，但是也有可能招致更大的危險。"
     },
     {
       "id": "tuto_01_03_02_02",
-      "content": "此外，若經理<color=#f8c200>未直接下達指令<color=#ebcaa2>，罪人們將不會自行使用<color=#f8c200><防禦技能><color=#ebcaa2>，因此在使用<color=#f8c200>自動裝填技能<color=#ebcaa2>功能時，請多加注意。"
+      "content": "此外，如果經理沒有<color=#f8c200>直接下達命令<color=#ebcaa2>，罪人們便不會使用<color=#f8c200><守備技能><color=#ebcaa2>，在您使用<color=#f8c200>自動選擇技能<color=#ebcaa2>功能時還請注意這一點。"
     },
     {
       "id": "tuto_01_04_01_01_title",
-      "content": "戰鬥介面資訊量設定"
+      "content": "戰鬥畫面資訊量調整設定"
     },
     {
       "id": "tuto_01_04_01_02",
-      "content": "戰鬥畫面的右上方是控制戰鬥相關資訊的按鈕。\n\n按鈕分別顯示<color=#f8c200>最小/中等/最大<color=#ebcaa2>數量的資訊。"
+      "content": "在戰鬥畫面的右上角，是控制戰鬥相關資訊的顯示內容的按鈕。\n\n這三個按鈕分別可以設定顯示<color=#f8c200>最小/中等/最大<color=#ebcaa2>的資訊量。"
     },
     {
       "id": "tuto_01_04_01_03_title",
@@ -414,7 +414,7 @@
     },
     {
       "id": "tuto_01_04_01_04",
-      "content": "這是將資訊顯示到最大程度的設定。\n\n在開始遊戲時，這是預設選擇的設定。\n\n比起中等或最小資訊顯示，會提供更多詳細內容。\n\n會顯示技能中所使用的關鍵詞相關資訊。"
+      "content": "最大資訊顯示設定。\n\n是首次啟動遊戲時，預設應用的資訊顯示設定。\n\n相比於中等/最小設定，會提供更多資訊。\n\n會顯示技能中的「關鍵詞」的詳細資訊。"
     },
     {
       "id": "tuto_01_04_01_05_title",
@@ -422,7 +422,7 @@
     },
     {
       "id": "tuto_01_04_01_06",
-      "content": "這是中等程度資訊顯示的設定。\n\n與最大資訊顯示的差別在於，不會顯示技能中使用的關鍵詞相關資訊。\n\n除此之外，顯示的內容與最大資訊顯示相同。"
+      "content": "中等資訊顯示設定。\n\n與最大資訊顯示不同，不會顯示技能中的「關鍵詞」的相關資訊。\n\n除此以外，與最大資訊顯示的內容相同。"
     },
     {
       "id": "tuto_01_04_01_07_title",
@@ -430,131 +430,131 @@
     },
     {
       "id": "tuto_01_04_01_08",
-      "content": "這是僅顯示最基本資訊的設定。\n\n與最大或中等顯示不同，將不會顯示技能效果與關鍵詞相關的資訊。"
+      "content": "最小資訊顯示設定。\n\n與最大、中等資訊顯示設定不同，不會顯示「技能效果」與「關鍵詞」的資訊。"
     },
     {
       "id": "tuto_01_08_01_01",
-      "content": "接下來將為您說明如何使用<color=#f8c200><E.G.O><color=#ebcaa2>。"
+      "content": "現在，讓我們開始對<color=#f8c200><E.G.O><color=#ebcaa2>進行說明。"
     },
     {
       "id": "tuto_01_08_01_02",
-      "content": "只要裝備了<color=#f8c200><E.G.O><color=#ebcaa2>，<color=#f8c200>無關乎使用中的人格<color=#ebcaa2>，此為<color=#ebcaa2>各罪人的專屬技能<color=#f8c200>。"
+      "content": "<color=#f8c200><E.G.O><color=#ebcaa2>是每位罪人的<color=#f8c200>固有技能<color=#ebcaa2>。只要裝備上，就可以使用，<color=#f8c200>不會受人格影響<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_08_01_03",
-      "content": "接著來查看罪人希斯克利夫的<color=#f8c200><E.G.O><color=#ebcaa2>。\n\n請長按罪人希斯克利夫的頭像。"
+      "content": "讓我們看看罪人希斯克利夫的<color=#f8c200><E.G.O><color=#ebcaa2>。\n\n請長按下方的罪人希斯克利夫的頭像圖示。"
     },
     {
       "id": "tuto_01_08_01_04",
-      "content": "現在罪人希斯克利夫所裝備的全部<color=#f8c200><E.G.O><color=#ebcaa2>都會在此處顯示。"
+      "content": "現在，罪人希斯克利夫已裝備的所有<color=#f8c200><E.G.O><color=#ebcaa2>，都已顯示於此。"
     },
     {
       "id": "tuto_01_08_01_05",
-      "content": "使用<color=#f8c200><E.G.O><color=#ebcaa2>技能時，\n將會消耗<color=#f8c200>罪孽碎片<color=#ebcaa2>和&<color=#f8c200>理智值<color=#ebcaa2>。\n\n消耗的理智值會在<color=#f8c200><E.G.O><color=#ebcaa2>情報的左上方顯示。\n\n接下來請點擊<color=#f8c200><E.G.O>屍袋<color=#ebcaa2>。"
+      "content": "使用<color=#f8c200><E.G.O><color=#ebcaa2>時，\n將消耗<color=#f8c200>罪孽碎片<color=#ebcaa2>與<color=#f8c200>理智值<color=#ebcaa2>。\n\n所消耗的理智值量，會顯示在<color=#f8c200><E.G.O><color=#ebcaa2>資訊的左上角。\n\n現在，請點選<color=#f8c200><E.G.O>「裹屍袋」<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_08_01_06",
-      "content": "現在因為碎片不足而無法使用<color=#f8c200><E.G.O><color=#ebcaa2>技能。\n\n所有的<color=#f8c200><E.G.O><color=#ebcaa2>技能都需要相應的<color=#f8c200>罪孽碎片<color=#ebcaa2>。"
+      "content": "由於目前資源不足，無法使用<color=#f8c200>\n<E.G.O><color=#ebcaa2>技能。\n\n所有<color=#f8c200><E.G.O><color=#ebcaa2>技能，都需要具有相應的<color=#f8c200>罪孽碎片<color=#ebcaa2>才能使用。"
     },
     {
       "id": "tuto_01_08_01_07",
-      "content": "此處將顯示使用<color=#f8c200><E.G.O><color=#ebcaa2>技能所需的<color=#f8c200><罪孽碎片><color=#ebcaa2>和種類。\n\n看來需要橘色的<color=#ff6600><色慾><color=#ebcaa2>碎片和紫色的<color=#9500de><嫉妒><color=#ebcaa2>碎片。"
+      "content": "使用<color=#f8c200><E.G.O><color=#ebcaa2>技能所需的<color=#f8c200><罪孽碎片><color=#ebcaa2>的型別與數量，會顯示在這裡。\n\n現在需要橙色的<color=#ff6600><色慾><color=#ebcaa2>罪孽碎片，與紫色的<color=#9500de><嫉妒><color=#ebcaa2>罪孽碎片。"
     },
     {
       "id": "tuto_01_08_01_08",
-      "content": "在此處可以查看現在所持有的<color=#f8c200><罪孽碎片><color=#ebcaa2>。\n\n雖然您可能還尚未熟悉<color=#f8c200><罪孽碎片><color=#ebcaa2>這一概念，但您可從詳細資訊介面中點擊屬性圖示查看其名稱，請多加利用。"
+      "content": "已持有的<color=#f8c200><罪孽碎片><color=#ebcaa2>可以在這裡檢視。\n\n<color=#f8c200><罪孽碎片><color=#ebcaa2>這一概念對您而言可能仍有些陌生，您也可以點選狀態視窗中的屬性圖示以確認其名稱，請參考。"
     },
     {
       "id": "tuto_01_08_01_09",
-      "content": "<color=#f8c200><罪孽碎片><color=#ebcaa2>可以透過使用技能來獲得。\n\n正好現在參與戰鬥的人員擁有所需屬性的技能，請使用它們吧。"
+      "content": "您可以通過使用技能，收集<color=#f8c200><罪孽碎片><color=#ebcaa2>。\n\n正好，場上的戰鬥人員們擁有我們需要的屬性的技能。請使用吧。"
     },
     {
       "id": "tuto_01_08_02_01",
-      "content": "請點擊<color=#f8c200>勝率<color=#ebcaa2>按鈕來下達指令。"
+      "content": "請點選<color=#f8c200>勝率<color=#ebcaa2>按鈕，命令罪人們根據勝率選擇技能。"
     },
     {
       "id": "tuto_01_08_02_02",
-      "content": "現在，有一名敵人正準備對罪人希斯克利夫發動難以招架的<color=#f8c200>強力攻擊<color=#ebcaa2>。"
+      "content": "現在，一名敵人正準備對罪人希斯克利夫，發動難以抵擋的<color=#f8c200>強力攻擊<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_08_02_03",
-      "content": "像現在這種難以獲得<color=#f8c200><拚點><color=#ebcaa2>勝利的情況下，也可以透過使用<color=#f8c200><E.G.O><color=#ebcaa2>技能來扭轉局勢。"
+      "content": "像這樣，在<color=#f8c200><拼點><color=#ebcaa2>難以取勝時，使用<color=#f8c200><E.G.O><color=#ebcaa2>技能往往可以打破困局。"
     },
     {
       "id": "tuto_01_08_02_04",
-      "content": "若目前擁有的碎片足以使用<color=#f8c200><E.G.O><color=#ebcaa2>技能，將會顯示在罪人頭像的周圍。"
+      "content": "如果您擁有足夠的罪孽碎片，已有可用的<color=#f8c200><E.G.O><color=#ebcaa2>技能，則其將會在罪人圖示周圍顯示，就像這樣。"
     },
     {
       "id": "tuto_01_08_02_05",
-      "content": "請再度長按罪人希斯克利夫的頭像，開啟<color=#f8c200><E.G.O><color=#ebcaa2>選擇介面。"
+      "content": "請再次長按罪人希斯克利夫的頭像圖示，打開<color=#f8c200><E.G.O><color=#ebcaa2>選擇視窗。"
     },
     {
       "id": "tuto_01_08_02_06",
-      "content": "現在蒐集了足夠的碎片，可以使用<color=#f8c200><E.G.O><color=#ebcaa2>技能了。\n\n請再次選擇<color=#f8c200>屍袋<color=#ebcaa2>，裝填至行動槽中。"
+      "content": "現在已經收集了足夠的罪孽碎片，可以使用<color=#f8c200><E.G.O><color=#ebcaa2>技能了。\n\n請再次選擇E.G.O技能<color=#f8c200>裹屍袋<color=#ebcaa2>，將其裝備到行動槽中。"
     },
     {
       "id": "tuto_01_08_02_07",
-      "content": "所選中的<color=#f8c200><E.G.O><color=#ebcaa2>技能將會自動裝填至下方的行動槽中。"
+      "content": "所選擇的<color=#f8c200><E.G.O><color=#ebcaa2>技能，會自動裝備在下方的插槽中。"
     },
     {
       "id": "tuto_01_08_02_08",
-      "content": "若在已裝備 <E.G.O> 技能的行動槽上裝填<color=#f8c200>其他 <E.G.O> 技能<color=#ebcaa2>，或將該行動槽改為<color=#f8c200>守備技能<color=#ebcaa2>，原本裝備的 <E.G.O> 技能將會被卸除，並返還所使用的罪孽碎片。"
+      "content": "在同個行動槽內<color=#f8c200>裝備不同的<E.G.O>技能<color=#ebcaa2>，或<color=#f8c200>使用守備技能覆蓋技能<color=#ebcaa2>，都會取消裝備目前的<E.G.O>技能，並歸還罪孽碎片。"
     },
     {
       "id": "tuto_01_08_02_09",
-      "content": "現在請再次進行戰鬥。"
+      "content": "現在，請再次進入戰鬥。"
     },
     {
       "id": "tuto_01_08_02_10",
-      "content": "使用<color=#f8c200><E.G.O><color=#ebcaa2>技能攻擊時，將會<color=#f8c200>消耗理智值<color=#ebcaa2>。\n\n理智值過低的罪人將會陷入<color=#f8c200>恐慌<color=#ebcaa2>狀態，甚至被<color=#f8c200><E.G.O><color=#ebcaa2><color=#f8c200>侵蝕<color=#ebcaa2>，請多加注意。\n"
+      "content": "在使用<color=#f8c200><E.G.O><color=#ebcaa2>技能進行攻擊前，\n會消耗E.G.O技能所需的<color=#f8c200>理智值<color=#ebcaa2>。\n\n請注意，在理智值過低的情況下，使用<color=#f8c200><E.G.O><color=#ebcaa2>將會導致罪人陷入<color=#f8c200>恐慌<color=#ebcaa2>或<color=#f8c200>侵蝕<color=#ebcaa2>狀態。"
     },
     {
       "id": "tuto_01_08_03_01",
-      "content": "隨著<E.G.O>解析階段上升，<color=#f8c200><E.G.O>被動<color=#ebcaa2>將會在使用<E.G.O>技能後，<color=#f8c200>下回合<color=#ebcaa2>開始處於<color=#f8c200>啟動<color=#ebcaa2>狀態。\n\n<E.G.O>被動效果可以在罪人的情報介面中查看。"
+      "content": "提升<E.G.O>的異想解析階段，將會解鎖其<color=#f8c200><E.G.O>被動<color=#ebcaa2>。當該單位在本回合內使用完畢<E.G.O>技能，戰鬥進入<color=#f8c200>下一回合<color=#ebcaa2>時，該技能的獨特<color=#ebcaa2><E.G.O>被動<color=#f8c200>將被啟用。\n\n您可以在各個罪人的詳細資訊視窗中檢視其<E.G.O>被動。"
     },
     {
       "id": "tuto_01_09_01_01",
-      "content": "這次的戰鬥將更詳細地說明<E.G.O>。\n罪人良秀將會在高理智值的狀態下出戰。"
+      "content": "在本次遭遇戰當中，我們將會學習<E.G.O>的高階用法。\n為演示需要，罪人良秀將會以更高理智值開戰。"
     },
     {
       "id": "tuto_01_09_01_02",
-      "content": "除了基本E.G.O以外的E.G.O技能都能進行<color=#f8c200><E.G.O超頻><color=#ebcaa2>。\n請長按罪人良秀的頭像，查看E.G.O技能。"
+      "content": "任何除基礎E.G.O技能以外的E.G.O技能，都可以進行<color=#f8c200><E.G.O超頻><color=#ebcaa2>。\n請按住罪人良秀的頭像以打開其E.G.O列表。"
     },
     {
       "id": "tuto_01_09_01_03",
-      "content": "請嘗試使用良秀的新E.G.O覺醒技能。"
+      "content": "讓我們先嚐試使用良秀最新獲得的E.G.O覺醒技能吧。"
     },
     {
       "id": "tuto_01_09_01_04",
-      "content": "<color=#f8c200>使用E.G.O<color=#ebcaa2>後，可以<color=#f8c200>改變當前罪人的罪孽抗性<color=#ebcaa2>。\n根據敵人的不同調整屬性抗性，可以讓戰鬥變得更加有利。"
+      "content": "通過使用<color=#f8c200>E.G.O技能<color=#ebcaa2>，您將會<color=#f8c200>改變罪人的罪孽抗性<color=#ebcaa2>。\n檢查敵方技能罪孽屬性，通過使用合適的E.G.O來改變罪孽抗性，以創造有利局面。"
     },
     {
       "id": "tuto_01_09_01_05",
-      "content": "請再次使用E.G.O技能。"
+      "content": "讓我們再次使用該E.G.O技能。"
     },
     {
       "id": "tuto_01_09_01_06",
-      "content": "E.G.O技能在<color=#f8c200>理智值<color=#ebcaa2>低下的狀態，被<color=#f8c200>侵蝕<color=#ebcaa2>的機率也會提升。進入侵蝕狀態時，將會使用無差別攻擊的侵蝕技能，請多加注意。\n侵蝕機率可以從此處查看。"
+      "content": "<color=#f8c200>理智值<color=#ebcaa2>越低，E.G.O技能的<color=#f8c200>侵蝕<color=#ebcaa2>概率就越高。請注意，侵蝕時罪人將使用不分敵我的侵蝕技能。\n可在此檢視侵蝕概率。"
     },
     {
       "id": "tuto_01_09_01_07",
-      "content": "理智值達到<color=#f8c200>-45<color=#ebcaa2>時，將會進入<color=#f8c200><E.G.O侵蝕狀態><color=#ebcaa2>。\n處於<color=#f8c200><E.G.O侵蝕狀態><color=#ebcaa2>時，將進行無差別攻擊。"
+      "content": "理智值降至<color=#f8c200>-45<color=#ebcaa2>時，罪人必定進入<color=#f8c200><E.G.O侵蝕><color=#ebcaa2>狀態。\n在<color=#f8c200><E.G.O侵蝕><color=#ebcaa2>狀態下，罪人將會不分敵我地攻擊場上的友方和敵方單位。"
     },
     {
       "id": "tuto_01_09_01_08",
-      "content": "當下回合開始時，<color=#f8c200><E.G.O侵蝕狀態><color=#ebcaa2>就會結束，\n理智值會回復至0。"
+      "content": "在下一回合，罪人將會脫離<color=#f8c200><E.G.O侵蝕><color=#ebcaa2>狀態，\n理智值也將重置為0。"
     },
     {
       "id": "tuto_01_09_01_09",
-      "content": "這次將嘗試<color=#f8c200><E.G.O超頻><color=#ebcaa2>。請長按罪人良秀的頭像。"
+      "content": "現在讓我們嘗試<color=#f8c200><E.G.O超頻><color=#ebcaa2>。按住良秀的頭像。"
     },
     {
       "id": "tuto_01_09_01_10",
-      "content": "請長按E.G.O技能、進入<color=#f8c200><E.G.O超頻><color=#ebcaa2>狀態。\n<E.G.O超頻>是使<color=#f8c200><E.G.O>強制變成侵蝕狀態技能<color=#ebcaa2>的功能。"
+      "content": "按住E.G.O技能卡片以進行<color=#f8c200><E.G.O超頻><color=#ebcaa2>。\n使用<E.G.O超頻>，將<color=#f8c200>主動使該罪人使用<E.G.O>侵蝕技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_09_01_11",
-      "content": "超頻時若是罪孽碎片足夠，將會發動<color=#f8c200>穩定超頻<color=#ebcaa2>，若罪孽碎片不足，則會發動<color=#f8c200>不穩定超頻<color=#ebcaa2>。"
+      "content": "如果您超頻E.G.O時的資源充足，則其將會以<color=#f8c200>穩定超頻<color=#ebcaa2>形式進行。否則，其將會<color=#f8c200>不穩定超頻<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_09_01_12_title",
@@ -562,7 +562,7 @@
     },
     {
       "id": "tuto_01_09_01_12",
-      "content": "<color=#f8c200><穩定超頻><color=#ebcaa2>狀態下將會使用<color=#f8c200>1.5倍的碎片和理智值<color=#ebcaa2>，且<color=#f8c200>不會攻擊友方單位。<color=#ebcaa2>\n但是，<color=#f8c200>若是理智值過低時<color=#ebcaa2>，即使超頻也會進入<color=#f8c200>侵蝕狀態<color=#ebcaa2>，請注意這一點。"
+      "content": "啟用<color=#f8c200><穩定超頻><color=#ebcaa2>與未超頻的E.G.O相比，將會消耗<color=#f8c200>1.5倍資源(包括理智)<color=#ebcaa2>，但<color=#f8c200>友方單位不會成為目標<color=#ebcaa2>。\n然而，若是<color=#f8c200>理智不足<color=#ebcaa2>，穩定超頻依然可能導致罪人<color=#f8c200>侵蝕<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_09_01_13_title",
@@ -570,27 +570,27 @@
     },
     {
       "id": "tuto_01_09_01_13",
-      "content": "若使用<color=#f8c200><E.G.O超頻>時<color=#ebcaa2>罪孽碎片不足，\n將會發動<color=#f8c200><不穩定超頻><color=#ebcaa2>。\n該狀態下如同侵蝕技能一般，將會<color=#f8c200>無差別地進行攻擊<color=#ebcaa2>，<color=#f8c200>若有不足的罪孽碎片將會以負數處理<color=#f8c200>。"
+      "content": "在資源不足的情況下啟用<color=#f8c200><E.G.O超頻><color=#ebcaa2>，\n將會觸發<color=#f8c200><不穩定超頻><color=#ebcaa2>。\n不穩定超頻<color=#f8c200>不分敵我<color=#ebcaa2>，對友方與敵方單位一視同仁。任何<color=#f8c200>不足的罪孽碎片將會為負<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_01_01",
-      "content": "在迷宮中存在名為<color=#f8c200>異想體<color=#ebcaa2>的生物。"
+      "content": "名為<color=#f8c200>異想體<color=#ebcaa2>的實體可能在迷宮當中出現。"
     },
     {
       "id": "tuto_01_11_abbattle_01_02",
-      "content": "和異想體的戰鬥會以不同於以往戰鬥的方式進行。"
+      "content": "與異想體作戰需要單獨的策略。"
     },
     {
       "id": "tuto_01_11_abbattle_01_03",
-      "content": "與這樣的敵人交戰的戰鬥，被稱為<color=#f8c200>集中遭遇戰<color=#ebcaa2>，現在開始為您說明。"
+      "content": "使用這種策略的戰鬥，被稱為<color=#f8c200>集中遭遇戰<color=#ebcaa2>。讓我們來詳細說明。"
     },
     {
       "id": "tuto_01_11_abbattle_01_04",
-      "content": "異想體擁有1個以上的<color=#f8c200>部位<color=#ebcaa2>。"
+      "content": "任何異想體都擁有一個或多個<color=#f8c200>部位<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_01_05",
-      "content": "各部位都有對應的行動槽與速度值。"
+      "content": "每個部位都有其特定的速度值與行動槽。"
     },
     {
       "id": "tuto_01_11_abbattle_01_06_title",
@@ -598,123 +598,123 @@
     },
     {
       "id": "tuto_01_11_abbattle_01_06",
-      "content": "所有的異想體都有1個以上的部位。\n\n各部位都具有行動槽，並且在每回合決定各部位的速度值。"
+      "content": "異想體往往存在多個部位。\n\n每個部位都具有行動槽，且每回合都會根據部位，決定行動槽的速度值。"
     },
     {
       "id": "tuto_01_11_abbattle_01_07",
-      "content": "在集中遭遇戰中，需要選擇我方的技能，並<color=#f8c200>直接<color=#ebcaa2>連接到異想體的行動槽上。"
+      "content": "在集中遭遇戰中，需要選擇友方單位的技能，並將其<color=#f8c200>直接<color=#ebcaa2>連線至異想體的行動槽當中。"
     },
     {
       "id": "tuto_01_11_abbattle_01_08",
-      "content": "請選擇儀錶盤中第一列所配置的罪人的技能。"
+      "content": "請選擇儀表盤最左側罪人的一個技能。"
     },
     {
       "id": "tuto_01_11_abbattle_01_09",
-      "content": "請將所選擇的我方技能，連接到畫面上顯示的<color=#f8c200>敵方行動槽<color=#ebcaa2>上。"
+      "content": "現在，將其拖曳至<color=#f8c200>這個敵方行動槽來完成連線<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_01_10",
-      "content": "如先前所述，連接敵我方的技能是集中遭遇戰的基本。"
+      "content": "請記住，在集中遭遇戰當中，您需要將友方的技能直接連線到敵方的行動槽。"
     },
     {
       "id": "tuto_01_11_abbattle_01_11",
-      "content": "若您希望觀察戰場全局，請按左側齒輪。"
+      "content": "點選左側的齒輪以縮小視角，並觀察戰場的全貌。"
     },
     {
       "id": "tuto_01_11_abbattle_01_12",
-      "content": "在放大觀察時，點擊左側的齒輪能夠重置視角。"
+      "content": "當您放大視角時，點選左側的齒輪\n可把視角重置為戰鬥開始時的狀態"
     },
     {
       "id": "tuto_01_11_abbattle_01_13",
-      "content": "當儀錶盤上的我方技能<color=#f8c200>全部連接後<color=#ebcaa2>就能進入戰鬥階段。"
+      "content": "當您在儀表盤上<color=#f8c200>完成了全部友方技能的連線<color=#ebcaa2>，右側的齒輪將會啟用，請點選以進入戰鬥階段。"
     },
     {
       "id": "tuto_01_11_abbattle_01_14",
-      "content": "現在將<color=#f8c200>所有罪人的行動槽連接至敵方的行動槽<color=#ebcaa2>，下達戰鬥指令吧。"
+      "content": "現在，請<color=#f8c200>將所有罪人的技能連線至敵方行動槽<color=#ebcaa2>，並下達戰鬥指令。"
     },
     {
       "id": "tuto_01_11_abbattle_02_01",
-      "content": "集中遭遇戰將會根據<color=#f8c200>速度值<color=#ebcaa2>來決定順序。"
+      "content": "在集中遭遇戰當中，<color=#f8c200>速度值<color=#ebcaa2>決定行動的順序。"
     },
     {
       "id": "tuto_01_11_abbattle_02_02",
-      "content": "本回合中各自的速度值可以在<color=#f8c200>行動槽<color=#ebcaa2>附近確認。"
+      "content": "各個單位在本回合的速度值，可在此處檢視，就在<color=#f8c200>其行動槽<color=#ebcaa2>旁邊。"
     },
     {
       "id": "tuto_01_11_abbattle_02_03",
-      "content": "友方單位的速度值也會在<color=#f8c200>儀錶盤<color=#ebcaa2>上顯示。"
+      "content": "所有友方單位的速度值，也可以在<color=#f8c200>儀表盤<color=#ebcaa2>上檢視。"
     },
     {
       "id": "tuto_01_11_abbattle_02_04",
-      "content": "在集中遭遇戰中，需要像剛才所述<color=#f8c200>直接指定<color=#ebcaa2>攻擊目標。"
+      "content": "如您所見，集中遭遇戰\n需要<color=#f8c200>直接指定<color=#ebcaa2>攻擊目標。"
     },
     {
       "id": "tuto_01_11_abbattle_02_05",
-      "content": "接下來將說明對應多名敵人集中攻擊友方單位的情況。\n請查看行動槽。"
+      "content": "現在讓我們來學習多個敵方單位圍攻單個友方時的應對方法。\n請先選擇該單位的行動槽。"
     },
     {
       "id": "tuto_01_11_abbattle_02_06",
-      "content": "<color=#f8c200>當友方速度值比敵方高時<color=#ebcaa2>，該名友方單位則變為敵方的<color=#f8c200>攻擊目標<color=#ebcaa2>，並進行拚點。"
+      "content": "<color=#f8c200>速度值更高的友方單位<color=#ebcaa2>能夠通過將技能連線至敵方，迫使速度值更低的敵方單位<color=#f8c200>與其進行<拼點><color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_07",
-      "content": "請選擇速度值較高的罪人。"
+      "content": "請選擇速度值更高的罪人，將其技能與敵方連線。"
     },
     {
       "id": "tuto_01_11_abbattle_02_08",
-      "content": "請選擇速度值較高的罪人。"
+      "content": "請選擇速度值更高的罪人，將其技能與敵方連線。"
     },
     {
       "id": "tuto_01_11_abbattle_02_09",
-      "content": "像這樣進行戰鬥，如果友方的速度值高於敵方，就可以在戰鬥中將敵人的攻擊目標轉移至<color=#f8c200>對我方有利的方向<color=#ebcaa2>。"
+      "content": "像這樣，速度值比敵方單位高的話，就能將敵方單位的攻擊目標<color=#f8c200>變更為有利於戰鬥的方向<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_10_title",
-      "content": "友方速度值較高的場合"
+      "content": "罪人速度值更高時"
     },
     {
       "id": "tuto_01_11_abbattle_02_10",
-      "content": "<color=#f8c200>當友方速度值比敵方高時<color=#ebcaa2>，敵方的<color=#f8c200>攻擊目標<color=#ebcaa2>將會<color=#f8c200>轉移至<color=#ebcaa2>該名友方單位。\n\n在此過程中會進行<color=#f8c200>拚點<color=#ebcaa2>。"
+      "content": "<color=#f8c200>若友方單位的速度值比敵方單位更高<color=#ebcaa2>，友方單位可以<color=#f8c200>偏轉<color=#ebcaa2>敵方技能的<color=#ebcaa2>指定目標<color=#f8c200>。\n\n一旦技能目標偏轉，該友方單位將與敵方<color=#f8c200>拼點<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_11",
-      "content": "若為<color=#f8c200>原始目標<color=#ebcaa2>的罪人，將<color=#f8c200>無視速度值<color=#ebcaa2>並與目標敵人進行<color=#f8c200>拚點<color=#ebcaa2>。"
+      "content": "<color=#f8c200>已經被敵方技能指定<color=#ebcaa2>的友方單位，<color=#f8c200>無論其速度如何<color=#ebcaa2>，都可以和敵方進行<color=#f8c200>拼點<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_12",
-      "content": "現在請再次連接技能。"
+      "content": "請再次指定技能。"
     },
     {
       "id": "tuto_01_11_abbattle_02_13",
-      "content": "現在請再次連接技能。"
+      "content": "請再次指定技能。"
     },
     {
       "id": "tuto_01_11_abbattle_02_14_title",
-      "content": "當被指定為技能目標時"
+      "content": "被敵方技能指定時"
     },
     {
       "id": "tuto_01_11_abbattle_02_14",
-      "content": "成為敵方目標的友方將<color=#f8c200>無視速度並進行拚點<color=#ebcaa2>。"
+      "content": "被敵方技能指定的友方單位，<color=#f8c200>無論其速度如何<color=#ebcaa2>，都可以和敵方拼點。"
     },
     {
       "id": "tuto_01_11_abbattle_02_15",
-      "content": "當速度值相同時或較低而無法進行拚點時，\n將會發生<color=#05DBF2>單方面攻擊<color=#ebcaa2>的情況。\n"
+      "content": "如果友方速度值不高於敵方，則無法偏轉敵方的攻擊，\n而是會進行一次<color=#05DBF2>單方面攻擊<color=#ebcaa2>。"
     },
     {
       "id": "tuto_01_11_abbattle_02_16_title",
-      "content": "當速度值相同時或較低的場合"
+      "content": "罪人速度值相等或更低時"
     },
     {
       "id": "tuto_01_11_abbattle_02_16",
-      "content": "友方單位的速度值與敵方相同或是低於敵方時，將無法變更敵方的攻擊目標。\n此時將不會進行拚點，而是<color=#05DBF2>進行單方面攻擊(藍色箭頭)<color=#ebcaa2>。\n\n<color=#05DBF2>單方面攻擊<color=#ebcaa2>將不會進行拚點，只會進行攻擊。"
+      "content": "速度值不高於敵方的友方單位無法迫使敵方與其拼點。\n在這種情況下，友方單位將進行<color=#05DBF2>單方面攻擊<color=#ebcaa2>而非拼點，以藍色箭頭表示。速度值更高的單位將優先進行攻擊。\n\n<color=#05DBF2>單方面攻擊<color=#ebcaa2>會直接進行，而不會拼點。"
     },
     {
       "id": "tuto_01_11_abbattle_02_17",
-      "content": "即便用複數技能攻擊單一行動槽，除了被指定的拚點技能外，其他技能都將會變為<color=#05DBF2>單方面攻擊<color=#ebcaa2>。\n您可以冒著承受傷害的風險，選擇以<color=#05DBF2>單方面攻擊<color=#ebcaa2>代替<color=#f8c200>拚點<color=#ebcaa2>，\n來下達集中火力的攻擊命令。"
+      "content": "當多個技能指定同一個行動槽時，僅有最後指定的技能可與其進行拼點。其他技能將以<color=#05DBF2>單方面攻擊<color=#ebcaa2>形式進行。\n面對單個強大的敵方單位時，主動放棄<color=#f8c200>拼點<color=#ebcaa2>轉而進行多次<color=#05DBF2>單方面攻擊<color=#ebcaa2>，\n有時是更好的策略。"
     },
     {
       "id": "tuto_01_11_snow_white_01_01",
-      "content": "出現了新的異想體。請查看異想體圖鑑吧。"
+      "content": "您遭遇了新的異想體。請檢視其異想體圖鑑。"
     },
     {
       "id": "tuto_01_11_snow_white_01_02_title",
@@ -722,75 +722,75 @@
     },
     {
       "id": "tuto_01_11_snow_white_01_02",
-      "content": "異想體圖鑑紀錄了異想體的情報。\n<color=#f8c200>異想體圖鑑將會隨著戰鬥次數逐步完善<color=#ebcaa2>。\n\n透過多次遭遇與戰鬥，<color=#f8c200>觀察等級會隨之上升<color=#ebcaa2>，對其造成的傷害也會略微增加。"
+      "content": "異想體圖鑑標註了該異想體的資訊。\n<color=#f8c200>圖鑑將會隨戰鬥的進行逐漸補充<color=#ebcaa2>。\n\n反覆與該異想體戰鬥可提升其<color=#f8c200>觀察等級<color=#ebcaa2>。更高的觀察等級將些許提升您對異想體造成的傷害。"
     },
     {
       "id": "tuto_01_11_snow_white_01_03",
-      "content": "迷宮中存在擁有<color=#f8c200>多個部位<color=#ebcaa2>的異想體。\n各個部位的抗性、使用的技能與被動效果均有區別。"
+      "content": "在探索迷宮時，您可能遭遇<color=#f8c200>擁有多個部位<color=#ebcaa2>的異想體。\n每個部位的抗性、技能與被動技能都可能不同。"
     },
     {
       "id": "tuto_01_11_snow_white_01_04",
-      "content": "該異想體的弱點已確認<color=#f8c200>果實部位<color=#ebcaa2>。\n請針對果實部位進行攻擊。"
+      "content": "這個異想體的弱點部位是其<color=#f8c200>果實<color=#ebcaa2>。\n請將攻擊指定至果實。"
     },
     {
       "id": "tuto_01_11_snow_white_02_01",
-      "content": "該異想體的部位已被破壞。請再次查看情報。"
+      "content": "您破壞了異想體的一個部位。請確認異想體圖鑑當中是否有任何資訊更新。"
     },
     {
       "id": "tuto_01_11_snow_white_02_02",
-      "content": "果實的部位已經被破壞了呢。"
+      "content": "您破壞了果實部位。"
     },
     {
       "id": "tuto_01_11_snow_white_02_03",
-      "content": "<color=#f8c200>被破壞的部位<color=#ebcaa2>其物理抗性將會轉為<color=#f8c200>致命<color=#ebcaa2>。因破壞而被<color=#f8c200>摘出<color=#ebcaa2>的部位直到再生之前都不能被攻擊，請多加注意。"
+      "content": "<color=#f8c200>已破壞的部位<color=#ebcaa2>的物理抗性會變為<color=#f8c200>致命<color=#ebcaa2>。請注意，註明為<color=#f8c200>可截除<color=#ebcaa2>的部位在被摧毀後無法再受到攻擊，除非部位再生。"
     },
     {
       "id": "tuto_01_11_snow_white_02_04",
-      "content": "在戰鬥進行的過程，敵人的資訊會逐漸被解鎖。\n為了有效率的戰鬥，請時刻謹記養成<color=#f8c200>查看敵人訊息<color=#ebcaa2>的習慣。"
+      "content": "繼續戰鬥以揭示敵方的被動技能資訊。\n<color=#f8c200>在資訊視窗當中瞭解其細節<color=#ebcaa2>，對於戰勝部分敵人來說至關重要。"
     },
     {
       "id": "tuto_01_11_snow_white_02_05",
-      "content": "請繼續鎮壓這隻異想體。"
+      "content": "請持續鎮壓該異想體。"
     },
     {
       "id": "tuto_01_11_snow_white_03_01",
-      "content": "在某些時候經理需要自行應對<color=#f8c200>事件選項<color=#ebcaa2>的分歧。\n請謹慎選擇，<color=#f8c200>因為你的選擇可能會帶來事件不同的結果。<color=#ebcaa2>"
+      "content": "在集中遭遇戰當中，您作為執行經理偶爾需要做出<color=#f8c200><選擇><color=#ebcaa2>。\n<color=#f8c200>戰鬥的態勢因您的選擇而千變萬化<color=#ebcaa2>，請您慎重。"
     },
     {
       "id": "tuto_01_11_snow_white_03_02_title",
-      "content": "事件選項"
+      "content": "選項事件"
     },
     {
       "id": "tuto_01_11_snow_white_03_02",
-      "content": "每一個事件的選項都有其所需的<color=#f8c200>罪孽屬性<color=#ebcaa2>與閥值。\n擁有<color=#f8c200>優勢技能屬性<color=#ebcaa2>的罪人在應對時通過機率相對較高，而成功與否取決於是否通過判定。"
+      "content": "每個選項都具有所需的<color=#f8c200>罪孽屬性與威力值<color=#ebcaa2>。\n所有的選項都具有更加<color=#f8c200>有利的罪孽屬性<color=#ebcaa2>。選擇具有有利罪孽屬性的罪人，將增加您成功的概率。\n判定的成功與否，將會決定選項的結果。"
     },
     {
       "id": "tuto_02_12_01_01_start",
-      "content": "接下來，我將告訴你人格<color=#f8c200>等級<color=#ebcaa2>是如何影響戰鬥與技能的，請試著連結技能。"
+      "content": "接下來說明人格的<color=#f8c200>等級<color=#ebcaa2>對戰鬥與技能有何影響。請先連線一個技能。"
     },
     {
       "id": "tuto_02_12_01_01",
-      "content": "所有的技能都擁有<color=#f8c200>攻擊等級<color=#ebcaa2>與<color=#f8c200>防禦等級<color=#ebcaa2>。"
+      "content": "所有技能都擁有兩個等級值，分別為<color=#f8c200>攻擊等級<color=#ebcaa2>和<color=#f8c200>防禦等級<color=#ebcaa2>。"
     },
     {
       "id": "tuto_02_12_01_02",
-      "content": "<color=#f8c200>攻擊等級<color=#ebcaa2>會影響<color=#f8c200>攻擊技能<color=#ebcaa2>與<color=#f8c200>反擊<color=#ebcaa2>的骰點結果。"
+      "content": "<color=#f8c200>攻擊等級<color=#ebcaa2>影響以下技能：<color=#f8c200>攻擊技能<color=#ebcaa2>和<color=#f8c200>反擊技能<color=#ebcaa2>。"
     },
     {
       "id": "tuto_02_12_01_03",
-      "content": "當攻擊等級高於防禦等級時，會造成<color=#f8c200>額外的傷害<color=#ebcaa2>、並顯示於其上。"
+      "content": "攻方的攻擊等級與目標的防禦等級差將會成比例地提升您<color=#f8c200>造成的傷害<color=#ebcaa2>。其提高的傷害量將在此處顯示。"
     },
     {
       "id": "tuto_02_12_01_04",
-      "content": "除此之外、當攻擊等級與目標的防禦等級相差至3時，此時<color=#f8c200>拚點威力<color=#ebcaa2>會增加1點、這對我們的拚點有極大的優勢。"
+      "content": "以及，在雙方攻擊技能進行拼點時，每有3級攻擊等級差，都會提升等級更高者1點<color=#f8c200>拼點威力<color=#ebcaa2>。"
     },
     {
       "id": "tuto_02_12_01_05",
-      "content": "所有的人格都擁有各自的防禦等級，此影響了<color=#f8c200>受到XX的傷害時<color=#ebcaa2>所損失的血量。"
+      "content": "所有的人格都有其防禦等級，影響其<color=#f8c200>受到的傷害<color=#ebcaa2>。"
     },
     {
       "id": "tuto_02_12_01_06",
-      "content": "<color=#f8c200>攻擊等級<color=#ebcaa2>與<color=#f8c200>防禦等級<color=#ebcaa2>會隨著<color=#f8c200>人格等級<color=#ebcaa2>的提升而有所增加。\n戰鬥的難易度會與跟敵人的等級差距而不同，因此在戰鬥前請先注意<color=#f8c200>人格等級<color=#ebcaa2>。"
+      "content": "<color=#f8c200>攻擊等級<color=#ebcaa2>與<color=#f8c200>防禦等級<color=#ebcaa2>將會<color=#f8c200>成比例隨人格等級提升<color=#ebcaa2>。\n友方與敵方的等級差將會很大程度上影響戰鬥的難度。如果戰鬥過難，請確保您的<color=#f8c200>人格等級<color=#ebcaa2>足夠高。"
     }
   ]
 }

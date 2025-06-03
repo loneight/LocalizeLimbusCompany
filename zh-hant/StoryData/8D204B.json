@@ -2,654 +2,654 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Evaluation Arena B1",
+      "place": "評審場 地下1層",
       "model": "사회자",
-      "content": "Alrighty, the game space is still shrinking!"
+      "content": "現在，場地仍在持續縮小。"
     },
     {
       "id": 1,
       "model": "사회자",
-      "content": "Let's see how the candidates are doing."
+      "content": "各位候選人究竟會做出怎樣的抉擇呢？"
     },
     {
       "id": 2,
       "model": "사회자",
-      "content": "The leading contestant at this moment is Jia Qiu of the Jia family, practically vacuuming up the other contestants' coins."
+      "content": "目前排名第一的是賈家的賈丘，他正以驚人的氣勢將其他候選人的銅錢一掃而空。"
     },
     {
       "id": 3,
       "model": "임대옥",
-      "content": "Jia Mu..."
+      "content": "首腦……"
     },
     {
       "id": 4,
       "model": "임대옥",
-      "content": "... summoned the Head here?"
+      "content": "是老太太……引到這裡來的？"
     },
     {
       "id": 5,
       "model": "임대옥",
-      "content": "But... how...?"
+      "content": "可……她是怎麼……？"
     },
     {
       "id": 6,
       "model": "이스마엘",
-      "content": "Hold on. Do you hear that? It's coming from that passageway over there."
+      "content": "等一下。你們沒聽見那邊通道傳來的聲音嗎？"
     },
     {
       "id": 7,
       "model": "설보차",
-      "content": "Like I said... there isn't much time left!"
+      "content": "所以說……已經沒剩多少時間了不是嗎？"
     },
     {
       "id": 8,
       "model": "설보차",
-      "content": "Are you willing to take the responsibility if Baoyu gets hurt because you decided to dally here?!"
+      "content": "要是這段時間裡寶玉出什麼事怎麼辦！"
     },
     {
       "id": 9,
       "model": "설씨사병1",
-      "content": "Lady Baochai, please calm yourself... It seems that young master Pan's been eliminated as well, so we must conserve our strength for now... We definitely cannot afford to run into Jia Qiu with our current force...!"
+      "content": "寶釵小姐，請您冷靜一點……蟠少爺好像也已經被淘汰了，我們現在還是先補充一下戰力比較好……要是這個狀態下撞上那個賈丘，可怎麼辦啊……？"
     },
     {
       "id": 10,
       "model": "설보차",
-      "content": "No! I have to see with my own eyes that Baoyu is okay. Losing Daiyu earlier was bad enough..."
+      "content": "不要！我得確保寶玉沒事才行。剛才和黛玉失散已經夠讓我難過了……"
     },
     {
       "id": 11,
       "model": "설씨사병1",
-      "content": "Oh, if you're talking about what happened earlier, we've lost five others on our end other than Daiyu—"
+      "content": "剛剛那時候，除了黛玉侍衛，咱們這邊另外的五個人也同樣消失了……"
     },
     {
       "id": 12,
       "model": "설보차",
-      "content": "That's different!"
+      "content": "那能一樣嗎？！"
     },
     {
       "id": 13,
       "model": "임대옥",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 14,
       "model": "임대옥",
-      "content": "Miss Baochai."
+      "content": "寶釵小姐。"
     },
     {
       "id": 15,
       "model": "설보차",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 16,
       "model": "설보차",
-      "content": "Daiyu..."
+      "content": "黛玉……"
     },
     {
       "id": 17,
       "model": "설보차",
-      "content": "... and..."
+      "content": "旁邊還有……"
     },
     {
       "id": 18,
       "model": "설보차",
-      "content": "Baoyu!"
+      "content": "寶玉！"
     },
     {
       "id": 19,
       "model": "설보차",
-      "content": "So you were the ones that ran into big brother Pan earlier! Phewie, you really worried me, Baoyu."
+      "content": "原來剛才遇見蟠哥哥的人是你們啊！唉，我都快擔心死了，寶玉。"
     },
     {
       "id": 20,
       "model": "로쟈",
-      "content": "But uh... hey, Mr. Xue isn't doing so hot, you know...? I think he's got a gnarly case of... not breathing..."
+      "content": "不過……那邊的薛蟠先生狀態好像不算太好……？他稍微有點沒在呼吸的樣子……"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "Merely the consequences of running his mouth where he shouldn't."
+      "content": "那是他輕舉妄動的代價。"
     },
     {
       "id": 22,
       "model": "설보차",
-      "content": "Don't worry~ We're not so easy to kill."
+      "content": "沒關係啦~那種程度的話我們是不會死的。"
     },
     {
       "id": 23,
       "model": "설보차",
-      "content": "But maybe they'll use a different treatment method on him this time. Hopefully they'll edit him to be more obedient to mother's commands this time around~"
+      "content": "不過這次的手術方法可能會有些調整呢。要是能讓他變成更乖乖聽母親話的型別就好了~"
     },
     {
       "id": 24,
       "model": "설보차",
-      "content": "I guess everyone's different to a degree, and big brother Pan's not as easily tamed as others, you know?"
+      "content": "大概是因為性格不同吧，薛蟠哥哥就是沒法像其他人那樣乖乖聽話呢？"
     },
     {
       "id": 25,
       "model": "싱클레어",
-      "content": "I... uh, I see."
+      "content": "原……原來如此。"
     },
     {
       "id": 26,
       "model": "설보차",
-      "content": "Are you unhurt, Baoyu?"
+      "content": "寶玉，你沒受傷吧？"
     },
     {
       "id": 27,
       "model": "홍루",
-      "content": "Yep, I'm okay."
+      "content": "嗯，我沒事。"
     },
     {
       "id": 28,
       "model": "설보차",
-      "content": "Phew... that's a relief. But..."
+      "content": "呼……那就太好了。但是……"
     },
     {
       "id": 29,
-      "content": "Xue Baochai's expression suddenly turned somewhat sour."
+      "content": "薛寶釵的臉微微鼓了起來。"
     },
     {
       "id": 30,
       "model": "설보차",
-      "content": "... what's Daiyu doing there with you?"
+      "content": "為什麼黛玉會待在你身邊啊？"
     },
     {
       "id": 31,
       "model": "임대옥",
-      "content": "... Please, miss Baochai. This is a misunderstanding."
+      "content": "……寶釵小姐，請不要誤會。"
     },
     {
       "id": 32,
       "model": "임대옥",
-      "content": "He merely found me, lost, and has decided to generously help me out of here. There isn't anything more to this."
+      "content": "我不過是一時迷路，幸運地被哥哥找到才得以平安無事，僅此而已。"
     },
     {
       "id": 33,
       "model": "설보차",
-      "content": "Did you run into many other candidates?"
+      "content": "路上還遇到其他候選人了嗎？"
     },
     {
       "id": 34,
       "model": "임대옥",
-      "content": "Yes. But, as luck would have it, I have been able to keep myself safe thus far."
+      "content": "嗯，萬幸的是到目前為止都還算安然無恙。"
     },
     {
       "id": 35,
       "model": "설보차",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 36,
       "model": "설보차",
-      "content": "Hey, Baoyu..."
+      "content": "寶玉……那個……"
     },
     {
       "id": 37,
       "model": "설보차",
-      "content": "How about we finish the game right here, right now?"
+      "content": "就在這裡結束第二輪評審吧，好不好？"
     },
     {
       "id": 38,
       "model": "설보차",
-      "content": "If you're bound by some monetary contract, I can take care of that for you."
+      "content": "如果你是因為錢才不得不參與這些事，我可以替你全部處理掉。"
     },
     {
       "id": 39,
       "model": "설보차",
-      "content": "And that offer extends to everyone else in your clan, too. Everyone, if you're here on a contract, I'll add three zeroes to however much they're paying you to back out of the game."
+      "content": "還有各位，如果你們也被開過什麼條件的話，我可以在那個金額後面，再加上三個零哦。"
     },
     {
       "id": 40,
       "model": "로쟈",
-      "content": "W-we're..."
+      "content": "我……我們……"
     },
     {
       "id": 41,
       "model": "로쟈",
-      "content": "We're not bound by stuff like... money..."
+      "content": "不是那種靠錢……來維繫的關係……"
     },
     {
       "id": 42,
       "model": "그레고르",
-      "content": "Oh c'mon, really? You're gonna let that shake you here, now?"
+      "content": "喂……你在這時候被金錢動搖可不行啊。"
     },
     {
       "id": 43,
-      "content": "Judging by the way she gulped and hesitated, it seemed to have taken a significant amount of effort for her to refuse this offer."
+      "content": "看著羅佳強忍著嚥下口水、勉強否認的樣子，多少令人有些心酸……"
     },
     {
       "id": 44,
       "model": "홍루",
-      "content": "Big sister Baochai."
+      "content": "寶釵姐姐。"
     },
     {
       "id": 45,
       "model": "홍루",
-      "content": "May I ask why you would suggest something like that?"
+      "content": "你為什麼要這麼說呢？"
     },
     {
       "id": 46,
       "model": "설보차",
-      "content": "Do you have any idea what's happening up ahead?"
+      "content": "你知道前面發生了什麼嗎？"
     },
     {
       "id": 47,
       "model": "설보차",
-      "content": "Jia Qiu, he's up there..."
+      "content": "賈丘……那個人……"
     },
     {
       "id": 48,
       "model": "설보차",
-      "content": "Beating the crap out of everyone regardless of what family they're from."
+      "content": "不論哪個家族的人，通通照打不誤。"
     },
     {
       "id": 49,
       "model": "설보차",
-      "content": "Three candidates charged at him at the same time, and he still wiped the floor with all of them without breaking a sweat!"
+      "content": "剛剛有三個候選人聯手對抗他，結果誰都沒能抵擋住！"
     },
     {
       "id": 50,
       "model": "설보차",
-      "content": "The stage is going to continue to shrink, which means you'll inevitably run into big brother Jia... Qiu."
+      "content": "之後場地會變得越來越小……到時候，你肯定也會和賈……丘哥哥碰上的。"
     },
     {
       "id": 51,
       "model": "설보차",
-      "content": "Oh, right. There's big brother Huan, too—he won't go down easy, either."
+      "content": "對了，環哥哥也不好對付。"
     },
     {
       "id": 52,
       "model": "홍루",
-      "content": "... He won't."
+      "content": "……是這樣沒錯。"
     },
     {
       "id": 53,
       "model": "설보차",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 54,
       "model": "설보차",
-      "content": "Baoyu. Do you recall what you said to me when you found me crying?"
+      "content": "寶玉，在我哭泣時你對我說過的話，你還記得嗎？"
     },
     {
       "id": 55,
-      "place": "Somewhere, Sometime in Daguanyuan",
+      "place": "某日，大觀園 某處",
       "model": "하인2",
-      "content": "Miss... please."
+      "content": "小姐……請別哭了。"
     },
     {
       "id": 56,
       "model": "하인2",
-      "content": "We will buy you a new bird from the market. One with the prettiest voice, with the most beautiful feathers."
+      "content": "我們會去集市上為您買一隻叫聲最為動聽，羽毛最為漂亮的小鳥。"
     },
     {
       "id": 57,
       "model": "설보차",
-      "content": "But I... I want the same bird I kept in my cage... That's the bird I liked..."
+      "content": "可我……我喜歡的是原來那隻，一直待在我的鳥籠裡的小鳥啊……"
     },
     {
       "id": 58,
       "model": "과거홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 59,
       "model": "하인2",
-      "content": "Ah, young master Baoyu?"
+      "content": "啊，寶玉少爺您來了。"
     },
     {
       "id": 60,
       "model": "설보차",
-      "content": "Baoyu? What's the most precious gem of Daguanyuan, the prized jewel of Jia Mu, doing here?"
+      "content": "寶玉？老太太最為珍愛的那顆大觀園的寶石，怎麼會來這裡？"
     },
     {
       "id": 61,
       "model": "과거홍루",
-      "content": "... You're angry."
+      "content": "……姐姐，你生氣了。"
     },
     {
       "id": 62,
       "model": "설보차",
-      "content": "I'm not angry. I'm just sad."
+      "content": "我沒有生氣。只是在傷心。"
     },
     {
       "id": 63,
       "model": "설보차",
-      "content": "The bird I cared a lot for flew away when I opened its cage to refill its water bowl..."
+      "content": "我心愛的小鳥飛走了。就在我打開籠子給它餵水的那麼一小會……"
     },
     {
       "id": 64,
       "model": "과거홍루",
-      "content": "Don't worry. When the apricot flowers bloom again next year, it will recall its scent..."
+      "content": "沒關係的，等到明年杏花再開的時節，它會記得自己曾經來過這裡……"
     },
     {
       "id": 65,
       "model": "과거홍루",
-      "content": "... and return here to relive the memories of the blossoms."
+      "content": "也一定會為了再看一眼杏花，再次飛回來的。"
     },
     {
       "id": 66,
       "model": "설보차",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 67,
       "model": "과거홍루",
-      "content": "So, there is no need to be irate about such things. It will be a waste of your pleasant fragrance."
+      "content": "……所以，不用再生氣了。姐姐身上好聞的香味，要是浪費掉就太可惜了。"
     },
     {
       "id": 68,
-      "place": "Evaluation Arena B1",
+      "place": "評審場 地下1層",
       "model": "설보차",
-      "content": "Then you smiled, your jewel-like eye glimmering."
+      "content": "說這話時你便笑了，眼睛如同寶石一樣閃閃發亮。"
     },
     {
       "id": 69,
       "model": "설보차",
-      "content": "I used to think you were a brooding, frail man, but... there was something about what you said that I really liked."
+      "content": "那時候的你，總是一副憂鬱的，無精打采的樣子……可說來也奇怪，你的那句話，真的讓我非常開心。"
     },
     {
       "id": 70,
       "model": "홍루",
-      "content": "……."
+      "content": "……"
     },
     {
       "id": 71,
       "model": "설보차",
-      "content": "Baoyu, remember how Jia Mu and my mother agreed that we would be wed should you return to Daguanyuan?"
+      "content": "寶玉，老太太和太太不是說過嗎？只要你回到大觀園，就會為我們定親。"
     },
     {
       "id": 72,
       "model": "설보차",
-      "content": "So, I've gone through the trouble of preparing your room ahead of time. I look into that room every single day, dreaming of the Daguanyuan for the both of us."
+      "content": "所以，我已經把你要住的房間打掃乾淨、佈置整齊了。我每天都會去看看那間房，夢想著我們一起生活在大觀園的樣子。"
     },
     {
       "id": 73,
       "model": "설보차",
-      "content": "Let me show you the things I have done to the place later. Only wonderful things are going to happen to us as long as you're with me."
+      "content": "湖是什麼形狀、傢俱怎麼擺放，我已經全部安排好了，一會兒都帶你去看。只要你待在我身邊，一定每天都會是幸福又快樂的日子。"
     },
     {
       "id": 74,
       "model": "설보차",
-      "content": "So let's go back."
+      "content": "所以，回來吧。"
     },
     {
       "id": 75,
       "model": "홍루",
-      "content": "... Sorry."
+      "content": "……對不起，姐姐。"
     },
     {
       "id": 76,
       "model": "홍루",
-      "content": "I still have a promise to keep."
+      "content": "我還有尚未完成的約定。"
     },
     {
       "id": 77,
       "model": "설보차",
-      "content": "Can't you just... leave something like that behind?"
+      "content": "那種事情……不去遵守就可以了。"
     },
     {
       "id": 78,
       "model": "설보차",
-      "content": "A gem like you deserves to be placed where it may glimmer most incandescently, right?"
+      "content": "像你這樣的寶石，當然要待在能讓你真正閃耀的地方才對。"
     },
     {
       "id": 79,
       "model": "홍루",
-      "content": "I..."
+      "content": "我……"
     },
     {
       "id": 80,
       "model": "히스클리프",
-      "content": "Oi, you're... are you getting married?"
+      "content": "你……要結婚了嗎？"
     },
     {
       "id": 81,
-      "content": "The exchange must've reminded him of Catherine."
+      "content": "或許是又想起了與凱瑟琳相關的記憶吧。"
     },
     {
       "id": 82,
-      "content": "Heathcliff looked at Hong Lu, Xue Baochai, then at Lin Daiyu before falling silent."
+      "content": "希斯克利夫用複雜的眼神在鴻璐、薛寶釵和林黛玉之間來回打量，然後靜靜地陷入了沉思。"
     },
     {
       "id": 83,
       "model": "왕대위",
-      "content": "<i><b>A mantis that stalks a cicada must practice caution...</b></i>\n(螳螂捕蟬)"
+      "content": "……螳螂捕蟬，黃雀在後。"
     },
     {
       "id": 84,
       "model": "왕대위",
-      "content": "<i><b>... so that they do not become prey to a siskin.</b></i>\n(黃雀在后)"
+      "content": "螳螂在捕蟬的時候，背後有黃雀在虎視眈眈。"
     },
     {
       "id": 85,
       "model": "왕대위",
-      "content": "What an appropriate aphorism for your present state, isn't it?"
+      "content": "這句話正是用來指代此刻吧。"
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Ugh... who is it this time?!"
+      "content": "啊啊……這個時候又是誰啊？！"
     },
     {
       "id": 87,
       "model": "왕대위",
-      "content": "A candidate on the wiser end of the intelligence spectrum, seeking to find profit amidst the chaos. My name is Wang Dawei."
+      "content": "是會趁著混亂獲取最多利益的聰慧候選人。我名叫王大為。"
     },
     {
       "id": 88,
       "model": "왕대위",
-      "content": "The most important elements of this Family Hierarch war were intelligence and the formulation of strategic alliances."
+      "content": "這次家主之爭的核心就在於，如何與有實力的候選人聯手並施展策略。"
     },
     {
       "id": 89,
       "model": "왕대위",
-      "content": "Thus I, Wang Dawei, have allied with another, formerly prospective candidate who, while he could not partake due to certain personal tragedies..."
+      "content": "因此我王大為，與另一位雖然因不幸的事故而沒法參加家主之爭……"
     },
     {
       "id": 90,
       "model": "왕대위",
-      "content": "... remains most passionate about the war all the same."
+      "content": "但卻比任何人都要對此熱衷的候選人聯手了。"
     },
     {
       "id": 91,
       "model": "사이화부활",
-      "content": "<i>Kneel </i>and <i>kowtow </i>before me, peasants!"
+      "content": "跪下，叩首！"
     },
     {
       "id": 92,
       "model": "사이화부활",
-      "content": "For I... return to grace you with my presence!"
+      "content": "余……再度現身了！"
     },
     {
       "id": 93,
       "model": "이스마엘",
-      "content": "Seriously... this asshole again? After all that?"
+      "content": "又……來了嗎？明明那時候都被那樣了？"
     },
     {
       "id": 94,
       "model": "오티스",
-      "content": "Just how many times must we teach you this lesson, whelp?!"
+      "content": "你到底什麼時候才能學到教訓啊！"
     },
     {
       "id": 95,
       "model": "사이화부활",
-      "content": "Ha ha! What lesson?! Whatever. I've never felt better than I do today!"
+      "content": "哈哈！教訓？不知道那是什麼東西，但今天可是我這輩子以來感覺最棒了的一天哦？"
     },
     {
       "id": 96,
       "model": "왕대위",
-      "content": "We have made a few adjustments to the usual, more popular method of life insurance using our Wang family's secret recipe."
+      "content": "基於以往普通的生命保險，我們結合使用了王家所傳的秘法，以略有不同的方法制作了丸。"
     },
     {
       "id": 97,
       "model": "왕대위",
-      "content": "By the way, this Bolus hasn't been released to the mass market just yet; thus, it is my honor to demonstrate its various functionalities before you all."
+      "content": "順帶一提，此丸尚未在市面上流通。今日能在此披露實屬榮幸。"
     },
     {
       "id": 98,
       "model": "싱클레어",
-      "content": "Just who... is he talking to...?"
+      "content": "那位……從剛剛開始就在對著某個地方不停說話嗎？"
     },
     {
       "id": 99,
       "model": "돈키호테",
-      "content": "The camera, perchance..."
+      "content": "貌似是在對著攝像頭……"
     },
     {
       "id": 100,
       "model": "사회자",
-      "content": "Wonderful~ What a sudden, interesting turn of events! The crowd is going wild!"
+      "content": "好~此情此景激起了極大的好奇心！各位觀眾都表現出了很高的興趣！"
     },
     {
       "id": 101,
       "model": "사회자",
-      "content": "Oho!? It seems that the candidate has managed to impress one of the audience members enough! A blessing from the audience!"
+      "content": "嗯？有位觀眾似乎被這充滿魄力的行為打動了，要給他一份恩賞！"
     },
     {
       "id": 102,
       "model": "사회자",
-      "content": "Here's a special reward for you. A chance to siphon a large portion of coins from another candidate of your choice!"
+      "content": "特別獎勵！可以從想掠奪的候選人那裡得到大量銅錢的機會！"
     },
     {
       "id": 103,
       "model": "사회자",
-      "content": "Just say the candidate's name, and their coins are yours!"
+      "content": "請說出想要掠奪的候選人的名字！"
     },
     {
       "id": 104,
       "model": "왕대위",
-      "content": "... Heh, then I'm taking Jia Qiu's—"
+      "content": "……呵，那麼就將賈家賈丘的銅錢……"
     },
     {
       "id": 105,
       "model": "사회자",
-      "content": "However, do keep in mind there’ll be nothing stopping the candidate from coming after you for taking their coins."
+      "content": "但要做好被失去銅錢的候選人所報復的準備哦。"
     },
     {
       "id": 106,
       "model": "왕대위",
-      "content": "—relative, Jia Baoyu's Coins..."
+      "content": "……不對，那就賈寶玉吧。"
     },
     {
       "id": 107,
       "model": "이스마엘",
-      "content": "Wha... what?"
+      "content": "你……你說什麼？"
     },
     {
       "id": 108,
       "model": "홍루",
-      "content": "He sure is a fast thinker."
+      "content": "他是個思考很快的人呢。"
     },
     {
       "id": 109,
       "model": "사회자",
-      "content": "Here's our man, Baoyu of the Jia family!"
+      "content": "好，他指定了賈家寶玉！"
     },
     {
       "id": 110,
-      "content": "As soon as the host's announcement ended..."
+      "content": "話音剛落……"
     },
     {
       "id": 111,
       "model": "홍루",
-      "content": "Oops..."
+      "content": "哎呀……"
     },
     {
       "id": 112,
-      "content": "A portion of the coins hanging from Hong Lu's waist separated themselves from the bundle before clattering to the floor."
+      "content": "掛在鴻璐衣服下的一部分銅錢從繩子上滑落，叮叮噹噹落在地板上。"
     },
     {
       "id": 113,
       "model": "그레고르",
-      "content": "Wha... how did that even happen?"
+      "content": "怎麼回事……這些是怎麼掉下來的？"
     },
     {
       "id": 114,
       "model": "이스마엘",
-      "content": "N-no...! But we... we went through so much to find them..."
+      "content": "不……不要……！我們……明明為了收集它們如此努力……"
     },
     {
       "id": 115,
       "model": "히스클리프",
-      "content": "... Can't we just pick 'em back up, then?"
+      "content": "……直接把這玩意兒撿起來不就好了？"
     },
     {
       "id": 116,
       "model": "돈키호테",
-      "content": "Forsooth, it shan't be an issue, provided that the dust on its surface is removed..."
+      "content": "僅需略微撣塵就無事了吧……"
     },
     {
       "id": 117,
-      "content": "Don Quixote muttered, despondently watching as the coins rolled away."
+      "content": "堂吉訶德看著滾落的銅錢，像是要哭了。"
     },
     {
       "id": 118,
       "model": "사회자",
-      "content": "Aha, but these are <i>special</i> coins, as they are now considered rewards bestowed by the audience! Which means that they are no longer yours!"
+      "content": "這可是觀眾給予的特別報酬~你們已經被剝奪了掉下的銅錢的所有權！"
     },
     {
       "id": 119,
       "model": "사회자",
-      "content": "Dusting and blowing on it won't do anything, sorry!"
+      "content": "無論怎麼吹灰都沒用了哦！"
     },
     {
       "id": 120,
       "model": "왕대위",
-      "content": "Heh heh... big brother Yihua, our work here is done. Let us proceed to the next—"
+      "content": "呼呼……宜化大哥，至此我們該做的事情就結束了。該去別的地方……"
     },
     {
       "id": 121,
       "model": "사이화부활",
-      "content": "Nonsense! My revengeance has just begun!"
+      "content": "你說什麼呢，余的復仇才剛剛開始呢！"
     },
     {
       "id": 122,
       "model": "왕대위",
-      "content": "... Uh, no, we have other work to do here. Come on, let us move on."
+      "content": "……不，我們還有要做的事情，得趕緊走了。"
     },
     {
       "id": 123,
       "model": "사이화부활",
-      "content": "No! NO! <i>NOOO!</i>"
+      "content": "不！不！不要！"
     },
     {
       "id": 124,
       "model": "사이화부활",
-      "content": "I won't budge a step away from here before I hold Jia Baoyu and Jia Qiu's heads in my hands!"
+      "content": "余要將那個混蛋賈寶玉和賈丘的腦袋！親手砍下再回去！"
     },
     {
       "id": 125,
       "model": "사이화부활",
-      "content": "Yes... mother'll forgive me... I just need to cut off big brother Qiu's head and bring it home..."
+      "content": "沒錯，如果能將丘大哥的腦袋帶回去的話……母親這次一定會原諒我的。"
     },
     {
       "id": 126,
       "model": "왕대위",
-      "content": "... Did the Bolus make him even stupider? No, there's no way my Bolus could've done that..."
+      "content": "……是副作用讓他變得更蠢了嗎？不，我的丸應該不會這樣……"
     },
     {
       "id": 127,
       "model": "사이화부활",
-      "content": "Ahh... to be free from aging and death... what a euphoric concept it is!"
+      "content": "啊啊……不老不死……還有比這更為美妙的詞彙嗎！"
     },
     {
       "id": 128,
       "model": "사이화부활",
-      "content": "Normal, ordinary humans like you can't even dream of one such realm..."
+      "content": "像你們這樣平庸的人類，做夢都不敢想吧……"
     },
     {
       "id": 129,
       "model": "사이화부활",
-      "content": "Once I had the taste of that ascendant world, I realized that the throne of the Family Hierarch was an insignificant illusion all along."
+      "content": "這樣實際體驗下來，家主的位置其實並不重要啊。"
     },
     {
       "id": 130,
       "model": "사이화부활",
-      "content": "You will pay me the respect that I am owed! For I have achieved immortality that you miserable insects have been crawling through mud and shit to find!"
+      "content": "給余行禮！余可是得到了你們這些蟲子夢寐以求的不老不死之身的人啊！"
     }
   ]
 }

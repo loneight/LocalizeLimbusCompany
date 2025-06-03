@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "理解",
-          "desc": "若目標的理智值不高於10點，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "認知",
-          "desc": "若目標的理智值不高於10點，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得2層[VioletUnderstand]",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得2層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -51,7 +51,7 @@
         {
           "level": 1,
           "name": "拯救",
-          "desc": "若目標的理智值不高於10點，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
+          "desc": "若目標的理智值不高於10點，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得1層[VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -104,7 +104,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加2層嫉妒易損 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標造成10～14點理智傷害"
+                  "desc": "[OnSucceedAttack] 對目標造成10~14點理智傷害"
                 }
               ]
             }
@@ -118,7 +118,7 @@
         {
           "level": 1,
           "name": "慈悲",
-          "desc": "若目標的理智值不高於20點，則使本技能的拚點威力+1",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "愛",
-          "desc": "若目標的理智值不高於20點，則使本技能的拚點威力+1",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -196,7 +196,7 @@
         {
           "level": 1,
           "name": "閃爍的理解的文字",
-          "desc": "若目標的理智值不高於20點，則使本技能的拚點威力+1",
+          "desc": "若目標的理智值不高於20點，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "湧出的安息之臂",
+          "name": "涌出的安息之臂",
           "desc": "[CantDuel]",
           "coinlist": [
             {

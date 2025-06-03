@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "到我身邊！",
-          "desc": "[StartBattle] 使儀錶盤上位於自身兩側的友方單位獲得2層防禦等級提升 \n[WhenUse] 下回合使除自身以外體力上限最高的1名友方單位最左側的行動槽的挑釁值 + (最大共鳴數)。(每回合最多1次)\n- 若最大完全共鳴數不低於4，則觸發該效果時使該單位下回合獲得1層守護 (每回合最多1次)",
+          "desc": "<style=\"highlight\">[StartBattle] 使儀表盤上位於自身兩側的友方單位獲得2層防禦等級提升 </style>\n[WhenUse] 下回合使除自身以外體力上限最高的1名友方單位最左側的行動槽的挑釁值 + (最大共鳴數)。(每回合最多1次)\n- 若最大完全共鳴數不低於4，則觸發該效果時使該單位下回合獲得1層守護 (每回合最多1次)",
           "coinlist": [
             {},
             {
@@ -299,7 +299,7 @@
         {
           "level": 1,
           "name": "追蹤到底！",
-          "desc": "[WhenUse] 以(最大共鳴數 x 10%)的機率，命令儀錶盤上位於自身右側的1名友方單位進行[CoverAttack]。",
+          "desc": "[WhenUse] 以(最大共鳴數 x 10%)的概率，命令儀表盤上位於自身右側的1名友方單位進行[CoverAttack]。",
           "coinlist": [
             {},
             {
@@ -321,7 +321,7 @@
         {
           "level": 2,
           "name": "追蹤到底！",
-          "desc": "[WhenUse] 以(最大共鳴數 x 15%)的機率，命令儀錶盤上位於自身右側的1名友方單位進行[CoverAttack]\n- 若最大共鳴數不低於4，則使該友方單位獲得1層傷害強化 \n- 若傲慢完全共鳴數不低於4，則使該友方單位獲得1層傲慢威力提升 ",
+          "desc": "[WhenUse] 以(最大共鳴數 x 15%)的概率，命令儀表盤上位於自身右側的1名友方單位進行[CoverAttack]\n- 若最大共鳴數不低於4，則使該友方單位獲得1層傷害強化 \n- 若傲慢完全共鳴數不低於4，則使該友方單位獲得1層傲慢威力提升 ",
           "coinlist": [
             {},
             {
@@ -343,7 +343,7 @@
         {
           "level": 4,
           "name": "追蹤到底！",
-          "desc": "[StartBattle] 使儀錶盤自身上位於自身兩側的2名友方單位獲得3層攻擊等級提升 \n[WhenUse] 以(最大共鳴數 x 20%)的機率，命令儀錶盤上位於自身右側的1名友方單位進行[CoverAttack]\n- 若最大共鳴數不低於4，則使該友方單位獲得2層傷害強化 \n- 若傲慢完全共鳴數不低於4，則使該友方單位獲得2層傲慢威力提升 ",
+          "desc": "[StartBattle] 使儀表盤自身上位於自身兩側的2名友方單位獲得3層攻擊等級提升 \n[WhenUse] 以(最大共鳴數 x 20%)的概率，命令儀表盤上位於自身右側的1名友方單位進行[CoverAttack]\n- 若最大共鳴數不低於4，則使該友方單位獲得2層傷害強化 \n- 若傲慢完全共鳴數不低於4，則使該友方單位獲得2層傲慢威力提升 ",
           "coinlist": [
             {},
             {
@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "執著魚叉",
-          "desc": "目標每失去1%的體力，使本技能造成的傷害+0.2%(最多20%)\n[EndSkill] 若使目標陷入混亂或擊殺目標，則使理智值最低的(1+最大完全共鳴數/2)名友方單位恢復10點理智值，使其增加2級呼吸法 強度並獲得4層呼吸法 (最多2次，最多4名友方單位)",
+          "desc": "目標每失去1%的體力，使本技能造成的傷害+0.2%(最多20%)\n[EndSkill] 若目標陷入混亂或擊殺目標，則使理智值最低的(1+最大完全共鳴數/2)名友方單位恢復10點理智值，使其增加2級呼吸法 強度並獲得4層呼吸法 (最多2次，最多4名友方單位)",
           "coinlist": [
             {},
             {
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "執著魚叉",
-          "desc": "目標每失去1%的體力，使本技能造成的傷害+0.3%(最多30%)\n目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EndSkill] 若使目標陷入混亂或擊殺目標，則使理智值最低的(1+最大完全共鳴數/2)名友方單位恢復10點理智值，使其增加2級呼吸法 強度並獲得4層呼吸法 (最多4次，最多4名友方單位)",
+          "desc": "目標每失去1%的體力，使本技能造成的傷害+0.3%(最多30%)\n目標每帶有5級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EndSkill] 若目標陷入混亂或擊殺目標，則使理智值最低的(1+最大完全共鳴數/2)名友方單位恢復10點理智值，使其增加2級呼吸法 強度並獲得4層呼吸法 (最多4次，最多4名友方單位)",
           "coinlist": [
             {},
             {
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "越過恐懼",
-          "desc": "[WhenUse] 使儀錶盤上位於自身兩側的友方單位恢復3點理智值(最多2次)",
+          "desc": "[WhenUse] 使儀表盤上位於自身兩側的友方單位恢復3點理智值(最多2次)",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 4,
           "name": "越過恐懼",
-          "desc": "[WhenUse] 使儀錶盤上位於自身兩側的友方單位恢復5點理智值(最多2次)",
+          "desc": "[WhenUse] 使儀表盤上位於自身兩側的友方單位恢復5點理智值(最多2次)",
           "coinlist": [
             {}
           ]
@@ -587,7 +587,7 @@
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層迅捷 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加1層束縛 "
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] 下回合對目標施加1層束縛 </style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層防禦等級降低 "
@@ -726,7 +726,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Vibration]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合使自身獲得1層防禦等級提升 "
@@ -738,7 +738,7 @@
         {
           "level": 2,
           "name": "Zwei騎士團巨劍術",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有3層震顫 ，使自身獲得1層防禦等級提升 (最多2層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的基礎威力+1",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">3</style>\n[WhenUse] 自身每帶有<style=\"highlight\">3</style>層震顫 ，使自身獲得1層防禦等級提升 (最多2層)\n<style=\"highlight\">[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的基礎威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -746,7 +746,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得<style=\"highlight\">2</style>層防禦等級提升 "
                 }
               ]
             },
@@ -756,7 +756,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得<style=\"highlight\">2</style>層防禦等級提升 "
                 }
               ]
             }
@@ -765,7 +765,7 @@
         {
           "level": 4,
           "name": "Zwei騎士團巨劍術",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 自身每帶有4層防禦等級提升 ，使本技能的基礎威力+1(最多+2)",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有<style=\"highlight\">2</style>層震顫 ，使自身獲得1層防禦等級提升 (最多<style=\"highlight\">3</style>層)\n[WhenUse] 自身<style=\"highlight\">每帶有4層</style>防禦等級提升 ，使本技能的基礎威力+1<style=\"highlight\">(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -773,7 +773,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 <style=\"highlight\"></style>"
                 }
               ]
             },
@@ -783,7 +783,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得2層防禦等級提升 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -828,12 +828,12 @@
         {
           "level": 2,
           "name": "禁止通行。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多4層)\n[WhenUse] 若自身的防禦等級提升 層數不低於5層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多<style=\"highlight\">4</style>層)\n<style=\"highlight\">[WhenUse] 若自身的防禦等級提升 層數不低於5層，則使本技能的硬幣威力+1</style>\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級震顫 強度"
                 }
               ]
             },
@@ -847,7 +847,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(自身的震顫 層數/2)級震顫 強度(最多3級)"
+                  "desc": "[OnSucceedAttack] 使目標增加(自身的震顫 層數/2)級震顫 強度(最多<style=\"highlight\">3</style>級)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的防禦等級提升 層數不低於10層，則對目標施加1層虛弱 "
@@ -859,29 +859,29 @@
         {
           "level": 4,
           "name": "禁止通行。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多5層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">5</style>\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多<style=\"highlight\">5</style>層)\n[WhenUse] 若自身的防禦等級提升 層數不低於<style=\"highlight\">4</style>層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級震顫 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">4</style>級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得4層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得<style=\"highlight\">4</style>層防禦等級提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(自身的震顫 層數/2)級震顫 強度(最多4級)"
+                  "desc": "[OnSucceedAttack] 使目標增加(自身的震顫 層數/2)級震顫 強度(最多<style=\"highlight\">4</style>級)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的防禦等級提升 層數不低於8層，則對目標施加1層虛弱 "
+                  "desc": "[OnSucceedAttack] 若自身的防禦等級提升 層數不低於<style=\"highlight\">8</style>層，則對目標施加1層虛弱 "
                 }
               ]
             }
@@ -929,7 +929,7 @@
         {
           "level": 4,
           "name": "保護",
-          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多5層)\n[WhenUse] 若自身帶有防禦姿態 ，則使本技能造成的傷害+70%\n[WhenUse] 自身每帶有4層防禦等級提升 ，使本技能的硬幣威力+1(最多+4)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +10\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多<style=\"highlight\">5</style>層)\n[WhenUse] 若自身帶有防禦姿態 ，則使本技能造成的傷害+<style=\"highlight\">70</style>%\n[WhenUse] 自身每帶有4層防禦等級提升 ，使本技能的硬幣威力+1(最多+<style=\"highlight\">4</style>)\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">10</style>\n[WinDuel] 對自身施加3層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身所有震顫 層數並使目標增加相應的震顫 強度(最多20級)\n- 使本硬幣造成的傷害+(溢出震顫 強度×5)%(最多+50%)"
+                  "desc": "[OnSucceedAttack] 消耗自身所有震顫 層數並使目標增加相應的震顫 強度(最多<style=\"highlight\">20</style>級)\n- 使本硬幣造成的傷害+(溢出震顫 強度×<style=\"highlight\">5</style>)%(最多+<style=\"highlight\">50</style>%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
@@ -982,7 +982,7 @@
         {
           "level": 4,
           "name": "您的盾牌",
-          "desc": "[CanDuelGuard]\n[StartBattle] 使自身獲得2層防禦姿態 (每回合最多1次)\n[WhenUse] 對自身施加10層震顫 (每回合最多1次)\n[WinDuel] 使目標震顫引爆 ",
+          "desc": "[CanDuelGuard]\n[StartBattle] 使自身獲得2層防禦姿態 (每回合最多1次)\n[WhenUse] 對自身施加10層震顫 (每回合最多1次)\n<style=\"highlight\">[WinDuel] 使目標震顫引爆 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1025,22 +1025,22 @@
         {
           "level": 2,
           "name": "血振納刀",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1049,22 +1049,22 @@
         {
           "level": 4,
           "name": "血振納刀",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+30%)",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+30%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層攻擊等級降低 <style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1077,8 +1077,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "銳刃出鞘",
-          "desc": "[StartBattle] 使除自身以外速度值最高且屬於黑云會的2名友方單位獲得1層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於云雲會的友方單位不低於6名，則改為使5名友方單位獲得2層傷害強化 ",
+          "name": "鋒芒畢現",
+          "desc": "[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得1層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得2層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1090,7 +1090,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -1098,26 +1098,26 @@
         },
         {
           "level": 2,
-          "name": "銳刃出鞘",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[StartBattle] 使除自身以外速度值最高且屬於黑云會的2名友方單位獲得2層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑云會的友方單位不低於6名，則改為使5名友方單位獲得3層傷害強化",
+          "name": "鋒芒畢現",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得<style=\"highlight\">2</style>層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得<style=\"highlight\">3</style>層傷害強化",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層斬擊易損 (每回合最多1次)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 對目標施加1層斬擊易損 (每回合最多1次)</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多1次)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多1次)</style>"
                 }
               ]
             }
@@ -1125,29 +1125,29 @@
         },
         {
           "level": 4,
-          "name": "銳刃出鞘",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+50%)\n[StartBattle] 使除自身以外速度值最高且屬於黑云會的2名友方單位獲得2層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑云會的友方單位不低於6名，則改為使5名友方單位獲得4層傷害強化 ",
+          "name": "鋒芒畢現",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n目標每帶有1種負面效果，使本技能造成的傷害+10%(最多+50%)</style>\n[StartBattle] 使除自身以外速度值最高且屬於黑雲會的2名友方單位獲得2層傷害強化 (每回合最多1次)\n- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為使5名友方單位獲得4層傷害強化 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead]  對目標施加1層斬擊易損 (每回合最多1次)"
+                  "desc": "[OnSucceedAttackHead]  對目標施加1層斬擊易損 (每回合最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- 若包括自身在內屬於黑云會的友方單位不低於6名，則改為對目標施加2層易損 "
+                  "desc": "<style=\"highlight\">- 若包括自身在內屬於黑雲會的友方單位不低於6名，則改為對目標施加2層易損 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多2次)"
+                  "desc": "[OnSucceedAttack] 下回合使自身獲得1層斬擊威力提升 (每回合最多<style=\"highlight\">2</style>次)"
                 }
               ]
             }
@@ -1160,13 +1160,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "墨跡翻覆",
+          "name": "黑雲翻墨",
           "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -1188,30 +1188,30 @@
         },
         {
           "level": 4,
-          "name": "墨跡翻覆",
-          "desc": "目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EnemyKill] 下回合使自身獲得2層斬擊威力提升 (每回合最多1次)",
+          "name": "黑雲翻墨",
+          "desc": "<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[EnemyKill] 下回合使自身獲得2層斬擊威力提升 (每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層流血"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "目標每帶有1種負面效果，使本硬幣造成的傷害+10%(最多+100%)"
+                  "desc": "<style=\"highlight\">目標每帶有1種負面效果，使本硬幣造成的傷害+10%(最多+100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 觸發目標的流血 3次並使其流血 層數減少3層"
+                  "desc": "[OnSucceedAttack] 觸發目標的流血 3次並使其流血 層數減少3層<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1224,7 +1224,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "斬刃紛飛",
+          "name": "散亂之舞",
           "desc": "[StartBattle] 使自身獲得1層守護 (每回合最多1次)",
           "coinlist": [
             {
@@ -1238,8 +1238,8 @@
         },
         {
           "level": 4,
-          "name": "斬刃紛飛",
-          "desc": "[StartBattle] 使自身獲得1層守護 (每回合最多1次)\n[StartBattle] 使包括自身在內(2+最大共鳴數)名速度值最高且屬於黑云會的友方單位獲得2層忍耐 (每回合最多1次)",
+          "name": "散亂之舞",
+          "desc": "[StartBattle] 使自身獲得1層守護 (每回合最多1次)\n<style=\"highlight\">[StartBattle] 使包括自身在內(2+最大共鳴數)名速度值最高且屬於黑雲會的友方單位獲得2層忍耐 (每回合最多1次)</style>",
           "coinlist": [
             {
               "coindescs": [

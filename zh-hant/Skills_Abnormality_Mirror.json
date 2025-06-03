@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "深入突刺",
+          "name": "尖釘戳刺",
           "coinlist": [
             {},
             {
@@ -94,7 +94,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "淨化",
+          "name": "凈化",
           "desc": "[WhenUse] 若目標現存體力不高於30%，則使本技能威力+2",
           "coinlist": [
             {
@@ -199,7 +199,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -209,7 +209,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -219,7 +219,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -229,7 +229,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -250,7 +250,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -260,7 +260,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -281,7 +281,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -291,7 +291,7 @@
                   "desc": "[OnSucceedAttack] 下回合對目標施加1層束縛 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -316,7 +316,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "崇高淨化",
+          "name": "崇高凈化",
           "coinlist": [
             {
               "coindescs": [
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標現存體力不高於30%，則直接擊殺目標並使自身恢復30點體力\n下回合使自身獲得2層強壯 "
+                  "desc": "[OnSucceedAttackHead] 若目標現存體力不高於30%，直接擊殺目標並使自身恢復30點體力\n下回合使自身獲得2層強壯 "
                 }
               ]
             }
@@ -569,7 +569,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "恆定電壓",
+          "name": "恒定電壓",
           "coinlist": [
             {
               "coindescs": [
@@ -587,7 +587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "恆壓追擊",
+          "name": "恒壓追擊",
           "coinlist": [
             {
               "coindescs": [
@@ -793,13 +793,13 @@
         {
           "level": 1,
           "name": "電流注入",
-          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痺 ，則使本技能造成的傷害+10%",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -813,14 +813,14 @@
         {
           "level": 1,
           "name": "電氣放電",
-          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痺 ，則使本技能造成的傷害+10%",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -834,7 +834,7 @@
         {
           "level": 1,
           "name": "放電",
-          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痺 ，則使本技能造成的傷害+20%",
+          "desc": "[WhenUse] 使自身獲得1層自體發電 \n若目標帶有麻痹 ，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 }
               ]
             }
@@ -875,7 +875,7 @@
                   "desc": "[OnSucceedAttack] 若目標處於蓄能 狀態，則對其追加最終傷害量40%的固定傷害"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 與1層蓄能 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 與1層蓄能 "
                 }
               ]
             }
@@ -908,7 +908,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -929,7 +929,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1152,7 +1152,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 下回合對目標施加5層束縛 "
@@ -1195,7 +1195,7 @@
         {
           "level": 1,
           "name": "想喝醉嗎？",
-          "desc": "進行拚點時，使目標獲得1層昂揚 ",
+          "desc": "進行拼點時，使目標獲得1層昂揚 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1214,7 +1214,7 @@
         {
           "level": 1,
           "name": "分著喝吧！",
-          "desc": "進行拚點時，使目標獲得2層昂揚 \n[WhenUse] 使自身恢復體力上限5%的體力",
+          "desc": "進行拼點時，使目標獲得2層昂揚 \n[WhenUse] 使自身恢復體力上限5%的體力",
           "coinlist": [
             {
               "coindescs": [
@@ -1233,7 +1233,7 @@
         {
           "level": 1,
           "name": "只剩這些了！",
-          "desc": "進行拚點時，使目標獲得2層昂揚 \n優先指定帶有震顫 的單位",
+          "desc": "進行拼點時，使目標獲得2層昂揚 \n優先指定帶有震顫 的單位",
           "coinlist": [
             {},
             {
@@ -1253,7 +1253,7 @@
         {
           "level": 1,
           "name": "這個我吃了！",
-          "desc": "[CantDuel]\n無法改變拚點目標\n優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拚點威力+5",
+          "desc": "[CantDuel]\n無法改變拼點目標\n優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拼點威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -1278,7 +1278,7 @@
         {
           "level": 1,
           "name": "這個我吃了！",
-          "desc": "優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拚點威力+5",
+          "desc": "優先指定帶有昂揚 的目標\n若目標未帶有醉意 ，則使本技能的拼點威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -1353,7 +1353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 ，則對其施加1層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加3層流血 "
@@ -1424,7 +1424,7 @@
         {
           "level": 1,
           "name": "綠蔭籠罩",
-          "desc": "[WhenUse] 下回合生成巨大的四葉草\n[WhenUse] 目標每有1層流血 使本技能造成的傷害+5%\n[DefeatDuel] 生成體力為原體力上限70%的巨大的四葉草",
+          "desc": "[WhenUse] 下回合生成巨大的四葉草\n[WhenUse] 目標每有1層流血 使本技能造成的傷害+5%\n[DefeatDuel] 產生體力為原體力上限70%的巨大的四葉草",
           "coinlist": [
             {
               "coindescs": [

@@ -17,9 +17,9 @@
     {
       "id": 10301,
       "title": "LCB\n罪人",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第1人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第1人格"
     },
     {
       "id": 10401,
@@ -101,9 +101,9 @@
     {
       "id": 10302,
       "title": "W公司 3級\n清掃人員",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第2人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第2人格"
     },
     {
       "id": 10402,
@@ -121,7 +121,7 @@
     },
     {
       "id": 10602,
-      "title": "黑云會\n若眾",
+      "title": "黑雲會\n若眾",
       "name": "鴻璐",
       "nameWithTitle": "鴻璐",
       "desc": "鴻璐的第2人格"
@@ -135,14 +135,14 @@
     },
     {
       "id": 10802,
-      "title": "R公司 第四集團軍\n馴鹿隊",
+      "title": "R公司\n第四集團軍\n馴鹿隊",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第2人格"
     },
     {
       "id": 10902,
-      "title": "黑云會\n若眾",
+      "title": "黑雲會\n若眾",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第2人格"
@@ -184,7 +184,7 @@
     },
     {
       "id": 10403,
-      "title": "黑云會\n若眾",
+      "title": "黑雲會\n若眾",
       "name": "良秀",
       "nameWithTitle": "良秀",
       "desc": "良秀的第3人格"
@@ -205,7 +205,7 @@
     },
     {
       "id": 10703,
-      "title": "R公司 第四集團軍\n兔子隊",
+      "title": "R公司\n第四集團軍\n兔子隊",
       "name": "希斯克利夫",
       "nameWithTitle": "希斯克利夫",
       "desc": "希斯克利夫的第3人格"
@@ -262,9 +262,9 @@
     {
       "id": 10303,
       "title": "し協會\n南部5科科長",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第3人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第3人格"
     },
     {
       "id": 10504,
@@ -310,14 +310,14 @@
     },
     {
       "id": 10404,
-      "title": "良．派\n廚師長",
+      "title": "良·派\n廚師長",
       "name": "良秀",
       "nameWithTitle": "良秀",
       "desc": "良秀的第4人格"
     },
     {
       "id": 11204,
-      "title": "良．派\n幫廚",
+      "title": "良·派\n幫廚",
       "name": "格里高爾",
       "nameWithTitle": "格里高爾",
       "desc": "格里高爾的第4人格"
@@ -325,9 +325,9 @@
     {
       "id": 10304,
       "title": "N公司\n中錘",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第4人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第4人格"
     },
     {
       "id": 11005,
@@ -366,14 +366,14 @@
     },
     {
       "id": 10104,
-      "title": "綻放E.G.O::\n檀香梅",
+      "title": "綻放E.G.O::\n山茶花",
       "name": "李箱",
       "nameWithTitle": "李箱",
       "desc": "李箱的第4人格"
     },
     {
       "id": 10805,
-      "title": "腦葉公司E.G.O::\n蕩漾",
+      "title": "腦葉公司E.G.O::\n盪漾",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第5人格"
@@ -401,7 +401,7 @@
     },
     {
       "id": 10506,
-      "title": "R公司 第四集團軍\n犀牛隊",
+      "title": "R公司\n第四集團軍\n犀牛隊",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
       "desc": "默爾索的第6人格 "
@@ -416,9 +416,9 @@
     {
       "id": 10305,
       "title": "Cinq協會\n南部5科科長",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第5人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第5人格"
     },
     {
       "id": 10807,
@@ -535,13 +535,13 @@
     {
       "id": 10306,
       "title": "中指\n幼妹",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第6人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第6人格"
     },
     {
       "id": 10507,
-      "title": "中指\n幼妹",
+      "title": "中指\n幼弟",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
       "desc": "默爾索的第7人格"
@@ -584,9 +584,9 @@
     {
       "id": 10307,
       "title": "腦葉公司E.G.O::\n提燈",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第7人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第7人格"
     },
     {
       "id": 10608,
@@ -604,7 +604,7 @@
     },
     {
       "id": 10808,
-      "title": "裴廓德號\n船長 ",
+      "title": "裴廓德號\n船長",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第8人格"
@@ -626,20 +626,20 @@
     {
       "id": 10308,
       "title": "劍契組\n殺手",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第8人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第8人格"
     },
     {
       "id": 11208,
-      "title": "黑云會\n副會長",
+      "title": "黑雲會\n副會長",
       "name": "格里高爾",
       "nameWithTitle": "格里高爾",
       "desc": "格里高爾的第8人格"
     },
     {
       "id": 10908,
-      "title": "六協會\n南部4科 科長",
+      "title": "六協會\n南部4科科長",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第8人格"
@@ -660,7 +660,7 @@
     },
     {
       "id": 11108,
-      "title": "咆哮山莊\n首席管家",
+      "title": "呼嘯山莊\n首席管家",
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
       "desc": "奧提斯的第8人格"
@@ -681,7 +681,7 @@
     },
     {
       "id": 10209,
-      "title": "咆哮山莊\n管家",
+      "title": "呼嘯山莊\n管家",
       "name": "浮士德",
       "nameWithTitle": "浮士德",
       "desc": "浮士德的第9人格"
@@ -716,14 +716,14 @@
     },
     {
       "id": 10109,
-      "title": "環指 點描派\n學徒",
+      "title": "環指 點彩派\n學徒",
       "name": "李箱",
       "nameWithTitle": "李箱",
       "desc": "李箱的第9人格"
     },
     {
       "id": 11109,
-      "title": "環指 點描派\n學徒",
+      "title": "環指 點彩派\n學徒",
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
       "desc": "奧提斯的第9人格"
@@ -745,9 +745,9 @@
     {
       "id": 10309,
       "title": "T公司 3級\n徵收人員",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第9人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第9人格"
     },
     {
       "id": 10909,
@@ -758,7 +758,7 @@
     },
     {
       "id": 10510,
-      "title": "Dieci協會\n南部4科 科長",
+      "title": "Dieci協會\n南部4科科長",
       "name": "默爾索",
       "nameWithTitle": "默爾索",
       "desc": "默爾索的第10人格"
@@ -800,7 +800,7 @@
     },
     {
       "id": 10410,
-      "title": "腦葉公司E.G.O::\n赤瞳．懺悔",
+      "title": "腦葉公司E.G.O::\n赤瞳·懺悔",
       "name": "良秀",
       "nameWithTitle": "良秀",
       "desc": "良秀的第10人格"
@@ -835,7 +835,7 @@
     },
     {
       "id": 11111,
-      "title": "拉．曼查領\n理髮師",
+      "title": "拉·曼卻領\n理髮師",
       "name": "奧提斯",
       "nameWithTitle": "奧提斯",
       "desc": "奧提斯的第11人格"
@@ -849,14 +849,14 @@
     },
     {
       "id": 11210,
-      "title": "拉．曼查領\n神父",
+      "title": "拉·曼卻領\n神父",
       "name": "格里高爾",
       "nameWithTitle": "格里高爾",
       "desc": "格里高爾的第10人格"
     },
     {
       "id": 10911,
-      "title": "拉．曼查領\n公主",
+      "title": "拉·曼卻領\n公主",
       "name": "羅佳",
       "nameWithTitle": "羅佳",
       "desc": "羅佳的第11人格"
@@ -870,10 +870,10 @@
     },
     {
       "id": 10310,
-      "title": "拉．曼查領\n總督",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第10人格"
+      "title": "拉·曼卻領\n總督",
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第10人格"
     },
     {
       "id": 10611,
@@ -905,14 +905,14 @@
     },
     {
       "id": 10811,
-      "title": "黑云會\n副會長",
+      "title": "黑雲會\n副會長",
       "name": "以實瑪利",
       "nameWithTitle": "以實瑪利",
       "desc": "以實瑪利的第11人格"
     },
     {
       "id": 10712,
-      "title": "黑云會\n若眾",
+      "title": "黑雲會\n若眾",
       "name": "希斯克利夫",
       "nameWithTitle": "希斯克利夫",
       "desc": "希斯克利夫的第12人格"
@@ -927,9 +927,9 @@
     {
       "id": 10311,
       "title": "Cinq協會\n東部3科",
-      "name": "唐吉訶德",
-      "nameWithTitle": "唐吉訶德",
-      "desc": "唐吉訶德的第11人格"
+      "name": "堂吉訶德",
+      "nameWithTitle": "堂吉訶德",
+      "desc": "堂吉訶德的第11人格"
     },
     {
       "id": 11211,
@@ -961,7 +961,7 @@
     },
     {
       "id": 10612,
-      "title": "R公司 第四集團軍\n馴鹿隊",
+      "title": "R公司\n第四集團軍\n馴鹿隊",
       "name": "鴻璐",
       "nameWithTitle": "鴻璐",
       "desc": "鴻璐的第12人格"
@@ -982,10 +982,10 @@
     },
     {
       "id": 10212,
-      "title": "Heishou Pack - Mao Branch Adept",
-      "name": "Faust",
-      "nameWithTitle": "Faust",
-      "desc": "Faust's 12th Identity"
+      "title": "黑獸 - 卯 魁首",
+      "name": "浮士德",
+      "nameWithTitle": "浮士德",
+      "desc": "浮士德的第12人格"
     }
   ]
 }

@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "臣服於我",
-          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "微不足道",
-          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             }
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "走開…走開！",
-          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拚點威力+1\n[WhenUse] 目標每帶有1層流血 ，使本技能造成的傷害+5%(最多+20%)",
+          "desc": "[WhenUse] 若目標的流血 強度不低於4級，則使本技能的拼點威力+1\n[WhenUse] 目標每帶有1層流血 ，使本技能造成的傷害+5%(最多+20%)",
           "coinlist": [
             {},
             {
@@ -69,14 +69,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 對目標施加2層流血 "
                 }
               ]
             },
@@ -149,12 +149,12 @@
         {
           "level": 1,
           "name": "我就是…這場遊行的…王子…！",
-          "desc": "[CantDuel]\n[WhenUse] 使硬血 [TabExplain] 長柄刀恢復的體力變為2倍\n[WhenUse] 使自身的理智值變為0點\n[EndSkill] 使自身獲得10層 [KeptBlood]\n本回合自身不會陷入混亂，使用本技能後結束回合。",
+          "desc": "[CantDuel]\n[WhenUse] 使硬血[TabExplain]長柄刀恢復的體力變為2倍\n[WhenUse] 使自身的理智值變為0點\n[EndSkill] 使自身獲得10層[KeptBlood]\n本回合自身不會陷入混亂，使用本技能後結束回合。",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度並對其施加1層 [Laceration]"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度並對其施加1層流血 "
                 }
               ]
             },
@@ -189,7 +189,7 @@
         {
           "level": 1,
           "name": "絕對…不會回去…！",
-          "desc": "[WhenUse] 目標每帶有5級 [Laceration] 強度，使本技能的拚點威力+1(最多+3)\n[WhenUse] 若目標的 [Laceration] 層數不低於4層，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有1層 [Laceration] ，使本技能造成的傷害+5%(最多+20%)\n[WhenUse] 使硬血 [TabExplain] 長柄刀恢復的體力變為2倍\n[EndSkill] 使自身獲得10層 [KeptBlood]",
+          "desc": "[WhenUse] 目標每帶有5級流血 強度，使本技能的拼點威力+1(最多+3)\n[WhenUse] 若目標的流血 層數不低於4層，則使本技能的硬幣威力+1\n[WhenUse] 目標每帶有1層流血 ，使本技能造成的傷害+5%(最多+20%)\n[WhenUse] 使硬血[TabExplain]長柄刀恢復的體力變為2倍\n[EndSkill] 使自身獲得10層[KeptBlood]",
           "coinlist": [
             {
               "coindescs": [

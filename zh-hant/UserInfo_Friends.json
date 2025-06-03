@@ -50,7 +50,7 @@
     },
     {
       "id": "Add_Friends",
-      "content": "添加好友"
+      "content": "新增好友"
     },
     {
       "id": "Delete_Friends",
@@ -210,7 +210,7 @@
     },
     {
       "id": "ReLoad",
-      "content": "刷新"
+      "content": "重新整理"
     },
     {
       "id": "Btn_Search",

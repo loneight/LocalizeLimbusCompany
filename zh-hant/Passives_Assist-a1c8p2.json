@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": 40000201,
-      "name": "Paired Assault",
-      "desc": "When an ally deals damage by striking an enemy, use the Skill 'Weakness Thrust' as an Unopposed Attack after the ally's attack ends (2 times per turn)"
+      "name": "戮力",
+      "desc": "友方單位攻擊敵方單位並造成傷害時，該攻擊結束時使用「刺入破綻」進行單方面攻擊(每回合最多2次)"
     },
     {
       "id": 40000202,
-      "name": "Aiding Stab",
-      "desc": "When an enemy attacks an other ally, and if the allied unit has less than 25% HP after the attack, use the Skill 'Aiding Strike' as an Unopposed Attack against the attacker (once per Encounter)"
+      "name": "援助刺擊",
+      "desc": "敵方單位攻擊除自身以外的友方單位後，若該友方單位的體力低於25%，則對攻擊者使用「戮力同心」進行單方面攻擊(每場戰鬥最多1次)"
     },
     {
       "id": 40000203,
-      "name": "Siphoning Fulfillment",
-      "desc": "Turn End: gain 1 Defense Level Up next turn for every 3 Poise on self (max 6)"
+      "name": "呼吸協調",
+      "desc": "回合結束時，自身每帶有3級呼吸法 強度，下回合使自身獲得1層防禦等級提升 (最多6層)"
     },
     {
       "id": 40000204,
-      "name": "Morale Boost",
-      "desc": "On Kill, heal 10 SP for 2 Sinners with the least SP"
+      "name": "昂揚",
+      "desc": "擊殺敵方單位時，使理智值最低的2名罪人恢復10點理智值"
     }
   ]
 }

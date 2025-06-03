@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "願為歡樂",
+          "name": "愿為歡樂",
           "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
@@ -27,7 +27,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "願為安寧",
+          "name": "愿為安寧",
           "desc": "[WhenUse] 使自身獲得2層充能 ",
           "coinlist": [
             {
@@ -60,7 +60,7 @@
         {
           "level": 1,
           "name": "這是禮物",
-          "desc": "若目標帶有束縛 ，且自身的速度值高於目標，則根據速度值之差，相應使本技能的拚點威力增加",
+          "desc": "若目標帶有束縛 ，且自身的速度值高於目標，則根據速度值之差，相應使本技能的拼點威力增加",
           "coinlist": [
             {
               "coindescs": [
@@ -71,7 +71,7 @@
                   "desc": "[OnSucceedAttack] 使自身增加2級呼吸法 強度並獲得3層呼吸法 "
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加3層麻痺 "
+                  "desc": "[CriticalOnSucceedAttack] 下回合對目標施加3層麻痹 "
                 }
               ]
             }
@@ -85,7 +85,7 @@
         {
           "level": 1,
           "name": "來包裝吧",
-          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加「下回合對目標施加1層麻痺 」\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 層數",
+          "desc": "若自身帶有[AaCeSeBa]，則使本技能的硬幣效果增加「下回合對目標施加1層麻痹 」\n優先指定速度值最低的單位\n[EndBattle] 消耗所有充能 層數",
           "coinlist": [
             {
               "coindescs": [
@@ -107,7 +107,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為守護 、強壯 、易損 或麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層某1種隨機效果，該效果可能為守護 、強壯 、易損 或麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 根據自身帶有的充能 層數，使目標失去相應的理智值"
@@ -116,7 +116,7 @@
                   "desc": "[EnemyKill] 使全體敵方單位失去10點理智值。"
                 },
                 {
-                  "desc": "[EnemyKillFail] 下回合對自身施加2層麻痺 。"
+                  "desc": "[EnemyKillFail] 下回合對自身施加2層麻痹 。"
                 }
               ]
             }

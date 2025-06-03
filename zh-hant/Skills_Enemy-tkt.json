@@ -70,8 +70,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "骯髒的錶鏈！",
-          "desc": "自身每帶有5層震顫 ，使本技能的拚點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
+          "name": "骯髒的錶鏈子！",
+          "desc": "自身每帶有5層[Vibration]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的[Vibration][Switch_Vibration]為[VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "可別小瞧我",
+          "name": "可別小瞧我了？",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
@@ -180,8 +180,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "下賤的錶鏈！",
-          "desc": "自身每帶有5層震顫 ，使本技能的拚點威力+1(最多+2)\n[WhenUse] 使自身的震顫 振幅轉換 為震顫-分配 ",
+          "name": "下賤的錶鏈子！",
+          "desc": "自身每帶有5層[Vibration]，使本技能的拼點威力+1(最多+2)\n[WhenUse] 使自身的[Vibration][Switch_Vibration]為[VibrationDistribution]",
           "coinlist": [
             {
               "coindescs": [
@@ -290,7 +290,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若自身的 [Vibration] 層數不低於10層，則使目標 [VibrationExplosion] 並使其 [Vibration] 層數減少1層"
+                  "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於10層，則使目標震顫引爆 並使其震顫 層數減少1層"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於15級，則使其震顫引爆 並使其震顫 層數減少1層"
@@ -340,7 +340,7 @@
         {
           "level": 1,
           "name": "準備好了？",
-          "desc": "優先指定帶有震顫-崩壞 的目標\n[WhenUse] 根據自身帶有的震顫 層數，對除自身以外的全體友方單位施加相應層數的震顫 \n[WhenUse] 使包括自身在內的全體友方單位的震顫 振幅轉換 為震顫-分配 ",
+          "desc": "優先指定帶有[VibrationCollapse]的目標\n[WhenUse] 根據自身帶有的[Vibration]層數，對除自身以外的全體友方單位施加相應層數的[Vibration]\n[WhenUse] 使包括自身在內的全體友方單位的[Vibration][Switch_Vibration]為[VibrationDistribution]",
           "coinlist": [
             {},
             {},
@@ -387,7 +387,7 @@
         {
           "level": 1,
           "name": "為了我們的事業",
-          "desc": "[CantDuel]\n[StartBattle] 對自身施加層數相當於除自身以外全體友方單位震顫 層數之和的震顫 ，解除全體友方單位的震顫 \n[StartBattle] 自身每帶有3層震顫 ，使自身獲得1層攻擊等級提升 \n[WhenUse] 對自身施加9層震顫 ",
+          "desc": "[CantDuel]\n[StartBattle] 對自身施加層數相當於除自身以外全體友方單位[Vibration]層數之和的[Vibration]，解除全體友方單位的[Vibration]\n[StartBattle] 自身每帶有3層[Vibration]，使自身獲得1層[AttackUp]\n[WhenUse] 對自身施加9層[Vibration]",
           "coinlist": [
             {
               "coindescs": [
@@ -461,12 +461,12 @@
         {
           "level": 1,
           "name": "請您止步。",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拚點威力+1",
+          "desc": "[WhenUse] 對自身施加2層[Vibration]\n[WhenUse] 若自身的[Vibration]層數不低於4層，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則使目標增加8級震顫 強度"
@@ -479,7 +479,7 @@
                   "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於4層，則對目標施加8層震顫 "
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "強制徵收執行。",
-          "desc": "[WhenUse] 自身每帶有5層震顫 ，則使本技能的拚點威力+1(最多+2)\n[WhenUse] 若自身的震顫 層數不低於5層，則自身每帶有1層震顫 ，使本技能造成的傷害+10%(最多+100%)\n[EndSkill] 消耗自身所有震顫 層數",
+          "desc": "[WhenUse] 自身每帶有5層[Vibration]，則使本技能的拼點威力+1(最多+2)\n[WhenUse] 若自身的[Vibration]層數不低於5層，則自身每帶有1層[Vibration]，使本技能造成的傷害+10%(最多+100%)\n[EndSkill] 消耗自身所有[Vibration]層數",
           "coinlist": [
             {
               "coindescs": [
@@ -587,13 +587,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司製加速切割機",
+          "name": "T公司制加速切割機",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層易損 "
                 },
                 {
                   "desc": "使目標增加2級震顫 強度"
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "請出示鐘錶。",
-          "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拚點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
+          "desc": "[WhenUse] 若自身的[Vibration]層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層[Vibration]\n[WinDuel] 消耗自身的3層[Vibration]並使自身獲得1層[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
@@ -652,7 +652,7 @@
         {
           "level": 1,
           "name": "強制徵收執行。",
-          "desc": "[WhenUse] 對自身施加3層震顫 \n[WhenUse] 自身每帶有4層震顫 ，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層震顫 並使自身獲得3層[TimeRentalTwo]",
+          "desc": "[WhenUse] 對自身施加3層[Vibration]\n[WhenUse] 自身每帶有4層[Vibration]，使本技能的基礎威力+1(最多+3)\n[WinDuel] 消耗自身的5層[Vibration]並使自身獲得3層[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
@@ -735,13 +735,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "T公司製時間捕捉器",
+          "name": "T公司制時間捕捉器",
           "desc": "[WhenUse] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對自身施加2層震顫 "
@@ -751,7 +751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痺 "
+                  "desc": "[OnSucceedAttack] 消耗自身的1層震顫 ，使目標增加2級震顫 強度並在下回合對其施加2層麻痹 "
                 }
               ]
             }
@@ -765,7 +765,7 @@
         {
           "level": 1,
           "name": "請您留步。",
-          "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拚點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
+          "desc": "[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+1\n[WhenUse] 對自身施加2層震顫 \n[WinDuel] 消耗自身的3層震顫 並使自身獲得1層[TimeRentalTwo]",
           "coinlist": [
             {
               "coindescs": [
@@ -777,7 +777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 並在下回合對目標施加2層拚點威力降低 "
+                  "desc": "[OnSucceedAttack] 消耗自身的2層震顫 並在下回合對目標施加2層拼點威力降低 "
                 }
               ]
             }

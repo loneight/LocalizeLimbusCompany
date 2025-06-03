@@ -6,7 +6,7 @@
     },
     {
       "id": "unit_info_tooltip_status_1",
-      "content": "速度值範圍"
+      "content": "速度範圍"
     },
     {
       "id": "unit_info_tooltip_attack_resist_0",
@@ -50,7 +50,7 @@
     },
     {
       "id": "unit_info_tooltip_skill_count",
-      "content": "技能數量"
+      "content": "技能個數"
     },
     {
       "id": "unit_info_tooltip_targetting_count",
@@ -58,15 +58,15 @@
     },
     {
       "id": "unit_info_tooltip_targetting_count_desc",
-      "content": "本技能可以同時指向的技能槽數。"
+      "content": "該技能可指向目標的行動槽的個數"
     },
     {
       "id": "unit_info_tooltip_ego_resource",
-      "content": "使用該技能所需的罪孽碎片數量"
+      "content": "使用技能所需罪孽碎片的個數"
     },
     {
       "id": "tooltip_ego_resource_ui",
-      "content": "持有的罪孽碎片數量"
+      "content": "持有的罪孽碎片個數"
     }
   ]
 }

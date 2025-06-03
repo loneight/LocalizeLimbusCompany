@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "防禦",
-          "desc": "拚點勝利時，使對方的混亂閾值前移"
+          "desc": "拼點勝利時，使對方的混亂閾值前移"
         }
       ]
     },
@@ -16,7 +16,7 @@
         {
           "level": 1,
           "name": "閃避",
-          "desc": "拚點勝利時，使自身的混亂閾值後移"
+          "desc": "拼點勝利時，使自身的混亂閾值後移"
         }
       ]
     },
@@ -85,7 +85,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "向前突刺",
+          "name": "短匕推刺",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -101,7 +101,7 @@
         },
         {
           "level": 2,
-          "name": "向前突刺",
+          "name": "短匕推刺",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -117,7 +117,7 @@
         },
         {
           "level": 4,
-          "name": "向前突刺",
+          "name": "短匕推刺",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -308,7 +308,7 @@
         {
           "level": 1,
           "name": "格擋回擊",
-          "desc": "[WinDuel] 下回合對目標施加3層麻痺 ",
+          "desc": "[WinDuel] 下回合對目標施加3層麻痹 ",
           "keywords": [
             "Paralysis"
           ],
@@ -332,7 +332,7 @@
         {
           "level": 2,
           "name": "格擋回擊",
-          "desc": "[WinDuel] 下回合對目標施加3層 麻痺",
+          "desc": "[WinDuel] 下回合對目標施加3層麻痹 ",
           "keywords": [
             "Paralysis"
           ],
@@ -356,7 +356,7 @@
         {
           "level": 4,
           "name": "格擋回擊",
-          "desc": "[WinDuel] 下回合對目標施加3層麻痺 \n[WinDuel] 對目標施加1層破裂 ",
+          "desc": "[WinDuel] 下回合對目標施加3層麻痹 \n[WinDuel] 對目標施加1層破裂 ",
           "keywords": [
             "Paralysis"
           ],
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 "
                 }
               ]
             }
@@ -587,7 +587,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 }
               ]
             }
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗5層充能 並在下回合對目標施加2層虛弱 與3層麻痺 "
+                  "desc": "[OnSucceedAttack] 消耗5層充能 並在下回合對目標施加2層虛弱 與3層麻痹 "
                 }
               ]
             }
@@ -797,14 +797,14 @@
         {
           "level": 4,
           "name": "過度充能",
-          "desc": "若自身的充能 層數不低於5層，則使本技能的拚點威力+2",
+          "desc": "若自身的充能 層數不低於5層，則使本技能的拼點威力+2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗5層充能 並在下回合對目標施加2層虛弱 與3層麻痺 "
+                  "desc": "[OnSucceedAttack] 消耗5層充能 並在下回合對目標施加2層虛弱 與3層麻痹 "
                 }
               ]
             }
@@ -1002,7 +1002,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "突刺",
+          "name": "長槍突刺",
           "desc": "[WinDuel] 下回合使自身獲得1層迅捷 ",
           "coinlist": [
             {}
@@ -1010,7 +1010,7 @@
         },
         {
           "level": 2,
-          "name": "突刺",
+          "name": "長槍突刺",
           "desc": "[WinDuel] 下回合使自身獲得2層迅捷 ",
           "coinlist": [
             {}
@@ -1244,8 +1244,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "空間割裂",
-          "desc": "[WhenUse] 消耗10層充能 並使本技能的硬幣威力+4\n若充能 層數不足10層，則改為使自身失去20%體力",
+          "name": "空間撕裂",
+          "desc": "[WhenUse] 消耗10層充能 並使本技能的硬幣威力+4\n 若充能 層數不足10層，則改為使自身失去20%體力",
           "coinlist": [
             {
               "coindescs": [
@@ -1683,13 +1683,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "發勁",
+          "name": "斂芒在鞘",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 "
                 }
               ]
             }
@@ -1697,13 +1697,13 @@
         },
         {
           "level": 2,
-          "name": "發勁",
+          "name": "斂芒在鞘",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1711,13 +1711,13 @@
         },
         {
           "level": 4,
-          "name": "發勁",
+          "name": "斂芒在鞘",
           "desc": "若目標的流血 層數不低於2層，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "翻雲覆墨",
+          "name": "黑雲亂渦",
           "desc": "",
           "coinlist": [
             {
@@ -1828,7 +1828,7 @@
         },
         {
           "level": 4,
-          "name": "翻雲覆墨",
+          "name": "黑雲亂渦",
           "desc": "若目標的流血 層數不低於9層，則使本技能造成的傷害+40%",
           "coinlist": [
             {
@@ -2118,7 +2118,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則隨機使2名敵方單位增加2級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則隨機使2名敵方單位增加2級燒傷 強度"
                 }
               ]
             },
@@ -2142,7 +2142,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則隨機使2名敵方單位增加3級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則隨機使2名敵方單位增加3級燒傷 強度"
                 }
               ]
             },
@@ -2185,7 +2185,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加3層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則隨機使2名敵方單位增加3級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則隨機使2名敵方單位增加3級燒傷 強度"
                 }
               ]
             }
@@ -2216,7 +2216,7 @@
                   "desc": "[OnSucceedAttack] 對目標施加3層燒傷 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則隨機使2名敵方單位增加3級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則隨機使2名敵方單位增加3級燒傷 強度"
                 }
               ]
             }
@@ -2635,7 +2635,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "居合斬",
+          "name": "一刀兩斷",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -2650,7 +2650,7 @@
         },
         {
           "level": 2,
-          "name": "居合斬",
+          "name": "一刀兩斷",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -2665,7 +2665,7 @@
         },
         {
           "level": 4,
-          "name": "居合斬",
+          "name": "一刀兩斷",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -2756,8 +2756,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "黑云摧裂",
-          "desc": "[StartBattle] 令本技能使目標額外增加1級流血 強度並額外施加1層麻痺 ",
+          "name": "黑雲摧裂",
+          "desc": "[StartBattle] 令本技能使目標額外增加1級流血 強度並額外施加1層麻痹 ",
           "coinlist": [
             {
               "coindescs": [
@@ -2776,7 +2776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 }
               ]
             }
@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "入骨尖刀",
-          "desc": "若目標的 [Laceration] 強度不低於7級，則使本技能造成的傷害+20%",
+          "desc": "若目標的流血 強度不低於7級，則使本技能造成的傷害+20%",
           "coinlist": [
             {
               "coindescs": [
@@ -2975,7 +2975,7 @@
         {
           "level": 4,
           "name": "閃避",
-          "desc": "若目標的 [Laceration] 強度不低於5級，則使本技能的硬幣威力+2\n[OnSucceedEvade] 使自身恢復3點理智值",
+          "desc": "若目標的流血 強度不低於5級，則使本技能的硬幣威力+2\n[OnSucceedEvade] 使自身恢復3點理智值",
           "coinlist": [
             {}
           ]
@@ -2987,7 +2987,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "球棒痛毆",
+          "name": "球棍痛毆",
           "desc": "",
           "coinlist": [
             {
@@ -3001,7 +3001,7 @@
         },
         {
           "level": 2,
-          "name": "球棒痛毆",
+          "name": "球棍痛毆",
           "desc": "",
           "coinlist": [
             {
@@ -3067,7 +3067,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "洩憤暴打",
+          "name": "泄憤暴打",
           "desc": "",
           "coinlist": [
             {
@@ -3302,21 +3302,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
@@ -3331,21 +3331,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加1級流血 強度"
                 }
               ]
             },
@@ -3365,14 +3365,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 對目標施加2層易損 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 對目標施加2層易損 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 對目標施加2層易損 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 對目標施加2層易損 "
                 }
               ]
             },
@@ -3427,7 +3427,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "強擊",
+          "name": "突然襲擊",
           "desc": "",
           "coinlist": [
             {
@@ -3441,7 +3441,7 @@
         },
         {
           "level": 2,
-          "name": "強擊",
+          "name": "突然襲擊",
           "desc": "",
           "coinlist": [
             {
@@ -3607,7 +3607,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "電湧燒灼",
+          "name": "電涌燒灼",
           "desc": "",
           "coinlist": [
             {
@@ -3621,7 +3621,7 @@
         },
         {
           "level": 2,
-          "name": "電湧燒灼",
+          "name": "電涌燒灼",
           "desc": "[WhenUse] 使自身獲得5層充能 ",
           "coinlist": [
             {
@@ -3635,7 +3635,7 @@
         },
         {
           "level": 4,
-          "name": "電湧燒灼",
+          "name": "電涌燒灼",
           "desc": "[WhenUse] 使自身獲得7層充能 ",
           "coinlist": [
             {
@@ -4001,7 +4001,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 "
                 }
               ]
             }
@@ -4015,7 +4015,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4024,12 +4024,12 @@
         {
           "level": 4,
           "name": "持盾鎮暴",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n若目標的 [Vibration] 強度不低於8級，則使本技能威力+2",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n若目標的震顫 強度不低於8級，則使本技能威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4055,14 +4055,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級震顫 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級震顫 強度"
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級震顫 強度"
                 }
               ]
             }
@@ -4083,14 +4083,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加8級震顫 強度並對目標施加2層震顫 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加8級震顫 強度並對目標施加2層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加8級震顫 強度並對目標施加2層震顫 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加8級震顫 強度並對目標施加2層震顫 "
                 }
               ]
             }
@@ -4103,7 +4103,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "",
           "coinlist": [
             {
@@ -4116,21 +4116,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 對目標施加5層易損 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 對目標施加5層易損 "
                 }
               ]
             }
@@ -4138,7 +4138,7 @@
         },
         {
           "level": 4,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "若目標的震顫 層數不低於5層，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -4151,21 +4151,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 使目標增加4級破裂 強度並對目標施加2層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "消耗1發彈藥。\n[OnSucceedAttack] 對目標施加5層易損 "
+                  "desc": "消耗1發彈藥\n[OnSucceedAttack] 對目標施加5層易損 "
                 }
               ]
             }
@@ -4312,7 +4312,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Laceration] 強度不低於6級，則使本硬幣造成的傷害+20%"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使本硬幣造成的傷害+20%"
                 }
               ]
             }
@@ -4347,7 +4347,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Laceration] 強度不低於6級，則使本硬幣造成的傷害+20%"
+                  "desc": "[OnSucceedAttack] 若目標的流血 強度不低於6級，則使本硬幣造成的傷害+20%"
                 }
               ]
             }
@@ -4373,7 +4373,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "銳刃出鞘",
+          "name": "鋒芒畢現",
           "desc": "",
           "coinlist": [
             {
@@ -4387,7 +4387,7 @@
         },
         {
           "level": 2,
-          "name": "銳刃出鞘",
+          "name": "鋒芒畢現",
           "desc": "",
           "coinlist": [
             {
@@ -4401,7 +4401,7 @@
         },
         {
           "level": 4,
-          "name": "銳刃出鞘",
+          "name": "鋒芒畢現",
           "desc": "若自身的呼吸法 強度不低於4級，則使本技能的硬幣威力+2",
           "coinlist": [
             {
@@ -4420,7 +4420,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "斬刃紛飛",
+          "name": "散亂之舞",
           "desc": "",
           "coinlist": [
             {
@@ -4447,7 +4447,7 @@
         },
         {
           "level": 2,
-          "name": "斬刃紛飛",
+          "name": "散亂之舞",
           "desc": "[WhenUse] 使自身獲得1層呼吸法 ",
           "coinlist": [
             {
@@ -4474,7 +4474,7 @@
         },
         {
           "level": 4,
-          "name": "斬刃紛飛",
+          "name": "散亂之舞",
           "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+2",
           "coinlist": [
             {
@@ -4506,8 +4506,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "斬絕蒼空",
-          "desc": "若目標的 [Laceration] 強度不低於6級，則使自身的暴擊率翻倍",
+          "name": "斬破長空",
+          "desc": "若目標的流血 強度不低於6級，則使自身的暴擊率翻倍",
           "coinlist": [
             {
               "coindescs": [
@@ -4520,8 +4520,8 @@
         },
         {
           "level": 4,
-          "name": "斬絕蒼空",
-          "desc": "若目標的 [Laceration] 強度不低於6級，則使自身的暴擊率翻倍\n若自身的 [Breath] 強度不低於10級，則使本技能暴擊時造成的傷害+100%",
+          "name": "斬破長空",
+          "desc": "若目標的流血 強度不低於6級，則使自身的暴擊率翻倍\n若自身的呼吸法 強度不低於10級，則使本技能暴擊時造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
@@ -4560,8 +4560,8 @@
       "levelList": [
         {
           "level": 2,
-          "name": "斬絕蒼空",
-          "desc": "若目標的 [Laceration] 強度不低於6級，則使自身的暴擊率翻倍",
+          "name": "斬破長空",
+          "desc": "若目標的流血 強度不低於6級，則使自身的暴擊率翻倍",
           "coinlist": [
             {
               "coindescs": [
@@ -4574,8 +4574,8 @@
         },
         {
           "level": 4,
-          "name": "斬絕蒼空",
-          "desc": "若目標的 [Laceration] 強度不低於6級，則使自身的暴擊率翻倍\n若自身的 [Breath] 強度不低於10級，則使本技能暴擊時造成的傷害+100%",
+          "name": "斬破長空",
+          "desc": "若目標的流血 強度不低於6級，則使自身的暴擊率翻倍\n若自身的呼吸法 強度不低於10級，則使本技能暴擊時造成的傷害+100%",
           "coinlist": [
             {
               "coindescs": [
@@ -4599,7 +4599,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 "
                 }
               ]
             }
@@ -4613,7 +4613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4622,12 +4622,12 @@
         {
           "level": 4,
           "name": "當頭一棒",
-          "desc": "若儀錶盤的下一個技能為打擊技能，則使本技能的硬幣威力+2",
+          "desc": "若儀表盤的下一個技能為打擊技能，則使本技能的硬幣威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4640,7 +4640,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "突刺",
+          "name": "重棍前戳",
           "desc": "",
           "coinlist": [
             {},
@@ -4655,7 +4655,7 @@
         },
         {
           "level": 2,
-          "name": "突刺",
+          "name": "重棍前戳",
           "desc": "",
           "coinlist": [
             {},
@@ -4670,8 +4670,8 @@
         },
         {
           "level": 4,
-          "name": "突刺",
-          "desc": "若儀錶盤的下一個技能為打擊技能，則使本技能的硬幣威力+2",
+          "name": "重棍前戳",
+          "desc": "若儀表盤的下一個技能為打擊技能，則使本技能的硬幣威力+2",
           "coinlist": [
             {},
             {
@@ -4690,7 +4690,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "若目標本回合內未受到攻擊，則使本技能的硬幣威力+2",
           "coinlist": [
             {
@@ -4706,7 +4706,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -4714,7 +4714,7 @@
         },
         {
           "level": 4,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "若目標本回合內未受到攻擊，則使本技能的硬幣威力+3",
           "coinlist": [
             {
@@ -4730,7 +4730,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加3層麻痹 "
                 }
               ]
             }
@@ -5015,7 +5015,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
@@ -5032,7 +5032,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加5層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加5層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加3級流血 強度"
@@ -5116,7 +5116,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "",
           "coinlist": [
             {},
@@ -5134,7 +5134,7 @@
         },
         {
           "level": 2,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "",
           "coinlist": [
             {},
@@ -5152,7 +5152,7 @@
         },
         {
           "level": 4,
-          "name": "鎮壓",
+          "name": "武力壓制",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +4\n[DefeatDuel] 使目標增加6級震顫 強度",
           "coinlist": [
             {},
@@ -5175,7 +5175,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "強擊",
+          "name": "突然襲擊",
           "desc": "[WhenUse] 使現存體力最低的1名友方單位在下回合獲得1層守護 ",
           "coinlist": [
             {
@@ -5192,7 +5192,7 @@
         },
         {
           "level": 4,
-          "name": "強擊",
+          "name": "突然襲擊",
           "desc": "[WhenUse] 使現存體力最低的1名友方單位在下回合獲得1層守護 \n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +10",
           "coinlist": [
             {
@@ -5201,7 +5201,7 @@
                   "desc": "[OnSucceedAttack] 使目標震顫引爆 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] [VibrationExplosion] 時，若目標的震顫 強度不低於5級，則下回合使自身獲得2層守護 "
+                  "desc": "[OnSucceedAttack] 震顫引爆 時，若目標的震顫 強度不低於5級，則下回合使自身獲得2層守護 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加2層打擊易損 "
@@ -5269,7 +5269,7 @@
         {
           "level": 4,
           "name": "按拍起舞",
-          "desc": "若目標的 [Sinking] 強度不低於4級，則使本技能的硬幣威力+1",
+          "desc": "若目標的沉淪 強度不低於4級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "激情之舞",
-          "desc": "若目標的 [Sinking] 強度不低於6級，則使本技能的硬幣威力+2",
+          "desc": "若目標的沉淪 強度不低於6級，則使本技能的硬幣威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -5618,7 +5618,7 @@
         {
           "level": 4,
           "name": "寒芒出鞘",
-          "desc": "若自身的 [Breath] 強度不低於5級，則使本技能的硬幣威力+1",
+          "desc": "若自身的呼吸法 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -5730,7 +5730,7 @@
         {
           "level": 4,
           "name": "閃避",
-          "desc": "若自身的 [Breath] 強度不低於6級，則使本技能的硬幣威力+3",
+          "desc": "若自身的呼吸法 強度不低於6級，則使本技能的硬幣威力+3",
           "coinlist": [
             {}
           ]
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "戰術指揮",
-          "desc": "若目標的 [Sinking] 強度不低於5級，則使本技能威力+2",
+          "desc": "若目標的沉淪 強度不低於5級，則使本技能威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -5986,14 +5986,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則使本硬幣造成的傷害+10%"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則使本硬幣造成的傷害+10%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則使本硬幣造成的傷害+10%"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則使本硬幣造成的傷害+10%"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] 使自身恢復本硬幣傷害量30%的體力"
@@ -6022,7 +6022,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "集中突刺",
+          "name": "封喉一刺",
           "desc": "",
           "coinlist": [
             {
@@ -6043,7 +6043,7 @@
         },
         {
           "level": 2,
-          "name": "集中突刺",
+          "name": "封喉一刺",
           "desc": "",
           "coinlist": [
             {
@@ -6064,8 +6064,8 @@
         },
         {
           "level": 4,
-          "name": "集中突刺",
-          "desc": "若目標的 [Combustion] 強度不低於6級，則使本技能的硬幣威力+1",
+          "name": "封喉一刺",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -6135,7 +6135,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則下回合使自身獲得1層強壯 "
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則下回合使自身獲得1層強壯 "
                 }
               ]
             }
@@ -6144,7 +6144,7 @@
         {
           "level": 4,
           "name": "破竹之勢",
-          "desc": "若目標的 [Combustion] 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -6166,7 +6166,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則下回合使自身獲得1層強壯 "
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則下回合使自身獲得1層強壯 "
                 }
               ]
             }
@@ -6215,7 +6215,7 @@
         {
           "level": 4,
           "name": "萬鍛連掌",
-          "desc": "若目標的 [Combustion] 強度不低於6級，則使本技能造成的傷害+10%",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能造成的傷害+10%",
           "coinlist": [
             {
               "coindescs": [
@@ -6267,7 +6267,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "臂斬掃蕩",
+          "name": "野蠻劈砍",
           "desc": "[WinDuel] 使本技能造成的傷害+20%",
           "coinlist": [
             {
@@ -6282,7 +6282,7 @@
         },
         {
           "level": 2,
-          "name": "臂斬掃蕩",
+          "name": "野蠻劈砍",
           "desc": "[WinDuel] 使本技能造成的傷害+40%",
           "coinlist": [
             {
@@ -6297,8 +6297,8 @@
         },
         {
           "level": 4,
-          "name": "臂斬掃蕩",
-          "desc": "[WinDuel] 使本技能造成的傷害+40%\n若目標的 [Burst] 強度不低於5級，則使本技能的硬幣威力+1",
+          "name": "野蠻劈砍",
+          "desc": "[WinDuel] 使本技能造成的傷害+40%\n若目標的破裂 強度不低於5級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -6349,7 +6349,7 @@
         {
           "level": 4,
           "name": "四肢拆解",
-          "desc": "若目標的 [Burst] 強度不低於5級，則使本技能造成的傷害+50%",
+          "desc": "若目標的破裂 強度不低於5級，則使本技能造成的傷害+50%",
           "coinlist": [
             {
               "coindescs": [
@@ -6376,21 +6376,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
@@ -6411,21 +6411,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則對其追加本硬幣傷害量30%的傷害"
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則對其追加本硬幣傷害量30%的傷害"
                 }
               ]
             },
@@ -6556,7 +6556,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "滌淨汝罪",
+          "name": "滌凈汝罪",
           "desc": "",
           "coinlist": [
             {
@@ -6578,7 +6578,7 @@
         },
         {
           "level": 2,
-          "name": "滌淨汝罪",
+          "name": "滌凈汝罪",
           "desc": "",
           "coinlist": [
             {
@@ -6603,7 +6603,7 @@
         },
         {
           "level": 4,
-          "name": "滌淨汝罪",
+          "name": "滌凈汝罪",
           "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +6",
           "coinlist": [
             {
@@ -6766,7 +6766,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "狂熱淨化",
+          "name": "狂熱凈化",
           "desc": "",
           "coinlist": [
             {
@@ -6780,7 +6780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -6788,7 +6788,7 @@
         },
         {
           "level": 2,
-          "name": "狂熱淨化",
+          "name": "狂熱凈化",
           "desc": "[WinDuel] 下回合使自身獲得1層狂信 ",
           "coinlist": [
             {
@@ -6802,7 +6802,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -6976,7 +6976,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加凝視 "
@@ -7007,7 +7007,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 下回合對目標施加凝視 "
@@ -7084,7 +7084,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "如此汙穢！",
+          "name": "如此污穢！",
           "desc": "[OnSucceedEvade] 使目標失去3點理智值",
           "coinlist": [
             {}
@@ -7174,7 +7174,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "淨…化！",
+          "name": "凈…化！",
           "desc": "[WinDuel] 使自身恢復3點理智值",
           "coinlist": [
             {
@@ -7188,7 +7188,7 @@
         },
         {
           "level": 2,
-          "name": "淨…化！",
+          "name": "凈…化！",
           "desc": "[WinDuel] 使自身恢復5點理智值",
           "coinlist": [
             {
@@ -7264,12 +7264,12 @@
         {
           "level": 1,
           "name": "預測分析",
-          "desc": "進行拚點時，使目標的拚點威力-1",
+          "desc": "進行拼點時，使目標的拼點威力-1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -7278,12 +7278,12 @@
         {
           "level": 2,
           "name": "預測分析",
-          "desc": "進行拚點時，使目標的拚點威力-2",
+          "desc": "進行拼點時，使目標的拼點威力-2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 }
               ]
             }
@@ -7292,12 +7292,12 @@
         {
           "level": 4,
           "name": "預測分析",
-          "desc": "進行拚點時，使目標的拚點威力-2",
+          "desc": "進行拼點時，使目標的拼點威力-2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 下回合對目標施加1層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
@@ -7314,7 +7314,7 @@
         {
           "level": 1,
           "name": "臨場指揮",
-          "desc": "進行拚點時，使目標的拚點威力-1",
+          "desc": "進行拼點時，使目標的拼點威力-1",
           "coinlist": [
             {
               "coindescs": [
@@ -7341,7 +7341,7 @@
         {
           "level": 2,
           "name": "臨場指揮",
-          "desc": "進行拚點時，使目標的拚點威力-2",
+          "desc": "進行拼點時，使目標的拼點威力-2",
           "coinlist": [
             {
               "coindescs": [
@@ -7368,7 +7368,7 @@
         {
           "level": 4,
           "name": "臨場指揮",
-          "desc": "進行拚點時，使目標的拚點威力-2",
+          "desc": "進行拼點時，使目標的拼點威力-2",
           "coinlist": [
             {
               "coindescs": [
@@ -7400,7 +7400,7 @@
         {
           "level": 3,
           "name": "要害勘破",
-          "desc": "進行拚點時，使目標的拚點威力-2",
+          "desc": "進行拼點時，使目標的拼點威力-2",
           "coinlist": [
             {
               "coindescs": [
@@ -7425,7 +7425,7 @@
         {
           "level": 4,
           "name": "要害勘破",
-          "desc": "進行拚點時，使目標的拚點威力-2\n若目標的 [Burst] 強度不低於7級，則使本技能的硬幣威力+2",
+          "desc": "進行拼點時，使目標的拼點威力-2\n若目標的破裂 強度不低於7級，則使本技能的硬幣威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -7508,14 +7508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度。若目標帶有 [Combustion]，則使其額外增加1級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度。若目標帶有燒傷 ，則使其額外增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 "
                 }
               ]
             }
@@ -7529,14 +7529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度。若目標帶有 [Combustion]，則使其額外增加1級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度。若目標帶有燒傷 ，則使其額外增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Combustion]。若自身的理智值不低於30點，則對其額外施加1層 [Combustion] ；若自身的理智值不低於45點，則對其額外施加2層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 。若自身的理智值不低於30點，則對其額外施加1層燒傷 ；若自身的理智值不低於45點，則對其額外施加2層燒傷 "
                 }
               ]
             }
@@ -7545,19 +7545,19 @@
         {
           "level": 4,
           "name": "星火流轉",
-          "desc": "若目標的 [Combustion] 層數不低於6層，則使本技能的硬幣威力+2",
+          "desc": "若目標的燒傷 層數不低於6層，則使本技能的硬幣威力+2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度。若目標帶有 [Combustion]，則使其額外增加1級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度。若目標帶有燒傷 ，則使其額外增加1級燒傷 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Combustion]。若自身的理智值不低於30點，則對其額外施加1層 [Combustion] ；若自身的理智值不低於45點，則對其額外施加2層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層燒傷 。若自身的理智值不低於30點，則對其額外施加1層燒傷 ；若自身的理智值不低於45點，則對其額外施加2層燒傷 "
                 }
               ]
             }
@@ -7576,7 +7576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度。若目標帶有 [Combustion]，則額外對其施加1層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度。若目標帶有燒傷 ，則額外對其施加1層燒傷 "
                 }
               ]
             },
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] 使自身恢復6點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 層數不低於6層，則使目標的混亂閾值前移本硬幣傷害量的30%"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使目標的混亂閾值前移本硬幣傷害量的30%"
                 }
               ]
             }
@@ -7595,12 +7595,12 @@
         {
           "level": 4,
           "name": "赤炎爆拳",
-          "desc": "若目標的 [Combustion] 層數不低於6層，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 層數不低於6層，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度。若目標帶有 [Combustion]，則額外對其施加1層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度。若目標帶有燒傷 ，則額外對其施加1層燒傷 "
                 }
               ]
             },
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] 使自身恢復6點理智值"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 層數不低於6層，則使目標的混亂閾值前移本硬幣傷害量的30%"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 層數不低於6層，則使目標的混亂閾值前移本硬幣傷害量的30%"
                 }
               ]
             }
@@ -7636,7 +7636,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "烹．備",
+          "name": "烹·備",
           "desc": "",
           "coinlist": [
             {
@@ -7657,7 +7657,7 @@
         },
         {
           "level": 2,
-          "name": "烹．備",
+          "name": "烹·備",
           "desc": "",
           "coinlist": [
             {
@@ -7678,7 +7678,7 @@
         },
         {
           "level": 4,
-          "name": "烹．備",
+          "name": "烹·備",
           "desc": "",
           "coinlist": [
             {
@@ -7704,7 +7704,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "獵．材",
+          "name": "獵·材",
           "desc": "",
           "coinlist": [
             {
@@ -7724,7 +7724,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痺 ，則在下回合對其施加1層體力恢復降低 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痹 ，則在下回合對其施加1層體力恢復降低 "
                 }
               ]
             }
@@ -7732,7 +7732,7 @@
         },
         {
           "level": 2,
-          "name": "獵．材",
+          "name": "獵·材",
           "desc": "",
           "coinlist": [
             {
@@ -7752,7 +7752,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痺 ，則在下回合對其施加3層體力恢復降低 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痹 ，則在下回合對其施加3層體力恢復降低 "
                 }
               ]
             }
@@ -7760,7 +7760,7 @@
         },
         {
           "level": 4,
-          "name": "獵．材",
+          "name": "獵·材",
           "desc": "[WhenUse] 使自身獲得1層飢渴 ",
           "coinlist": [
             {
@@ -7780,7 +7780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痺 ，則在下回合對其施加4層體力恢復降低 "
+                  "desc": "[OnSucceedAttack] 若目標帶有流血 或麻痹 ，則在下回合對其施加4層體力恢復降低 "
                 }
               ]
             }
@@ -7827,7 +7827,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "新．材發現",
+          "name": "新·材發現",
           "desc": "[OnSucceedEvade] 下回合使自身獲得1層迅捷 ",
           "coinlist": [
             {}
@@ -7846,7 +7846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 對目標施加1層麻痹 "
                 }
               ]
             },
@@ -7867,7 +7867,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 。若目標帶有 [Laceration]，則下回合對其施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 。若目標帶有流血 ，則下回合對其施加1層麻痹 "
                 }
               ]
             },
@@ -7888,7 +7888,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 。若目標帶有 [Laceration]，則下回合對其施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 。若目標帶有流血 ，則下回合對其施加1層麻痹 "
                 }
               ]
             },
@@ -7968,21 +7968,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標帶有的 [Laceration] 強度使自身恢復相應的體力(最多恢復20%)"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度使自身恢復相應的體力(最多恢復20%)"
                 }
               ]
             }
@@ -8003,21 +8003,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttack] 對目標施加1層麻痹 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 根據目標帶有的 [Laceration] 強度使自身恢復相應的體力(最多恢復20%)"
+                  "desc": "[OnSucceedAttack] 根據目標帶有的流血 強度使自身恢復相應的體力(最多恢復20%)"
                 }
               ]
             }
@@ -8171,7 +8171,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "自我毀滅的淨化",
+          "name": "自我毀滅的凈化",
           "desc": "[WhenUse] 使自身失去15點理智值\n- 若自身帶有狂信 ，則使本技能造成的傷害+15%\n- 若目標屬於<機械融合生命體>，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
@@ -8196,7 +8196,7 @@
         },
         {
           "level": 4,
-          "name": "自我毀滅的淨化",
+          "name": "自我毀滅的凈化",
           "desc": "[WhenUse] 使自身失去15點理智值\n- 若自身帶有狂信 ，則使本技能造成的傷害+15%\n- 若目標屬於<機械融合生命體>，則使本技能造成的傷害+10%",
           "coinlist": [
             {},
@@ -8227,7 +8227,7 @@
         {
           "level": 1,
           "name": "夠了…",
-          "desc": "[StartBattle] 使自身恢復5～10點理智值",
+          "desc": "[StartBattle] 使自身恢復5~10點理智值",
           "coinlist": [
             {}
           ]
@@ -8239,7 +8239,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "正當的淨化",
+          "name": "正當的凈化",
           "desc": "",
           "coinlist": [
             {
@@ -8263,7 +8263,7 @@
         },
         {
           "level": 2,
-          "name": "正當的淨化",
+          "name": "正當的凈化",
           "desc": "",
           "coinlist": [
             {
@@ -8287,7 +8287,7 @@
         },
         {
           "level": 4,
-          "name": "正當的淨化",
+          "name": "正當的凈化",
           "desc": "",
           "coinlist": [
             {
@@ -8395,7 +8395,7 @@
                   "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加1層虛弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
@@ -8432,7 +8432,7 @@
                   "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加1層虛弱 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加2層麻痺 "
+                  "desc": "[OnSucceedAttackHead] 若目標的尖釘 層數不低於5層，則下回合對其施加2層麻痹 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
@@ -8727,7 +8727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Vibration] 強度不低於5級，則下回合對其施加1層虛弱 "
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於5級，則下回合對其施加1層虛弱 "
                 }
               ]
             }
@@ -8751,7 +8751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Vibration] 強度不低於5級，則下回合對其施加1層虛弱 "
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於5級，則下回合對其施加1層虛弱 "
                 }
               ]
             }
@@ -8775,7 +8775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Vibration] 強度不低於5級，則下回合對其施加1層虛弱 "
+                  "desc": "[OnSucceedAttack] 若目標的震顫 強度不低於5級，則下回合對其施加1層虛弱 "
                 }
               ]
             }
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標 [VibrationExplosion]\n[VibrationExplosion] 時，使目標的震顫 層數減少3層，消耗所有充能 層數並使 [VibrationExplosion] 時混亂閾值的前移量增加(消耗的充能 層數×5)%(最多+50%)",
-                  "summary": "[OnSucceedAttack] 使目標 [VibrationExplosion]，並使目標的震顫 層數減少3層。消耗充能 層數，並使混亂閾值的前移量增加"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n震顫引爆 時，使目標的震顫 層數減少3層。消耗所有充能 層數並使震顫引爆 時混亂閾值的前移量增加(消耗的充能 層數×5)%(最多+50%)",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少3層。消耗充能 層數，並使混亂閾值的前移量增加"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標 [VibrationExplosion]\n[VibrationExplosion] 時，使目標的震顫 層數減少3層，消耗所有充能 層數並使 [VibrationExplosion] 時混亂閾值的前移量增加(消耗的充能 層數×5)%(最多+50%)",
-                  "summary": "[OnSucceedAttack] 使目標 [VibrationExplosion]，並使目標的震顫 層數減少3層。消耗充能 層數，並使混亂閾值的前移量增加"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 \n震顫引爆 時，使目標的震顫 層數減少3層。消耗所有充能 層數並使震顫引爆 時混亂閾值的前移量增加(消耗的充能 層數×5)%(最多+50%)",
+                  "summary": "[OnSucceedAttack] 使目標震顫引爆 ，並使目標的震顫 層數減少3層。消耗充能 層數，並使混亂閾值的前移量增加"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層，\n並消耗最多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層，\n並消耗至多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
                 }
               ]
             },
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層，\n並消耗最多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 。震顫引爆 時使目標的震顫 層數減少2層，\n並消耗至多4層充能 ，根據消耗的充能 層數對目標施加相應層數的破裂 "
                 }
               ]
             },
@@ -9263,7 +9263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對目標施加1層麻痺 "
+                  "desc": "[OnSucceedAttackTail] 下回合對目標施加1層麻痹 "
                 }
               ]
             },
@@ -9293,7 +9293,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痺 "
+                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痹 "
                 }
               ]
             },
@@ -9317,7 +9317,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痺 "
+                  "desc": "[OnSucceedAttackTail] 下回合對自身施加1層麻痹 "
                 }
               ]
             },
@@ -9520,7 +9520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Sinking] 強度不低於6級，則使目標沉淪氾濫 "
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則使目標沉淪氾濫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於10層，則對目標追加本硬幣傷害量30%的傷害"
@@ -9551,7 +9551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Sinking] 強度不低於6級，則使目標沉淪氾濫 "
+                  "desc": "[OnSucceedAttack] 若目標的沉淪 強度不低於6級，則使目標沉淪氾濫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的震顫 層數不低於10層，則對目標追加本硬幣傷害量40%的傷害"
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "阻截入侵者",
-          "desc": "若目標的 [Burst] 強度不低於5級，則硬幣威力 +1",
+          "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +1",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "阻截入侵者",
-          "desc": "若目標的 [Burst] 強度不低於5級，則硬幣威力 +2",
+          "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +2",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "阻截入侵者",
-          "desc": "若目標的 [Burst] 強度不低於5級，則硬幣威力 +3\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
+          "desc": "若目標的破裂 強度不低於5級，則硬幣威力 +3\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5",
           "coinlist": [
             {}
           ]
@@ -9790,14 +9790,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量20%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量20%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量20%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量20%的體力"
                 }
               ]
             }
@@ -9811,14 +9811,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             }
@@ -9832,14 +9832,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Burst] 強度\n若目標的 [Burst] 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n若目標的破裂 強度不低於10級，則使自身恢復本硬幣傷害量50%的體力"
                 }
               ]
             }
@@ -9943,7 +9943,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 若目標的 [Burst] 強度不低於5級，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttackHead] 若目標的破裂 強度不低於5級，則使自身獲得1層符咒 "
                 }
               ]
             }
@@ -9960,7 +9960,7 @@
                   "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Burst] 強度不低於5級，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於5級，則使自身獲得1層符咒 "
                 }
               ]
             }
@@ -10024,7 +10024,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得1層符咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Burst] 強度不低於3級，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於3級，則使自身獲得1層符咒 "
                 }
               ]
             }
@@ -10041,7 +10041,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得1層符咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則使自身獲得1層符咒 "
                 }
               ]
             },
@@ -10051,7 +10051,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得1層符咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則使自身獲得1層符咒 "
                 }
               ]
             },
@@ -10061,7 +10061,7 @@
                   "desc": "[OnSucceedAttack] 使自身獲得1層符咒 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Burst]，則使自身獲得1層符咒 "
+                  "desc": "[OnSucceedAttack] 若目標帶有破裂 ，則使自身獲得1層符咒 "
                 }
               ]
             }
@@ -10087,7 +10087,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Talisman]，則對目標施加1層 [Burst]"
+                  "desc": "[OnSucceedAttack] 若目標帶有符咒 ，則對目標施加1層破裂 "
                 }
               ]
             }
@@ -10108,7 +10108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標帶有 [Talisman]，則對目標施加3層 [Burst]"
+                  "desc": "[OnSucceedAttack] 若目標帶有符咒 ，則對目標施加3層破裂 "
                 }
               ]
             }
@@ -10222,7 +10222,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則對目標施加2層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則對目標施加2層燒傷 "
                 }
               ]
             }
@@ -10231,7 +10231,7 @@
         {
           "level": 2,
           "name": "長驅直入",
-          "desc": "若目標的 [Combustion] 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -10250,7 +10250,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則對目標施加2層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則對目標施加2層燒傷 "
                 }
               ]
             }
@@ -10278,7 +10278,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的 [Combustion] 強度不低於6級，則對目標施加2層 [Combustion]"
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於6級，則對目標施加2層燒傷 "
                 }
               ]
             }
@@ -10318,7 +10318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層加算硬幣強化 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層加算硬幣強化 "
                 }
               ]
             }
@@ -10353,7 +10353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層加算硬幣強化 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層加算硬幣強化 "
                 }
               ]
             }
@@ -10877,7 +10877,7 @@
         {
           "level": 4,
           "name": "雙旋飛刺",
-          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 \n[WinDuel] 根據拚點次數相應增加本技能所造成的傷害(每拚點1次+5%，最多+50%)",
+          "desc": "[WhenUse] 下回合使自身獲得2層迅捷 \n[WinDuel] 根據拼點次數相應增加本技能所造成的傷害(每拼點1次+5%，最多+50%)",
           "coinlist": [
             {},
             {
@@ -10897,12 +10897,12 @@
         {
           "level": 3,
           "name": "向您致敬！",
-          "desc": "若自身的速度值不低於10，則使本技能的硬幣威力+2\n[WinDuel] 根據拚點次數相應增加本技能所造成的傷害(每拚點1次+5%，最多+50%)",
+          "desc": "若自身的速度值不低於10，則使本技能的硬幣威力+2\n[WinDuel] 根據拼點次數相應增加本技能所造成的傷害(每拼點1次+5%，最多+50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_DonQuixote]"
+                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-堂吉訶德 "
                 }
               ]
             },
@@ -10912,12 +10912,12 @@
         {
           "level": 4,
           "name": "向您致敬！",
-          "desc": "若自身的速度值不低於10，則使本技能的硬幣威力+3\n[WinDuel] 根據拚點次數相應增加本技能所造成的傷害(每拚點1次+10%，最多+100%)",
+          "desc": "若自身的速度值不低於10，則使本技能的硬幣威力+3\n[WinDuel] 根據拼點次數相應增加本技能所造成的傷害(每拼點1次+10%，最多+100%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_DonQuixote]"
+                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-堂吉訶德 "
                 }
               ]
             },
@@ -11001,7 +11001,7 @@
         {
           "level": 4,
           "name": "直覺",
-          "desc": "若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -11124,7 +11124,7 @@
         {
           "level": 4,
           "name": "分析現場資料",
-          "desc": "若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -11207,7 +11207,7 @@
         {
           "level": 2,
           "name": "預測分析",
-          "desc": "若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於3級，則使本技能的硬幣威力+1",
+          "desc": "若目標的破裂 強度不低於3級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -11267,7 +11267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則下回合對其施加弱點分析 "
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則下回合對其施加弱點分析 "
                 }
               ]
             }
@@ -11276,7 +11276,7 @@
         {
           "level": 2,
           "name": "目標解體",
-          "desc": "若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加3層破裂 ",
+          "desc": "若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加3層破裂 ",
           "coinlist": [
             {
               "coindescs": [
@@ -11289,7 +11289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則下回合對其施加弱點分析 "
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則下回合對其施加弱點分析 "
                 }
               ]
             }
@@ -11311,7 +11311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 若目標的<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂 </color></link></u>強度不低於6級，則下回合對其施加弱點分析 "
+                  "desc": "[OnSucceedAttack] 若目標的破裂 強度不低於6級，則下回合對其施加弱點分析 "
                 }
               ]
             }
@@ -11344,7 +11344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層迅捷 與1層斬擊威力提升 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層迅捷 與1層斬擊威力提升 "
                 }
               ]
             }
@@ -11372,7 +11372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] 若使目標陷入混亂或擊殺目標，則下回合使自身獲得1層迅捷 與1層斬擊威力提升 "
+                  "desc": "[EndSkill] 若目標陷入混亂或擊殺目標，則下回合使自身獲得1層迅捷 與1層斬擊威力提升 "
                 }
               ]
             }

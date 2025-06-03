@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "20102_getCondition",
-      "content": "提取\n第1賽季巴士通行證30級獎勵"
+      "content": "提取\n第1賽季邊獄通行證30級獎勵"
     },
     {
       "id": "20103_getCondition",
@@ -10,7 +10,7 @@
     },
     {
       "id": "20202_getCondition",
-      "content": "提取\n第1賽季巴士通行證42級獎勵"
+      "content": "提取\n第1賽季邊獄通行證42級獎勵"
     },
     {
       "id": "20203_getCondition",
@@ -18,7 +18,7 @@
     },
     {
       "id": "20302_getCondition",
-      "content": "提取\n第1賽季巴士通行證18級獎勵"
+      "content": "提取\n第1賽季邊獄通行證18級獎勵"
     },
     {
       "id": "20402_getCondition",
@@ -38,7 +38,7 @@
     },
     {
       "id": "20702_getCondition",
-      "content": "提取\n第1賽季巴士通行證54級獎勵"
+      "content": "提取\n第1賽季邊獄通行證54級獎勵"
     },
     {
       "id": "20802_getCondition",
@@ -50,7 +50,7 @@
     },
     {
       "id": "20902_getCondition",
-      "content": "提取\n第1賽季巴士通行證6級獎勵"
+      "content": "提取\n第1賽季邊獄通行證6級獎勵"
     },
     {
       "id": "20903_getCondition",
@@ -106,15 +106,15 @@
     },
     {
       "id": "20804_getCondition",
-      "content": "第2賽季巴士通行證20級獎勵"
+      "content": "第2賽季邊獄通行證20級獎勵"
     },
     {
       "id": "21104_getCondition",
-      "content": "第2賽季巴士通行證40級獎勵"
+      "content": "第2賽季邊獄通行證40級獎勵"
     },
     {
       "id": "20703_getCondition",
-      "content": "第2賽季巴士通行證30級獎勵"
+      "content": "第2賽季邊獄通行證30級獎勵"
     }
   ]
 }

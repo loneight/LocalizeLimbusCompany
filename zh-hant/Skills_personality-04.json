@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "能．循",
+          "name": "能·循",
           "desc": "",
           "coinlist": [
             {
@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "能．循",
+          "name": "能·循",
           "desc": "若自身的充能 層數不低於10層，則使本技能造成的傷害+10%",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "能．循",
+          "name": "能·循",
           "desc": "若自身的充能 層數不低於10層，則使本技能造成的傷害+10%\n若自身的充能 層數不低於15層，則使本技能造成的傷害額外+10%",
           "coinlist": [
             {
@@ -150,8 +150,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "次．魔．空．裂",
-          "desc": "[WhenUse] 若自身的充能 層數在7～14層之間，\n則消耗所有充能 層數，\n並消耗體力上限3×(15-消耗的充能 層數)%的體力，使本技能的硬幣威力+3\n[WhenUse] 消耗15層充能 ，並使本技能的硬幣威力+3",
+          "name": "次·魔·空·裂",
+          "desc": "[WhenUse] 若自身的充能 層數在7~14層之間，\n則消耗所有充能 層數，\n並消耗體力上限3×(15-消耗的充能 層數)%的體力，使本技能的硬幣威力+3\n[WhenUse] 消耗15層充能 ，並使本技能的硬幣威力+3",
           "coinlist": [
             {
               "coindescs": [
@@ -185,8 +185,8 @@
         },
         {
           "level": 4,
-          "name": "次．魔．空．裂",
-          "desc": "[WhenUse] 若自身的充能 層數在7～14層之間，\n則消耗所有充能 層數，\n並消耗體力上限3×(15-消耗的充能 層數)%的體力，使本技能的硬幣威力+5\n[WhenUse] 消耗15層充能 ，並使本技能的硬幣威力+5",
+          "name": "次·魔·空·裂",
+          "desc": "[WhenUse] 若自身的充能 層數在7~14層之間，\n則消耗所有充能 層數，\n並消耗體力上限3×(15-消耗的充能 層數)%的體力，使本技能的硬幣威力+5\n[WhenUse] 消耗15層充能 ，並使本技能的硬幣威力+5",
           "coinlist": [
             {
               "coindescs": [
@@ -275,7 +275,7 @@
         {
           "level": 4,
           "name": "強力推擊",
-          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 使自身獲得2層呼吸法 \n<style=\"highlight\">若自身的</style>呼吸法 <style=\"highlight\">強度不低於7級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -293,7 +293,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "目．無",
+          "name": "目·無",
           "desc": "",
           "coinlist": [
             {
@@ -320,7 +320,7 @@
         },
         {
           "level": 2,
-          "name": "目．無",
+          "name": "目·無",
           "desc": "",
           "coinlist": [
             {
@@ -347,7 +347,7 @@
         },
         {
           "level": 4,
-          "name": "目．無",
+          "name": "目·無",
           "desc": "若自身的呼吸法 強度不低於7級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -379,7 +379,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "頭．裂",
+          "name": "頭·裂",
           "desc": "[WhenUse] 使自身增加4級呼吸法 強度\n若自身的呼吸法 強度不低於10級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -415,7 +415,7 @@
         },
         {
           "level": 4,
-          "name": "頭．裂",
+          "name": "頭·裂",
           "desc": "[WhenUse] 使自身增加4級呼吸法 強度\n自身每帶有7級呼吸法 強度，使本技能的硬幣威力+1(最多+2)",
           "coinlist": [
             {
@@ -503,7 +503,7 @@
         {
           "level": 2,
           "name": "全面戰",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -524,7 +524,7 @@
         {
           "level": 4,
           "name": "全面戰",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1\n若目標的燒傷 強度不低於10級，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n<style=\"highlight\">若目標的燒傷 強度不低於10級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -539,7 +539,7 @@
                   "desc": "[OnSucceedAttackHead] 使目標增加1級燒傷 強度"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -574,7 +574,7 @@
         {
           "level": 2,
           "name": "熾焰手刀",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -595,7 +595,7 @@
         {
           "level": 4,
           "name": "熾焰手刀",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1\n若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n<style=\"highlight\">若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -621,7 +621,7 @@
         {
           "level": 3,
           "name": "炎絕",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1",
           "coinlist": [
             {
               "coindescs": [
@@ -633,7 +633,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級燒傷 強度"
                 }
               ]
             },
@@ -656,7 +656,7 @@
         {
           "level": 4,
           "name": "炎絕",
-          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拚點威力+1\n若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若目標的燒傷 強度不低於6級，則使本技能的拼點威力+1\n<style=\"highlight\">若目標的燒傷 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -750,7 +750,7 @@
         {
           "level": 2,
           "name": "迎客之道1式 狩獵",
-          "desc": "若自身的速度值高於目標至少3點，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的拼點威力+1</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -771,7 +771,7 @@
         {
           "level": 4,
           "name": "迎客之道1式 狩獵",
-          "desc": "若自身的速度值高於目標，則每相差2點，使本技能的拚點威力+1(最多+3)\n[WhenUse] 使自身獲得2層呼吸法 ",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標，則每相差2點，使本技能的拼點威力+1(最多+3)</style>\n[WhenUse] 使自身獲得2層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +839,7 @@
         {
           "level": 4,
           "name": "迎客之道第7式 捕捉",
-          "desc": "若自身的速度值高於主要目標，則每相差2點，使本技能的拚點威力+1(最多+3)\n[StartBattle] 消耗6層呼吸法 並使本技能的攻擊容量+2",
+          "desc": "<style=\"highlight\">若自身的速度值高於主要目標，則每相差2點，使本技能的拼點威力+1(最多+3)</style>\n[StartBattle] 消耗6層呼吸法 並使本技能的攻擊容量+2",
           "coinlist": [
             {
               "coindescs": [
@@ -867,8 +867,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "迎客之道第2式 折．脖",
-          "desc": "若目標帶有[MarkOfButler]，則使本技能的拚點威力+1\n[WhenUse] 使自身獲得7層呼吸法 ",
+          "name": "迎客之道第2式 折·脖",
+          "desc": "若目標帶有[MarkOfButler]，則使本技能的拼點威力+1\n[WhenUse] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -897,8 +897,8 @@
         },
         {
           "level": 4,
-          "name": "迎客之道第2式 折．脖",
-          "desc": "若目標帶有[MarkOfButler]，則使本技能的拚點威力+1\n若自身的速度值高於目標，則每相差2點，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 使自身獲得7層呼吸法 ",
+          "name": "迎客之道第2式 折·脖",
+          "desc": "若目標帶有[MarkOfButler]，則使本技能的拼點威力+1\n<style=\"highlight\">若自身的速度值高於目標，則每相差2點，使本技能的硬幣威力+1(最多+2)</style>\n[WhenUse] 使自身獲得7層呼吸法 ",
           "coinlist": [
             {
               "coindescs": [
@@ -953,7 +953,7 @@
         {
           "level": 4,
           "name": "無能",
-          "desc": "[OnSucceedEvade] 使自身恢復3點理智值(每回合最多5次)\n[OnSucceedEvade] 使自身獲得1層呼吸法 (每回合最多5次)",
+          "desc": "[OnSucceedEvade] 使自身恢復3點理智值(每回合最多<style=\"highlight\">5</style>次)\n<style=\"highlight\">[OnSucceedEvade] 使自身獲得1層呼吸法 (每回合最多5次)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -993,7 +993,7 @@
         {
           "level": 2,
           "name": "你螺絲鬆了？",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拚點威力+2",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 若自身的震顫 層數不低於5層，則使本技能的拼點威力+2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1014,7 +1014,7 @@
         {
           "level": 4,
           "name": "你螺絲鬆了？",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拚點威力+2",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n[WhenUse] 若自身的震顫 層數不低於<style=\"highlight\">4</style>層，則使本技能的拼點威力+2",
           "coinlist": [
             {
               "coindescs": [
@@ -1026,7 +1026,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層震顫 "
+                  "desc": "[OnSucceedAttack] 對目標施加<style=\"highlight\">2</style>層震顫 "
                 }
               ]
             }
@@ -1062,7 +1062,7 @@
         {
           "level": 2,
           "name": "壓力發條扳手",
-          "desc": "[WhenUse] 對自身施加2層震顫 \n若自身的震顫 層數不低於5層，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">若自身的震顫 層數不低於5層，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {},
             {
@@ -1084,20 +1084,20 @@
         {
           "level": 4,
           "name": "壓力發條扳手",
-          "desc": "[WhenUse] 對自身施加2層 [Vibration]\n<style=\"highlight\">[WhenUse] 若自身的 [Vibration] 層數不低於4層，則使本技能的拚點威力+1</style>\n若自身的 [Vibration] 層數不低於<style=\"highlight\">4</style>層，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n<style=\"highlight\">[WhenUse] 若自身的震顫 層數不低於4層，則使本技能的拼點威力+1</style>\n若自身的震顫 層數不低於<style=\"highlight\">4</style>層，則使本技能的硬幣威力+1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Vibration]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層震顫 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身的 [Vibration] 層數，並對目標施加層數相當於 [Vibration] 消耗量的 [Vibration] (最多5層)"
+                  "desc": "[OnSucceedAttack] 消耗自身的震顫 層數，並對目標施加層數相當於震顫 消耗量的震顫 (最多5層)"
                 }
               ]
             }
@@ -1111,26 +1111,26 @@
         {
           "level": 3,
           "name": "敲敲就好",
-          "desc": "[WhenUse] 對自身施加2層 [Vibration]\n消耗自身的10層 [Vibration] 並使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n消耗自身的10層震顫 並使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Vibration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Vibration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標 [VibrationExplosion]，並使其 [Vibration] 層數減少2層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少2層"
                 }
               ]
             }
@@ -1139,26 +1139,26 @@
         {
           "level": 4,
           "name": "敲敲就好",
-          "desc": "[WhenUse] 對自身施加2層 [Vibration]\n[WhenUse] 消耗自身的<style=\"highlight\">8</style>層 [Vibration] 並使本技能的硬幣威力+1\n<style=\"highlight\">若目標的 [Vibration] 強度不低於6級，則使本技能的硬幣威力+1</style>",
+          "desc": "[WhenUse] 對自身施加2層震顫 \n消耗自身的<style=\"highlight\">8</style>層震顫 並使本技能的硬幣威力+1\n<style=\"highlight\">若目標的震顫 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Vibration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Vibration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級震顫 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標 [VibrationExplosion]，並使其 [Vibration] 層數減少<style=\"highlight\">1</style>層"
+                  "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少<style=\"highlight\">1</style>層"
                 }
               ]
             }
@@ -1180,7 +1180,7 @@
         {
           "level": 4,
           "name": "防禦",
-          "desc": "[WhenUse] 獲得(2×自身的震顫 層數)點護盾體力(最多10點)",
+          "desc": "[WhenUse] 獲得(2×自身的震顫 層數)點護盾體力(最多<style=\"highlight\">10</style>點)",
           "coinlist": [
             {}
           ]
@@ -1214,22 +1214,22 @@
         {
           "level": 2,
           "name": "都給我閉嘴",
-          "desc": "若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拚點威力+1",
+          "desc": "<style=\"highlight\">若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拼點威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 "
+                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加1級流血 強度</style>"
                 }
               ]
             }
@@ -1238,22 +1238,22 @@
         {
           "level": 4,
           "name": "都給我閉嘴",
-          "desc": "若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拚點威力+2",
+          "desc": "若自身的赤瞳 不低於7層，則使本技能的硬幣威力+1\n若自身的懺悔 不低於7層，則使本技能的拼點威力<style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 \n[OnSucceedAttackHead] 使自身獲得1層懺悔 "
+                  "desc": "[OnSucceedAttack] 使自身獲得3層懺悔 \n<style=\"highlight\">[OnSucceedAttackHead] 使自身獲得1層懺悔 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 "
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1266,7 +1266,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "蜘．頭 / 骷．頭",
+          "name": "蜘·頭/骷·頭",
           "desc": "若自身的赤瞳 與懺悔 層數之和不低於20層，則使本技能的硬幣威力+1",
           "coinlist": [
             {
@@ -1291,30 +1291,30 @@
         },
         {
           "level": 2,
-          "name": "蜘．頭 / 骷．頭",
-          "desc": "若自身的赤瞳 與懺悔 層數之和不低於20層，則使本技能的硬幣威力+1\n若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
+          "name": "蜘·頭/骷·頭",
+          "desc": "若自身的赤瞳 與懺悔 層數之和不低於20層，則使本技能的硬幣威力+1\n<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得4層 [PenanceFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得4層懺悔 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層 [RedEyeFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得3層赤瞳 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得(目標的流血 強度/3)層赤瞳 (最多2層)"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使自身獲得(目標的流血 強度/3)層赤瞳 (最多2層)</style>"
                 }
               ]
             }
@@ -1322,33 +1322,33 @@
         },
         {
           "level": 4,
-          "name": "蜘．頭 / 骷．頭",
-          "desc": "若自身的 [RedEyeFirst] 與 [PenanceFirst] 層數之和不低於<style=\"highlight\">15</style>層，則使本技能的硬幣威力+1\n若目標的 [Laceration] 強度不低於6級，則使本技能的硬幣威力+1",
+          "name": "蜘·頭/骷·頭",
+          "desc": "若自身的赤瞳 與懺悔 層數之和不低於<style=\"highlight\">15</style>層，則使本技能的硬幣威力+1\n若目標的流血 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得4層 [PenanceFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得4層懺悔 <style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得3層 [RedEyeFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得3層赤瞳 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得(目標的 [Laceration] 強度/<style=\"highlight\">2</style>)層 [RedEyeFirst] (最多<style=\"highlight\">3</style>層)"
+                  "desc": "[OnSucceedAttack] 使自身獲得(目標的流血 強度/<style=\"highlight\">2</style>)層赤瞳 (最多<style=\"highlight\">3</style>層)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 若自身的 [RedEyeFirst] 層數不低於7層，則下回合使自身獲得1層 [Agility] (每回合最多2次)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 若自身的赤瞳 層數不低於7層，則下回合使自身獲得1層迅捷 (每回合最多2次)</style>"
                 }
               ]
             }
@@ -1362,18 +1362,18 @@
         {
           "level": 3,
           "name": "碎顱",
-          "desc": "[BeforeUse] 若自身的 [RedEyeFirst] 與 [PenanceFirst] 層數均不低於15層，則改為使用「動真格地碎顱」\n若自身的速度值高於目標3點及以上，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
+          "desc": "[BeforeUse] 若自身的赤瞳 與懺悔 層數均不低於15層，則改為使用「動真格地碎顱」\n若自身的速度值高於目標3點及以上，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得7層 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] 使自身獲得7層赤瞳 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得7層 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] 使自身獲得7層懺悔 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
                 }
               ]
             },
@@ -1381,10 +1381,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(自身的 [PenanceFirst] 層數/3)%的體力"
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(自身的懺悔 層數/3)%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(自身的 [PenanceFirst] 層數-10)點理智值(最少0點)"
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(自身的懺悔 層數-10)點理智值(最少0點)"
                 }
               ]
             }
@@ -1393,35 +1393,35 @@
         {
           "level": 4,
           "name": "碎顱",
-          "desc": "[BeforeUse] 若自身的 [RedEyeFirst] 與 [PenanceFirst] 層數均不低於15層，則改為使用「動真格地碎顱」\n若<style=\"highlight\">自身的速度值高於目標</style>，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的<style=\"highlight\">拚點威力+2</style>，硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
+          "desc": "[BeforeUse] 若自身的赤瞳 與懺悔 層數均不低於15層，則改為使用「動真格地碎顱」\n若<style=\"highlight\">自身的速度值高於目標</style>，則使本技能的硬幣威力+1\n[WhenUse] 若自身的理智值為最大值，則使本技能的<style=\"highlight\">拼點威力+2</style>，硬幣威力+1\n- [EndSkill] 若該效果觸發，則使自身失去15點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得7層 [RedEyeFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得7層赤瞳 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得7層 [PenanceFirst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得7層懺悔 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級 [Laceration] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">3</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 使自身獲得2層 [PenanceFirst] </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] 使自身獲得2層懺悔 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(自身的 [PenanceFirst] 層數/<style=\"highlight\">2</style>)%的體力"
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(自身的懺悔 層數/<style=\"highlight\">2</style>)%的體力"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(自身的 [PenanceFirst] 層數-10)點理智值(最少0點)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(自身的懺悔 層數-10)點理智值(最少0點)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1434,20 +1434,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "吃飯睡覺的時間到了",
+          "name": "該吃飽睡覺了",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層 [RedEyeFirst] (每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 (每回合最多1次)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層 [PenanceFirst] (每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層懺悔 (每回合最多1次)"
                 }
               ]
             }
@@ -1455,20 +1455,20 @@
         },
         {
           "level": 4,
-          "name": "吃飯睡覺的時間到了",
+          "name": "該吃飽睡覺了",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層 [RedEyeFirst] (每回合最多1次)\n<style=\"highlight\">- 若自身的 [RedEyeFirst] 層數低於7層，則使自身額外獲得1層 [RedEyeFirst] </style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層赤瞳 (每回合最多1次)\n<style=\"highlight\">- 若自身的赤瞳 層數低於7層，則使自身額外獲得1層赤瞳 </style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得2層 [PenanceFirst] (每回合最多1次)\n<style=\"highlight\">- 若自身的 [PenanceFirst] 層數低於7層，則使自身額外獲得1層 [PenanceFirst] </style>"
+                  "desc": "[OnSucceedAttack] 使自身獲得2層懺悔 (每回合最多1次)\n<style=\"highlight\">- 若自身的懺悔 層數低於7層，則使自身額外獲得1層懺悔 </style>"
                 }
               ]
             }
@@ -1482,12 +1482,12 @@
         {
           "level": 3,
           "name": "動真格地碎顱",
-          "desc": "[WhenUse] 消耗自身所有 [RedEyeFirst] 與 [PenanceFirst] \n- 每消耗5層 [RedEyeFirst]，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層 [PenanceFirst]，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加 [Emptiness]",
+          "desc": "[WhenUse] 消耗自身所有赤瞳 與懺悔 \n- 每消耗5層赤瞳 ，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層懺悔 ，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加只餘灰燼 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(消耗的 [RedEyeFirst] 層數-15)級 [Laceration] 強度(最多5級)"
+                  "desc": "[OnSucceedAttack] 使目標增加(消耗的赤瞳 層數-15)級流血 強度(最多5級)"
                 }
               ]
             },
@@ -1495,16 +1495,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "每消耗1層 [RedEyeFirst] 或 [PenanceFirst]，使本硬幣造成的傷害+2.5%(最多+100%)"
+                  "desc": "每消耗1層赤瞳 或懺悔 ，使本硬幣造成的傷害+2.5%(最多+100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(消耗的 [PenanceFirst] 層數/2)%的體力\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限(消耗的懺悔 層數/2)%的體力\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(消耗的 [PenanceFirst] 層數-10)點理智值\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(消耗的懺悔 層數-10)點理智值\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層 [Binding] 與2層 [Reduction] (每回合最多1次)"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 與2層虛弱 (每回合最多1次)"
                 }
               ]
             }
@@ -1513,12 +1513,12 @@
         {
           "level": 4,
           "name": "動真格地碎顱",
-          "desc": "[WhenUse] 消耗自身所有 [RedEyeFirst] 與 [PenanceFirst] \n- 每消耗5層 [RedEyeFirst]，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層 [PenanceFirst]，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加 [Emptiness]",
+          "desc": "[WhenUse] 消耗自身所有赤瞳 與懺悔 \n- 每消耗5層赤瞳 ，使本技能的硬幣威力+1(最多+4)\n- 每消耗5層懺悔 ，使本技能的基礎威力+1(最多+4)\n[EndSkill] 使自身失去15點理智值並在下回合對自身施加只餘灰燼 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加(消耗的 [RedEyeFirst] 層數-15)級 [Laceration] 強度(最多5級)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加(消耗的赤瞳 層數-15)級流血 強度(最多5級)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1526,16 +1526,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "每消耗1層 [RedEyeFirst] 或 [PenanceFirst]，使本硬幣造成的傷害<style=\"highlight\">+4</style>%(最多<style=\"highlight\">+160%</style>)"
+                  "desc": "每消耗1層赤瞳 或懺悔 ，使本硬幣造成的傷害<style=\"highlight\">+4%</style>(最多+<style=\"highlight\">160%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限<style=\"highlight\">(消耗的 [PenanceFirst] 層數)%</style>的體力\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
+                  "desc": "[OnSucceedAttack] 使自身與現存體力比例最低的1名友方單位恢復各自體力上限<style=\"highlight\">(消耗的懺悔 層數)%</style>的體力\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(消耗的 [PenanceFirst] 層數-<style=\"highlight\">5</style>)點理智值\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
+                  "desc": "[OnSucceedAttack] 使自身與理智值最低的1名友方單位恢復(消耗的懺悔 層數-<style=\"highlight\">5</style>)點理智值\n- 每有2點最大共鳴數，額外使1名友方單位恢復(最多額外2名友方單位)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 下回合對目標施加3層 [Binding] 與2層 [Reduction] (每回合最多1次)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 下回合對目標施加3層束縛 與2層虛弱 (每回合最多1次)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1549,19 +1549,19 @@
         {
           "level": 1,
           "name": "瞬步",
-          "desc": "[WhenUse] 若目標的 [Burst] 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             }
@@ -1570,19 +1570,19 @@
         {
           "level": 2,
           "name": "瞬步",
-          "desc": "[WhenUse] 若目標的 [Burst] 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WinDuel] 對目標施加1層 [Burst] </style>",
+          "desc": "[WhenUse] 若目標的破裂 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WinDuel] 對目標施加1層破裂 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)</style>"
@@ -1594,19 +1594,19 @@
         {
           "level": 4,
           "name": "瞬步",
-          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的 [Burst] 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層 [Burst]",
+          "desc": "<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[WinDuel] 對目標施加1層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
@@ -1623,12 +1623,12 @@
         {
           "level": 1,
           "name": "如鐫刻所示",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的 [Burst] 強度)%(最多+50%)\n[WhenUse] 若目標的 [Burst] 強度不低於6級，則使本技能的硬幣威力+1",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n[WhenUse] 若目標的破裂 強度不低於6級，則使本技能的硬幣威力+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
@@ -1644,15 +1644,15 @@
         {
           "level": 2,
           "name": "如鐫刻所示",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的 [Burst] 強度)%(最多+50%)\n[WhenUse] 若目標的 [Burst] 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WhenUse] 下回合使自身獲得2層 [Agility] (每回合最多1次)\n[WinDuel] 對目標施加1層 [Burst] </style>",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n[WhenUse] 若目標的破裂 強度不低於<style=\"highlight\">4</style>級，則使本技能的硬幣威力+1\n<style=\"highlight\">[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)\n[WinDuel] 對目標施加1層破裂 </style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的速度值不低於10，則對目標施加1層 [Burst] </style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 若自身的速度值不低於10，則對目標施加1層破裂 </style>"
                 }
               ]
             },
@@ -1668,15 +1668,15 @@
         {
           "level": 4,
           "name": "如鐫刻所示",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的 [Burst] 強度)%(最多+50%)\n<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的 [Burst] 強度不低於4級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得2層 [Agility] (每回合最多1次)\n[WinDuel] 使目標增加1層 [Burst] ",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n<style=\"highlight\">若自身的速度值高於目標至少3點，則使本技能的硬幣威力+1</style>\n[WhenUse] 若目標的破裂 強度不低於4級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使自身獲得2層迅捷 (每回合最多1次)\n[WinDuel] 對目標施加1層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則對目標施加1層 [Burst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則對目標施加1層破裂 <style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1686,7 +1686,7 @@
                   "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+<style=\"highlight\">30</style>%"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加1級 [Burst] 強度</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] 使目標增加1級破裂 強度</style>"
                 }
               ]
             }
@@ -1700,22 +1700,22 @@
         {
           "level": 3,
           "name": "以鐫刻詛咒之劍刺穿吧",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的 [Burst] 強度)%(最多+50%)\n若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得3層 [LegStrength]\n[WinDuel] 對目標施加2層 [Burst]",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n若自身的速度值高於目標至少2點，則使本技能的硬幣威力+1\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [BurstAgility]"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度"
                 }
               ]
             },
@@ -1725,7 +1725,7 @@
                   "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)"
@@ -1737,22 +1737,22 @@
         {
           "level": 4,
           "name": "以鐫刻詛咒之劍刺穿吧",
-          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的 [Burst] 強度)%(最多+50%)\n若自身的速度值高於目標，<style=\"highlight\">則每高於目標2點，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的 [Burst] 強度不低於15級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得3層 [LegStrength]\n[WinDuel] 使目標增加2層 [Burst]",
+          "desc": "若自身的速度值高於目標，則使本技能造成的傷害+(速度值之差×目標的破裂 強度)%(最多+50%)\n若自身的速度值高於目標，<style=\"highlight\">則每高於目標2點，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級，則使本技能的硬幣威力+1</style>\n[WhenUse] 使自身獲得3層[LegStrength]\n[WinDuel] 對目標施加2層破裂 ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [BurstAgility] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加[BurstAgility]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加1級破裂 強度<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1762,13 +1762,13 @@
                   "desc": "若自身的速度值不低於10，則使本硬幣造成的傷害+30%<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級 [Burst] 強度<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] 若自身的速度值不低於10，則重複使用本硬幣1次(每個技能最多1次)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 對目標施加 [BurstAgility] </style>"
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] 對目標施加[BurstAgility]</style>"
                 }
               ]
             }
@@ -1781,13 +1781,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "腳力．解放．呼",
-          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層 [LegStrength]",
+          "name": "腳力。解放。呵",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層[LegStrength]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst]"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 "
                 }
               ]
             }
@@ -1795,13 +1795,13 @@
         },
         {
           "level": 4,
-          "name": "腳力．解放．呼",
-          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層 [LegStrength]\n<style=\"highlight\">[WhenUse] 若自身的速度值高於目標，則每高於目標2點，使本技能的基礎威力+1(最多+2)</style>",
+          "name": "腳力。解放。呵",
+          "desc": "[DuelCounter]\n[WhenUse] 使自身獲得3層[LegStrength]\n<style=\"highlight\">[WhenUse] 若自身的速度值高於目標，則每高於目標2點，使本技能的基礎威力+1(最多+2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst] <style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 <style=\"highlight\"></style>"
                 }
               ]
             }

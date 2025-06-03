@@ -171,7 +171,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "混帳螃蟹殼…！",
+          "name": "混賬螃蟹殼…！",
           "desc": "[WhenUse] 使自身獲得1層破裂守護 (每回合最多3次)",
           "coinlist": [
             {
@@ -335,7 +335,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加 [DuelDeclaration_Sinclair]"
+                  "desc": "[OnSucceedAttack] 對目標施加決鬥宣告-辛克萊 "
                 }
               ]
             },
@@ -499,7 +499,7 @@
         {
           "level": 2,
           "name": "霞光劍刃",
-          "desc": "<style=\"highlight\">若目標的燒傷 強度不低於4級，則使本技能的拚點威力+1</style>\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
+          "desc": "<style=\"highlight\">若目標的燒傷 強度不低於4級，則使本技能的拼點威力+1</style>\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -527,7 +527,7 @@
         {
           "level": 4,
           "name": "霞光劍刃",
-          "desc": "若目標的燒傷 強度不低於4級，則使本技能的拚點威力+1\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n<style=\"highlight\">- 若自身的理智值為45點，則改為使本技能的攻擊容量+2</style>\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
+          "desc": "若目標的燒傷 強度不低於4級，則使本技能的拼點威力+1\n[WhenUse] 若自身處於不穩定E.G.O狀態，則消耗5點理智值\n[BeforeAttack] 若自身處於不穩定E.G.O狀態，則使本技能的攻擊容量+1\n<style=\"highlight\">- 若自身的理智值為45點，則改為使本技能的攻擊容量+2</style>\n[EndSkill] 若自身處於不穩定E.G.O狀態，則消耗5點理智值",
           "coinlist": [
             {
               "coindescs": [
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級 [Combustion] 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加3級燒傷 強度"
                 }
               ]
             }
@@ -671,11 +671,11 @@
             {
               "coindescs": [
                 {
-                  "desc": "目標每帶有1級燒傷 強度，使本硬幣造成的傷害+4%(最多+120%)",
+                  "desc": "目標每帶有1級燒傷 強度，使本硬幣造成的傷害+<style=\"highlight\">4</style>%(最多+<style=\"highlight\">120</style>%)",
                   "summary": "根據目標帶有的燒傷 強度，相應使本硬幣造成的傷害增加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則隨機使(最大共鳴數)名敵方單位增加2級燒傷 強度\n- 若該共鳴為暴怒共鳴，則額外對敵方單位施加1層燒傷 ",
+                  "desc": "[OnSucceedAttack] 若目標的燒傷 強度不低於10級，則隨機使(最大共鳴數)名敵方單位增加2級燒傷 強度\n<style=\"highlight\">- 若該共鳴為暴怒共鳴，則額外對敵方單位施加1層燒傷 </style>",
                   "summary": "[OnSucceedAttack] 根據共鳴數，相應增加燒傷 強度"
                 },
                 {
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "開始鎮壓。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得2層防禦等級提升 \n[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拚點威力+1\n[WinDuel] 對自身施加2層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得<style=\"highlight\">2</style>層防禦等級提升 \n<style=\"highlight\">[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拼點威力+1</style>\n[WinDuel] 對自身施加2層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -739,7 +739,7 @@
         {
           "level": 4,
           "name": "開始鎮壓。",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得2層防禦等級提升 \n[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拚點威力+2\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身獲得2層防禦等級提升 \n[WhenUse] 若目標的震顫 層數不低於4層，則使本技能的拼點威力+<style=\"highlight\">2</style>\n[WinDuel] 對自身施加<style=\"highlight\">3</style>層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -780,7 +780,7 @@
         {
           "level": 2,
           "name": "戰鬥準備",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n<style=\"highlight\">[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1</style>\n[WinDuel] 對自身施加<style=\"highlight\">3</style>層震顫 ",
           "coinlist": [
             {
               "coindescs": [
@@ -792,7 +792,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使除自身以外帶有防禦等級提升 的1名友方單位在下回合獲得(其防禦等級提升 層數/2)層攻擊等級提升 (每回合最多1次，最多3層)"
+                  "desc": "[OnSucceedAttack] 使除自身以外帶有防禦等級提升 的1名友方單位在下回合獲得(其防禦等級提升 層數/<style=\"highlight\">2</style>)層攻擊等級提升 (每回合最多1次，最多3層)"
                 }
               ]
             }
@@ -801,19 +801,19 @@
         {
           "level": 4,
           "name": "戰鬥準備",
-          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 ",
+          "desc": "[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多3層)\n[WhenUse] 若自身的防禦等級提升 層數不低於4層，則使本技能的硬幣威力+1\n[WinDuel] 對自身施加3層震顫 <style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] 使除自身以外現存體力比例最低的2名友方單位在下回合獲得2層防禦等級提升 "
+                  "desc": "[WinDuelAttack] 使除自身以外現存體力比例最低的<style=\"highlight\">2</style>名友方單位在下回合獲得2層防禦等級提升 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使除自身以外帶有防禦等級提升 的2名友方單位在下回合獲得(其防禦等級提升 層數/2)層攻擊等級提升 (每回合最多1次，最多3層)"
+                  "desc": "[OnSucceedAttack] 使除自身以外帶有防禦等級提升 的<style=\"highlight\">2</style>名友方單位在下回合獲得(其防禦等級提升 層數/2)層攻擊等級提升 (每回合最多1次，最多3層)"
                 }
               ]
             }
@@ -846,7 +846,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身最多8層震顫 ，並對目標施加相應層數的震顫 "
+                  "desc": "[OnSucceedAttack] 消耗自身至多8層震顫 ，並對目標施加相應層數的震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
@@ -858,12 +858,12 @@
         {
           "level": 4,
           "name": "以身為盾",
-          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多4層)\n[WhenUse] 自身每帶有3層防禦等級提升 ，使本技能的硬幣威力+1(最多+3)",
+          "desc": "[WhenUse] 自身每帶有2層震顫 ，使自身獲得1層防禦等級提升 (最多<style=\"highlight\">4</style>層)\n[WhenUse] 自身每帶有3層防禦等級提升 ，使本技能的硬幣威力+1(最多+<style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使除自身以外現存體力比例最低的1名友方單位在下回合獲得4層防禦等級提升 "
+                  "desc": "[OnSucceedAttack] 使除自身以外現存體力比例最低的1名友方單位在下回合獲得<style=\"highlight\">4</style>層防禦等級提升 "
                 }
               ]
             },
@@ -877,7 +877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 消耗自身最多8層震顫 ，並對目標施加相應層數的震顫 "
+                  "desc": "[OnSucceedAttack] 消耗自身至多8層震顫 ，並對目標施加相應層數的震顫 "
                 },
                 {
                   "desc": "[OnSucceedAttack] 使目標震顫引爆 ，並使其震顫 層數減少1層"
@@ -908,7 +908,7 @@
         {
           "level": 4,
           "name": "Zwei騎士團巨劍術-防禦",
-          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 對自身施加3層震顫 (每回合最多1次)\n[WinDuel] 使目標震顫引爆 ",
+          "desc": "[CanDuelGuard]\n[StartBattle] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 對自身施加<style=\"highlight\">3</style>層震顫 (每回合最多1次)\n[WinDuel] 使目標震顫引爆 ",
           "coinlist": [
             {
               "coindescs": [
@@ -926,13 +926,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "物流箱-崩解錘",
+          "name": "派送箱-崩解錘",
           "desc": "[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得1層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得1層派送箱-辛克萊 "
                 }
               ]
             },
@@ -947,20 +947,20 @@
         },
         {
           "level": 2,
-          "name": "物流箱-崩解錘",
-          "desc": "若自身的物流箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)",
+          "name": "派送箱-崩解錘",
+          "desc": "若自身的派送箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得1層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得1層派送箱-辛克萊 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 \n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標額外施加1層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 \n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標額外施加1層破裂 "
                 }
               ]
             }
@@ -968,20 +968,20 @@
         },
         {
           "level": 4,
-          "name": "物流箱-崩解錘",
-          "desc": "自身每帶有10層物流箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)",
+          "name": "派送箱-崩解錘",
+          "desc": "自身每帶有10層派送箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得1層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得1層派送箱-辛克萊 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 \n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標額外施加1層破裂 "
+                  "desc": "[OnSucceedAttack] 對目標施加2層破裂 \n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標額外施加1層破裂 "
                 }
               ]
             }
@@ -1000,7 +1000,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得2層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得2層派送箱-辛克萊 "
                 }
               ]
             },
@@ -1023,26 +1023,26 @@
         {
           "level": 2,
           "name": "派送箱-突破工具",
-          "desc": "若自身的物流箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)\n[WhenUse] 若自身的物流箱-辛克萊 層數不高於20層，則下回合使自身獲得1層迅捷 (每回合最多1次)",
+          "desc": "若自身的派送箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)\n[WhenUse] 若自身的派送箱-辛克萊 層數不高於20層，則下回合使自身獲得1層迅捷 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得2層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得2層派送箱-辛克萊 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標施加1層破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標施加1層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標施加1層破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標施加1層破裂 "
                 }
               ]
             }
@@ -1051,26 +1051,26 @@
         {
           "level": 4,
           "name": "派送箱-突破工具",
-          "desc": "自身每帶有10層物流箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)\n[WhenUse] 若自身的物流箱-辛克萊 層數不高於30層，則下回合使自身獲得1層迅捷 (每回合最多1次)",
+          "desc": "自身每帶有10層派送箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為施加2層防禦等級降低 (每枚硬幣最多1次)\n[WhenUse] 若自身的派送箱-辛克萊 層數不高於30層，則下回合使自身獲得1層迅捷 (每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使自身獲得1層物流箱-辛克萊 \n- 若自身的物流箱-辛克萊 層數低於15層，則使自身額外獲得2層物流箱-辛克萊 "
+                  "desc": "[OnSucceedAttack] 使自身獲得1層派送箱-辛克萊 \n- 若自身的派送箱-辛克萊 層數低於15層，則使自身額外獲得2層派送箱-辛克萊 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加2級破裂 強度\n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標施加<style=\"highlight\">2</style>層破裂 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 若自身的物流箱-辛克萊 層數不低於15層，則對目標施加2層破裂 "
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 若自身的派送箱-辛克萊 層數不低於15層，則對目標施加<style=\"highlight\">2</style>層破裂 "
                 }
               ]
             }
@@ -1084,19 +1084,19 @@
         {
           "level": 3,
           "name": "波魯德尼察…拜託您了！",
-          "desc": "若自身的物流箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為使本技能最後一枚硬幣的威力+2\n[WhenUse] 若目標的破裂 強度不低於15級，則自身每帶有1層物流箱-辛克萊 ，使本技能最後一枚硬幣造成的傷害+3%(最多+90%)",
+          "desc": "若自身的派送箱-辛克萊 層數不低於10層或目標的破裂 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為使本技能最後一枚硬幣的威力+2\n[WhenUse] 若目標的破裂 強度不低於15級，則自身每帶有1層派送箱-辛克萊 ，使本技能最後一枚硬幣造成的傷害+3%(最多+90%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層 [Burst]\n- 自身每帶有10層 [DevyatDimensionalSackSinclair]，對目標額外施加1層 [Burst] (最多2層)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 \n- 自身每帶有10層派送箱-辛克萊 ，對目標額外施加1層破裂 (最多2層)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 自身每帶有10層物流箱-辛克萊 ，使目標額外增加1級破裂 強度(最多2級)"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 自身每帶有10層派送箱-辛克萊 ，使目標額外增加1級破裂 強度(最多2級)"
                 }
               ]
             },
@@ -1112,19 +1112,19 @@
         {
           "level": 4,
           "name": "波魯德尼察…拜託您了！",
-          "desc": "自身每帶有10層物流箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為使本技能最後一枚硬幣的威力+4\n[WhenUse] 若目標的破裂 強度不低於15級，則自身每帶有1層物流箱-辛克萊 ，使本技能最後一枚硬幣造成的傷害+4%(最多+120%)",
+          "desc": "自身每帶有10層派送箱-辛克萊 或目標每帶有6級破裂 強度，使本技能的硬幣威力+1(最多+2)\n[WhenUse] 若目標的破裂 強度不低於15級且破裂 層數不低於3層，則技能的命中時效果不會增加破裂 強度或施加破裂 層數，而改為使本技能最後一枚硬幣的威力+4\n[WhenUse] 若目標的破裂 強度不低於15級，則自身每帶有1層派送箱-辛克萊 ，使本技能最後一枚硬幣造成的傷害+4%(最多+120%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 \n- 自身每帶有10層物流箱-辛克萊 ，對目標額外施加1層破裂 (最多3層)"
+                  "desc": "[OnSucceedAttack] 對目標施加1層破裂 \n- 自身每帶有10層派送箱-辛克萊 ，對目標額外施加1層破裂 (最多<style=\"highlight\">3</style>層)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 自身每帶有8層物流箱-辛克萊 ，使目標額外增加1級破裂 強度(最多4級)"
+                  "desc": "[OnSucceedAttack] 使目標增加3級破裂 強度\n- 自身每帶有<style=\"highlight\">8</style>層派送箱-辛克萊 ，使目標額外增加1級破裂 強度(最多<style=\"highlight\">4</style>級)"
                 }
               ]
             },
@@ -1144,8 +1144,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "派送支援及危機控制程序",
-          "desc": "[StartBattle] 若自身的物流箱-辛克萊 不低於15層，則改為使用「稍、稍微維修一會兒…！」(每回合最多1次)\n[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的物流箱-辛克萊 層數/2)%的護盾(最多15%，每回合最多1次)",
+          "name": "派送支援及危機控制程式",
+          "desc": "[StartBattle] 若自身的派送箱-辛克萊 不低於15層，則改為使用「稍、稍微維修一會兒…！」(每回合最多1次)\n[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的派送箱-辛克萊 層數/2)%的護盾(最多15%，每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1158,8 +1158,8 @@
         },
         {
           "level": 4,
-          "name": "派送支援及危機控制程序",
-          "desc": "[StartBattle] 若自身的物流箱-辛克萊 不低於15層，則改為使用「稍、稍微維修一會兒…！」(每回合最多1次)\n[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的物流箱-辛克萊 層數)%的護盾(最多25%，每回合最多1次)",
+          "name": "派送支援及危機控制程式",
+          "desc": "[StartBattle] 若自身的派送箱-辛克萊 不低於15層，則改為使用「稍、稍微維修一會兒…！」(每回合最多1次)\n[StartBattle] 若使用的為本技能，則使自身獲得體力上限<style=\"highlight\">(自身的派送箱-辛克萊 層數)</style>%的護盾(最多<style=\"highlight\">25</style>%，每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
@@ -1178,7 +1178,7 @@
         {
           "level": 1,
           "name": "稍、稍微維修一會兒…！",
-          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的 [DevyatDimensionalSackSinclair] 層數/2)%的護盾(最多15%，每回合最多1次)\n[EndBattle] 啟動 [Retreat]",
+          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限(自身的派送箱-辛克萊 層數/2)%的護盾(最多15%，每回合最多1次)\n[EndBattle] 啟用戰略性休息福利模式 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1192,7 +1192,7 @@
         {
           "level": 4,
           "name": "稍、稍微維修一會兒…！",
-          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限<style=\"highlight\">(自身的 [DevyatDimensionalSackSinclair] 層數)</style>%的護盾(最多<style=\"highlight\">25</style>%，每回合最多1次)\n[EndBattle] 啟動 [Retreat]",
+          "desc": "[StartBattle] 若使用的為本技能，則使自身獲得體力上限<style=\"highlight\">(自身的派送箱-辛克萊 層數)</style>%的護盾(最多<style=\"highlight\">25</style>%，每回合最多1次)\n[EndBattle] 啟用戰略性休息福利模式 ",
           "coinlist": [
             {
               "coindescs": [
@@ -1232,19 +1232,19 @@
         {
           "level": 2,
           "name": "是你！",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[WhenUse] 使自身恢復5點理智值",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">3</style>\n[WhenUse] 使自身恢復5點理智值",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使目標增加1級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> 使目標增加1級流血 強度"
                 }
               ]
             }
@@ -1253,19 +1253,19 @@
         {
           "level": 4,
           "name": "是你！",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[WhenUse] 使自身恢復5點理智值\n- 若自身理智值為最大值，則改為使本技能的拚點威力+1",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">5</style>\n[WhenUse] 使自身恢復5點理智值\n<style=\"highlight\">- 若自身理智值為最大值，則改為使本技能的拼點威力+1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1301,20 +1301,20 @@
         {
           "level": 2,
           "name": "加倍奉還吧",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +3\n[StartBattle] 使本技能增加(最大共鳴數/2)級攻擊等級(最多3級，向下取整)",
+          "desc": "<style=\"highlight\">若目標的流血 強度不低於6級，則使本技能的硬幣威力+1</style>\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">3</style>\n[StartBattle] 使本技能增加(最大共鳴數/<style=\"highlight\">2</style>)級攻擊等級(最多<style=\"highlight\">3</style>級，向下取整)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若包括本技能在內共鳴數不低於4，則使本硬幣造成的傷害+15%"
+                  "desc": "若包括本技能在內共鳴數不低於4，則使本硬幣造成的傷害<style=\"highlight\">+15%</style>"
                 }
               ]
             }
@@ -1323,20 +1323,20 @@
         {
           "level": 4,
           "name": "加倍奉還吧",
-          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +5\n[StartBattle] 使本技能增加(最大共鳴數/2)級攻擊等級(最多3級，向下取整)\n- 若該共鳴包括完全共鳴，則使以上效果增加的攻擊等級變為2倍",
+          "desc": "若目標的流血 強度不低於6級，則使本技能的硬幣威力+1\n[WhenUse] 下回合使本技能對應行動槽的挑釁值 +<style=\"highlight\">5</style>\n[StartBattle] 使本技能增加(最大共鳴數/2)級攻擊等級(最多3級，向下取整)\n<style=\"highlight\">- 若該共鳴包括完全共鳴，則使以上效果增加的攻擊等級變為2倍</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加2級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "若包括本技能在內共鳴數不低於3，則使本硬幣造成的傷害+20%"
+                  "desc": "若包括本技能在內共鳴數不低於<style=\"highlight\">3</style>，則使本硬幣造成的傷害<style=\"highlight\">+20%</style>"
                 }
               ]
             }
@@ -1375,23 +1375,23 @@
         {
           "level": 4,
           "name": "銘刻於心",
-          "desc": "自身每帶有1層[VengeanceBookSinclair]，使本技能造成的傷害+1%(最多+30%)\n目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)\n[StartBattle] 使本技能增加(最大共鳴數/2)級攻擊等級(最多3級，向下取整)\n- 若該共鳴包括完全共鳴，則使以上效果增加的攻擊等級變為2倍 ",
+          "desc": "自身每帶有<style=\"highlight\">1</style>層[VengeanceBookSinclair]，使本技能造成的傷害+1%(最多+<style=\"highlight\">30%</style>)\n<style=\"highlight\">目標每帶有6級流血 強度，使本技能的硬幣威力+1(最多+2)</style>\n[StartBattle] 使本技能增加(最大共鳴數/2)級攻擊等級(最多3級，向下取整)\n<style=\"highlight\">- 若該共鳴包括完全共鳴，則使以上效果增加的攻擊等級變為2倍 </style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加4級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加<style=\"highlight\">4</style>級流血 強度"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "包括本技能在內共鳴數每有1點，使本硬幣造成的傷害+5%(最多+30%)"
+                  "desc": "包括本技能在內共鳴數每有1點，使本硬幣造成的傷害<style=\"highlight\">+5%</style>(最多+<style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "自身每帶有10層[VengeanceBookSinclair]，使本硬幣造成的傷害+15%(最多+45%)"
+                  "desc": "自身每帶有10層[VengeanceBookSinclair]，使本硬幣造成的傷害<style=\"highlight\">+15%</style>(最多+<style=\"highlight\">45%</style>)"
                 }
               ]
             }
@@ -1426,19 +1426,19 @@
         {
           "level": 4,
           "name": "在東部大鬧一場吧",
-          "desc": "[StartBattle] 根據總計嫉妒共鳴數相應改變本技能效果\n- 總計不低於4時，反擊時改為使用「加倍奉還吧」進行反擊\n- 總計不低於6時，反擊時改為使用「銘刻於心」進行反擊\n(位於儀錶盤左側的技能優先觸發，每回合最多觸發2次)\n[StartBattle] 使自身獲得已失去體力30%的護盾(每回合最多1次)",
+          "desc": "<style=\"highlight\">[StartBattle] 根據總計嫉妒完全共鳴數相應改變本技能效果\n- 總計不低於4時，反擊時改為使用「加倍奉還吧」進行反擊\n- 總計不低於6時，反擊時改為使用「銘刻於心」進行反擊\n(位於儀表盤左側的技能優先觸發，每回合最多觸發2次)</style>\n[StartBattle] 使自身獲得已失去體力<style=\"highlight\">30%</style>的護盾(每回合最多1次)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度"
+                  "desc": "[OnSucceedAttack] 使目標增加1級流血 強度<style=\"highlight\"></style>"
                 }
               ]
             }

@@ -30,11 +30,11 @@
     },
     {
       "id": "umida_scrap_guide_desc",
-      "content": "通過通關活動關卡、主線關卡或迷宮\n有小機率獲得<color=#f8c200>[含有稀有馬蹄鐵的巴士改造廢料]</color>。\n\n<color=#f8c200>[含有稀有馬蹄鐵的巴士改造廢料]</color>可以轉換為20個<color=#f8c200>[巴士改裝廢料]。</color>"
+      "content": "通過清剿活動關卡、主線關卡或迷宮\n有小概率獲得<color=#f8c200>[含有稀有馬蹄鐵的巴士改造廢料]</color>。\n\n<color=#f8c200>[含有稀有馬蹄鐵的巴士改造廢料]</color>可以轉換為20個<color=#f8c200>[巴士改裝廢料]。</color>"
     },
     {
       "id": "umida_rewardpage_desc",
-      "content": "您可以通過通關活動關卡、主線關卡或迷宮來獲得<color=#f8c200>[巴士改造廢料]</color>。\n\n您可以在<color=#f8c200>[廢料回收箱]</color>根據所持有的<color=#f8c200>[巴士改造廢料]</color>數量兌換多樣化獎勵。"
+      "content": "您可以通過清剿活動關卡、主線關卡或迷宮來獲得<color=#f8c200>[巴士改造廢料]</color>。\n\n您可以在<color=#f8c200>[廢料回收箱]</color>根據所持有的<color=#f8c200>[巴士改造廢料]</color>數量兌換多樣化獎勵。"
     },
     {
       "id": "umida_scrap_counter_label",

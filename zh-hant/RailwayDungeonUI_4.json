@@ -26,11 +26,11 @@
     },
     {
       "id": "railway_dungeon_lose_battle_exit_title",
-      "content": "前往關卡入場介面。"
+      "content": "前往關卡入場界面。"
     },
     {
       "id": "railway_dungeon_lose_battle_exit_content",
-      "content": "前往關卡入場介面。\n您可在此重新設定編隊順序。"
+      "content": "前往關卡入場界面。\n您可在此重新設定編隊順序。"
     },
     {
       "id": "railway_dungeon_lose_battle_retry_title",
@@ -38,7 +38,7 @@
     },
     {
       "id": "railway_dungeon_lose_battle_retry_content",
-      "content": "從第一波次開始重新挑戰關卡。\n繼續保持編隊介面中的編隊順序。"
+      "content": "從第一波次開始重新挑戰關卡。\n繼續保持編隊界面中的編隊順序。"
     },
     {
       "id": "railway_dungeon_lose_battle_give_up_title",

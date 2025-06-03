@@ -2,76 +2,76 @@
   "dataList": [
     {
       "id": 90205,
-      "name": "Impaled Failure",
-      "desc": "Unit"
+      "name": "被穿刺的失敗品",
+      "desc": "雜兵"
     },
     {
       "id": 90206,
-      "name": "Blooming Failure",
-      "desc": "Unit"
+      "name": "盛開的失敗品",
+      "desc": "雜兵"
     },
     {
       "id": 90207,
-      "name": "Entangled Failure",
-      "desc": "Unit"
+      "name": "糾纏的失敗品",
+      "desc": "雜兵"
     },
     {
       "id": 90208,
-      "name": "Wicked Deathrite Monk",
-      "desc": "Unit"
+      "name": "邪咒殺僧",
+      "desc": "雜兵"
     },
     {
       "id": 90209,
-      "name": "Evil-possessed Deathrite Monk",
-      "desc": "Unit"
+      "name": "飽含邪氣的咒殺僧",
+      "desc": "雜兵"
     },
     {
       "id": 1137,
-      "name": "Jia Qiu"
+      "name": "賈丘"
     },
     {
       "id": 1133,
-      "name": "Zilu"
+      "name": "子路"
     },
     {
       "id": 1141,
-      "name": "Jia Qiu"
+      "name": "賈丘"
     },
     {
       "id": 1157,
-      "name": "Xue Pan"
+      "name": "薛蟠"
     },
     {
       "id": 1158,
-      "name": "Shi Yihua"
+      "name": "史宜化"
     },
     {
       "id": 90210,
-      "name": "Swift Shi Family Mercenary"
+      "name": "靈敏的史傢俬兵"
     },
     {
       "id": 90211,
-      "name": "Veteran Shi Family Mercenary"
+      "name": "幹練的史傢俬兵"
     },
     {
       "id": 90212,
-      "name": "Heavy Shi Family Mercenary"
+      "name": "穩重的史傢俬兵"
     },
     {
       "id": 1159,
-      "name": "Wang Qingshan"
+      "name": "王青山"
     },
     {
       "id": 115901,
-      "name": "Body"
+      "name": "軀幹"
     },
     {
       "id": 1167,
-      "name": "Shi Hua... something?"
+      "name": "史華？"
     },
     {
       "id": 1160,
-      "name": "Shi Sijing"
+      "name": "史思敬"
     }
   ]
 }
