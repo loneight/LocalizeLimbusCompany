@@ -26,7 +26,7 @@
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
-      "description": "進入映象迷宮時，<color=#ff6000>人格等級</color> +{0}"
+      "description": "進入映像迷宮時，<color=#ff6000>人格等級</color> +{0}"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
@@ -50,7 +50,7 @@
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "進入映象迷宮時，隨機獲得<color=#ff6000>{0}件所選關鍵詞對應的3級飾品</color>"
+      "description": "進入映像迷宮時，隨機獲得<color=#ff6000>{0}件所選關鍵詞對應的3級飾品</color>"
     },
     {
       "id": "REVIVE_ONCE_PER_FLOOR",

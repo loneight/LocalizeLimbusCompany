@@ -14,19 +14,19 @@
     },
     {
       "id": "mission_ui_condition_tags_103004001",
-      "content": "通過{0}個映象迷宮的戰鬥關卡節點"
+      "content": "通過{0}個映像迷宮的戰鬥關卡節點"
     },
     {
       "id": "mission_ui_condition_tags_103004002",
-      "content": "抵達第{0}階層後通過普通或其以上難度的映象迷宮"
+      "content": "抵達第{0}階層後通過普通或其以上難度的映像迷宮"
     },
     {
       "id": "mission_ui_condition_tags_103004003",
-      "content": "抵達第{0}階層後通過普通或其以上難度的映象迷宮"
+      "content": "抵達第{0}階層後通過普通或其以上難度的映像迷宮"
     },
     {
       "id": "mission_ui_condition_tags_103004004",
-      "content": "通過{0}次普通或其以上難度的映象迷宮\n（必須通過最終階層的頭目戰鬥）"
+      "content": "通過{0}次普通或其以上難度的映像迷宮\n（必須通過最終階層的頭目戰鬥）"
     },
     {
       "id": "mission_ui_condition_tags_103005001",
@@ -66,7 +66,7 @@
     },
     {
       "id": "mission_condition_ui_group_6",
-      "content": "映象迷宮"
+      "content": "映像迷宮"
     },
     {
       "id": "mission_condition_ui_group_8",
