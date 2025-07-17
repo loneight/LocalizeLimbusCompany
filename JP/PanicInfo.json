@@ -70,7 +70,7 @@
       "id": 1012,
       "panicName": "哀しみ",
       "lowMoraleDescription": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1",
-      "panicDescription": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に3度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3"
+      "panicDescription": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3"
     },
     {
       "id": 9999,
@@ -107,6 +107,12 @@
       "panicName": "破綻",
       "lowMoraleDescription": "毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1",
       "panicDescription": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2"
+    },
+    {
+      "id": 9994,
+      "panicName": "愛と憎悪",
+      "lowMoraleDescription": "",
+      "panicDescription": "1ターンの間行動しない"
     }
   ]
 }

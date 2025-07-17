@@ -836,7 +836,7 @@
     {
       "id": "Resonate",
       "name": "Resonant",
-      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3% fixed damage per Count and further raise stagger threshold by 3% per Count",
+      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3 fixed damage per Count and further raise stagger threshold by 3% per Count",
       "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
     },
     {
@@ -2054,6 +2054,90 @@
       "name": "Battlefield Retreat",
       "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
       "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FireBulletPropellant",
+      "name": "Scorch Propellant Ammo",
+      "desc": "- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SingBulletSupport",
+      "name": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantAlly",
+      "name": "Tigermark Round",
+      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Max Capacity: 12",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantSpecialAlly",
+      "name": "Savage Tigermark Round",
+      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Actives the same way as Tigermark Round does\n- Max Capacity: 8",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IrritationAlly",
+      "name": "Unrelenting Spirit [剛氣]",
+      "desc": "- Min & Max Speed +1\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 2.5)% damage (max 20%)\n- Inflict +1 more Tremor Potency and Tremor Count with this unit's Skills\n- If this unit has spent 8+ (sum of Tigermark Round and Savage Tigermark Round): at Turn End, convert this buff to Unrelenting Spirit - Shin [剛氣-心] next turn\n- Max Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HugeIrritationAlly",
+      "name": "Unrelenting Spirit - Shin [剛氣-心]",
+      "desc": "- Min & Max Speed +3\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 40%)\n- Inflict +2 more Tremor Potency and Tremor Count with this unit's Skills\n- Max Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeastEyesAlly",
+      "name": "Overheat",
+      "desc": "- Loses this effect when this unit gains Savage Tigermark Round\n- Min & Max Speed +2\n- Base Attack Skills Lose (cumulative number of Tigermark & Savage Tigermark Rounds spent / 2) Clash Power (max 10); however, gain the following effects(cumulative):\n· 8+ Rounds spent: Gain 1 Protection for every 10% missing HP on self at Turn Start (max 5)\n· 14+ Rounds spent: On Clash Lose, Unbreakable Coins of this unit's Base Attack Skills deal +(75 + missing HP percentage on self)% damage (max 150%)\n· 20+ Rounds Spent: Deal +(HP percentage difference)% damage against targets with higher remaining HP percentage than this unit (max 50%; except E.G.O Skills)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseThorn",
+      "name": "Gluttonous Thorn (貪食棘)",
+      "desc": "Max Stack: 9\n\nTurn End: gain Bleed Count equal to Lust Reson., then lose 1 Gluttonous Thorn (貪食棘). (max Bleed Count gain: 5)\n\nWhile this unit has this effect, if it gains Bleed Potency beyond 99, increase Bloodfeast equal to the excess Bleed Potency; then, gain Defense Level Down next turn equal to Bloodfeast increased (max Defense Level Down gain: 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoSuperCharge",
+      "name": "Near-light Superbattery",
+      "desc": "- Max Stack: 100\n- When consuming Charge Count, add the amount consumed to this buff's Stack\n- Max Charge Count Cap +10\n- Gain 1 Charge Count when allies gain Charge Potency or Count\n- When this unit consumes Charge Count with its Skills, consume the same amount of Charge Count 1 more time (when there isn't enough Charge Count, consume as much as available)\n- Deal +10% damage for every 10 Stack\n- Enemies gain +0.1 Resistance against this unit's attacks for every 20 Stack (max +0.5 Resist; does not activate against Staggered enemies)\n- When the Identity with this effect dies, the buff transfers to the ally who is second earliest to this unit in the Deployment order. The Stack carries over as well.\n- This effect works on 'Unique Charge' as well.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ShareCharge",
+      "name": "Self Resonance Circuitry",
+      "desc": "Total sum of Charge Count currently owned by all allies\n\nOn Hit with a Skill: deal +(sum of charge count on all allies / 3)% damage\nAll allies gain 1 Offense Level Up for every 100 cumulative Charge Count consumed by allies",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WaveSinking",
+      "name": "Reflux",
+      "desc": "- Max Stack: 3\nWhen hit, gain Sinking Potency equal to Stack\n\nTurn End: if this unit has -30 or less SP, activate the following effects (for units without SP, activates at 60+ Sinking Potency)\n- Take (Sinking Potency on self x Stack) Gloom damage\n- Inflict 1 Reflux against 2 other targets with the least SP (for Abnormalities, Parts); then, deal (Sinking Potency x Stack) Gloom damage to both targets, respectively\nIf the unit with Reflux dies, transfer its Reflux Stack to its ally with the highest Reflux stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletPersonality",
+      "name": "Fell Bullet",
+      "desc": "Max Stack: 1\n+3% damage on Critical Hit for every Torn Memory (max 18%)\nOn Hit, inflict 1 Bleed (3 per turn)\nOn Kill, gain 3 Poise and +2 Poise Count (2 times per turn)\nExpires at Turn End",
+      "summary": "Deal more Crit damage, inflict more Bleed",
       "undefined": "-"
     }
   ]

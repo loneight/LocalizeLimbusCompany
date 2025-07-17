@@ -933,7 +933,7 @@
         {
           "level": 1,
           "name": "天罡星 - 格",
-          "desc": "ホンルを優先して攻撃\n対象の[Teaching]2につき、コイン威力 -1\n[DefeatDuel] この攻撃で混乱状態にならない。この戦闘の間、[DefenseDown]24を得る\n[DefeatDuel] ダメージ量が50%だけ減少する",
+          "desc": "ホンルを優先して攻撃\n対象の[Teaching]1につき、コイン威力 -2\n[DefeatDuel] この攻撃で混乱状態にならない。この戦闘の間、[DefenseDown]24を得る\n[DefeatDuel] ダメージ量が50%だけ減少する",
           "coinlist": [
             {
               "coindescs": [
@@ -1419,7 +1419,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] 対象の([MadFeather]数値 × 10)だけ[Burst]を付与し、対象の[MadFeather]が全て消滅"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] 対象の([MadFeather]の数値 × 10)だけ[Burst]を付与し、対象の[MadFeather]が全て消滅"
                 }
               ]
             },
@@ -1651,7 +1651,7 @@
         {
           "level": 1,
           "name": "充拳流 - ぶち壊す",
-          "desc": "[WhenUse] 対象のを[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
+          "desc": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない",
           "coinlist": [
             {
               "coindescs": [
